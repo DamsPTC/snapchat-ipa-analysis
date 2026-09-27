@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "capture_opened": false,
+  "user_reported_code": "SS03",
+  "ss03_runtime_trace_available": false,
+  "archives": {
+    "source": {
+      "main_sha256": "654c849de8b85ecf1b6d8bc6219d60eefe5ec321ce64ddeee5342d9e6e88e432",
+      "main_encryption": [
+        {
+          "cryptoff": 59633664,
+          "cryptsize": 4096,
+          "cryptid": 0
+        }
+      ],
+      "native_region_hashes": {
+        "password_send": "d6f0f9a7c5db1c0c90d2287c236fd6200c6f64b1748941f57ded2a3edbb79e75",
+        "password_response": "d15f2c733e87ab6c4a6536dd556d702345e8e53b2111345a2fdb140e0444dab6",
+        "devicecheck": "015e232ad05ecc3c739f0d6a80c5dc1715be910dacf2c76b4750b286f1ce2db1",
+        "keychain_query": "aaef8bff8d08def0a209764084397d14fa49f3835e2ce00dfeadabdd34f933fa"
+      },
+      "literal_SS03_count": 0
+    },
+    "old_keep_core": {
+      "main_sha256": "d3de5264ddb7f8043eb8fc7c5ede5d62bd30663f418bd4f6d5f3c17f77b1ee3c",
+      "main_encryption": [
+        {
+          "cryptoff": 59633664,
+          "cryptsize": 4096,
+          "cryptid": 0
+        }
+      ],
+      "native_region_hashes": {
+        "password_send": "d6f0f9a7c5db1c0c90d2287c236fd6200c6f64b1748941f57ded2a3edbb79e75",
+        "password_response": "d15f2c733e87ab6c4a6536dd556d702345e8e53b2111345a2fdb140e0444dab6",
+        "devicecheck": "015e232ad05ecc3c739f0d6a80c5dc1715be910dacf2c76b4750b286f1ce2db1",
+        "keychain_query": "aaef8bff8d08def0a209764084397d14fa49f3835e2ce00dfeadabdd34f933fa"
+      },
+      "literal_SS03_count": 0
+    },
+    "native": {
+      "main_sha256": "aaed5609d43bbccbede0eb27646a0215959deb5fc2b258f4e714a6efd1b97b50",
+      "main_encryption": [
+        {
+          "cryptoff": 59633664,
+          "cryptsize": 4096,
+          "cryptid": 0
+        }
+      ],
+      "native_region_hashes": {
+        "password_send": "d6f0f9a7c5db1c0c90d2287c236fd6200c6f64b1748941f57ded2a3edbb79e75",
+        "password_response": "d15f2c733e87ab6c4a6536dd556d702345e8e53b2111345a2fdb140e0444dab6",
+        "devicecheck": "015e232ad05ecc3c739f0d6a80c5dc1715be910dacf2c76b4750b286f1ce2db1",
+        "keychain_query": "aaef8bff8d08def0a209764084397d14fa49f3835e2ce00dfeadabdd34f933fa"
+      },
+      "literal_SS03_count": 0
+    },
+    "metadata_control": {
+      "main_sha256": "aaed5609d43bbccbede0eb27646a0215959deb5fc2b258f4e714a6efd1b97b50",
+      "main_encryption": [
+        {
+          "cryptoff": 59633664,
+          "cryptsize": 4096,
+          "cryptid": 0
+        }
+      ],
+      "native_region_hashes": {
+        "password_send": "d6f0f9a7c5db1c0c90d2287c236fd6200c6f64b1748941f57ded2a3edbb79e75",
+        "password_response": "d15f2c733e87ab6c4a6536dd556d702345e8e53b2111345a2fdb140e0444dab6",
+        "devicecheck": "015e232ad05ecc3c739f0d6a80c5dc1715be910dacf2c76b4750b286f1ce2db1",
+        "keychain_query": "aaef8bff8d08def0a209764084397d14fa49f3835e2ce00dfeadabdd34f933fa"
+      },
+      "literal_SS03_count": 0
+    }
+  },
+  "new_ipa_created": false,
+  "login_fix_confirmed": false,
+  "retained_extensions": [
+    {
+      "name": "ScreenCaptureExtension",
+      "encryption": [
+        {
+          "cryptoff": 69632,
+          "cryptsize": 4096,
+          "cryptid": 1
+        }
+      ]
+    },
+    {
+      "name": "SnapchatHomeScreenWidget",
+      "encryption": [
+        {
+          "cryptoff": 286720,
+          "cryptsize": 4096,
+          "cryptid": 1
+        }
+      ]
+    },
+    {
+      "name": "SnapchatIntentsExtension",
+      "encryption": [
+        {
+          "cryptoff": 421888,
+          "cryptsize": 4096,
+          "cryptid": 1
+        }
+      ]
+    },
+    {
+      "name": "SnapchatLocationPushExtension",
+      "encryption": [
+        {
+          "cryptoff": 28672,
+          "cryptsize": 4096,
+          "cryptid": 1
+        }
+      ]
+    },
+    {
+      "name": "SnapchatNotificationServiceExt",
+      "encryption": [
+        {
+          "cryptoff": 253952,
+          "cryptsize": 4096,
+          "cryptid": 1
+        }
+      ]
+    },
+    {
+      "name": "SnapchatShareExt",
+      "encryption": [
+        {
+          "cryptoff": 389120,
+          "cryptsize": 4096,
+          "cryptid": 1
+        }
+      ]
+    }
+  ],
+  "all_four_native_regions_identical_in_all_four_archives": true
+}

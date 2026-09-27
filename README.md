@@ -14,6 +14,14 @@ fichiers examinés. Elles sont nécessaires pour travailler sur ce parcours.
 Voir [la vérification de l'archive complète](analysis/full-ipa-scope-restoration.md).
 Le refus de connexion et le crash AutoFill de cette base restent ouverts.
 
+**SS03 signalé et chiffrement revérifié :** le binaire principal est déjà
+marqué non chiffré (`cryptid=0`). Quatre régions natives du login sont identiques
+dans les quatre archives disponibles ; cela ne neutralise pas les différences
+de comportement dues aux interceptions runtime de l'ancien SCRT. La capture
+jointe a été ignorée à la demande de l'utilisateur. Voir
+[le résultat de cette revue](analysis/login-ss03-encryption-review.md).
+Aucun correctif du login n'est confirmé par ces vérifications.
+
 La cible `tools/offline_sandbox/` et sa release sont conservées comme expérience
 annexe ; elles ne sont plus le livrable de la demande en cours. Leur publication
 automatique est désactivée. Les [résultats du laboratoire](analysis/offline-sandbox-result.json)
