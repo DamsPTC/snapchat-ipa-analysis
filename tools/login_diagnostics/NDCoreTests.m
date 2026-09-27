@@ -112,6 +112,7 @@ int main(void) {
             tempIdentity:identity submitRequestTime:1.0 success:nil failure:handler];
         CHECK(calls == 7 && callbacks == 6);
         CHECK([[NDSnapshot()[@"events"] lastObject][@"event"] isEqual:@"observation_unavailable"]);
+        CHECK(NDSnapshot()[@"last_login_response"] == nil);
         throwFromOriginal = YES;
         BOOL propagated = NO;
         @try {
@@ -135,6 +136,9 @@ int main(void) {
         CHECK(text && [text rangeOfString:@"super-secret"].location == NSNotFound);
         for (int i = 0; i < 100; ++i) [SCKeychainManager dataForKey:credential status:&status];
         CHECK([NDSnapshot()[@"events"] count] == 80);
+        CHECK(NDSnapshot()[@"last_login_response"] != nil);
+        [sender loginWithPasswordWithRequest:nil callOptionsBuilder:nil handler:nil];
+        CHECK(NDSnapshot()[@"last_login_response"] == nil);
         puts("PASS: seven native methods observed; arguments, returns, callbacks, nil, double ABI, exceptions, privacy and event bound verified.");
     }
     return 0;

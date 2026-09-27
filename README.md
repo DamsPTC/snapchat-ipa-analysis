@@ -1,5 +1,13 @@
 # Snapchat — analyse et base sans injections
 
+**Diagnostic runtime local :** une variante séparée ajoute un bouton
+**Diagnostic** et un export de codes d'erreur pour l'essai après signature par
+l'utilisateur. Elle conserve le login natif et ne réintroduit pas de spoof.
+Voir [le mode d'emploi et les limites](analysis/login-runtime-diagnostic-release.md)
+et la [release dédiée](https://github.com/DamsPTC/snapchat-ipa-analysis/releases/tag/v12.81.0-runtime-diagnostic)
+une fois les contrôles de publication terminés. Ce diagnostic ne constitue pas
+encore un correctif du refus de connexion ou du crash AutoFill.
+
 **Livrable actuel : une base sans les injections identifiées, spoof compris.**
 **Régression signalée après signature et essai sur iPhone : crash dans le
 parcours de connexion. Cette base n’est pas validée fonctionnellement.**

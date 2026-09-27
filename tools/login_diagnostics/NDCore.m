@@ -37,6 +37,7 @@ static void record(NSString *kind, NSDictionary *fields) {
             event[@"event"] = kind;
             event[@"sequence"] = @(++sequence);
             [events addObject:[event copy]];
+            if ([kind isEqual:@"login_dispatch"] || [kind isEqual:@"observation_unavailable"]) lastResponse = nil;
             if ([kind isEqual:@"login_response"]) lastResponse = [event copy];
             if ([kind isEqual:@"keychain_status"] && [fields[@"status"] intValue] != 0 &&
                 [fields[@"status"] intValue] != -25300) lastKeychainError = fields[@"status"];

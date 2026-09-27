@@ -20,6 +20,7 @@ DEPENDENCY = f'@executable_path/Frameworks/{FRAMEWORK}/{EXECUTABLE}'
 ALLOWED_IMPORTS = {
     '/System/Library/Frameworks/Foundation.framework/Foundation',
     '/System/Library/Frameworks/UIKit.framework/UIKit',
+    '/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation',
     '/usr/lib/libobjc.A.dylib', '/usr/lib/libSystem.B.dylib',
 }
 
