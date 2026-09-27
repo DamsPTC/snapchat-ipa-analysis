@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "id": "spoof-consistency-v2-iphone12mini",
+  "id": "spoof-consistency-v3-keychain-integrity",
   "upstream_commit": "e005928d969b6bfb59b1caafca2f7ba50a2519e6",
   "path": "Payload/Snapchat.app/Frameworks/SCRT.framework/SCRT",
   "bytes": 1297664,
   "before_sha256": "15e8fedb591d0c154944af49bb5c87c48e31373d52ad3e9f13f5458f21574c4b",
-  "after_sha256": "7756e3648654bd7377c322f7490461fcdfdf2b3f4a00ade269bb26d310d9aea9",
+  "after_sha256": "3b563f265bee10abce6791d4993583a336a1625fc8cdb0cecda9ba7921b52866",
   "patches": [
     {
       "id": "validate-persisted-uuid",
@@ -90,6 +90,55 @@
       "offset": 765832,
       "before": "3000000000000000",
       "after": "2f00000000000000"
+    },
+    {
+      "id": "preserve-keychain-add-arguments",
+      "offset": 133312,
+      "before": "ff4306d1fc6f17a9fd7b18a9",
+      "after": "700500b010fe43f900021fd6",
+      "assembly": "adrp x16, 0xcd000\nldr x16, [x16, #0x7f8]\nbr x16"
+    },
+    {
+      "id": "preserve-keychain-copy-arguments",
+      "offset": 134004,
+      "before": "ff4306d1fc6f17a9fd7b18a9",
+      "after": "700500b0100244f900021fd6",
+      "assembly": "adrp x16, 0xcd000\nldr x16, [x16, #0x800]\nbr x16"
+    },
+    {
+      "id": "preserve-keychain-update-arguments",
+      "offset": 134696,
+      "before": "ff8306d1fc6f18a9fd7b19a9",
+      "after": "700500b0100644f900021fd6",
+      "assembly": "adrp x16, 0xcd000\nldr x16, [x16, #0x808]\nbr x16"
+    },
+    {
+      "id": "disable-residual-log-flush",
+      "offset": 322756,
+      "before": "fd7bbfa9",
+      "after": "c0035fd6",
+      "assembly": "ret"
+    },
+    {
+      "id": "disable-residual-log-queue-upload",
+      "offset": 322868,
+      "before": "fc6fbea9",
+      "after": "c0035fd6",
+      "assembly": "ret"
+    },
+    {
+      "id": "disable-residual-log-network-upload",
+      "offset": 326252,
+      "before": "c0035fd6fc6f1ba9",
+      "after": "00008052c0035fd6",
+      "assembly": "mov w0, #0\nret"
+    },
+    {
+      "id": "skip-automatic-login-cleanup",
+      "offset": 269408,
+      "before": "00010037",
+      "after": "60010037",
+      "assembly": "tbnz w0, #0, 0x41c8c"
     }
   ],
   "activation_guards": [
@@ -102,6 +151,11 @@
       "name": "logging-remains-disabled",
       "offset": 321888,
       "bytes": "c0035fd6"
+    },
+    {
+      "name": "logging-initializer-remains-disabled",
+      "offset": 320472,
+      "bytes": "c0035fd6"
     }
   ],
   "intermediate_revisions": [
@@ -112,6 +166,25 @@
         "defer-wipes-until-verification",
         "wipe-after-successful-verification",
         "consistent-user-agent-device"
+      ]
+    },
+    {
+      "sha256": "7756e3648654bd7377c322f7490461fcdfdf2b3f4a00ade269bb26d310d9aea9",
+      "patch_ids": [
+        "validate-persisted-uuid",
+        "defer-wipes-until-verification",
+        "wipe-after-successful-verification",
+        "consistent-user-agent-device",
+        "fixture-udid-text",
+        "fixture-udid-length",
+        "fixture-serial-text",
+        "fixture-product-type-text",
+        "fixture-first-build-text",
+        "fixture-first-build-length",
+        "fixture-second-build-text",
+        "fixture-second-build-length",
+        "fixture-user-agent-text",
+        "fixture-user-agent-length"
       ]
     }
   ],

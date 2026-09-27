@@ -39,23 +39,27 @@ dans `_kDynamicUUID`. La clé, le format et le comportement de persistance exist
 sont conservés. La fonction conserve son allocation de pile, son frame pointer,
 les registres sauvegardés et ses limites de section.
 
-### 2. Effacements avant vérification
+### 2. Effacements automatiques du hook de connexion
 
 Le hook effaçait les éléments ciblés du trousseau et des fichiers locaux avant
 d’appeler la vérification synchrone propre au composant. Même un refus de ce
 composant intervenait donc après les effacements.
 
-Les deux appels ont été déplacés sur la branche de réussite de ce contrôle.
-La branche de refus ne les exécute plus. Sur la branche de réussite, l’ordre
-devient : vérification du composant → effacements → traitement DeviceCheck
-existant → appel du login original, avec les mêmes arguments.
+La première correction déplaçait ces appels sur la branche de réussite du
+contrôle du composant. La révision v3 les retire aussi de cette branche :
+vérification du composant → traitement DeviceCheck existant → appel du login
+original, avec les mêmes arguments. La branche de refus n’efface rien non plus.
+Le saut de réussite rejoint directement `0x41c8c` ; les anciens appels de
+nettoyage à `0x41c80` ne sont plus atteints par ce parcours.
 
-**Limite : ce contrôle n’est pas l’authentification Snapchat.** Les effacements
-restent possibles avant une erreur ultérieure du serveur ou du mot de passe.
+Cette suppression accompagne la restauration des paramètres du trousseau,
+qui modifierait autrement le service interrogé par le nettoyage automatique.
+**Le contrôle du composant n’est pas l’authentification Snapchat.**
 Le retour anticipé sans callback en cas de refus du composant reste également
 inchangé : sa correction demanderait de connaître le contrat exact du handler.
 Les routines d’effacement elles-mêmes, le contrôle `verifySync` et le traitement
-DeviceCheck ne sont pas réécrits.
+DeviceCheck ne sont pas réécrits. Ce correctif ne prétend pas désactiver toutes
+les opérations de suppression possibles ailleurs dans l’application.
 
 ### 3. Deux modèles dans les User-Agent dormants
 
@@ -101,12 +105,37 @@ Cette seconde révision change uniquement les textes et, lorsque nécessaire,
 les longueurs des CFString. Elle ajoute 78 octets différents à la première
 correction, sans changer les instructions ni les pointeurs de rebasing.
 
+### 5. Intégrité des requêtes du trousseau
+
+Les trois hooks Security remplaçaient le service demandé par
+`com.apple.shield.identity.v3`, sauf pour une liste d’exceptions. Deux services
+indépendants pouvaient donc être fusionnés. Add/Copy retiraient aussi le groupe
+d’accès et la synchronisation ; Update retirait le groupe des attributs.
+
+Leurs entrées transmettent désormais les arguments intacts à l’API originale
+enregistrée par le mécanisme d’interception. Les pointeurs de résultat et les
+codes de retour sont conservés. Le système redevient responsable des permissions
+du trousseau. Les anciens éléments restent dans leur ancien service : aucune
+migration ni suppression n’est effectuée, et une reconnexion peut être nécessaire.
+
+### 6. Envoi résiduel des logs
+
+Le logger `_fwlog` et `_snap0x_init_logging` étaient déjà désactivés par `RET` ;
+l’URL du transport de logs est vide dans cette archive. Cela ne prouve pas une
+exfiltration active. En complément, flush et traitement de la file retournent
+immédiatement, et le transport direct renvoie `false` sans collecte ni réseau.
+Cette fermeture ne concerne que le sous-système de logs snap0x étudié.
+
+Le détail des preuves et des affirmations non confirmées figure dans
+[gestalt-identity-boundaries.md](gestalt-identity-boundaries.md).
+
 ## Reproductibilité et validation
 
 - Entrée SHA-256 : `15e8fedb591d0c154944af49bb5c87c48e31373d52ad3e9f13f5458f21574c4b`.
 - Révision intermédiaire acceptée : `1ad324fb72ad3fb4c260b9187cb6bf8c55fb042ef83dbc58b3f229c88555e059`.
-- Sortie SHA-256 : `7756e3648654bd7377c322f7490461fcdfdf2b3f4a00ade269bb26d310d9aea9`.
-- Taille inchangée ; 417 octets différents, dans quatorze régions déclarées.
+- Révision iPhone 12 mini acceptée : `7756e3648654bd7377c322f7490461fcdfdf2b3f4a00ade269bb26d310d9aea9`.
+- Sortie SHA-256 : `3b563f265bee10abce6791d4993583a336a1625fc8cdb0cecda9ba7921b52866`.
+- Taille inchangée ; 470 octets différents, dans vingt et une régions déclarées.
 - `tools/spoof_fix/patches.json` contient les octets exacts avant/après et les
   gardes maintenant désactivés les initialisateurs concernés.
 - `tools/spoof_fix/initialize_identity.s` rend la nouvelle routine lisible et
@@ -116,7 +145,7 @@ correction, sans changer les instructions ni les pointeurs de rebasing.
 - Les champs `source_*` de l’inventaire décrivent toujours l’IPA source ; le
   champ `derived_revision` identifie la modification des fichiers extraits.
 
-La suite de 14 tests exécute les instructions ARM64 d’origine et corrigées dans
+La suite de 21 tests exécute les instructions ARM64 d’origine et corrigées dans
 Unicorn avec un modèle explicite des appels Foundation/runtime et inspecte les
 constantes du profil. Les tests reproduisent
 l’UUID invalide, les effacements avant refus et le mauvais User-Agent dans
@@ -126,6 +155,10 @@ ses arguments, le profil du User-Agent, les plages de modification et le
 réassemblage du correctif. Les contrôles du profil vérifient les deux entrées
 statiques, les longueurs/terminaisons des CFString et la conservation de leurs
 pointeurs.
+Les nouveaux tests reproduisent la fusion de services par les trois hooks,
+vérifient la transmission intacte des paramètres et des erreurs, les réponses
+Gestalt non remplacées, deux UUID issus de générateurs simulés distincts, et
+l’absence d’effacement ou d’envoi de logs sur les chemins corrigés.
 
 Ces tests ne valident pas l’implémentation réelle de Foundation/ARC, la signature,
 le chargement dyld, SKEngine, la compatibilité des classes privées ou une

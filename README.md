@@ -57,13 +57,18 @@ Empreinte SHA-256 de l’IPA source, avant ces correctifs :
 
 ## Correctifs de cohérence du spoof
 
-Le spoof existant est conservé. Les modifications de SCRT sont limitées à :
+Le remplacement d’IDFV/IDFA existant est conservé. Les modifications de SCRT sont :
 
 - Valider l’UUID mémorisé avant de le réutiliser. Une valeur absente ou invalide
   est remplacée une seule fois et enregistrée ; un UUID valide reste inchangé.
-- Effectuer les effacements automatiques du hook de connexion **après** la
-  réussite de la vérification propre au composant. Ce contrôle n’est pas la
-  validation du mot de passe par Snapchat. Les effacements restent présents.
+- Supprimer les effacements automatiques du hook de connexion, y compris
+  après réussite de la vérification du composant. Cette vérification reste
+  exécutée ; elle n’est pas la validation du mot de passe par Snapchat.
+- Transmettre les requêtes `SecItemAdd`, `SecItemCopyMatching` et `SecItemUpdate`
+  intactes aux API d’origine : services distincts, groupes d’accès et attributs
+  de synchronisation sont conservés.
+- Fermer les points d’entrée résiduels d’envoi des logs snap0x. Le logger et
+  son initialisateur étaient déjà désactivés dans l’archive source.
 - Utiliser le même profil `iPhone13,1 / iOS 17.5.1` dans les deux constructeurs
   de User-Agent. Leur initialisateur reste désactivé ; ce correctif est latent.
 - Remplacer les anciennes constantes iPhone X des listes d’exemption par un
@@ -74,6 +79,13 @@ Le profil est documenté dans
 [tools/spoof_fix/iphone12-mini.json](tools/spoof_fix/iphone12-mini.json).
 Les valeurs série/UDID/modèle servent à comparer l’appareil à une liste
 d’exemption interne ; elles ne remplacent pas les informations renvoyées par iOS.
+
+L’analyse [Gestalt, identifiants et trousseau](analysis/gestalt-identity-boundaries.md)
+documente les chemins vérifiés. L’UUID Shield est généré localement avec `NSUUID`
+et conservé dans `NSUserDefaults` ; aucune valeur UUID commune à tous les appareils
+n’est imposée par ce chemin. Des préférences copiées peuvent toutefois conserver
+le même UUID. Les anciennes entrées du trousseau rangées sous le service Shield
+ne sont ni migrées ni supprimées ; une reconnexion peut être nécessaire.
 
 Le rapport [analysis/spoof-consistency.md](analysis/spoof-consistency.md) distingue
 les actions actives, les résidus et les limites. Les tests exécutent des instructions

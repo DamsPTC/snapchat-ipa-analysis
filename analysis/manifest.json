@@ -37602,7 +37602,7 @@
     },
     {
       "path": "Payload/Snapchat.app/Frameworks/SCRT.framework/SCRT",
-      "sha256": "7756e3648654bd7377c322f7490461fcdfdf2b3f4a00ade269bb26d310d9aea9",
+      "sha256": "3b563f265bee10abce6791d4993583a336a1625fc8cdb0cecda9ba7921b52866",
       "bytes": 1297664
     },
     {
@@ -40572,7 +40572,7 @@
     }
   ],
   "derived_revision": {
-    "patch_set": "spoof-consistency-v2-iphone12mini",
+    "patch_set": "spoof-consistency-v3-keychain-integrity",
     "upstream_commit": "e005928d969b6bfb59b1caafca2f7ba50a2519e6",
     "patch_manifest": "tools/spoof_fix/patches.json",
     "device_profile": "tools/spoof_fix/iphone12-mini.json",

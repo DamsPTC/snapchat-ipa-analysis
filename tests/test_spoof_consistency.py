@@ -50,7 +50,7 @@ class Runtime:
     ORIGINAL_LOGIN = 0x500100
     ORIGINAL_HEADER = 0x500200
 
-    def __init__(self, data, saved=None, verification=True):
+    def __init__(self, data, saved=None, verification=True, generated_uuid=None):
         self.uc = Uc(UC_ARCH_ARM64, UC_MODE_ARM)
         self.uc.mem_map(0, 0x200000)
         self.uc.mem_write(0, data)
@@ -63,6 +63,8 @@ class Runtime:
             self.defaults[self.KEY] = saved
         self.events = []
         self.generated = 0
+        self.generated_uuid = generated_uuid or self.NEW_UUID
+        self.extra_intercepts = set()
         self.persisted = 0
         self.verification = verification
         self.login_args = None
@@ -112,7 +114,8 @@ class Runtime:
 
     def instruction(self, uc, address, size, _):
         intercept = (0x75c28 <= address < 0x7df00 or address in
-                     (0x24ec0, 0x25674, 0x4241c, 0x4e960, self.ORIGINAL_LOGIN, self.ORIGINAL_HEADER))
+                     (0x24ec0, 0x25674, 0x4241c, 0x4e960, self.ORIGINAL_LOGIN, self.ORIGINAL_HEADER)
+                     or address in self.extra_intercepts)
         if not intercept:
             return
         args = [uc.reg_read(reg) for reg in REGS[:5]]
@@ -155,7 +158,7 @@ class Runtime:
             return self.obj(('uuid', str(parsed).upper())) if parsed else 0
         if address == 0x76800:
             self.generated += 1
-            return self.obj(('uuid', self.NEW_UUID))
+            return self.obj(('uuid', self.generated_uuid))
         if address == 0x76820:
             return self.obj(self.value(x0)[1])
         if address == 0x7bae0:
@@ -266,11 +269,11 @@ class SpoofConsistencyTests(unittest.TestCase):
             self.assertIsNone(runtime.login_args)
             self.assertEqual(runtime.token, 'original-devicecheck-token')
 
-    def test_successful_verification_preserves_spoof_actions_and_login_arguments(self):
+    def test_successful_verification_preserves_login_arguments_without_automatic_wipes(self):
         runtime = Runtime(self.patched, verification=True)
         args = [runtime.obj(('argument', n)) for n in range(5)]
         runtime.run(0x41bdc, args)
-        self.assertEqual(runtime.events, ['verify', 'wipe-keychain', 'wipe-files', 'set-token', 'original-login'])
+        self.assertEqual(runtime.events, ['verify', 'set-token', 'original-login'])
         self.assertEqual(runtime.login_args, args)
         self.assertEqual(runtime.token, 'DEVICE_CHECK_TOKEN_NOT_AVAILABLE_GTE_IOS11')
 
