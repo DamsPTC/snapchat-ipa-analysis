@@ -12,6 +12,12 @@ Une [variante de diagnostic des métadonnées](analysis/login-metadata-control-r
 conserve les plists de la version précédente tout en laissant le spoof retiré.
 Elle est disponible dans la
 [release de test](https://github.com/DamsPTC/snapchat-ipa-analysis/releases/tag/v12.81.0-metadata-control).
+**Retour utilisateur suivant : la connexion reste refusée.** La capture affiche
+un accès temporairement désactivé, sans code SS visible. Le rétablissement des
+métadonnées n'a donc pas produit de correctif confirmé. Le
+[suivi du refus de connexion](analysis/login-refusal-2026-09-27.md) documente la
+comparaison des fonctions natives, la modification de requête auparavant faite
+par SCRT et les informations encore nécessaires sur l'IPA après signature.
 La recette `tools/restore_native.py` retire entièrement SCRT, SKEngine et
 CydiaSubstrate, restaure les identifiants de bundle et corrige la version
 minimale déclarée. Voir [le rapport actuel](analysis/native-baseline.md).
