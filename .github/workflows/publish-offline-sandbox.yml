@@ -1,0 +1,137 @@
+name: Build and publish offline UIKit sandbox
+
+on:
+  push:
+    branches: [fix/spoof-consistency]
+    paths:
+      - .github/workflows/publish-offline-sandbox.yml
+      - tools/offline_sandbox/**
+      - tools/build_offline_sandbox.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-offline-sandbox-v1
+  cancel-in-progress: false
+
+env:
+  RELEASE_TAG: v0.1.0-offline-sandbox
+
+jobs:
+  build-test-publish:
+    runs-on: macos-15
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+          persist-credentials: true
+          sparse-checkout: |
+            tools
+            analysis
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test the local model
+        run: |
+          xcrun --sdk macosx clang -fobjc-arc -fblocks -std=gnu11 -Wall -Wextra -Werror -framework Foundation tools/offline_sandbox/LabModel.m tools/offline_sandbox/LabModelTests.m -o "$RUNNER_TEMP/lab-model-tests"
+          "$RUNNER_TEMP/lab-model-tests"
+      - name: Compile and inspect unsigned iPhone application
+        run: python tools/build_offline_sandbox.py "$RUNNER_TEMP/offline-device"
+      - name: Compile simulator application
+        run: python tools/build_offline_sandbox.py "$RUNNER_TEMP/offline-simulator" --simulator
+      - name: Execute local UIKit paths in iOS Simulator
+        run: |
+          python - <<'PY'
+          import json, os, subprocess, time
+          from pathlib import Path
+          def command(*args, **kwargs):
+              return subprocess.check_output(args, text=True, **kwargs).strip()
+          devices = json.loads(command('xcrun','simctl','list','devices','available','--json'))['devices']
+          candidates = [(runtime, item) for runtime, items in devices.items() if '.iOS-' in runtime
+                        for item in items if item['name'].startswith('iPhone') and item.get('isAvailable')]
+          if not candidates: raise SystemExit('No available iPhone simulator')
+          runtime, device = sorted(candidates, key=lambda x:x[0], reverse=True)[0]
+          udid = device['udid']
+          if device['state'] != 'Booted': command('xcrun','simctl','boot',udid)
+          command('xcrun','simctl','bootstatus',udid,'-b',timeout=300)
+          root = Path(os.environ['RUNNER_TEMP'])
+          command('xcrun','simctl','install',udid,str(root/'offline-simulator/Payload/SnapLab.app'))
+          bundle = 'com.damsptc.snaplab.offline'
+          environment = dict(os.environ, SIMCTL_CHILD_LAB_SELF_TEST='1')
+          command('xcrun','simctl','launch','--terminate-running-process',udid,bundle,env=environment)
+          container = Path(command('xcrun','simctl','get_app_container',udid,bundle,'data'))
+          report = container/'Documents/lab-ui-test-result.json'
+          for attempt in range(60):
+              if report.exists(): break
+              time.sleep(1)
+          if not report.exists(): raise SystemExit('UIKit test report missing: launch or test failed')
+          result = json.loads(report.read_text())
+          if not result.get('passed') or len(result.get('checks', [])) != 10:
+              raise SystemExit(json.dumps(result))
+          result['simulator_device'] = device['name']
+          result['simulator_runtime'] = runtime
+          output = root/'offline-release'
+          output.mkdir()
+          (output/'offline-sandbox-ui-tests.json').write_text(json.dumps(result, indent=2)+'\n')
+          # Relaunch the production UI without self-test mode for the preview.
+          command('xcrun','simctl','terminate',udid,bundle)
+          command('xcrun','simctl','launch',udid,bundle)
+          time.sleep(2)
+          command('xcrun','simctl','io',udid,'screenshot',str(output/'SnapLab_preview.png'))
+          print(json.dumps(result, indent=2))
+          PY
+      - name: Assemble release assets
+        run: |
+          python - <<'PY'
+          import os, shutil
+          from pathlib import Path
+          root = Path(os.environ['RUNNER_TEMP'])
+          output = root/'offline-release'
+          for name in ['SnapLab_Offline_unsigned.ipa','offline-sandbox-build.json','SHA256SUMS.txt']:
+              shutil.copyfile(root/'offline-device'/name,output/name)
+          shutil.copyfile('analysis/offline-sandbox-release.md',output/'LIRE_AVANT_INSTALLATION.md')
+          PY
+      - name: Publish verified standalone prerelease
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import hashlib, json, os, subprocess
+          from pathlib import Path
+          repo, tag = os.environ['GITHUB_REPOSITORY'], os.environ['RELEASE_TAG']
+          output = Path(os.environ['RUNNER_TEMP'])/'offline-release'
+          expected = {p.name:p for p in output.iterdir() if p.is_file()}
+          title = 'SnapLab 0.1 — simulation locale et clavier UIKit'
+          notes_path = 'analysis/offline-sandbox-release.md'
+          notes = Path(notes_path).read_text()
+          def find_release():
+              pages = json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/releases?per_page=100','--paginate','--slurp'],text=True))
+              matches = [r for page in pages for r in page if r['tag_name']==tag]
+              if len(matches)>1: raise SystemExit('Duplicate release tag')
+              return matches[0] if matches else None
+          release = find_release()
+          if release is None:
+              subprocess.run(['gh','release','create',tag,*[str(expected[n]) for n in sorted(expected)],
+                  '--repo',repo,'--target',os.environ['GITHUB_SHA'],'--draft','--prerelease',
+                  '--title',title,'--notes-file',notes_path],check=True)
+              release = find_release()
+          if not release or not release['draft'] or not release['prerelease']:
+              raise SystemExit('Refusing to overwrite a published release')
+          if release['name']!=title or release['body'].strip()!=notes.strip():
+              raise SystemExit('Existing draft differs')
+          assets = {a['name']:a for a in release['assets']}
+          if set(assets)!=set(expected): raise SystemExit('Asset inventory mismatch')
+          for name, path in expected.items():
+              digest = hashlib.sha256(path.read_bytes()).hexdigest()
+              asset = assets[name]
+              if asset['state']!='uploaded' or asset['size']!=path.stat().st_size or asset['digest']!=f'sha256:{digest}':
+                  raise SystemExit('Asset integrity mismatch: '+name)
+          result = json.loads(subprocess.check_output(['gh','api','--method','PATCH',
+              f'repos/{repo}/releases/{release["id"]}','-F','draft=false','-F','prerelease=true',
+              '-f','make_latest=false','-f',f'target_commitish={os.environ["GITHUB_SHA"]}'],text=True))
+          if result['draft']: raise SystemExit('Publication not confirmed')
+          print(result['html_url'])
+          PY
