@@ -27,7 +27,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           lfs: false
-          persist-credentials: false
+          # The historical Payload contains an optool gitlink without .gitmodules.
+          # Defer checkout's credential cleanup until the end of the hosted job.
+          persist-credentials: true
+          sparse-checkout: |
+            tools
+            analysis
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
