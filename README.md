@@ -1,6 +1,11 @@
 # Snapchat — analyse et base sans injections
 
 **Livrable actuel : une base sans les injections identifiées, spoof compris.**
+**Régression signalée après signature et essai sur iPhone : crash dans le
+parcours de connexion. Cette base n’est pas validée fonctionnellement.**
+Le [rapport de diagnostic](analysis/crash-2026-09-27-keyboard.md) décrit un
+contrôle d’intégrité mémoire déclenché pendant la gestion du clavier et une
+interception de SCRT retirée qui visait la même classe système.
 La recette `tools/restore_native.py` retire entièrement SCRT, SKEngine et
 CydiaSubstrate, restaure les identifiants de bundle et corrige la version
 minimale déclarée. Voir [le rapport actuel](analysis/native-baseline.md).

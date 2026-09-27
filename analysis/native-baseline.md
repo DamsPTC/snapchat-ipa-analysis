@@ -1,5 +1,15 @@
 # Base sans les injections identifiées
 
+**Mise à jour après publication :** l’utilisateur a signé et installé l’IPA sur
+iPhone. Il signale un message de refus de connexion suivi d’un crash, absent
+de son essai avec la révision précédente qui conservait SCRT. Le rapport fourni
+montre un échec de contrôle PAC dans CoreFoundation pendant la destruction
+d’un objet utilisé par le clavier. Voir le
+[diagnostic du 27 septembre](crash-2026-09-27-keyboard.md).
+Les validations statiques ci-dessous ne constituent donc pas une validation
+du fonctionnement sur appareil. La cause initiale de la corruption et le
+correctif binaire restent à établir.
+
 La demande du 27 septembre 2026 remplace la conservation du spoof par sa
 suppression. `tools/restore_native.py` produit maintenant une base distincte
 de la révision analysée auparavant. L’IPA livrée sous le nom
