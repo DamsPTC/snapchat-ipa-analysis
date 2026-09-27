@@ -1,0 +1,8 @@
+"group_invite_accept_link_joining_group" = "Uniéndote al grupo...";
+"group_invite_cannot_join_group" = "No puedes unirte al grupo";
+"group_invite_confirm_dialog_cancel_button" = "Cancelar";
+"group_invite_confirm_dialog_description" = "Cualquiera con este enlace puede unirse. Comprobar si el remitente es alguien de confianza.";
+"group_invite_confirm_dialog_header" = "¿Unirse al grupo?";
+"group_invite_confirm_dialog_ok_button" = "Unirse al grupo";
+"group_invite_creator_not_participant" = "El Snapchatter que compartió esto %1$@ ya no es un miembro.";
+"group_invite_link" = "enlace";

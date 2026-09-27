@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "મારો Snap કોડ";
+
+"Snapcode Desc" = "આ વિજેટ તમારો Snap કોડ બતાવે છે";
+
+"camera" = "કૅમેરા";
+
+"camera_desc" = "Snapchat કૅમેેરા ખોલો.";
+
+"log_in" = "લૉગ ઇન કરો";
+
+"shortcut_to_a_friend" = "મિત્ર અથવા ગ્રુપ પસંદ કરવા વિજેટ મૂક્યા પછી તેના પર ટૅપ કરો.";
+
+"pin_a_friend" = "મિત્ર અથવા ગ્રુપને પિન કરો";
+
+"birthdays" = "જન્મદિવસ";
+
+"see_upcoming_birthdays" = "આગામી જન્મદિવસ જુઓ.";
+
+"no_upcoming_birthdays" = "કોઈ આગામી નથી";
+
+"user_and_other_have_birthday" = "%1$@+%2$d";
+
+"user_has_birthday_in_days_singular" = "%2$d દિવસમાં %1$@";
+
+"user_has_birthday_in_days_plural" = "%2$d દિવસમાં %1$@";
+
+"user_and_other_have_birthday_in_days_singular" = "%3$d દિવસમાં %1$@ +%2$d";
+
+"user_and_other_have_birthday_in_days_plural" = "%3$d દિવસમાં %1$@ +%2$d";
+
+"Memories" = "યાદો";
+
+"Memories Desc" = "તમારી યાદોમાંથી ફ્લેશબેક, ટ્રીપ, રીકેપ વગેરે સહિતના ફીચર્ડ Snaps!";
+
+"Friend Location Widget Desc" = "તમારા મિત્રના લોકેશન પર નજર રાખવા માટે મિત્રને આ વિજેટ પર પિન કરો.";
+
+"map" = "નકશો";
+
+"now" = "હવે";
+
+"something_went_wrong" = "કંઈક ખોટું થયું, કૃપા કરીને Snapchat ખોલો";
+
+"long_press_to_pin" = "કોઈ મિત્રને પિન કરવા ફેરફાર કરો";
+
+"off_the_grid" = "ગ્રિડની બહાર";

@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "என்னுடைய Snapcode";
+
+"Snapcode Desc" = "இந்த விட்ஜெட் உங்கள் Snapcode ஐக் காட்டுகிறது";
+
+"camera" = "கேமரா";
+
+"camera_desc" = "Snapchat கேமராவைத் திறங்கள்.";
+
+"log_in" = "உள்நுழைக";
+
+"shortcut_to_a_friend" = "விட்ஜெட்டை வைத்தபின் அதைத் தட்டி ஒரு நண்பர் அல்லது குழுவைத் தேர்ந்தெடுங்கள்.";
+
+"pin_a_friend" = "நண்பர் அல்லது ஒரு குழுவை மேற்புறத்தில் பின் செய்யுங்கள்";
+
+"birthdays" = "பிறந்தநாட்கள்";
+
+"see_upcoming_birthdays" = "வரவிருக்கும் பிறந்தநாட்களைப் பாருங்கள்.";
+
+"no_upcoming_birthdays" = "எதிர்காலத்தில் எதுவுமில்லை";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%2$d நாளில் %1$@";
+
+"user_has_birthday_in_days_plural" = "%2$d நாட்களில் %1$@";
+
+"user_and_other_have_birthday_in_days_singular" = "%3$d நாளில் %1$@ +%2$d";
+
+"user_and_other_have_birthday_in_days_plural" = "%3$d நாட்களில் %1$@ +%2$d";
+
+"Memories" = "நினைவுகள்";
+
+"Memories Desc" = "திரும்பிப் பார்த்தல்கள், பயணங்கள், நினைவுகூரல்கள், இன்னும் பல உள்பட உங்கள் நினைவுகளிலிருந்து காட்சிப்படுத்தப்படும் Snapகள்!";
+
+"Friend Location Widget Desc" = "உங்கள் நண்பருடைய இடத்தைப் பார்க்க, இந்த விட்ஜெட்டுடன் அந்த நண்பரைப் பின் செய்யுங்கள்.";
+
+"map" = "வரைபடம்";
+
+"now" = "இப்போது";
+
+"something_went_wrong" = "ஏதோ தவறாகிவிட்டது, Snapchat ஐத் திறக்கவும்";
+
+"long_press_to_pin" = "நண்பரைப் பின் செய்ய, திருத்தவும்";
+
+"off_the_grid" = "கட்டத்திற்கு வெளியில்";

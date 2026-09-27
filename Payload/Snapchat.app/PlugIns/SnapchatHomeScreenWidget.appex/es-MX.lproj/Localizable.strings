@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Mi Snapcode";
+
+"Snapcode Desc" = "Este widget muestra tu snapcode";
+
+"camera" = "Cámara";
+
+"camera_desc" = "Abre la cámara de Snapchat.";
+
+"log_in" = "Iniciar sesión";
+
+"shortcut_to_a_friend" = "Toca el widget después de colocarlo para elegir unx amix o un grupo.";
+
+"pin_a_friend" = "Fija unx amix o grupo";
+
+"birthdays" = "Cumpleaños";
+
+"see_upcoming_birthdays" = "Ver próximos cumpleaños.";
+
+"no_upcoming_birthdays" = "No hay próximos";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ en %2$d día";
+
+"user_has_birthday_in_days_plural" = "%1$@ en %2$d días";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d en %3$d día";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d en %3$d días";
+
+"Memories" = "Recuerdos";
+
+"Memories Desc" = "Snaps destacados de tus Recuerdos, que incluyen flashbacks, viajes, resúmenes y más.";
+
+"Friend Location Widget Desc" = "Fija a tu amix con este widget para echar un vistazo a su ubicación.";
+
+"map" = "Mapa";
+
+"now" = "ahora";
+
+"something_went_wrong" = "Se produjo un error. Abre Snapchat";
+
+"long_press_to_pin" = "Edita para fijar a tu amix";
+
+"off_the_grid" = "Fuera de red";

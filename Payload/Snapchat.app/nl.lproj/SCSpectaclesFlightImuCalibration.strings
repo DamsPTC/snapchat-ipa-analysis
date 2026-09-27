@@ -1,0 +1,17 @@
+"calibration_cancel_alert_body" = "Weet je zeker dat je de kalibratie wilt stoppen? Als je de kalibratie niet afrondt, volgt je Pixy zijn vliegroute misschien niet meer zo nauwkeurig.";
+"calibration_cancel_alert_title" = "Kalibratie annuleren?";
+"calibration_done_tray_title" = "Bijna klaar! Je Pixy wordt nu opnieuw opgestart om het kalibreren te voltooien.";
+"calibration_error_alert_body" = "Pixy kan de kalibratie niet voltooien. Probeer later opnieuw te kalibreren. De kalibratie werkt het beste als je netwerkverbinding goed is en als je de Pixy stil houdt tijdens het kalibreren.";
+"calibration_error_alert_title" = "Kan niet kalibreren";
+"calibration_loading_screen_body" = "Dit kan een paar minuten duren";
+"calibration_loading_screen_title" = "Voorbereiden om te kalibreren";
+"calibration_page_title" = "Pixy kalibreren";
+"calibration_success_tray_title" = "Dat is alles! Je Pixy is nu gekalibreerd.";
+"calibration_video_download_failure_alert_body" = "Kalibratie kan niet worden gestart. Controleer je internetverbinding en probeer het opnieuw.";
+"calibration_video_download_failure_alert_title" = "Kalibratie kan niet worden gestart";
+"calibration_x_down_tray_title" = "Draai de Pixy om en plaats hem op een vlakke ondergrond met de schijf omlaag.";
+"calibration_x_up_tray_title" = "Plaats de Pixy op een vlakke ondergrond met de schijf omhoog.";
+"calibration_y_down_tray_title" = "Houd de zijkant van de Pixy op een vlakke ondergrond, zodat de camera op jou is gericht en de schijf aan je linkerkant.";
+"calibration_y_up_tray_title" = "Houd de zijkant van de Pixy op een vlakke ondergrond, zodat de camera van je af is gericht en de schijf aan je linkerkant.";
+"calibration_z_down_tray_title" = "Houd de zijkant van de Pixy op een vlakke ondergrond, zodat de camera omhoog is gericht.";
+"calibration_z_up_tray_title" = "Houd de zijkant van de Pixy op een vlakke ondergrond, zodat de camera omlaag is gericht.";

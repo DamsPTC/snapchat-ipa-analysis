@@ -1,0 +1,8 @@
+"add_nearby_friends" = "Ajouter des ami·e·s à proximité";
+"add_nearby_friends_description" = "Activez l'ajout d'ami·e·s à proximité et trouvez des ami·e·s près de chez vous. Vous ne verrez que les Snapchatters avec qui vous avez des ami·e·s en commun. \n\nSi vous oubliez de désactiver l'option d'ajout à proximité, ne vous inquiétez pas, nous la désactiverons automatiquement au bout d'un certain temps.";
+"add_nearby_friends_learn_more" = "En savoir plus.";
+"find_friends_nearby_description" = "Vous pouvez quitter cet écran. Nous vous avertirons lorsque des ami·e·s en commun se trouveront à proximité.";
+"finding_friends_nearby" = "Recherche d'ami·e·s à proximité…";
+"found_friends_nearby" = "$0 ami·e·s à proximité";
+"found_friends_nearby_description" = "Vous ne verrez que les amis en commun qui ont activé l'option d'ajout d'amis à proximité. Vous pouvez quitter cet écran. Nous vous avertirons lorsque d'autres ami·e·s se trouveront à proximité.";
+"found_one_friend_nearby" = "Un·e ami·e à proximité";

@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "ਮੇਰਾ Snapcode";
+
+"Snapcode Desc" = "ਇਹ ਵਿਜਟ ਤੁਹਾਡੇ snapcode ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ";
+
+"camera" = "ਕੈਮਰਾ";
+
+"camera_desc" = "Snapchat ਕੈਮਰਾ ਖੋਲ੍ਹੋ।";
+
+"log_in" = "ਲੌਗ ਇਨ ਕਰੋ";
+
+"shortcut_to_a_friend" = "ਕਿਸੇ ਦੋਸਤ ਜਾਂ ਗਰੁੱਪ ਨੂੰ ਚੁਣਨ ਲਈ ਵਿਜੇਟ ਲਗਾਉਣ ਤੋਂ ਬਾਅਦ ਇਸਨੂੰ ਟੈਪ ਕਰੋ।";
+
+"pin_a_friend" = "ਕਿਸੇ ਦੋਸਤ ਜਾਂ ਗਰੁੱਪ ਨੂੰ ਪਿੰਨ ਕਰੋ";
+
+"birthdays" = "ਜਨਮਦਿਨ";
+
+"see_upcoming_birthdays" = "ਆਗਾਮੀ ਜਨਮਦਿਨ ਦੇਖੋ।";
+
+"no_upcoming_birthdays" = "ਕੋਈ ਆਗਾਮੀ ਨਹੀਂ";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%2$d ਦਿਨ ਵਿੱਚ %1$@";
+
+"user_has_birthday_in_days_plural" = "%2$d ਦਿਨਾਂ ਵਿੱਚ %1$@";
+
+"user_and_other_have_birthday_in_days_singular" = "%3$d ਦਿਨ ਵਿੱਚ %1$@ +%2$d";
+
+"user_and_other_have_birthday_in_days_plural" = "%3$d ਦਿਨਾਂ ਵਿੱਚ %1$@ +%2$d";
+
+"Memories" = "ਯਾਦਾਂ";
+
+"Memories Desc" = "ਪਿਛਲਝਾਤਾਂ, ਯਾਤਰਾਵਾਂ, ਰੀਕੈਪ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਸਮੇਤ ਤੁਹਾਡੀਆਂ ਯਾਦਾਂ ਤੋਂ ਉਲੇਖਿਤ Snaps!";
+
+"Friend Location Widget Desc" = "ਆਪਣੇ ਦੋਸਤ ਦੇ ਟਿਕਾਣੇ 'ਤੇ ਨਜ਼ਰ ਮਾਰਨ ਵਾਸਤੇ ਇਸ ਵਿਜੇਟ ਨਾਲ ਕਿਸੇ ਦੋਸਤ ਨੂੰ ਪਿੰਨ ਕਰੋ।";
+
+"map" = "ਨਕਸ਼ਾ";
+
+"now" = "ਹੁਣ";
+
+"something_went_wrong" = "ਕੋਈ ਗੜਬੜ ਹੋ ਗਈ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ Snapchat ਖੋਲ੍ਹੋ";
+
+"long_press_to_pin" = "ਕਿਸੇ ਦੋਸਤ ਨੂੰ ਪਿੰਨ ਕਰਨ ਲਈ ਸੰਪਾਦਿਤ ਕਰੋ";
+
+"off_the_grid" = "ਗਰਿੱਡ ਬੰਦ ਕਰੋ";

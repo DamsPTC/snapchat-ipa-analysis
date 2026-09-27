@@ -1,0 +1,11 @@
+"feedback_button_back" = "Volver";
+"feedback_button_send" = "Enviar comentarios";
+"feedback_option_misheard_words" = "Palabras no entendidas";
+"feedback_option_wrong_words" = "Palabras incorrectas";
+"feedback_screen_description" = "¿Se transcribió correctamente tu nota de voz?";
+"feedback_screen_title" = "Comentarios sobre la transcripción";
+"feedback_submission_notification" = "¡Gracias por tus comentarios!";
+"menu_button_done" = "Listo";
+"menu_button_edit_transcript" = "Editar transcripción";
+"menu_button_give_feedback" = "Hacer comentarios";
+"transcription_unavailable" = "Transcripción no disponible";

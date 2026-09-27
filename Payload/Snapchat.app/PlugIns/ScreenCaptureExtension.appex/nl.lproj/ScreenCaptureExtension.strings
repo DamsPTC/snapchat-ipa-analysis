@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Je moet in een gesprek zijn om je scherm te delen.";
+"screen_capture_error_generic" = "Er is iets misgegaan: probeer het scherm opnieuw te delen.";
+"screen_capture_not_enabled" = "Er is iets misgegaan.";

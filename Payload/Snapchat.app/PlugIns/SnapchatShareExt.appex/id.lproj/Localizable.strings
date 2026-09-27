@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Tinggalkan";
+
+"add_a_chat" = "Tambahkan obrolan...";
+
+"are_you_sure_you_want_to_abandon" = "Yakin ingin meninggalkan Snapsterpiece kamu?";
+
+"best_friends_header" = "Sahabat";
+
+"groups_header" = "Grup";
+
+"friends_header" = "Teman";
+
+"send" = "Kirim";
+
+"cancel" = "Batal";
+
+"cannot_add_more_snapchatters" = "Tidak bisa menambahkan Snapchatter lagi!";
+
+
+"login_before_sharing_message" = "Silakan masuk ke Snapchat sebelum berbagi.";
+
+"login_before_sharing_title" = "Wajib Masuk";
+
+"me_hint" = "(saya)";
+
+"noticed_new_acct_sharing_message" = "Salah Akun!";
+
+"noticed_new_acct_sharing_title" = "Sepertinya kamu telah berganti akun. Masuk kembali untuk mengirimkan snapmu, atau mulai berbagi lagi dari awal.";
+
+"okay" = "Oke";
+
+"open_before_sharing_message" = "Buka Snapchat sebelum berbagi.";
+
+"open_before_sharing_title" = "Buka Snapchat";
+
+"problem_sharing_try_again" = "Terjadi kesalahan, coba lagi.";
+
+"recents_header" = "Baru-Baru Ini";
+
+"search_text_view_hint" = "Cari";
+
+"send_to" = "Kirim ke...";
+
+"try_again" = "Coba Lagi";
+
+"video_too_long" = "Durasi video harus kurang dari 60 detik agar bisa dibagikan.";
+
+"video_too_long_with_maximum_duration_desc" = "Durasi video harus kurang dari %1$ld detik agar bisa dibagikan.";
+
+"stories_header" = "Cerita";
+
+"my_story" = "Ceritaku";

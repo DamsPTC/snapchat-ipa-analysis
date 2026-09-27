@@ -1,0 +1,7 @@
+"realtime_snapcode_scan_onboarding_dialog_accept" = "موافق";
+"realtime_snapcode_scan_onboarding_dialog_description" = "يمكن لتطبيق سناب شات الآن أن يكتشف وجود رموز Snap عندما تظهر عبر كاميرا جهازك.\n\nما عليك سوى توجيه الكاميرا نحو رمز Snap، ثم المس الإشعار لإجراء المسح الضوئي والاستمتاع بالتجربة.\n\n ويمكنك تغيير هذه الأذونات من الإعدادات.";
+"realtime_snapcode_scan_onboarding_dialog_title" = "رموز Snap في الوقت الفعلي";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_accept" = "فهمت";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_description" = "اضغط مع الاستمرار على شاشة الكاميرا أو المس زر المسح الضوئي لإجراء المسح الضوئي لحيواناتك الأليفة ونباتاتك ومنتجاتك ورموزك والمزيد!\n\nيمكن للمسح الضوئي أيضًا اكتشاف وجود رموز Snap في الكاميرا الخاصة بك! ما عليك سوى توجيه الكاميرا إلى رمز Snap ولمس الإشعار لإجراء المسح الضوئي والاستمتاع بالتجربة. يمكنك تغيير هذه الأذونات في الإعدادات.\n\nتعمل خاصية المسح الضوئي عن طريق إرسال البيانات الممسوحة ضوئيًّا إلى خوادم سناب، إضافة إلى شركاء مثل Shazam مع بعض الميزات. يتم الحصول على النتائج من الشركاء، سناب شات والإنترنت. يمكنك استكشاف النتائج وحذفها في سِجِل المسح الضوئي أو في الإعدادات.";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_learn_more" = "مزيد من المعلومات";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_title" = "نقدم لك ميزة المسح الضوئي.";

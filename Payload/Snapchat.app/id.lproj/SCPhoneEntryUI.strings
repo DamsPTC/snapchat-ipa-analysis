@@ -1,0 +1,11 @@
+"country_code_field" = "Kolom Kode Negara";
+"mobile_number_field" = "Kolom Nomor Ponsel";
+"phone_entry_invalid_country_code" = "🌎Kode negara tidak valid";
+"phone_entry_phone_placeholder" = "nomor telepon";
+"phone_entry_select_country_code" = "🌎Pilih kode negara";
+"register_country_picker_title" = "Pilih Negara";
+"register_phone_label" = "NOMOR PONSEL";
+"send_sms_explanation" = "Kami akan mengirim kode verifikasi SMS.";
+"send_sms_explanation_here" = "Kami akan menggunakan nomor teleponmu sebagai penerima kode verifikasi SMS dan sebagaimana dijelaskan [di sini](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_and_here" = "Kami akan menggunakan nomor teleponmu sebagai penerima kode verifikasi SMS, pembaruan penting, dan sebagaimana dijelaskan [di sini](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_here" = "Kami akan menggunakan nomor teleponmu sebagai penerima kode verifikasi SMS dan pembaruan penting sebagaimana dijelaskan [di sini](https://support.snapchat.com/article/snap-phone-number).";

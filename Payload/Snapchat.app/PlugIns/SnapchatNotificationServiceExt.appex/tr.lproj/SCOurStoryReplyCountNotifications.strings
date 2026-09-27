@@ -1,0 +1,18 @@
+/*
+
+ SCOurStoryReplyCountNotifications.strings
+ SCOurStoryReplyModifier
+*/
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count" = "Bekleyen %1$d Sahne Işığı Yorumu";
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count_singular" = "Bekleyen 1 Sahne Işığı Yorumu";
+
+/// Generic text in case the reply count is not available.
+"generic_push_notification_title_comment" = "Bekleyen Sahne Işığı Yorumları";
+
+/// Shown as a subtitle on the push notification on lock screen.
+"push_notification_subtitle" = "Görüntülemek için dokun";
+

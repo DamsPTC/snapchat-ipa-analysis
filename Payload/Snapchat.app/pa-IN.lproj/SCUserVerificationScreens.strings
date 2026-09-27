@@ -1,0 +1,18 @@
+"finish" = "ਸਮਾਪਤ ਕਰੋ";
+"invalid_phone_number_suggestion_title" = "ਅਵੈਧ ਫ਼ੋਨ ਨੰਬਰ";
+"ngo_country_title" = "ਦੇਸ਼";
+"ngo_email_instead" = "ਇਸ ਦੀ ਬਜਾਏ ਈਮੇਲ ਦੀ ਵਰਤੋਂ ਕਰੋ";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "ਈਮੇਲ";
+"ngo_phone_instead" = "ਇਸ ਦੀ ਬਜਾਏ ਫ਼ੋਨ ਨੰਬਰ ਦੀ ਵਰਤੋਂ ਕਰੋ";
+"ngo_phone_number_info" = "ਅਸੀਂ ਇੱਕ SMS ਪੁਸ਼ਟੀਕਰਨ ਕੋਡ ਭੇਜਾਂਗੇ।";
+"ngo_phone_number_info_receive_messaging_by_channel" = "ਅਸੀਂ ਇੱਕ SMS ਪੁਸ਼ਟੀਕਰਨ ਕੋਡ ਭੇਜਾਂਗੇ। ਤੁਸੀਂ ਆਪਣਾ ਨੰਬਰ ਦਾਖਲ ਕਰਕੇ, ਆਪਣੇ ਖਾਤੇ ਬਾਰੇ ਲੈਣ-ਦੇਣ ਸੰਬੰਧੀ ਸੁਨੇਹੇ SMS ਜਾਂ ਹੋਰ ਸੁਨੇਹੇ ਚੈਨਲ ਦੁਆਰਾ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "ਅਸੀਂ ਇੱਕ ਪੁਸ਼ਟੀਕਰਨ ਕੋਡ ਭੇਜਾਂਗੇ। ਆਪਣਾ ਨੰਬਰ ਦਾਖਲ ਕਰਨ 'ਤੇ, ਤੁਹਾਨੂੰ SMS ਰਾਹੀਂ ਲੈਣ-ਦੇਣ ਸੰਬੰਧੀ ਸੁਨੇਹੇ ਪ੍ਰਾਪਤ ਹੋਣਗੇ ਜਾਂ ਹੋਰ ਸੁਨੇਹਾ ਚੈਨਲਾਂ ਰਾਹੀਂ ਤੁਹਾਡੇ ਖਾਤੇ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਬਾਰੇ ਸੁਨੇਹੇ ਪ੍ਰਾਪਤ ਹੋਣਗੇ।";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "ਅਸੀਂ ਇੱਕ ਪੁਸ਼ਟੀਕਰਨ ਕੋਡ ਭੇਜਾਂਗੇ। ਆਪਣਾ ਨੰਬਰ ਦਾਖਲ ਕਰਨ 'ਤੇ, ਤੁਸੀਂ SMS ਰਾਹੀਂ ਲੈਣ-ਦੇਣ ਸੰਬੰਧੀ ਸੁਨੇਹੇ ਪ੍ਰਾਪਤ ਕਰਨ ਜਾਂ ਹੋਰ ਸੁਨੇਹਾ ਚੈਨਲ ਰਾਹੀਂ ਤੁਹਾਡੇ ਖਾਤੇ ਬਾਰੇ ਸੁਨੇਹੇ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ। Snap ਵੱਲੋਂ ਤੁਹਾਡੇ ਫ਼ੋਨ ਨੰਬਰ ਨੂੰ ਵਰਤੇ ਜਾਣ ਦੇ ਤਰੀਕੇ ਬਾਰੇ [ਹੋਰ ਜਾਣੋ](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number)।";
+"ngo_phone_number_title" = "ਫ਼ੋਨ ਨੰਬਰ";
+"ngo_phone_placeholder" = "ਫ਼ੋਨ ਨੰਬਰ";
+"phone_suggestion_description" = "%1$@ ਇੱਕ ਵੈਧ ਫ਼ੋਨ ਨੰਬਰ ਨਹੀਂ ਹੈ। ਕੀ ਤੁਹਾਡਾ ਮਤਲਬ\n%2$@ ਤੋਂ ਸੀ?";
+"register_email_button" = "ਇਸ ਦੀ ਬਜਾਏ ਈਮੇਲ ਨਾਲ ਸਾਈਨ ਅੱਪ ਕਰੋ";
+"register_email_error" = "ਕਿਰਪਾ ਕਰਕੇ ਕੋਈ ਵੈਧ ਈਮੇਲ ਪਤਾ ਦਾਖਲ ਕਰੋ।";
+"skip_button" = "ਛੱਡੋ";
+"yes_update" = "ਹਾਂ, ਅੱਪਡੇਟ ਕਰੋ";

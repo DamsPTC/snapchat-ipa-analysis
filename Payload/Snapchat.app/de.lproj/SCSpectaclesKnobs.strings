@@ -1,0 +1,12 @@
+"alert_cancel" = "Abbrechen";
+"alert_location_permission_error_description" = "Bitte öffne die iOS-Einstellungen und ändere die Standortberechtigung von Snapchat zu „Beim Verwenden der App“.";
+"alert_location_permission_error_title" = "Fehler bei Standortberechtigungen";
+"alert_ok" = "Ok";
+"alert_restart_description" = "Um die experimentellen Funktionen anzuwenden, musst du deine Spectacles neu starten.\nDas kann einige Minuten dauern.";
+"alert_restart_restart_specs_button" = "Spectacles neu starten";
+"alert_restart_title" = "Spectacles neu starten?";
+"alert_unknown_error_description" = "Einstellung konnte nicht aktualisiert werden";
+"alert_unknown_error_title" = "Ups";
+"button_save" = "Speichern";
+"local_knob_location_sharing_description" = "Der Standort deines Handys wird 1 Stunde lang geteilt. Deaktivieren, um die Standortfreigabe zu beenden.";
+"local_knob_location_sharing_title" = "Standort im Hintergrund";

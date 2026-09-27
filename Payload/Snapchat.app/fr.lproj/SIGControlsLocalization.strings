@@ -1,0 +1,15 @@
+"search_placeholder" = "Rechercher";
+"sig_action_bar_done" = "Terminé";
+"sig_action_bar_more" = "Plus";
+"sig_header_dismiss_accessibility_label" = "Ignorer";
+"sig_index_view_favorites_image_accessibility_label" = "Favoris";
+"sig_index_view_groups_image_accessibility_label" = "Groupes";
+"sig_index_view_quick_adds_image_accessibility_label" = "Ajouts rapides";
+"sig_index_view_recents_image_accessibility_label" = "Récents";
+"sig_index_view_snap_stars_image_accessibility_label" = "Snap Stars";
+"sig_select_bar_group" = "Groupe";
+"sig_send_to_button_accessibility_label" = "Envoyer";
+"toggle_off" = "Désactivé";
+"toggle_on" = "Activé";
+"toggle_switch_hint" = "Ce bouton permet d'activer ou de désactiver la localisation.";
+"toggle_switch_label" = "Activer/Désactiver";

@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Nieuwe uitbetaling voor Spotlight!";
+"payouts_push_notification_gifting_title" = "Nieuwe cadeaus ontvangen!";
+"payouts_push_notification_title_spotlight_challenges" = "Nieuwe uitbetaling voor Spotlight-uitdaging!";
+"payouts_push_notification_title_story" = "Nieuwe uitbetaling voor Verhalen";
+"payouts_push_notification_title_lens_creator_fund" = "Nieuwe uitbetaling voor Beloningsprogramma voor Lensmakers!";
+"payouts_push_notification_title_ildg" = "Nieuwe uitbetaling voor te ontgrendelen items van Lens!";
+"payouts_push_notification_title_cashout_eligible" = "Je awards worden binnenkort automatisch uitbetaald!";
+"payouts_push_notification_title_invalidate_eligible" = "Je awards worden binnenkort ongeldig!";
+
+"payouts_push_notification_subtitle_onboarded" = "Gefeliciteerd! Bekijk nu Mijn Payouts in je Profiel om te zien wat je hebt verdiend!";
+"payouts_push_notification_subtitle_not_onboarded" = "Je hebt geld verdiend met Spotlight. Meld je nu aan via je Profiel om te worden uitbetaald!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Je hebt Crystals verdiend met Spotlight-uitdagingen. Meld je nu aan via je profiel om te worden uitbetaald.";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Je hebt Crystals verdiend met Cadeaus. Meld je nu aan via je profiel om te worden uitbetaald.";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Je hebt Crystals verdiend met Verhalen. Meld je nu aan via je profiel om te worden uitbetaald.";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Je hebt Crystals verdiend met het Beloningsprogramma voor Lensmakers. Meld je nu aan via je profiel om te worden uitbetaald.";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Je hebt Crystals verdiend met te ontgrendelen items voor Lens. Meld je nu aan via je profiel om te worden uitbetaald.";
+"payouts_push_notification_subtitle_cashout_eligible" = "Je verdiende Crystals worden automatisch uitbetaald op %1$@ als je niets doet. Ga op je profiel naar Mijn Crystals om dit te verhelpen.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Je verdiende Crystals worden ongeldig op %1$@ als je niets doet. Ga op je profiel naar Mijn Crystals om dit te verhelpen.";
+
+"payouts_state_title" = "Je Payouts-status is bijgewerkt.";
+"payouts_state_subtitle" = "Je Payouts-status is bijgewerkt. Bekijk Mijn Snap Crystals in je profiel om je status te bekijken.";
+"gifting_opened_gift" = "%1$@ heeft je cadeau geopend";
+"gifting_support_thanks" = "Bedankt dat je ze ondersteunt op Snapchat.";
+

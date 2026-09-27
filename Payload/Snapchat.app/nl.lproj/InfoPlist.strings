@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Zo kan Snapchat via bluetooth verbinding maken met accessoires zoals Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Gebruik je camera om Snaps te maken, met Lenzen te spelen en meer! Sommige Lenzen maken gebruik van Apple's TrueDepth-camera. Zie ons Privacybeleid voor meer informatie.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Je contacten worden naar de servers van Snapchat geüpload zodat jij en anderen vrienden kunnen vinden en je ervaring verbetert.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Zo kan Snapchat via wifi verbinding maken met accessoires zoals Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Door te kiezen voor 'Altijd toestaan' updatet Snapchat je locatie op de achtergrond om je Live locatie te delen en je ervaring te verbeteren.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Door te kiezen voor 'Altijd toestaan' updatet Snapchat je locatie op de achtergrond om je Live locatie te delen en je ervaring te verbeteren.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>En dat gebruikt Snapchat om je gebruikservaring te verbeteren en om je gemakkelijker filters, Verhalen en meer te laten ontdekken.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Gebruik je microfoon om geluid op te nemen voor Snaps, te videochatten en meer.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Snapchat registreert of je jouw apparaat rechtop of liggend gebruikt bij het maken van Snaps, bij Lenzen, Verkennen en bij het bekijken van de ads.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Deel de inhoud van Foto's met vrienden op Snap.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Deel de inhoud van Foto's met vrienden op Snap.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Door 'Toestaan' te selecteren, laat Snap je na een poosje minder advertenties zien die je irrelevant vindt of te vaak te zien krijgt. Lees ons Privacybeleid voor meer informatie over tracking.</string>
+</dict>
+</plist>

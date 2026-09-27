@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "新的聚光燈款項！";
+"payouts_push_notification_gifting_title" = "新的獎勵款項！";
+"payouts_push_notification_title_spotlight_challenges" = "新的聚光燈挑戰款項！";
+"payouts_push_notification_title_story" = "新的故事款項！";
+"payouts_push_notification_title_lens_creator_fund" = "有新的特效鏡頭創作者獎勵計畫款項！";
+"payouts_push_notification_title_ildg" = "新的可解鎖特效鏡頭款項！";
+"payouts_push_notification_title_cashout_eligible" = "你的獎勵即將自動兌換成現金！";
+"payouts_push_notification_title_invalidate_eligible" = "你的獎勵即將失效！";
+
+"payouts_push_notification_subtitle_onboarded" = "恭禧！請立即到個人資料中「我的款項」，查看你賺取的獎金！";
+"payouts_push_notification_subtitle_not_onboarded" = "你已在聚光燈中賺取獎金。請立即前往個人資料，領取你的獎金！";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "你已在聚光燈挑戰中賺取水晶。請立即前往個人資料，領取你的獎金！";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "你已在禮物中賺取水晶。請立即前往個人資料，領取你的獎金！";
+"payouts_push_notification_subtitle_story_not_onboarded" = "你已在故事中賺取水晶。請立即前往個人資料，領取你的獎金！";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "你在特效鏡頭創作者獎勵計畫中獲得了水晶。請立即前往個人資料，領取你的獎金！";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "你在可解鎖特效鏡頭中獲得了水晶。請立即前往個人資料，領取你的獎金！";
+"payouts_push_notification_subtitle_cashout_eligible" = "若未採取任何動作，則你的水晶獎勵即將在 %1$@自動兌換成現金。請查看個人資料畫面中「我的水晶」以進行處理。";
+"payouts_push_notification_subtitle_invalidate_eligible" = "若未採取任何動作，則你的水晶獎勵即將在 %1$@失效。請查看個人資料畫面中「我的水晶」以進行處理。";
+
+"payouts_state_title" = "款項狀態已更新！";
+"payouts_state_subtitle" = "你的款項資格狀態已更新。請到個人資料中「我的 Snap 水晶」，查看你的狀態！";
+"gifting_opened_gift" = "%1$@ 已開啟了你的禮物！";
+"gifting_support_thanks" = "謝謝你在 Snapchat 上支持他們。";
+

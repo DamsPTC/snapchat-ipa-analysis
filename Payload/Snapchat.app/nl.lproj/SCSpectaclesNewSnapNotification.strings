@@ -1,0 +1,10 @@
+"imported_plural" = "Open om %1$ld Snaps te importeren";
+"imported_singular" = "Open om nieuwe Snap te importeren";
+"new_snap_notification_title_plural_format" = "%1$ld nieuwe Snaps";
+"new_snap_notification_title_singular" = "1 nieuwe Snap";
+"pairing_complete_notification_body" = "Tik om naar Herinneringen te importeren";
+"transfer_complete_with_count_plural" = "%1$ld Snaps geïmporteerd van %2$@";
+"transfer_complete_with_count_singular" = "1 Snap geïmporteerd van %1$@";
+"transfer_complete_without_count_singular" = "Nieuwe Snap van %1$@";
+"transfer_interrupted" = "Import van Specs onderbroken";
+"transfer_sd_complete" = "Import uit Spectacles is geslaagd.";

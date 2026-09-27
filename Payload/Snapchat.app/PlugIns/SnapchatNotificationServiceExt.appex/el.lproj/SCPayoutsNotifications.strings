@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Νέα πληρωμή Προσκηνίου!";
+"payouts_push_notification_gifting_title" = "Νέα Πληρωμή προσφοράς δώρου!";
+"payouts_push_notification_title_spotlight_challenges" = "Νέα πληρωμή πρόκλησης Προσκηνίου!";
+"payouts_push_notification_title_story" = "Νέα πληρωμή Ιστοριών!";
+"payouts_push_notification_title_lens_creator_fund" = "Νέα πληρωμή από το πρόγραμμα ανταμοιβών δημιουργών φακών!";
+"payouts_push_notification_title_ildg" = "Νέα πληρωμή από Φακούς χωρίς κλείδωμα!";
+"payouts_push_notification_title_cashout_eligible" = "Τα Βραβεία σου θα εξαργυρωθούν αυτόματα σύντομα!";
+"payouts_push_notification_title_invalidate_eligible" = "Τα Βραβεία σου θα ακυρωθούν σύντομα!";
+
+"payouts_push_notification_subtitle_onboarded" = "Συγχαρητήρια! Έλεγξε το Οι πληρωμές μου στο Προφίλ τώρα για να δεις τα έσοδά σου!";
+"payouts_push_notification_subtitle_not_onboarded" = "Κέρδισες χρήματα από το Προσκήνιο. Κάνε τώρα εγγραφή στο Προφίλ για να πληρωθείς!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Έλαβες κρυστάλλους από τις προκλήσεις Προσκηνίου. Κάνε τώρα εγγραφή στο Προφίλ για να πληρωθείς!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Έλαβες κρυστάλλους από τα Δώρα. Κάνε τώρα εγγραφή στο Προφίλ για να πληρωθείς!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Έλαβες κρυστάλλους από τις Ιστορίες. Κάνε τώρα εγγραφή στο Προφίλ για να πληρωθείς!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Έλαβες κρυστάλλους από το Πρόγραμμα πληρωμής δημιουργού φακών. Κάνε τώρα εγγραφή στο Προφίλ για να πληρωθείς!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Έλαβες κρυστάλλους από Φακούς χωρίς κλείδωμα. Κάνε τώρα εγγραφή στο Προφίλ για να πληρωθείς!";
+"payouts_push_notification_subtitle_cashout_eligible" = "Τα κρυστάλλινα βραβεία σου θα εξαργυρωθούν στις %1$@ εάν δεν γίνει ενέργεια. Έλεγξε το Οι κρύσταλλοί μου στο Προφίλ για επίλυση.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Τα κρυστάλλινα βραβεία σου θα ακυρωθούν στις %1$@ εάν δεν γίνει ενέργεια. Έλεγξε το Οι κρύσταλλοί μου στο Προφίλ για επίλυση.";
+
+"payouts_state_title" = "Η κατάσταση πληρωμών ενημερώθηκε!";
+"payouts_state_subtitle" = "Η κατάσταση δικαιώματος συμμετοχής ενημερώθηκε. Έλεγξε το «Οι κρύσταλλοι Snap μου» στο Προφίλ για να δεις την κατάστασή σου!";
+"gifting_opened_gift" = "Ο χρήστης %1$@ άνοιξε το δώρο σου!";
+"gifting_support_thanks" = "Ευχαριστούμε που τους υποστηρίζεις στο Snapchat.";
+

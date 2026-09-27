@@ -1,0 +1,8 @@
+"default_lens_author_name" = "Snapchat";
+"guided_mode" = "Guided Mode";
+"guided_mode_desc" = "Guided Mode locks your Spectacles to a single Lens, and limits some features like capturing a Snap or using Scan.";
+"guided_mode_lens_selection" = "Lens Selection";
+"guided_mode_restart" = "Restart";
+"guided_mode_restart_alert_message" = "To update Guided Mode changes, Spectacles must be restarted. \n \n You can restart Spectacles at any other time to make the guided mode changes take effect.";
+"guided_mode_restart_later" = "Later";
+"guided_mode_selected_lens" = "Selected Lens";

@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "You must be in a call to share your screen.";
+"screen_capture_error_generic" = "Something went wrong. Please try to screen share again.";
+"screen_capture_not_enabled" = "Something went wrong.";

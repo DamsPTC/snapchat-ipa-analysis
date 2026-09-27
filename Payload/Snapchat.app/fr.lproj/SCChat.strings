@@ -1,0 +1,3 @@
+"chatv3_blocked_exception_description_no_name" = "Un Snapchatter que vous avez bloqué fait partie de ce Chat. Voulez-vous quand même l'ouvrir ?";
+"erase_retention_declaration_1_day_1_week" = "Les Chats à plusieurs sont supprimés un jour après avoir été vus.";
+"erase_retention_explanation_1_day_1_week" = "Les messages envoyés dans les groupes expirent un jour après avoir été vus par tous, ou une semaine après avoir été envoyés. Ils peuvent être conservés plus longtemps s'ils sont enregistrés dans le Chat.";

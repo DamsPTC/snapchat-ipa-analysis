@@ -1,0 +1,4 @@
+"chatv3_leave_group_alert_description" = "Si vous quittez ce groupe, vous ne verrez plus et ne pourrez plus contribuer à sa Story. Les Snaps et les Chats que vous avez envoyés seront effacés et tous les Badges que vous avez masqués seront restaurés.";
+"chatv3_leave_group_alert_fail_message" = "Vous ne pouvez pas quitter le groupe pour le moment.";
+"chatv3_leave_group_alert_leave_button" = "Quitter";
+"chatv3_leave_group_alert_title" = "Quitter le groupe ?";

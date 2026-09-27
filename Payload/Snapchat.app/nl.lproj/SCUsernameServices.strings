@@ -1,0 +1,8 @@
+"suggestion_error" = "Er is iets misgegaan, probeer het later opnieuw";
+"username_invalid_begin" = "Gebruikersnamen moeten met een letter beginnen 🔠";
+"username_invalid_char" = "Gebruikersnamen mogen alleen Latijnse letters, cijfers en één van de volgende tekens bevatten -, _ of . maar geen speciale tekens. 👌";
+"username_invalid_end" = "Gebruikersnamen moeten met een letter of cijfer eindigen 👆";
+"username_invalid_long" = "Gebruikersnamen mogen niet langer dan 15 tekens zijn 📖";
+"username_invalid_separator" = "Gebruikersnamen mogen slechts één van de volgende tekens bevatten: -, _, of . Je hebt er te veel gebruikt ✌️";
+"username_invalid_short" = "Gebruikersnamen moeten uit ten minste 3 tekens bestaan 📝";
+"username_taken" = "%1$@ is al bezet.";

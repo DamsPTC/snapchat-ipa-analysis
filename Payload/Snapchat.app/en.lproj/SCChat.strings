@@ -1,0 +1,3 @@
+"chatv3_blocked_exception_description_no_name" = "A Snapchatter you've blocked is in this Chat. Open anyway?";
+"erase_retention_declaration_1_day_1_week" = "Group Chats delete a day after viewed";
+"erase_retention_explanation_1_day_1_week" = "Messages sent to Groups will expire one day after everyone has viewed the message, or a week after the message is sent. Messages can be kept longer if saved in Chat.";

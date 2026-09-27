@@ -1,0 +1,5 @@
+"cancel" = "إلغاء";
+"delete_all_scan_results" = "حذف الكل";
+"delete_n_scan_results" = "حذف ⁦%1$d⁩";
+"delete_scan_history_alert_message" = "لا يمكنك استعادة النتائج بمجرد حذفها.";
+"delete_scan_history_alert_title" = "هل أنت متأكد من رغبتك في حذف نتائج المسح الضوئي الذي أجريته؟";

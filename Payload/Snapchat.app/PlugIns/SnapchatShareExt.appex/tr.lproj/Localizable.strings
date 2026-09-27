@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Terk et";
+
+"add_a_chat" = "Bir sohbet ekle...";
+
+"are_you_sure_you_want_to_abandon" = "Şaheser'ini terk etmek istediğine emin misin?";
+
+"best_friends_header" = "Kankalar";
+
+"groups_header" = "Gruplar";
+
+"friends_header" = "Arkadaşlar";
+
+"send" = "Gönder";
+
+"cancel" = "İptal Et";
+
+"cannot_add_more_snapchatters" = "Daha fazla Snapchat kullanıcısı eklenemiyor!";
+
+
+"login_before_sharing_message" = "Lütfen paylaşım yapmadan önce Snapchat'te oturum aç.";
+
+"login_before_sharing_title" = "Oturum Açmak Gerekiyor";
+
+"me_hint" = "(ben)";
+
+"noticed_new_acct_sharing_message" = "Yanlış Hesap!";
+
+"noticed_new_acct_sharing_title" = "Görünüşe bakılırsa hesabını değiştirdin. Snap'ini göndermek için diğer hesabında tekrar oturum açabilir veya göndermeye baştan başlayabilirsin.";
+
+"okay" = "Tamam";
+
+"open_before_sharing_message" = "Paylaşım yapmadan önce lütfen Snapchat'i aç.";
+
+"open_before_sharing_title" = "Snapchat'i aç";
+
+"problem_sharing_try_again" = "Bir hata oluştu, lütfen tekrar dene.";
+
+"recents_header" = "En Son";
+
+"search_text_view_hint" = "Ara";
+
+"send_to" = "Gönder…";
+
+"try_again" = "Yeniden Dene";
+
+"video_too_long" = "Paylaşılacak video 60 saniyeden kısa olmalı.";
+
+"video_too_long_with_maximum_duration_desc" = "Paylaşılacak video %1$ld saniyeden kısa olmalı.";
+
+"stories_header" = "Hikayeler";
+
+"my_story" = "Hikayem";

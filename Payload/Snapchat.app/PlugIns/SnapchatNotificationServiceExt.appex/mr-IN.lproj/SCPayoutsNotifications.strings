@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "नवीन स्पॉटलाइट पेआउट!";
+"payouts_push_notification_gifting_title" = "नवीन गिफ्ट करण्याचे पेआउट!";
+"payouts_push_notification_title_spotlight_challenges" = "नवीन स्पॉटलाइट आव्हान पेआउट!";
+"payouts_push_notification_title_story" = "नवीन गोष्टी पेआउट!";
+"payouts_push_notification_title_lens_creator_fund" = "नवीन लेन्स निर्माता बक्षीस प्रोग्राम पेआउट!";
+"payouts_push_notification_title_ildg" = "नवीन लेन्स अनलॉकेबल्स पेआउट!";
+"payouts_push_notification_title_cashout_eligible" = "तुमचे पुरस्कार लवकरच आपोआप कॅश आउट केले जातील!";
+"payouts_push_notification_title_invalidate_eligible" = "तुमचे पुरस्कार लवकरच अवैध होणार आहेत!";
+
+"payouts_push_notification_subtitle_onboarded" = "अभिनंदन! तुमची कमाई पाहण्यासाठी आता प्रोफाइलमध्ये माझे पेआउट तपासा!";
+"payouts_push_notification_subtitle_not_onboarded" = "तुम्ही स्पॉटलाइट मार्फत पैसे कमवले आहेत. पैसे प्राप्त करण्यासाठी आता प्रोफाइलमध्ये ऑनबोर्ड या!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "तुम्ही स्पॉटलाइट चॅलेंजेस मार्फत स्फटिक मिळवले आहेत. पैसे प्राप्त करण्यासाठी आता प्रोफाइलमध्ये ऑनबोर्ड व्हा!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "तुम्ही गिफ्ट्समार्फत स्फटिक मिळवले आहेत. पैसे प्राप्त करण्यासाठी आता प्रोफाइलमध्ये ऑनबोर्ड व्हा!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "तुम्ही गोष्टींमार्फत स्फटिके मिळवली आहेत. पैसे प्राप्त करण्यासाठी आता प्रोफाइलमध्ये ऑनबोर्ड व्हा!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "तुम्हाला लेन्स निर्माता बक्षीस प्रोग्राममार्फत स्फटिके मिळाली आहेत. पैसे प्राप्त करण्यासाठी आता प्रोफाइलमध्ये ऑनबोर्ड व्हा!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "तुम्हाला लेन्स अनलॉकेबल्समार्फत स्फटिके मिळाली आहेत. पैसे प्राप्त करण्यासाठी आता प्रोफाइलमध्ये ऑनबोर्ड व्हा!";
+"payouts_push_notification_subtitle_cashout_eligible" = "जर कोणतीही कृती केली नाही तर तुमचे स्फटिक पुरस्कार %1$@ रोजी आपोआप कॅशआउट होतील. निराकरण करण्यासाठी प्रोफाइलमध्ये माझी स्फटिके तपासा.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "जर कोणतीही कृती केली नाही तर तुमचे स्फटिक पुरस्कार %1$@ रोजी अवैध होतील. निराकरण करण्यासाठी प्रोफाइलमध्ये माझी स्फटिके तपासा.";
+
+"payouts_state_title" = "पेआउट स्थिती अपडेट केली!";
+"payouts_state_subtitle" = "तुमची पेआउट पात्रता स्थिती अपडेट केली गेली आहे. तुमची स्थिती पाहण्यासाठी प्रोफाइलमध्ये माझे Snap स्फटिक तपासा!";
+"gifting_opened_gift" = "%1$@ ने तुमचे गिफ्ट उघडले!";
+"gifting_support_thanks" = "Snapchat वर त्यांना सपोर्ट केल्याबद्दल धन्यवाद.";
+

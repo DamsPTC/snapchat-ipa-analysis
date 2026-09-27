@@ -1,0 +1,9 @@
+"connection_error" = "সংযোগের ত্রুটি";
+"okay" = "ঠিক আছে";
+"send_code_again" = "আবার কোড পাঠান";
+"twofa_login_code_verification_otp_to_sms_info" = "তার বদলে আমাকে একটা এসএমএস পাঠান";
+"twofa_login_code_verification_otp_to_sms_progress" = "পাঠানো হচ্ছে...";
+"twofa_login_code_verification_with_otp_explanation" = "অনুগ্রহ করে আপনার পরিচয় যাচাই করতে আপনার প্রমাণীকরণ অ্যাপ দ্বারা উদ্ভূত কোডটি লিখুন।";
+"twofa_login_recovery_code_used" = "আপনি লগইন করতে আপনার পুনরুদ্ধার কোড ব্যবহার করেছেন। আমরা দ্বি-স্তরীয় যাচাইকরণ অক্ষম করেছি — এটাকে আবার সক্ষম করতে সেটিংসে যান।";
+"twofa_new_device_verification_explanation" = "আপনার পরিচয় যাচাই করতে অনুগ্রহ করে আমাদের %1$@-এ পাঠানো কোডটি লিখুন।";
+"twofa_settings_recovery_code_used_title" = "দ্বি-স্তরীয় যাচাইকরণ অক্ষম করা রয়েছে";

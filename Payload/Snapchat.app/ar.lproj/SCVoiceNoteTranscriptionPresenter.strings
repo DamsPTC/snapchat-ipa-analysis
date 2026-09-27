@@ -1,0 +1,11 @@
+"feedback_button_back" = "رجوع";
+"feedback_button_send" = "إرسال ملاحظات";
+"feedback_option_misheard_words" = "كلمات تم سماعها بشكل خطأ";
+"feedback_option_wrong_words" = "كلمات خطأ";
+"feedback_screen_description" = "هل تم نسخ ملاحظتك الصوتية نصيًا بشكلٍ صحيح؟";
+"feedback_screen_title" = "نسخ الملاحظات نصيًا";
+"feedback_submission_notification" = "شكرًا لك على ملاحظاتك.";
+"menu_button_done" = "تم";
+"menu_button_edit_transcript" = "تعديل النص التسجيلي";
+"menu_button_give_feedback" = "تقديم ملاحظة";
+"transcription_unavailable" = "لا يتوفر نسخ نصي";

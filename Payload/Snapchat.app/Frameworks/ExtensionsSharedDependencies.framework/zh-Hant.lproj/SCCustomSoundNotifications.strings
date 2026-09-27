@@ -1,0 +1,20 @@
+/*
+
+ SCCustomSoundNotifications.strings
+ SCNotificationServiceExtensionBridge
+*/
+
+/// File Names for Notification Custom Sounds 
+"custom_sound_notifications_default_sound_name" = "預設音效";
+"custom_sound_notifications_melody_beach_sound_name" = "美妙湖濱";
+"custom_sound_notifications_bottle_pop_sound_name" = "開瓶";
+"custom_sound_notifications_fairy_glass_sound_name" = "優美玻璃";
+"custom_sound_notifications_alien_amulet_sound_name" = "外星護身符";
+"custom_sound_notifications_log_goblin_sound_name" = "木精靈";
+"custom_sound_notifications_mini_drop_sound_name" = "迷你降落";
+"custom_sound_notifications_click_world_sound_name" = "卡嗒世界";
+"custom_sound_notifications_digi_drip_sound_name" = "數位滴落";
+"custom_sound_notifications_friendly_object_sound_name" = "友善物體";
+"custom_sound_notifications_star_lite_sound_name" = "微星";
+"custom_sound_notifications_stone_web_sound_name" = "石網";
+"custom_sound_notifications_techno_zone_sound_name" = "電子科技";

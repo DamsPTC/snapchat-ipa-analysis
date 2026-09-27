@@ -1,0 +1,9 @@
+"location_permission_continue" = "Continue";
+"location_permission_enable_location" = "Enable Location";
+"location_permission_enable_location_title" = "Enable Location?";
+"location_permission_go_to_setting_description" = "Go to Settings, select \"Location\" and choose \"While Using\" to improve your Snap Map experience!";
+"location_permission_go_to_settings" = "Go to Settings";
+"location_permission_improve_snap_map" = "Improve Snap Map by enabling your location - this will not share your location with friends. Snapchat also uses your location for Filters, Ads, and more.";
+"location_permission_improve_snap_map_sharing" = "Improve Snap Map by enabling your location. Snapchat also uses your location for Filters, Ads, and more.";
+"location_permission_no_thanks" = "No Thanks";
+"location_permission_skip" = "Skip";

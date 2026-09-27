@@ -1,0 +1,11 @@
+"feedback_button_back" = "Zurück";
+"feedback_button_send" = "Feedback senden";
+"feedback_option_misheard_words" = "Missverstandene Wörter";
+"feedback_option_wrong_words" = "Falsche Wörter";
+"feedback_screen_description" = "Wurde deine Sprachnachricht gut transkribiert?";
+"feedback_screen_title" = "Feedback zu Transkription";
+"feedback_submission_notification" = "Vielen Dank für dein Feedback!";
+"menu_button_done" = "Fertig";
+"menu_button_edit_transcript" = "Transkription bearbeiten";
+"menu_button_give_feedback" = "Feedback geben";
+"transcription_unavailable" = "Transkription nicht verfügbar";

@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "Snap ที่บันทึกโดย %1$@ ยังสำรองข้อมูลไปยัง Memories ไม่เสร็จ หากคุณเข้าสู่ระบบในฐานะ %2$@ Snap เหล่านั้นจะหายไป ลงชื่อเข้าใช้ในฐานะ %3$@ อีกครั้งเพื่อสิ้นสุดการสำรองข้อมูล";
+"memories_pending_sync_alert_login_action" = "เข้าสู่ระบบต่อไป";
+"memories_pending_sync_alert_registration_action" = "สมัครใช้งานบัญชีต่อไป";
+"memories_pending_sync_alert_registration_body" = "Snap ที่บันทึกโดย %1$@ ยังสำรองข้อมูลไปยัง Memories ไม่เสร็จ หากคุณสมัครใช้งานบัญชีใหม่  Snap เหล่านั้นจะหายไป ลงชื่อเข้าใช้ในฐานะ %2$@ อีกครั้งเพื่อสิ้นสุดการสำรองข้อมูล";
+"memories_pending_sync_alert_title" = "รอสักครู่!";

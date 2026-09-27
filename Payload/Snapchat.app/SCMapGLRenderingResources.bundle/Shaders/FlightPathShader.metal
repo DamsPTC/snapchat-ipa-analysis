@@ -1,0 +1,99 @@
+#include <metal_stdlib>
+#include <metal_common>
+#include <metal_math>
+using namespace metal;
+
+struct V2F {
+    float4 gl_Position [[ position ]];
+    float2 v_pixel;
+};
+
+vertex V2F flightPathVertex(device const float4* a_pos_array [[ buffer(0) ]],
+                            uint vertexId [[ vertex_id ]]) {
+    const float4 a_pos = a_pos_array[vertexId];
+    V2F out;
+    out.gl_Position = float4(a_pos[0], a_pos[1], 0.0, 1.0);
+    out.v_pixel = float2(a_pos[2], a_pos[3]);
+    return out;
+}
+
+float scaled_smoothstep(float edge0, float edge1, float x, float min_out, float max_out) {
+    return (max_out - min_out) * smoothstep(edge0, edge1, x) + min_out;
+}
+
+// Fragment Output
+struct FragmentOutput {
+    float4 gl_FragColor [[color(0)]];
+};
+
+fragment FragmentOutput flightPathFragment(V2F in [[stage_in]],
+                                           device const float& u_total_length [[ buffer(0) ]],
+                                           device const float& u_current_length [[ buffer(1) ]],
+                                           device const float& u_min_width [[ buffer(2) ]],
+                                           device const float& u_max_width [[ buffer(3) ]],
+                                           device const float& u_shadow_width [[ buffer(4) ]])
+{
+    const float ARC_START_ALPHA = 0.2;
+    const float SHADOW_ALPHA = 0.2;
+    const float SWOOSH_EXPAND_LENGTH = 320.0;
+    const float CENTER_WIDTH_WEIGHT = 1.0;
+
+    // Calculate the start circle radius as a factor of the total width.
+    float start_cap_radius = u_min_width / 2.0;
+    
+    // Based on the total length of the path, calculate the width of the widest part of the path
+    // and the width of the shadow.
+    float width_ratio = smoothstep(u_min_width, SWOOSH_EXPAND_LENGTH, u_total_length);
+    float scaled_shadow_width = (u_shadow_width / 2.0) * width_ratio + (u_shadow_width / 2.0);
+    
+    // Find how far the current length is from the midpoint of the final length
+    float progress = smoothstep(start_cap_radius, u_total_length - start_cap_radius, u_current_length);
+    float weighted_percent_from_center = pow(2.0 * abs(progress - 0.5), CENTER_WIDTH_WEIGHT);
+    
+    // Calculate the maximum allowed radius and the radius of the end circle
+    float max_radius = u_max_width / 2.0;
+    float end_cap_radius = (max_radius - start_cap_radius) * width_ratio * (1.0 - weighted_percent_from_center) + start_cap_radius;
+
+    // Calculate the current pixel's position along the final arc as a percentage (i.e. zero means the
+    // current pixel is before the arc begins and one means the current pixel is after the arc ends).
+    float rect_start_x = scaled_shadow_width + start_cap_radius;
+    float rect_cur_end_x = u_current_length - scaled_shadow_width - end_cap_radius;
+    float rect_final_end_x = u_total_length - scaled_shadow_width - end_cap_radius;
+    float smoothed_x = smoothstep(rect_start_x, rect_final_end_x, in.v_pixel.x);
+    
+    // Calculate the edge
+    float middle_max_radius = scaled_smoothstep(u_min_width, SWOOSH_EXPAND_LENGTH, u_total_length, start_cap_radius, max_radius);
+    float x_from_center = 2.0 * abs(smoothed_x - 0.5); // zero at rect center, one at rect start/end
+    float edge = scaled_smoothstep(0.0, 1.0, x_from_center, middle_max_radius, start_cap_radius);
+    
+    float2 first_cap_center = float2(rect_start_x, 0.0);
+    float2 second_cap_center = float2(rect_cur_end_x, 0.0);
+    float rect_addition = 2.0 * edge * abs(floor((in.v_pixel.x - rect_start_x) / (rect_cur_end_x - rect_start_x)));
+
+    // Set the shade to 1.0 inside the arc and 0.0 outside the arc (with antialiasing)
+    float radius = min(min(distance(first_cap_center, in.v_pixel),
+                           distance(second_cap_center, in.v_pixel)),
+                       abs(in.v_pixel.y) + rect_addition);
+    float aa_factor = fwidth(radius + in.v_pixel.x); // Antialiasing factor
+    float shade = 1.0 - smoothstep(edge - aa_factor, edge, radius);
+    
+    // Recalculate the width of the shadow so it's wider below the path
+    float shadow_width = (scaled_shadow_width / 2.0) * (1.0 - smoothstep(-start_cap_radius, start_cap_radius, in.v_pixel.y)) + (scaled_shadow_width / 2.0);
+    
+    // Calculate the alpha, such that the fill is 1.0 and the edge is SHADOW_ALPHA (with antialiasing)
+    float alpha_y_to_edge = 1.0 - scaled_smoothstep(edge - aa_factor, edge, radius, 0.0, 1.0 - SHADOW_ALPHA);
+    
+    // Subtract the alpha beyond the edge to fade out the shadow
+    float alpha_y = alpha_y_to_edge - smoothstep(edge - aa_factor, edge, radius) * scaled_smoothstep(edge, edge + shadow_width, radius, 0.0, SHADOW_ALPHA);
+
+    // Calculate the alpha as a factor of the arc's length (where it is fully opaque by the middle)
+    float alpha_x = scaled_smoothstep(rect_start_x, u_total_length / 2.0, in.v_pixel.x, ARC_START_ALPHA, 1.0);
+    
+    // Multiply the alpha along X by the alpha along Y to get our final alpha across both X and Y
+    float alpha = alpha_x * alpha_y;
+    
+    FragmentOutput out;
+    out.gl_FragColor = float4(shade, shade, shade, 1.0) * alpha;
+    return out;
+}
+

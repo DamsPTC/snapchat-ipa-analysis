@@ -1,0 +1,7 @@
+"call_active" = "Aktiver Anruf";
+"call_active_with_display_name_1" = "Aktiver Anruf von %1$@";
+"call_active_with_display_name_n" = "Aktiver Anruf – %1$@";
+"connecting" = "Verbinden...";
+"mic_muted_in_call" = "Mikro bei Anruf stumm";
+"ringing" = "Anrufen ...";
+"tap_to_return_to_call" = "Tippen, um zum Anruf zurückzukehren";

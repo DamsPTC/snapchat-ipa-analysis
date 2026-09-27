@@ -1,0 +1,12 @@
+"cancel" = "Cancelar";
+"clear" = "Eliminar";
+"clear_location_history" = "Borrar lugares principales";
+"clear_location_history_alert_message" = "Se restablecerá el listado de lugares que más visitas y que usamos para los Actionmoji del Mapa y otras cosas.";
+"clear_location_history_alert_title" = "¿Borrar lugares principales?";
+"clear_location_history_request_failure_message" = "Error al borrar los lugares principales";
+"clear_location_history_request_success_message" = "¡Se borraron los lugares principales!";
+"clear_location_history_v2_subtext" = "Se borrará tu historial de ubicaciones, incluidas las actualizaciones de viajes y algunos lugares que visitaste mientras estaba activada la ubicación. No se incluyen los lugares que etiquetaste en los Snaps.";
+"clear_location_history_v2_title" = "Borrar historial de ubicaciones";
+"display_public_friend_favorites" = "No mostrar mis lugares favoritos a mis amistades. Seguirás pudiendo ver los favoritos de tus amistades.";
+"places" = "Lugares";
+"recommend_to_friends" = "Usar lugares que etiqueté en publicaciones de Mi Historia o añadí a Favoritos para recomendar lugares a mis amigos";

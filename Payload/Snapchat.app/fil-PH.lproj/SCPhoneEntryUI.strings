@@ -1,0 +1,11 @@
+"country_code_field" = "Field ng Country Code";
+"mobile_number_field" = "Mobile Number Field";
+"phone_entry_invalid_country_code" = "🌎 Invalid na country code";
+"phone_entry_phone_placeholder" = "phone number";
+"phone_entry_select_country_code" = "🌎 Pumili ng country code";
+"register_country_picker_title" = "Pumili ng Country";
+"register_phone_label" = "MOBILE NUMBER";
+"send_sms_explanation" = "Padadalhan ka namin ng verification code.";
+"send_sms_explanation_here" = "Gagamitin namin ang iyong phone number para mag-send sa 'yo ng SMS verification code at ayon sa inilalarawan [dito](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_and_here" = "Gagamitin namin ang iyong phone number para mag-send sa 'yo ng SMS verification code, mahahalagang update, at ayon sa inilalarawan [dito](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_here" = "Gagamitin namin ang iyong phone number para mag-send sa 'yo ng SMS verification code at mahahalagang update ayon sa inilalarawan [dito](https://support.snapchat.com/article/snap-phone-number).";

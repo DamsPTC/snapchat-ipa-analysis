@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "તમારી સ્ક્રીન શેર કરવા માટે તમે કૉલમાં હોવા જોઈએ.";
+"screen_capture_error_generic" = "કંઈક ખોટું થયું: કૃપા કરીને સ્ક્રીનને ફરીથી શેર કરવાનો પ્રયાસ કરો.";
+"screen_capture_not_enabled" = "કંઈક ખોટું થયું.";

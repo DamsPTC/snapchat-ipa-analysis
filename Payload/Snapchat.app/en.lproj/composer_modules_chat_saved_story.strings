@@ -1,0 +1,10 @@
+"me" = "Me";
+"save_story_tooltip_education" = "Your Story Snap was saved in Chat! You may press and hold to delete it.";
+"saved_participant_story_by_both" = "YOU & $0 SAVED A SNAP FROM $1'S STORY IN CHAT";
+"saved_participant_story_by_paticipant" = "$0 SAVED A SNAP FROM $1'S STORY IN CHAT";
+"saved_participant_story_by_you" = "YOU SAVED A SNAP FROM $0'S STORY IN CHAT";
+"saved_your_story_by_both" = "YOU & $0 SAVED A SNAP FROM YOUR STORY IN CHAT";
+"saved_your_story_by_participant" = "$0 SAVED A SNAP FROM YOUR STORY IN CHAT";
+"saved_your_story_by_you" = "YOU SAVED A SNAP FROM YOUR STORY IN CHAT";
+"story_media_deleted" = "This Story Snap has been deleted";
+"tap_to_load" = "Tap to Load";

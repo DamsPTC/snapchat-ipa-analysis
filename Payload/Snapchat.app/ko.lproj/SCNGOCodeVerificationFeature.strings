@@ -1,0 +1,7 @@
+"description" = "%1$@번으로 전송된 코드를 입력하세요";
+"ok" = "확인";
+"resend_button" = "코드 재전송";
+"resend_description" = "%1$lu초 후 코드 재전송";
+"submit" = "등록";
+"title_email" = "이메일을 확인하세요";
+"title_phone" = "번호를 확인하세요";

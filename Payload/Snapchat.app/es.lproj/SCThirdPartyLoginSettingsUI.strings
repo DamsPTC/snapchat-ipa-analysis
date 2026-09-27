@@ -1,0 +1,9 @@
+"amazon" = "Amazon";
+"available_to_link" = "Disponibles para vincular";
+"link" = "Vincular";
+"linked_accounts" = "Cuentas vinculadas";
+"third_party_accounts" = "Cuentas de terceros";
+"third_party_accounts_intro" = "Puedes vincular cuentas de otros sitios web para comprar con mayor facilidad en Snapchat.";
+"unlink" = "Desvincular";
+"unlink_confirmation_text" = "Si la desvinculas, será más difícil comprar los productos que veas en anuncios.";
+"unlink_confirmation_title" = "¿Deseas desvincular la cuenta de %1$@?";

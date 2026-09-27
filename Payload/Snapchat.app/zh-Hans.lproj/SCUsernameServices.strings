@@ -1,0 +1,8 @@
+"suggestion_error" = "出错了，请稍后重试";
+"username_invalid_begin" = "用户名必须以字母开头 🔠";
+"username_invalid_char" = "用户名只能包含拉丁字母、数字和以下符号之一：“-”、“_”或“.”，但不能包含特殊字符！👌";
+"username_invalid_end" = "用户名必须以字母或数字结尾 👆";
+"username_invalid_long" = "用户名不得超过 15 个字符 📖";
+"username_invalid_separator" = "用户名只能包含一个 -、_ 或 .，你用的符号过多 ✌";
+"username_invalid_short" = "用户名必须包含至少 3 个字符 📝";
+"username_taken" = "%1$@ 已被使用！";

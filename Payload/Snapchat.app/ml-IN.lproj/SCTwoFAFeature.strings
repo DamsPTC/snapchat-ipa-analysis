@@ -1,0 +1,9 @@
+"connection_error" = "കണക്ഷൻ പിശക്";
+"okay" = "ശരി";
+"send_code_again" = "കോഡ് വീണ്ടും അയയ്ക്കുക";
+"twofa_login_code_verification_otp_to_sms_info" = "പകരം എനിക്കൊരു SMS അയയ്ക്കുക";
+"twofa_login_code_verification_otp_to_sms_progress" = "അയയ്ക്കുന്നു...";
+"twofa_login_code_verification_with_otp_explanation" = "നിങ്ങളുടെ വ്യക്തിത്വം പരിശോധിച്ചുറപ്പിക്കാനായി നിങ്ങളുടെ പ്രാമാണിക ആപ്പ് ഉൽപാദിപ്പിച്ച കോഡ് രേഖപ്പെടുത്തുക.";
+"twofa_login_recovery_code_used" = "നിങ്ങൾ ലോഗിൻ ചെയ്യാനായി നിങ്ങളുടെ വീണ്ടെടുക്കാനുള്ള കോഡ് ഉപയോഗിച്ചു. രണ്ട്-ഘടക പ്രാമാണീകരണം ഞങ്ങൾ പ്രവർത്തനരഹിതമാക്കി — അത് വീണ്ടും പ്രവർത്തനക്ഷമമാക്കാൻ സെറ്റിംഗുകളിൽ പോവുക.";
+"twofa_new_device_verification_explanation" = "നിങ്ങളുടെ വ്യക്തിത്വം പരിശോധിച്ചുറപ്പിക്കാൻ ഞങ്ങൾ %1$@-ലേക്ക് അയച്ച കോഡ് ദയവായി രേഖപ്പെടുത്തുക.";
+"twofa_settings_recovery_code_used_title" = "രണ്ട്-ഘടക പ്രാമാണീകരണം പ്രവർത്തനരഹിതമായി";

@@ -1,0 +1,17 @@
+"crop_tool_ai_tool_disclaimer_accept_title" = "Akzeptieren";
+"crop_tool_ai_tool_disclaimer_cancel_title" = "Abbrechen";
+"crop_tool_ai_tool_disclaimer_info_dalle" = "Dieses KI-gestützte Kreativtool basiert auf DALL-E. Wenn du es nutzt, wird dein Snap mit dem Anbieter geteilt.";
+"crop_tool_ai_tool_disclaimer_info_open_ai" = "Dieses KI-gestützte Kreativtool wird von einem Snapchat Partner (z. B. OpenAI) präsentiert. Wenn du es nutzt, wird dein Snap mit dem Anbieter geteilt.";
+"crop_tool_ai_tool_disclaimer_info_partner" = "Dieses KI-gestützte Kreativtool wird von einem Partner präsentiert. Wenn du es nutzt, wird dein Snap mit dem Anbieter geteilt.";
+"crop_tool_ai_tool_disclaimer_info_third_party" = "Dieses KI-gestützte Kreativtool wird von einer Drittpartei präsentiert. Wenn du es nutzt, wird dein Snap mit dem Anbieter geteilt.";
+"crop_tool_ai_tool_error_title" = "Etwas ist schiefgelaufen";
+"crop_tool_ai_tool_error_try_again" = "Versuchs nochmal";
+"crop_tool_enhance_button_title" = "Optimieren";
+"crop_tool_enhance_error" = "Wir konnten deinen Snap nicht optimieren.";
+"crop_tool_extend_button_title" = "Verlängern";
+"crop_tool_extend_error" = "Wir konnten deinen Snap nicht verlängern.";
+"crop_tool_loading_default_message" = "Wir verarbeiten deinen Snap.";
+"crop_tool_loading_extend_message" = "Diese Funktion ist experimentell.\nWir verarbeiten deinen Snap.\nDas kann bis zu 15 Sekunden dauern.";
+"crop_tool_loading_title" = "Einen Moment";
+"crop_tool_retouch_error" = "Ups! „Retuschieren“ wurde nicht angewendet. Möchtest du es noch mal versuchen?";
+"crop_tool_undo_button_title" = "Rückgängig machen";

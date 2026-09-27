@@ -1,0 +1,11 @@
+"country_code_field" = "국가 코드 필드";
+"mobile_number_field" = "휴대폰 번호";
+"phone_entry_invalid_country_code" = "🌎 잘못된 국가 코드";
+"phone_entry_phone_placeholder" = "전화번호";
+"phone_entry_select_country_code" = "🌎 국가 코드 선택";
+"register_country_picker_title" = "국가 선택";
+"register_phone_label" = "휴대폰 번호";
+"send_sms_explanation" = "SMS 인증 코드를 전송하겠습니다.";
+"send_sms_explanation_here" = "회원님의 전화번호를 사용하여 [여기](https://support.snapchat.com/article/snap-phone-number)에 설명된 대로 SMS 인증 코드를 전송해 드립니다.";
+"send_sms_explanation_updates_and_here" = "회원님의 전화번호를 사용하여 [여기](https://support.snapchat.com/article/snap-phone-number)에 설명된 대로 SMS 인증 코드와 중요한 업데이트를 전송해 드립니다.";
+"send_sms_explanation_updates_here" = "회원님의 전화번호를 사용하여 [여기](https://support.snapchat.com/article/snap-phone-number)에 설명된 대로 SMS 인증 코드와 중요한 업데이트를 전송해 드립니다.";

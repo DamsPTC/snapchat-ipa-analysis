@@ -1,0 +1,4 @@
+"country" = "Land";
+"invalid_country_code" = "🌎 Ogiltigt landsnummer";
+"phone_number" = "Telefonnummer";
+"select_country_code" = "🌎 Välj landsnummer";

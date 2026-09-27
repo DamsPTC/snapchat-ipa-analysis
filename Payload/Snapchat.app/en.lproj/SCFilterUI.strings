@@ -1,0 +1,5 @@
+"broad_location_prompt_body" = "You need to enable Precise Location in iOS Settings to use Place Geofilters.";
+"broad_location_prompt_button" = "Open Settings";
+"location_prompt_v2_body" = "Discover Filters for places, events, and more in your area.";
+"location_prompt_v2_button" = "Enable";
+"location_prompt_v2_title" = "Enable Location Filters?";

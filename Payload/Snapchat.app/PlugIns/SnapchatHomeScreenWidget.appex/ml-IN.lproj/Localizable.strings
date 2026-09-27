@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "എന്റെ Snapcode";
+
+"Snapcode Desc" = "ഈ വിഡ്‌ജറ്റ് നിങ്ങളുടെ snapcode കാണിക്കുന്നു";
+
+"camera" = "ക്യാമറ";
+
+"camera_desc" = "Snapchat Camera തുറക്കുക.";
+
+"log_in" = "ലോഗിൻ ചെയ്യുക";
+
+"shortcut_to_a_friend" = "തിരഞ്ഞെടുത്ത സുഹൃത്തിലോ ഗ്രൂപ്പിലോ വിജറ്റ് പ്ലെയ്സ് ചെയ്ത ശേഷം അതിൽ ടാപ്പ്.";
+
+"pin_a_friend" = "ഒരു സുഹൃത്തിനെയോ ഗ്രൂപ്പിനെയോ പിൻ ചെയ്യുക";
+
+"birthdays" = "ജന്മദിനങ്ങൾ";
+
+"see_upcoming_birthdays" = "വരാനിരിക്കുന്ന ജന്മദിനങ്ങൾ കാണുക.";
+
+"no_upcoming_birthdays" = "വരാനിക്കുന്നവയൊന്നുമില്ല";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%2$d ദിവസത്തിനുള്ളിൽ %1$@";
+
+"user_has_birthday_in_days_plural" = "%2$d ദിവസത്തിനുള്ളിൽ %1$@";
+
+"user_and_other_have_birthday_in_days_singular" = "%3$d ദിവസത്തിനുള്ളിൽ %1$@ +%2$d";
+
+"user_and_other_have_birthday_in_days_plural" = "%3$d ദിവസത്തിനുള്ളിൽ %1$@ +%2$d";
+
+"Memories" = "മെമ്മറീസ്";
+
+"Memories Desc" = "ഫ്ലാഷ്ബാക്കുകളും ട്രിപ്പുകളും റീക്യാപ്പുകളും മറ്റും ഉൾപ്പെടെയുള്ള നിങ്ങളുടെ മെമ്മറീസിൽ നിന്നുള്ള ഫീച്ചേർഡ് Snap-കൾ!";
+
+"Friend Location Widget Desc" = "നിങ്ങളുടെ സുഹൃത്തിന്റെ ലൊക്കേഷൻ കാണാൻ സുഹൃത്തിനെ ഈ വിജറ്റ് ഉപയോഗിച്ച് പിൻ ചെയ്യൂ.";
+
+"map" = "മാപ്പ്";
+
+"now" = "ഇപ്പോൾ";
+
+"something_went_wrong" = "എന്തോ കുഴപ്പം പറ്റി, Snapchat തുറക്കുക";
+
+"long_press_to_pin" = "ഒരു സുഹൃത്തിനെ പിൻ ചെയ്യാൻ എഡിറ്റ് ചെയ്യുക";
+
+"off_the_grid" = "ഓഫ് ദി ഗ്രിഡ്";

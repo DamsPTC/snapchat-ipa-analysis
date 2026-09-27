@@ -1,0 +1,3 @@
+"check_connection_message" = "請檢查你的連線狀態並重試。";
+"connect_failed_title" = "無法連線";
+"server_error_try_again" = "發生錯誤，請稍後重試！";

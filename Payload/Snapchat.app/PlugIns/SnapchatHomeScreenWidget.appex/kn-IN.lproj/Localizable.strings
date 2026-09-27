@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "ನನ್ನ Snapcode";
+
+"Snapcode Desc" = "ಈ ವಿಜೆಟ್‌ ನಿಮ್ಮ snapcode ಅನ್ನು ತೋರಿಸುತ್ತದೆ";
+
+"camera" = "ಕ್ಯಾಮೆರಾ";
+
+"camera_desc" = "Snapchat ಕ್ಯಾಮೆರಾ ತೆರೆಯಿರಿ.";
+
+"log_in" = "ಲಾಗ್ ಇನ್";
+
+"shortcut_to_a_friend" = "ಒಬ್ಬ ಸ್ನೇಹಿತ ಅಥವಾ ಗುಂಪನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ವಿಜೆಟ್ ಇರಿಸಿದ ಬಳಿಕ ಅದನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ.";
+
+"pin_a_friend" = "ಒಬ್ಬ ಸ್ನೇಹಿತ/ತೆಯನ್ನು ಅಥವಾ ಗುಂಪನ್ನು ಪಿನ್ ಮಾಡಿ";
+
+"birthdays" = "ಜನ್ಮದಿನಗಳು";
+
+"see_upcoming_birthdays" = "ಮುಂಬರುವ ಜನ್ಮದಿನಗಳನ್ನು ನೋಡಿ.";
+
+"no_upcoming_birthdays" = "ಯಾವುದೇ ಮುಂಬರುವುದು ಇಲ್ಲ";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%2$d ದಿನದಲ್ಲಿ %1$@";
+
+"user_has_birthday_in_days_plural" = "%2$d ದಿನಗಳಲ್ಲಿ %1$@";
+
+"user_and_other_have_birthday_in_days_singular" = "%3$d ದಿನದಲ್ಲಿ %1$@ +%2$d";
+
+"user_and_other_have_birthday_in_days_plural" = "%3$d ದಿನಗಳಲ್ಲಿ %1$@ +%2$d";
+
+"Memories" = "ನೆನಪುಗಳು";
+
+"Memories Desc" = "ಫ್ಲ್ಯಾಶ್‌ಬ್ಯಾಕ್‌ಗಳು, ಪ್ರವಾಸಗಳು, ಹಿನ್ನೋಟಗಳು ಮತ್ತು ಇನ್ನಷ್ಟು ಸೇರಿದಂತೆ ನೆನಪುಗಳಿಂದ ಪ್ರದರ್ಶಿಸಿರುವ Snap ಗಳು!";
+
+"Friend Location Widget Desc" = "ನಿಮ್ಮ ಸ್ನೇಹಿತರ ಸ್ಥಳದತ್ತ ಕಣ್ಣಾಡಿಸಲು ಈ ವಿಜೆಟ್ ಬಳಸಿ ಸ್ನೇಹಿತರನ್ನು ಪಿನ್ ಮಾಡಿ.";
+
+"map" = "ಮ್ಯಾಪ್";
+
+"now" = "ಈಗ";
+
+"something_went_wrong" = "ಏನೋ ತಪ್ಪಾಗಿದೆ, ದಯವಿಟ್ಟು Snapchat ತೆರೆಯಿರಿ";
+
+"long_press_to_pin" = "ಸ್ನೇಹಿತರನ್ನು ಪಿನ್ ಮಾಡಲು ಎಡಿಟ್ ಮಾಡಿ";
+
+"off_the_grid" = "ಆಫ್ ದಿ ಗ್ರಿಡ್";

@@ -1,0 +1,11 @@
+"call_again" = "Rappeler";
+"call_back" = "Rappeler";
+"dnd_reason_cta_ios" = "Paramètres du mode Ne pas déranger";
+"dnd_reason_ios" = "en mode Ne pas déranger";
+"dweb_upsell" = "Essayer sur le web";
+"elapsed_time_with_reason" = "$0 · $1";
+"missed_call" = "Appel manqué";
+"missed_calls" = "$0 appels manqués";
+"num_of_missed_calls" = "x$0";
+"video_call" = "Appel vidéo";
+"voice_call" = "Appel vocal";

@@ -1,0 +1,7 @@
+"description" = "Anna kohteeseen %1$@ lähetetty koodi";
+"ok" = "OK";
+"resend_button" = "Lähetä koodi uudelleen";
+"resend_description" = "Lähetä koodi uudelleen − %1$lu";
+"submit" = "Lähetä";
+"title_email" = "Vahvista sähköpostiosoitteesi";
+"title_phone" = "Vahvista puhelinnumerosi";

@@ -1,0 +1,35 @@
+#include <metal_stdlib>
+#include <metal_common>
+#include <metal_math>
+using namespace metal;
+
+// Vertex to fragment interface
+struct V2F {
+    float4 gl_Position [[ position ]];
+    float2 v_texCoord;
+};
+
+vertex V2F passShader_vert(uint vertexId [[ vertex_id ]]) {
+    const float2 a_pos_array[3] = {
+        { -1.0, -1.0 },
+        {  3.0, -1.0 },
+        { -1.0,  3.0 }
+    };
+    const float2 a_pos = a_pos_array[vertexId];
+    V2F out;
+    out.gl_Position = float4(a_pos, 0.0, 1.0);
+    out.v_texCoord = (a_pos + 1.0) * 0.5;
+    return out;
+}
+
+fragment float4 passShader_frag(V2F in [[ stage_in ]],
+                                device const float& layerAlpha [[ buffer(0) ]],
+                                device const uint& u_use_tap_texture [[ buffer(1) ]],
+                                texture2d<half> renderedTexture [[ texture(0) ]],
+                                texture2d<half> gradientTexture [[ texture(1) ]]) {
+    constexpr sampler textureSampler(mag_filter::linear, min_filter::linear);
+    
+    half heatAlpha = renderedTexture.sample(textureSampler, in.v_texCoord).a;
+    return float4(gradientTexture.sample(textureSampler, float2(heatAlpha, 0.5)) * layerAlpha);
+}
+

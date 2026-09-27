@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Du musst dich in einem Anruf befinden, um deinen Bildschirm zu teilen.";
+"screen_capture_error_generic" = "Etwas ist schiefgegangen. Versuch nochmal, deinen Bildschirm zu teilen.";
+"screen_capture_not_enabled" = "Etwas ist schiefgegangen.";

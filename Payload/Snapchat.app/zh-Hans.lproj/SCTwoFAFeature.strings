@@ -1,0 +1,9 @@
+"connection_error" = "连接错误";
+"okay" = "确定";
+"send_code_again" = "重新发送验证码";
+"twofa_login_code_verification_otp_to_sms_info" = "改成向我发送短信";
+"twofa_login_code_verification_otp_to_sms_progress" = "发送中...";
+"twofa_login_code_verification_with_otp_explanation" = "请输入你身份验证 App 生成的代码以验证你的身份。";
+"twofa_login_recovery_code_used" = "你已使用恢复代码登录。我们已停用双重身份验证，请进入“设置”重新启用。";
+"twofa_new_device_verification_explanation" = "请输入我们发送至 %1$@ 的验证码以验证你的身份。";
+"twofa_settings_recovery_code_used_title" = "双重身份验证已停用";

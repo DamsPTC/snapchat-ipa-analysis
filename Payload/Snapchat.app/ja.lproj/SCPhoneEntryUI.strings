@@ -1,0 +1,11 @@
+"country_code_field" = "国コード欄";
+"mobile_number_field" = "携帯電話番号欄";
+"phone_entry_invalid_country_code" = "🌎無効な国コードです";
+"phone_entry_phone_placeholder" = "電話番号";
+"phone_entry_select_country_code" = "🌎国コードを選択";
+"register_country_picker_title" = "国を選択してください";
+"register_phone_label" = "携帯電話番号";
+"send_sms_explanation" = "SMS認証コードを送信します。";
+"send_sms_explanation_here" = "認証コードを送信するため、その他[こちら](https://support.snapchat.com/article/snap-phone-number)にある内容で電話番号を使用します。";
+"send_sms_explanation_updates_and_here" = "[こちら](https://support.snapchat.com/article/snap-phone-number)にあるように、認証コードや重要なお知らせを送信するために電話番号を使用します。";
+"send_sms_explanation_updates_here" = "[こちら](https://support.snapchat.com/article/snap-phone-number)にあるように、SMS認証コードや重要なお知らせを送信するために電話番号を使用します。";

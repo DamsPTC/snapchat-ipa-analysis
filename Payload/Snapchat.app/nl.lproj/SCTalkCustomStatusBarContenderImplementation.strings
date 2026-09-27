@@ -1,0 +1,7 @@
+"call_active" = "Aan het bellen";
+"call_active_with_display_name_1" = "Aan het bellen met %1$@";
+"call_active_with_display_name_n" = "Aan het bellen - %1$@";
+"connecting" = "Verbinden...";
+"mic_muted_in_call" = "Microfoon gedempt in het gesprek";
+"ringing" = "Bellen...";
+"tap_to_return_to_call" = "Tik om terug te keren naar het gesprek";

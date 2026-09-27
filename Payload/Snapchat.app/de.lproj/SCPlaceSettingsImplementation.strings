@@ -1,0 +1,12 @@
+"cancel" = "Abbrechen";
+"clear" = "Löschen";
+"clear_location_history" = "Meistbesuchte Standorte löschen";
+"clear_location_history_alert_message" = "Dadurch wird die Liste der von dir am häufigsten besuchten Orte zurückgesetzt, die wir für Map Actionmoji und vieles mehr verwenden.";
+"clear_location_history_alert_title" = "Meistbesuchte Standorte löschen?";
+"clear_location_history_request_failure_message" = "Löschen der meistbesuchten Standorte fehlgeschlagen";
+"clear_location_history_request_success_message" = "Meistbesuchte Standorte gelöscht!";
+"clear_location_history_v2_subtext" = "Lösche deinen Standortverlauf, einschließlich Reise-Updates und einiger Orte, die du besucht hast, während dein Standort nachverfolgt wurde. Lösche nicht die Orte, die du in Snaps getaggt hast.";
+"clear_location_history_v2_title" = "Standortverlauf löschen";
+"display_public_friend_favorites" = "Meine Lieblingsorte nicht für Freunde anzeigen. Du kannst weiterhin die Lieblingsorte deiner Freunde sehen.";
+"places" = "Orte";
+"recommend_to_friends" = "In „Meine Story“-Posts getaggte Orte oder als Favoriten gespeicherte Orte verwenden, um meinen Freunden Orte zu empfehlen";

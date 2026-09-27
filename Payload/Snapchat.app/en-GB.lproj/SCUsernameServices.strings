@@ -1,0 +1,8 @@
+"suggestion_error" = "Something went wrong, please try again later";
+"username_invalid_begin" = "Usernames must start with a letter 🔠";
+"username_invalid_char" = "Usernames can only include latin letters, numbers and one of -, _, or . but no special characters! 👌";
+"username_invalid_end" = "Usernames must end in a letter or number 👆";
+"username_invalid_long" = "Usernames cannot be longer than 15 characters 📖";
+"username_invalid_separator" = "Usernames can only include one -, _, or . You’ve got too many ✌️";
+"username_invalid_short" = "Usernames must be at least 3 characters 📝";
+"username_taken" = "%1$@ is already taken.";

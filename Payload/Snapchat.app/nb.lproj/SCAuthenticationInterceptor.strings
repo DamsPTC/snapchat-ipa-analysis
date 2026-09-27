@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "Snapper som ble lagret av %1$@, ble ikke ferdig med backup i Minner. Hvis du logger inn som %2$@, vil du miste disse snappene. Logg på igjen som %3$@ for å gjøre ferdig backup.";
+"memories_pending_sync_alert_login_action" = "LOGG INN LIKEVEL";
+"memories_pending_sync_alert_registration_action" = "REGISTRER DEG LIKEVEL";
+"memories_pending_sync_alert_registration_body" = "Snapper som ble lagret av %1$@, ble ikke ferdig med backup i Minner. Hvis du registrerer deg med en ny konto, vil du miste disse snappene. Logg på igjen som %2$@ for å gjøre ferdig backup.";
+"memories_pending_sync_alert_title" = "Vent litt!";

@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "Kirjaudu uudelleen";
+"incorrect_user_error_body" = "Jokin meni vikaan";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Snappisi on liekeissä 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "Yhteiseen tarinaan lähettämääsi Snappia on katsottu yli %1$@ kertaa!";
+
+"our_story_submission_view_milestone_generic_body" = "Yhteiseen tarinaan lähettämääsi Snappia on katsottu todella monta kertaa!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "Valokeila-Snappiasi on katsottu yli %1$@ kertaa!";
+
+"spotlight_submission_view_milestone_generic_body" = "Valokeila-Snappiasi on katsottu todella monta kertaa!";

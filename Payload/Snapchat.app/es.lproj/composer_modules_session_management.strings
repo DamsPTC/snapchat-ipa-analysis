@@ -1,0 +1,17 @@
+"active_session_load_failure_subtitle" = "¡Se produjo un error! \n ¡Vuelve a intentarlo!";
+"active_session_load_failure_title" = "¡Uy!";
+"application_session_subtitle" = "Sesiones de la aplicación";
+"browser_session_subtitle" = "Sesiones del navegador";
+"current_session_indicator" = "Tu sesión actual";
+"delete_cancellation" = "Cancelar";
+"delete_confirmation" = "OK";
+"delete_confirmation_subtitle" = "Perderás las credenciales guardadas en ese dispositivo y se quitará el acceso a tu cuenta de Snapchat.\n\n Ten en cuenta que el cierre de sesión podría demorar unos minutos.";
+"delete_confirmation_title" = "Cerrar sesión de";
+"delete_session_error_message" = "Ocurrió un error. Vuelve a intentarlo.";
+"delete_unknown_device_name" = "Dispositivo desconocido";
+"session_management_recentlySeen" = "Hace un momento";
+"session_management_subtitle" = "Haz un seguimiento de los lugares donde se utiliza tu cuenta actualmente.\nPuede que los dispositivos autorizados hace poco no aparezcan de inmediato.";
+"session_management_title" = "Administración de sesiones";
+"try_again" = "Volver a intentar";
+"unknown_device_name" = "Desconocido";
+"web_session_prompt_title" = "Snapchat. Ahora en la web.";

@@ -1,0 +1,9 @@
+"chat_ui_participant_created_invite_link" = "%1$@ A CRÉÉ UN LIEN POUR INVITER D'AUTRES PERSONNES À REJOINDRE LE GROUPE";
+"chat_ui_participant_removed_participant" = "%1$@ A SUPPRIMÉ %2$@ DU GROUPE.";
+"chat_ui_participant_removed_participants_multiple" = "%1$@ A SUPPRIMÉ %2$@ ET %3$@ DU GROUPE.";
+"chat_ui_participant_removed_you" = "%1$@ VOUS A SUPPRIMÉ(E) DU GROUPE.";
+"chat_ui_participant_removed_you_and_multiple" = "%1$@ VOUS A SUPPRIMÉ(E) AINSI QUE %2$@ ET %3$@ DU GROUPE.";
+"chat_ui_participant_removed_you_and_participant" = "%1$@ VOUS A SUPPRIMÉ(E) AINSI QUE %2$@ DU GROUPE.";
+"chat_ui_you_created_invite_link" = "VOUS AVEZ CRÉÉ UN LIEN POUR INVITER D'AUTRES PERSONNES À REJOINDRE LE GROUPE";
+"chat_ui_you_removed_participant" = "VOUS AVEZ SUPPRIMÉ %1$@ DU GROUPE.";
+"chat_ui_you_removed_participants_multiple" = "VOUS AVEZ SUPPRIMÉ %1$@ ET %2$@ DU GROUPE.";

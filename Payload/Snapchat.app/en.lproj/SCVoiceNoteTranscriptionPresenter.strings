@@ -1,0 +1,11 @@
+"feedback_button_back" = "Back";
+"feedback_button_send" = "Send Feedback";
+"feedback_option_misheard_words" = "Misheard words";
+"feedback_option_wrong_words" = "Wrong words";
+"feedback_screen_description" = "Was your Voice Note properly transcribed?";
+"feedback_screen_title" = "Transcript Feedback";
+"feedback_submission_notification" = "Thank you for your feedback!";
+"menu_button_done" = "Done";
+"menu_button_edit_transcript" = "Edit Transcript";
+"menu_button_give_feedback" = "Give Feedback";
+"transcription_unavailable" = "Transcription Unavailable";

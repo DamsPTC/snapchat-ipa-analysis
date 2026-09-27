@@ -1,0 +1,8 @@
+"minis_add_to_favorites_prompt_allow" = "أضف إلى العناصر المفضلة";
+"minis_add_to_favorites_prompt_allow_and_leave" = "أضف إلى العناصر المفضلة وغادر";
+"minis_add_to_favorites_prompt_deny" = "مغادرة";
+"minis_add_to_favorites_prompt_description" = "أضف إلى العناصر المفضلة للعودة بسهولة في المرة القادمة.";
+"minis_add_to_favorites_prompt_error_notif" = "حدث خطأ. يُرجى إعادة المحاولة.";
+"minis_add_to_favorites_prompt_leave" = "هل تريد مغادرة $0؟";
+"minis_add_to_favorites_prompt_title" = "هل تريد إضافة $0 إلى العناصر المفضلة؟";
+"minis_add_to_favorites_success_toast_text" = "تمت الإضافة إلى العناصر المفضلة";

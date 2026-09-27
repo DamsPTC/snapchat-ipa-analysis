@@ -1,0 +1,10 @@
+"apply_effect" = "Apply";
+"bounce" = "Bounce";
+"effect_min_duration_message" = "A minimum of %@ seconds is required for this effect";
+"hyperspeed" = "Hyperspeed";
+"incompatible_edits_alert_detail" = "By tapping \"Apply\", any time-based edits already made to your Snap (including certain Lenses) will be removed. Continue?";
+"incompatible_edits_alert_title" = "Apply Effect and Remove Time-Based Edits?";
+"jump_cut" = "Jump Cut";
+"no_effect" = "No Effect";
+"orbit_3d" = "Orbit 3D";
+"zoom_in" = "Zoom In";

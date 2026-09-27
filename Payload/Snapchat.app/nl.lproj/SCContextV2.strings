@@ -1,0 +1,9 @@
+"context_add_user" = "Voeg %1$@ toe";
+"context_remove_user" = "Verwijder %1$@";
+"group_invite_link_cta_tooltip" = "Tik of veeg omhoog om deel te nemen aan groepschat!";
+"public_story_replies_disclaimer" = "%1$@ kan je reactie delen in hun Openbare Verhaal.";
+"question_sticker_story_reply_disclaimer" = "%1$@ mag je reactie delen.";
+"snap_pro_story_replies_dialog_description" = "Reacties op Verhalen worden beoordeeld op spam en misbruik. De ontvanger kan ook een voorbeeld van je reactie bekijken en je reactie delen in zijn of haar openbare Verhaal, terwijl andere Snapchatters je voornaam, Bitmoji en berichttekst kunnen bekijken.";
+"snap_pro_story_replies_dialog_send" = "Versturen";
+"snap_pro_story_replies_dialog_title" = "Reactie op Verhaal versturen?";
+"snap_pro_story_replies_disclaimer" = "%1$@ kan een voorbeeld van je reactie zien en deze delen op het openbare Verhaal.";

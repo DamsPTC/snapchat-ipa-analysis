@@ -1,0 +1,7 @@
+"use_template_flow_error_primary_button_title" = "OK";
+"use_template_flow_error_title" = "Erreur";
+"use_template_flow_filling_in_error_message" = "Une erreur est survenue lors du remplissage du modèle.";
+"use_template_flow_get_template_error_message" = "Une erreur est survenue lors de la récupération du modèle.";
+"use_template_flow_memories_picker_title" = "Importer un média";
+"use_template_flow_progress_bar_title" = "Importation du média…";
+"use_template_flow_unsupported_template" = "Ce modèle ne fonctionne pas avec votre application.";

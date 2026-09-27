@@ -1,0 +1,11 @@
+"call_again" = "Erneut anrufen";
+"call_back" = "Zurückrufen";
+"dnd_reason_cta_ios" = "Einstellungen für „Bitte nicht stören“";
+"dnd_reason_ios" = "während „Bitte nicht stören“ aktiv ist";
+"dweb_upsell" = "Web testen";
+"elapsed_time_with_reason" = "$0 · $1";
+"missed_call" = "Verpasster Anruf";
+"missed_calls" = "$0 verpasste Anrufe";
+"num_of_missed_calls" = "x$0";
+"video_call" = "Videoanruf";
+"voice_call" = "Sprachanruf";

@@ -1,0 +1,15 @@
+"ota_failed_charger_not_connected_body" = "يُرجى توصيل نظارة Spectacles بمصدر للطاقة الكهربائية قبل التحديث.";
+"ota_failed_charger_not_connected_title" = "الشاحن مطلوب";
+"ota_failed_low_battery_body" = "اشحِن نظارة Spectacles بنسبة 40% على الأقل، ثم أعِد المحاولة مرة أخرى.";
+"ota_failed_low_battery_title_format" = "البطارية منخفضة (⁦%1$@⁩٪٪)";
+"ota_failed_title" = "تعذّر التحديث";
+"ota_failed_too_cold_body" = "نظارة Spectacles باردة جدًا، ما يجعل عملية التحديث غير ممكنة ❄️. دفّئها قبل إعادة المحاولة.";
+"ota_failed_too_hot_body" = "نظارة Spectacles حرارتها مرتفعة جدًا، ما يجعل عملية التحديث غير ممكنة 🔥. يُرجى تركها حتى تبرد قبل إعادة المحاولة.";
+"ota_low_disk_space_body" = "يبدو أن مساحة التخزين على جهازك منخفضة. حاول حذف التطبيقات أو الموسيقى أو الصور غير المستخدمة لتحرير مساحة على جهازك.";
+"ota_low_disk_space_title" = "يتعذر تنزيل التحديث";
+"ota_unlock_body" = "يلزم توفر رمز مرورك بعد عملية إعادة التشغيل. يرجى إدخاله على نظارة Spectacles الخاصة بك، وأعد المحاولة.";
+"ota_unlock_title" = "إلغاء قفل نظارة Spectacles";
+"ota_update_required_cancel_title" = "ربما لاحقًا";
+"ota_update_required_title" = "يلزم التحديث";
+"update_error_body" = "تعذّر تحديث إعدادات نظارة Spectacles. يُرجى إعادة المحاولة.";
+"update_error_title" = "حدث خطأ ما";

@@ -1,0 +1,7 @@
+"modal_cancel" = "Annuler";
+"modal_continue" = "Continuer";
+"modal_desc" = "À qui ce look va le mieux ?\n\nFaire de ce Snap un défi le rend public, afin que les autres Snapchatters puissent le voir, vous défier, ou voter pour décider à qui il va le mieux.\n\nChaque défi a sa propre durée de vie et peut être enregistré et utilisé par d'autres Snapchatters pour créer d'autres défis.\n\nVotre Snap public apparaîtra dans le classement public des tenues s'il fait partie de ceux qui ont reçu le plus de votes.\n\nSupprimer votre Snap ne supprimera pas les défis existants qui reprennent le contenu de votre Snap.";
+"modal_title" = "Autoriser d'autres Snapchatters à me défier";
+"poll_title" = "À qui ce vêtement (%1$@) va le mieux ?";
+"top_model_privacy_disclaimer_subtitle" = "Autoriser les ami·e·s de mes ami·e·s à me défier";
+"top_model_privacy_disclaimer_title" = "Autoriser mes ami·e·s à me défier";

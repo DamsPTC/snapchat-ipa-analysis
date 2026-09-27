@@ -1,0 +1,11 @@
+"country_code_field" = "Πεδίο κωδικού χώρας";
+"mobile_number_field" = "Πεδίο αριθμού κινητού";
+"phone_entry_invalid_country_code" = "🌎 Μη έγκυρος κωδικός χώρας";
+"phone_entry_phone_placeholder" = "τηλεφωνικός αριθμός";
+"phone_entry_select_country_code" = "🌎 Επίλεξε κωδικό χώρας";
+"register_country_picker_title" = "Επίλεξε χώρα";
+"register_phone_label" = "ΑΡΙΘΜΟΣ ΚΙΝΗΤΟΥ";
+"send_sms_explanation" = "Θα σου στείλουμε κωδικό επαλήθευσης SMS.";
+"send_sms_explanation_here" = "Θα χρησιμοποιήσουμε τον αριθμό τηλεφώνου σου για να σου στείλουμε έναν κωδικό επαλήθευσης SMS και όπως περιγράφεται [εδώ](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_and_here" = "Θα χρησιμοποιήσουμε τον αριθμό τηλεφώνου σου για να σου στείλουμε έναν κωδικό επαλήθευσης SMS, σημαντικές ενημερώσεις, και όπως περιγράφεται[εδώ](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_here" = "Θα χρησιμοποιήσουμε τον αριθμό τηλεφώνου σου για να σου στείλουμε έναν κωδικό επαλήθευσης SMS και σημαντικές ενημερώσεις όπως περιγράφεται [εδώ](https://support.snapchat.com/article/snap-phone-number).";

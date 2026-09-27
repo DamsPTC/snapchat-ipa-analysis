@@ -1,0 +1,15 @@
+"cheerios_battery_low" = "De batterij van je Pixy is bijna leeg. Laad 'm een tijdje op voor je weer gaat Snappen.";
+"cheerios_connected" = "Verbonden";
+"cheerios_firmware_version" = "Pixy %1$@";
+"cheerios_storage_full" = "Het geheugen van je Pixy is vol 💾 Importeer wat Snaps naar Snapchat.";
+"cheerios_too_cold" = "Je Pixy is te koud🌡 Probeer het opnieuw wanneer hij op kamertemperatuur is.";
+"cheerios_too_hot" = "Je Pixy is te warm🌡 Probeer het opnieuw wanneer hij op kamertemperatuur is.";
+"cheerios_update_available" = "Er is een update beschikbaar voor je Pixy.";
+"cheerios_update_required" = "Update je Pixy om te blijven vliegen.";
+"cheerios_updating" = "Pixy is bezig met bijwerken...";
+"cheerios_updating_progress" = "Pixy wordt geüpdatet (%1$@%%)...";
+"display_name_battery_notification" = "%1$@ (%2$@%% batterij)";
+"generic_failure_try_again" = "Er is iets misgegaan. Probeer het opnieuw.";
+"generic_wait_for_minute" = "Dit kan een minuutje duren.";
+"land" = "Landen";
+"landing" = "Landen...";

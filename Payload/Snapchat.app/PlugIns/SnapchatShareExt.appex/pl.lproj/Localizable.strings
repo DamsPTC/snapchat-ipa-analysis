@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Odrzuć";
+
+"add_a_chat" = "Dodaj czat...";
+
+"are_you_sure_you_want_to_abandon" = "Czy na pewno chcesz odrzucić swoje Snapdzieło?";
+
+"best_friends_header" = "Przyjaciele";
+
+"groups_header" = "Grupy";
+
+"friends_header" = "Znajomi";
+
+"send" = "Wyślij";
+
+"cancel" = "Anuluj";
+
+"cannot_add_more_snapchatters" = "Nie można dodać więcej snapchaterów!";
+
+
+"login_before_sharing_message" = "Zanim udostępnisz, zaloguj się do Snapchata.";
+
+"login_before_sharing_title" = "Wymagane zalogowanie";
+
+"me_hint" = "(ja)";
+
+"noticed_new_acct_sharing_message" = "Niewłaściwe konto!";
+
+"noticed_new_acct_sharing_title" = "Wygląda na to, że zmieniłaś(-eś) konta. Zaloguj się ponownie, aby wysłać Snapa, lub zacznij udostępnianie od początku.";
+
+"okay" = "OK";
+
+"open_before_sharing_message" = "Zanim udostępnisz, otwórz Snapchata.";
+
+"open_before_sharing_title" = "Otwórz Snapchata";
+
+"problem_sharing_try_again" = "Coś poszło nie tak. Spróbuj ponownie.";
+
+"recents_header" = "Ostatnio";
+
+"search_text_view_hint" = "Szukaj";
+
+"send_to" = "Wyślij do...";
+
+"try_again" = "Spróbuj ponownie";
+
+"video_too_long" = "Udostępniane filmy nie mogą trwać dłużej niż 60 sekund.";
+
+"video_too_long_with_maximum_duration_desc" = "Udostępniane filmy nie mogą trwać dłużej niż %1$ld sek.";
+
+"stories_header" = "Stories";
+
+"my_story" = "Moja Story";

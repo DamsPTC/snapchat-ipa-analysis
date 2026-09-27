@@ -1,0 +1,9 @@
+"landing_context" = "Denne innloggingen virker uvanlig for deg! For å sikre kontoen din, vennligst verifiser kontoen din ved hjelp av et av disse alternativene.";
+"landing_message_note" = "*Meldings- og datakostnader kan påløpe.";
+"landing_options_radio_phone" = "Tekstmelding";
+"landing_title" = "Mistenkelig innlogging";
+"retry_message" = "Det oppsto en feil. Prøv igjen.";
+"verification_description" = "Tast inn koden vi sendte til\n%1$@";
+"verification_title" = "Skriv inn verifiseringskode";
+"verification_unable_to_verify" = "Problemer med verifiseringen?";
+"verification_unable_to_verify_dialog" = "Å nei! Vi klarte ikke å verifisere kontoen din. Ta kontakt med Snapchat Support for å få hjelp.";

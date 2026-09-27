@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>இது Spectacles போன்ற bluetooth துணைச் சாதனங்களுடன் Snapchat-ஐ இணைக்க உதவுகிறது.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Snaps-ஐ எடுப்பதற்கு உங்கள் கேமராவைப் பயன்படுத்திடுங்கள், லென்ஸஸ் கொண்டு விளையாடிடுங்கள், மேலும் இன்னும் பலவற்றைச் செய்திடுங்கள்! சில லென்ஸஸ், Apple-இன் TrueDepth கேமராவைப் பயன்படுத்தலாம். மேலதிகத் தகவலுக்கு எங்கள் தனியுரிமைக் கொள்கையைக் காணுங்கள்.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>நீங்களும் மற்றவர்களும் நண்பர்களைக் கண்டறிய ஏதுவாகவும், உங்கள் அனுபவத்தை மேம்படுத்துவதற்கும் உங்கள் தொடர்புகள் Snapchat-இன் சேவையகங்களுக்குப் பதிவேற்றப்படும்.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Spectacles போன்ற வை-ஃபை இயக்கப்பட்ட துணைச் சாதனங்களுடன் Snapchat-ஐ இணைக்க உதவுகிறது.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>"எப்போதும் அனுமதி" என்பதைத் தேர்ந்தெடுத்தால், தற்போதைய இடத்தைப் பகிர்ந்துகொள்ளவும் உங்கள் அனுபவத்தை மேம்படுத்தவும் Snapchat பின்னணியில் உங்கள் இடத்தைப் புதுப்பிக்க முயலும்.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>"எப்போதும் அனுமதி" என்பதைத் தேர்ந்தெடுத்தால், தற்போதைய இடத்தைப் பகிர்ந்துகொள்ளவும் உங்கள் அனுபவத்தை மேம்படுத்தவும் Snapchat பின்னணியில் உங்கள் இடத்தைப் புதுப்பிக்க முயலும்.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat, உங்கள் அனுபவத்தைத் தனிப்பயனாக்க இதைப் பயன்படுத்துகிறது மற்றும் வடிகட்டிகள், கதைகள் மற்றும் உங்களைச் சுற்றியுள்ள பலவற்றையும் ஆராய்ந்திட உங்களுக்கு வழிசெய்கிறது.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Snaps-க்கான ஆடியோவைப் பதிவுசெய்ய, வீடியோ அரட்டையடிக்க மற்றும் பலவற்றிற்கு உங்கள் ஒலிவாங்கியைப் பயன்படுத்துங்கள்.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>நீங்கள் Snaps எடுக்கும்போது, லென்ஸஸ் பயன்படுத்தும்போது, Discover-ஐப் படிக்கும்போது மற்றும் விளம்பரங்களைப் பார்க்கும்போது உங்கள் சாதனம் செங்குத்தாக இருக்கிறதா அல்லது கிடைமட்டமாக இருக்கிறதா என்பதை Snapchat பதிவுசெய்கிறது.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>உங்கள் கேமரா ரோலுக்குள் இருப்பவற்றை Snap இல் நண்பர்களுடன் பகிருங்கள்.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>உங்கள் கேமரா ரோலுக்குள் இருப்பவற்றை Snap இல் நண்பர்களுடன் பகிருங்கள்.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>"அனுமதி" என்பதைத் தேர்ந்தெடுத்தால், காலப்போக்கில், பொருந்தாதவையாக அல்லது திரும்பத் திரும்ப தோன்றுபவையாக நீங்கள் கருதும் விளம்பரங்களை Snap குறைக்கலாம். கண்காணித்தல் பற்றிய கூடுதல் தகவல்களுக்கு, எங்கள் தனியுரிமைக் கொள்கையைப் பாருங்கள்.</string>
+</dict>
+</plist>

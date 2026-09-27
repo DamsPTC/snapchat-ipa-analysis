@@ -1,0 +1,5 @@
+"broad_location_prompt_body" = "Du musst den genauen Standort in den iOS-Einstellungen aktivieren, um Geofilter zu platzieren.";
+"broad_location_prompt_button" = "Einstellungen öffnen";
+"location_prompt_v2_body" = "Entdecke Filter für Orte, Events und mehr in deiner Gegend.";
+"location_prompt_v2_button" = "Aktivieren";
+"location_prompt_v2_title" = "Standortfilter aktivieren?";

@@ -1,0 +1,6 @@
+"connecting_to_wifi" = "Connecting to Spectacles via Wi-Fi...";
+"specs_backing_up_plural" = "Syncing %@ Snaps from Spectacles";
+"specs_backing_up_singular" = "Syncing 1 Snap from Spectacles";
+"specs_hd_tap_to_import_plural" = "Tap to import %@ Snaps";
+"specs_hd_tap_to_import_singular" = "Tap to import 1 Snap";
+"specs_import_hd_bar" = "IMPORT";

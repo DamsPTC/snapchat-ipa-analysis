@@ -1,0 +1,9 @@
+"connection_error" = "ข้อผิดพลาดในการเชื่อมต่อ";
+"okay" = "ตกลง";
+"send_code_again" = "ส่งรหัสอีกครั้ง";
+"twofa_login_code_verification_otp_to_sms_info" = "ส่ง SMS ถึงฉันแทน";
+"twofa_login_code_verification_otp_to_sms_progress" = "กำลังส่ง...";
+"twofa_login_code_verification_with_otp_explanation" = "โปรดป้อนรหัสที่สร้างโดยแอปตรวจสอบสิทธิ์ของคุณเพื่อยืนยันตัวตนของคุณ";
+"twofa_login_recovery_code_used" = "คุณใช้รหัสกู้คืนเพื่อเข้าสู่ระบบ เราจึงปิดใช้งานการยืนยันตัวตนสองขั้นตอน - ไปที่การตั้งค่าเพื่อเปิดใช้งานอีกครั้ง";
+"twofa_new_device_verification_explanation" = "กรุณาใส่รหัสที่เราส่งไป %1$@ เพื่อยืนยันตัวตนของคุณ";
+"twofa_settings_recovery_code_used_title" = "ปิดใช้งานการยืนยันตัวตนสองขั้นตอนแล้ว";

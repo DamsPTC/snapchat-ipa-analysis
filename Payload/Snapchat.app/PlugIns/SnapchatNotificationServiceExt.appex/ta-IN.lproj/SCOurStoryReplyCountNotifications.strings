@@ -1,0 +1,18 @@
+/*
+
+ SCOurStoryReplyCountNotifications.strings
+ SCOurStoryReplyModifier
+*/
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count" = "%1$d நிலுவையில் உள்ள ஸ்பாட்லைட் கருத்துக்கள்";
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count_singular" = "1 ஸ்பாட்லைட் கருத்து நிலுவையில் உள்ளது";
+
+/// Generic text in case the reply count is not available.
+"generic_push_notification_title_comment" = "நிலுவையில் உள்ள ஸ்பாட்லைட் கருத்துக்கள்";
+
+/// Shown as a subtitle on the push notification on lock screen.
+"push_notification_subtitle" = "பார்க்க, தட்டுங்கள்";
+

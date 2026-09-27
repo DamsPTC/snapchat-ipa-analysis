@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Snapコード";
+
+"Snapcode Desc" = "このウィジェットはSnapコードを表示します";
+
+"camera" = "カメラ";
+
+"camera_desc" = "Snapchatのカメラを開きます。";
+
+"log_in" = "ログイン";
+
+"shortcut_to_a_friend" = "配置してからウィジェットをタップしてフレンドまたはグループを選択します。";
+
+"pin_a_friend" = "フレンドまたはグループをピン留めする";
+
+"birthdays" = "誕生日";
+
+"see_upcoming_birthdays" = "もうすぐ誕生日の人を見てみよう。";
+
+"no_upcoming_birthdays" = "近々誕生日の人なし";
+
+"user_and_other_have_birthday" = "%1$@と%2$d人";
+
+"user_has_birthday_in_days_singular" = "%1$@は%2$d日後";
+
+"user_has_birthday_in_days_plural" = "%1$@は%2$d日後";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d人は%3$d日後";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@と%2$d人は%3$d日後";
+
+"Memories" = "メモリーズ";
+
+"Memories Desc" = "フラッシュバック、旅、まとめなど、メモリーズから集めたSnapです！";
+
+"Friend Location Widget Desc" = "このウィジェットでフレンドをピン留めして、位置情報を見られるようにしましょう。";
+
+"map" = "マップ";
+
+"now" = "今";
+
+"something_went_wrong" = "問題が発生しました。Snapchatを開いてください。";
+
+"long_press_to_pin" = "編集してフレンドをピン留め";
+
+"off_the_grid" = "グリッドをオフにする";

@@ -1,0 +1,7 @@
+"body" = "Zijn je e-mailadres en telefoonnummer up-to-date?";
+"dismiss_button_with_details" = "Bevestigen";
+"dismiss_button_without_details" = "Klaar";
+"no_email_placeholder" = "Je e-mailadres toevoegen";
+"no_phone_placeholder" = "Je telefoonnummer toevoegen";
+"title_with_details" = "Contactgegevens bevestigen";
+"title_without_details" = "Contactgegevens toevoegen";

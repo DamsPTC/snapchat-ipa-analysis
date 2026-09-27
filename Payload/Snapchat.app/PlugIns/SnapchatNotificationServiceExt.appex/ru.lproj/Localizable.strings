@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "Повторите попытку входа";
+"incorrect_user_error_body" = "Что-то пошло не так";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Просто огненный Snap 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "Ваш Snap в общей истории посмотрели более %1$@ раз(а)!";
+
+"our_story_submission_view_milestone_generic_body" = "Ваш Snap в общей истории посмотрели уже много раз!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "Ваш Snap в Spotlight посмотрели уже более %1$@ раз!";
+
+"spotlight_submission_view_milestone_generic_body" = "Ваш Snap в Spotlight посмотрели уже много раз!";

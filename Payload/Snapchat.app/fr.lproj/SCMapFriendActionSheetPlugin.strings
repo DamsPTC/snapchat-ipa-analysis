@@ -1,0 +1,8 @@
+"location_settings_title" = "Paramètres de localisation";
+"mute_location_alert_body" = "Vous ne verrez pas la localisation de cet·te ami·e sur Snapchat. Vous pouvez la réafficher depuis son profil.";
+"mute_location_alert_cancel" = "Annuler";
+"mute_location_alert_okay" = "Ok";
+"mute_location_alert_title" = "Voulez-vous vraiment masquer la localisation de %1$@ ?";
+"mute_location_cell_title" = "Masquer la localisation de %1$@";
+"mute_location_done_title" = "Terminé";
+"mute_location_failed" = "Impossible de modifier les réglages de masquage de localisation. Veuillez réessayer.";

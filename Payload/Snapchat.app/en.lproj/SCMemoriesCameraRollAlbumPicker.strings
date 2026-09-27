@@ -1,0 +1,5 @@
+"album_count_plural" = "%1$@ items";
+"album_count_single" = "%1$@ item";
+"album_picker_header" = "Camera Roll Albums";
+"album_picker_section_header" = "My Albums";
+"album_pill_title" = "%1$@ (%2$@)";

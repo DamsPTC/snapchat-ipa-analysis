@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "O back-up dos Snaps salvos por %1$@ às Memórias ainda não terminou. Se você fizer o login como %2$@, esses Snaps serão perdidos. Faça login de novo na conta %3$@ para completar o back-up.";
+"memories_pending_sync_alert_login_action" = "FAZER LOGIN ASSIM MESMO";
+"memories_pending_sync_alert_registration_action" = "CADASTRAR ASSIM MESMO";
+"memories_pending_sync_alert_registration_body" = "O back-up dos Snaps salvos por %1$@ nas Memórias ainda não terminou. Se você cadastrar uma nova conta, esses Snaps serão perdidos. Faça login de novo como %2$@ para completar o back-up.";
+"memories_pending_sync_alert_title" = "Espere aí!";

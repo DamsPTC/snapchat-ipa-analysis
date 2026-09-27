@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Ny Spotlight-utbetalning!";
+"payouts_push_notification_gifting_title" = "Ny gåvoutbetalning!";
+"payouts_push_notification_title_spotlight_challenges" = "Ny utbetalning för Spotlight-utmaning!";
+"payouts_push_notification_title_story" = "Ny Stories-utbetalning!";
+"payouts_push_notification_title_lens_creator_fund" = "Ny utbetalning för lojalitetsprogram för linskreatörer!";
+"payouts_push_notification_title_ildg" = "Ny utbetalning för upplåsbara linser!";
+"payouts_push_notification_title_cashout_eligible" = "Dina priser betalas snart ut automatiskt!";
+"payouts_push_notification_title_invalidate_eligible" = "Dina priser blir snart ogiltiga!";
+
+"payouts_push_notification_subtitle_onboarded" = "Grattis! Kontrollera Mina utbetalningar i din profil nu för att se dina intäkter!";
+"payouts_push_notification_subtitle_not_onboarded" = "Du har tjänat pengar från Spotlight. Registrera dig nu i din profil och få betalt!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Du har fått kristaller från Spotlight-utmaningar. Registrera dig nu i din profil för att få betalt!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Du har fått kristaller från gåvor. Registrera dig nu i din profil för att få betalt!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Du har fått kristaller från Stories. Registrera dig nu i din profil för att få betalt!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Du har fått kristaller från lojalitetsprogrammet för linskreatörer. Registrera dig nu i din profil för att få betalt!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Du har fått kristaller från upplåsbara linser. Registrera dig nu i din profil för att få betalt!";
+"payouts_push_notification_subtitle_cashout_eligible" = "Dina kristallpriser betalas ut automatiskt %1$@ om du inte gör något. Lös det genom att kolla Mina kristaller i profilen.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Dina kristallpriser blir ogiltiga %1$@ om du inte gör något. Lös det genom att kolla Mina kristaller i profilen.";
+
+"payouts_state_title" = "Utbetalningsstatus är uppdaterad!";
+"payouts_state_subtitle" = "Din berättighetsstatus för utbetalningar har uppdaterats. Kontrollera Mina Snap-kristaller i profilen för att se din status!";
+"gifting_opened_gift" = "%1$@ öppnade din gåva!";
+"gifting_support_thanks" = "Tack för att du stöder hen på Snapchat.";
+

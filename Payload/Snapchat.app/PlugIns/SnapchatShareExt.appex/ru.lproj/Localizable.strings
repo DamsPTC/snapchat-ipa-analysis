@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Удалить";
+
+"add_a_chat" = "Добавить сообщение…";
+
+"are_you_sure_you_want_to_abandon" = "Вы действительно хотите удалить ваш Snap-шедевр?";
+
+"best_friends_header" = "Лучшие друзья";
+
+"groups_header" = "Группы";
+
+"friends_header" = "Друзья";
+
+"send" = "Отправить";
+
+"cancel" = "Отмена";
+
+"cannot_add_more_snapchatters" = "Больше снапчаттеров добавить нельзя!";
+
+
+"login_before_sharing_message" = "Чтобы поделиться этим фото, войдите в свой аккаунт в Snapchat.";
+
+"login_before_sharing_title" = "Требуется вход";
+
+"me_hint" = "(я)";
+
+"noticed_new_acct_sharing_message" = "Не тот аккаунт!";
+
+"noticed_new_acct_sharing_title" = "Похоже, вы вошли в другой аккаунт. Чтобы отправить Snap, войдите в прежний аккаунт или отправьте его заново.";
+
+"okay" = "OK";
+
+"open_before_sharing_message" = "Откройте Snapchat, чтобы поделиться этим фото.";
+
+"open_before_sharing_title" = "Открыть Snapchat";
+
+"problem_sharing_try_again" = "Что-то пошло не так. Попробуйте ещё раз.";
+
+"recents_header" = "Недавние";
+
+"search_text_view_hint" = "Поиск";
+
+"send_to" = "Отправить…";
+
+"try_again" = "Попробовать ещё";
+
+"video_too_long" = "Видео должно быть не длиннее 60 секунд.";
+
+"video_too_long_with_maximum_duration_desc" = "Видео должно быть не длиннее %1$ld секунд.";
+
+"stories_header" = "Истории";
+
+"my_story" = "Моя история";

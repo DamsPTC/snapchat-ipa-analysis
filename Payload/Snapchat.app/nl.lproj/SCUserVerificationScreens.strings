@@ -1,0 +1,18 @@
+"finish" = "Klaar";
+"invalid_phone_number_suggestion_title" = "Ongeldig telefoonnummer";
+"ngo_country_title" = "Land";
+"ngo_email_instead" = "In plaats daarvan e-mail gebruiken";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "E-mail";
+"ngo_phone_instead" = "Gebruik in plaats daarvan telefoonnummer";
+"ngo_phone_number_info" = "We sturen een verificatiecode per sms.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "We sturen een sms-verificatiecode. Door je nummer in te voeren, ga je ermee akkoord om transactieberichten via sms of andere kanalen berichten te ontvangen over je account.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "We sturen je een verificatiecode. Door je nummer in te voeren, ontvang je transactieberichten via sms of andere kanalen over onder andere je account.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "We sturen je een verificatiecode. Door je nummer in te voeren, ga je ermee akkoord om transactieberichten via sms of andere kanalen berichten te ontvagen over je account. [Meer informatie](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) over hoe Snap je telefoonnummer gebruikt.";
+"ngo_phone_number_title" = "Telefoonnummer";
+"ngo_phone_placeholder" = "Telefoonnummer";
+"phone_suggestion_description" = "%1$@ is geen geldig telefoonnummer. Bedoelde je\n%2$@?";
+"register_email_button" = "Aanmelden met e-mailadres";
+"register_email_error" = "Voer een geldig e-mailadres in.";
+"skip_button" = "Overslaan";
+"yes_update" = "Ja, updaten";

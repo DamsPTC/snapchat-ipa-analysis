@@ -1,0 +1,7 @@
+"schedule_action_sheet_header" = "Programar publicación de Historia";
+"schedule_action_sheet_navigation_title" = "Programar publicación";
+"schedule_action_sheet_option_later" = "Seleccionar fecha y hora...";
+"schedule_action_sheet_option_now" = "Publicar ahora";
+"schedule_remove_alert_accept" = "Cancelar programación";
+"schedule_remove_alert_text" = "Solo se pueden programar Snaps de Historias públicas. Puedes cancelar la programación para agregar este Snap a otra Historia.";
+"schedule_remove_alert_title" = "¿Quieres cancelar la programación para agregar este Snap a otra Historia?";

@@ -1,0 +1,15 @@
+"ota_failed_charger_not_connected_body" = "Conecta tus Spectacles antes de actualizar.";
+"ota_failed_charger_not_connected_title" = "Se requiere un cargador";
+"ota_failed_low_battery_body" = "Carga tus Spectacles al menos hasta el 40 % e intenta actualizar de nuevo.";
+"ota_failed_low_battery_title_format" = "Batería baja (%1$@ %%)";
+"ota_failed_title" = "Falló la actualización";
+"ota_failed_too_cold_body" = "Tus Spectacles están muy fríos para actualizarse ❄️. Deja que se calienten un poco antes de volver a intentarlo.";
+"ota_failed_too_hot_body" = "Tus Spectacles están muy calientes para actualizarse 🔥 Deja que se enfríen un poco antes de volver a intentarlo.";
+"ota_low_disk_space_body" = "Parece que le queda poca memoria a tu dispositivo. Para liberar espacio, borra música, fotos o aplicaciones que no uses.";
+"ota_low_disk_space_title" = "No se puede descargar la actualización";
+"ota_unlock_body" = "Se necesita tu código de acceso después de reiniciar. Ingrésalo en Spectacles y vuelve a intentarlo.";
+"ota_unlock_title" = "Activar Spectacles";
+"ota_update_required_cancel_title" = "Tal vez más tarde";
+"ota_update_required_title" = "Actualización necesaria";
+"update_error_body" = "No pudimos actualizar los ajustes de tus Spectacles. Vuelve a intentarlo.";
+"update_error_title" = "Ocurrió un error";

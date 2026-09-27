@@ -1,0 +1,5 @@
+"check_connection_message" = "Controleer je verbinding en probeer het opnieuw.";
+"could_not_refresh" = "Kon niet vernieuwen. Probeer het opnieuw.";
+"could_not_refresh_app_initiated" = "Kon niet vernieuwen";
+"no_internet_connection" = "Geen Internetverbinding.";
+"send_failed" = "Kon niet verzenden. Probeer het opnieuw.";

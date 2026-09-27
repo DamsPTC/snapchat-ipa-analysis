@@ -1,0 +1,3 @@
+"sys_command_error_cannot_favorite_unpublished_lens" = "Please do not use the favorite function before you have submitted the lens";
+"sys_command_error_cannot_share_unpublished_lens" = "Please do not use the share with a friend function before you have submitted the lens";
+"sys_command_error_lens_already_favorite" = "Lens is already favorited";

@@ -1,0 +1,9 @@
+"amazon" = "Amazon";
+"available_to_link" = "Zum Verlinken verfügbar";
+"link" = "Verlinken";
+"linked_accounts" = "Verlinkte Accounts";
+"third_party_accounts" = "Externe Accounts";
+"third_party_accounts_intro" = "Du kannst Accounts von anderen Websites verlinken, um das Einkaufen auf Snapchat zu erleichtern.";
+"unlink" = "Verlinkung entfernen";
+"unlink_confirmation_text" = "Wenn du diesen verlinkten Account entfernst, erschwert das den Kauf von Produkten aus Anzeigen.";
+"unlink_confirmation_title" = "%1$@ verlinkten Account entfernen?";

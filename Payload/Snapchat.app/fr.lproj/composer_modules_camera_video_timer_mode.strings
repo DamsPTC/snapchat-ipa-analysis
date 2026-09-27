@@ -1,0 +1,7 @@
+"cancel_button" = "Annuler";
+"confirm_button" = "Définir le retardateur";
+"dialog_description" = "Définissez la durée de votre enregistrement.";
+"dialog_title" = "Retardateur vidéo";
+"duration_text_in_minutes" = "$0 min";
+"duration_text_in_minutes_and_seconds" = "$0 min $1 sec";
+"time_unit_seconds" = "s";

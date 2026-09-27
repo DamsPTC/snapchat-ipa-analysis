@@ -1,0 +1,13 @@
+"onboarding_open_chat" = "Abrir chat";
+"onboarding_prompt_body" = "Puedes chatear con $0 porque tienes su número de teléfono en tus contactos.\n\n Puedes bloquear a $0 o cambiar tus ajustes de contactos en cualquier momento para evitar que te lleguen mensajes de tus contactos en el futuro.\n\n Si chateas con $0, podría darse cuenta de que tienes su número de teléfono en tu libreta de contactos.";
+"onboarding_prompt_body_with_unread_message" = "Recibiste este mensaje de $0 porque tienes su número de teléfono en tus contactos.\n\nPuedes bloquear a $0 o cambiar tus ajustes de contactos en cualquier momento para evitar que te lleguen estos mensajes en el futuro.\n\nSi abres este mensaje, $0 podría darse cuenta de que tienes su número de teléfono en tu libreta de contactos.";
+"onboarding_prompt_minor_aged_up" = "Puedes chatear con $0 porque tus ajustes de Contactarme están configurados como \"Todos\". \n\n Puedes bloquear a $0 o cambiar tus ajustes en cualquier momento para evitar recibir mensajes de esta persona en el futuro.";
+"onboarding_prompt_welcome_title" = "Chatear con $0";
+"onboarding_settings" = "Ajustes";
+"recipient_prompt_body_added" = "$0 aún no forma parte de tus amistades, pero puede enviarte mensajes de acuerdo con tus ajustes de Contactarme.";
+"recipient_prompt_body_adding" = "$0 aún no te añadió a sus amistades. No podrá ver tus mensajes hasta que lo haga.";
+"recipient_prompt_body_in_my_contacts" = "$0 no está entre tus amigos de Snapchat, pero apareció porque está en tus contactos.";
+"recipient_prompt_body_low_mutual_friends" = "$0 y tú no tienen muchas amistades en común. ¿Conoces a esta persona? Revisa antes de empezar a chatear.";
+"recipient_prompt_button_dismiss" = "Aceptar";
+"recipient_prompt_button_report_or_block" = "Notificar o bloquear";
+"recipient_prompt_button_settings" = "Ajustes";

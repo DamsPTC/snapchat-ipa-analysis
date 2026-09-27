@@ -1,0 +1,9 @@
+"landing_context" = "Este login parece estranho vindo de você! Para manter sua conta segura, verifique-a através de uma das seguintes opções.";
+"landing_message_note" = "*Taxas de mensagens e de uso de dados podem ser aplicadas.";
+"landing_options_radio_phone" = "Mensagem de texto";
+"landing_title" = "Login suspeito";
+"retry_message" = "Algo deu errado. Tente de novo.";
+"verification_description" = "Digite o código que enviamos para \n%1$@";
+"verification_title" = "Insira o código de verificação";
+"verification_unable_to_verify" = "Não consegue fazer a verificação?";
+"verification_unable_to_verify_dialog" = "Oh, não! Não conseguimos verificar sua conta. Entre em contato com o Suporte do Snapchat para conseguir ajuda.";

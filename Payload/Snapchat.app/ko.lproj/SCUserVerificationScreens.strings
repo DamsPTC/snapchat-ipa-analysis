@@ -1,0 +1,18 @@
+"finish" = "완료";
+"invalid_phone_number_suggestion_title" = "유효하지 않은 전화번호";
+"ngo_country_title" = "국가";
+"ngo_email_instead" = "이메일을 대신 사용하기";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "이메일";
+"ngo_phone_instead" = "전화번호를 대신 사용하기";
+"ngo_phone_number_info" = "SMS 인증 코드가 곧 전송됩니다.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "SMS 인증 코드를 전송하겠습니다. 회원님의 번호를 입력함으로써 SMS 또는 기타 메시지 채널을 통해 계정에 대한 거래 관련 메시지를 수신하는 데 동의하게 됩니다.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "인증 코드를 전송하겠습니다. 회원님의 번호를 입력하면 SMS 또는 기타 메시지 채널을 통해 계정 등에 대한 거래 관련 메시지를 수신하게 됩니다.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "인증 코드를 전송하겠습니다. 회원님의 번호를 입력하면 SMS 또는 기타 메시지 채널을 통해 계정에 대한 거래 관련 메시지를 수신하게 됩니다. Snap에서 회원님의 전화번호가 사용되는 방식에 대해 [자세히 알아보세요](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number).";
+"ngo_phone_number_title" = "전화번호";
+"ngo_phone_placeholder" = "전화번호";
+"phone_suggestion_description" = "%1$@은(는) 유효한 전화번호가 아닙니다. \n%2$@을(를) 입력하려고 하셨나요?";
+"register_email_button" = "이메일로 가입";
+"register_email_error" = "사용 가능한 이메일 주소를 입력해주세요.";
+"skip_button" = "건너뛰기";
+"yes_update" = "예, 업데이트합니다";

@@ -1,0 +1,3 @@
+"invite_sms_rate_limit_body" = "Du kannst höchstens zehn Einladungen verschicken.";
+"invite_sms_rate_limit_okay" = "Okay";
+"invite_sms_rate_limit_title" = "Du hast das Limit erreicht.";

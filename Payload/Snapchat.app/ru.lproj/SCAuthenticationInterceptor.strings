@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "Snap, сохранённые %1$@, ещё не успели скопироваться в Воспоминания. Если вы войдёте как %2$@, эти Snap будут потеряны. Чтобы завершить копирование, снова войдите как %3$@.";
+"memories_pending_sync_alert_login_action" = "ВСЁ РАВНО ВОЙТИ";
+"memories_pending_sync_alert_registration_action" = "ЗАРЕГИСТРИРОВАТЬСЯ";
+"memories_pending_sync_alert_registration_body" = "Snap, сохранённые %1$@, ещё не успели скопироваться в Воспоминания. Если вы зарегистрируете новый аккаунт, эти Snap будут потеряны. Чтобы завершить копирование, снова войдите как %2$@.";
+"memories_pending_sync_alert_title" = "Секундочку!";

@@ -1,0 +1,18 @@
+"finish" = "Zakończ";
+"invalid_phone_number_suggestion_title" = "Niepoprawny numer telefonu";
+"ngo_country_title" = "Kraj";
+"ngo_email_instead" = "Użyj jednak adresu e-mail";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "E-mail";
+"ngo_phone_instead" = "W zamian użyj numeru telefonu";
+"ngo_phone_number_info" = "Wyślemy SMS z kodem weryfikacyjnym.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Wyślemy SMS z kodem weryfikacyjnym. Podając swój numer, wyrażasz zgodę na otrzymywanie wiadomości transakcyjnych dotyczących Twojego konta w postaci SMS-ów lub za pośrednictwem innego kanału komunikacji.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Wyślemy Ci kod weryfikacyjny. Gdy podasz swój numer, będziesz za pośrednictwem SMS-ów lub innego kanału komunikacji otrzymywać wiadomości transakcyjne dotyczące Twojego konta itp.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Wyślemy Ci kod weryfikacyjny. Podając swój numer, wyrażasz zgodę na to, aby za pośrednictwem SMS-ów lub innego kanału komunikacji otrzymywać wiadomości transakcyjne dotyczące Twojego konta. [Dowiedz się więcej](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) o tym, jak Snap korzysta z Twojego numeru telefonu.";
+"ngo_phone_number_title" = "Numer telefonu";
+"ngo_phone_placeholder" = "Numer telefonu";
+"phone_suggestion_description" = "%1$@ nie jest poprawnym numerem telefonu. Chodziło Ci o\n%2$@?";
+"register_email_button" = "Zarejestruj się za pomocą adresu e-mail";
+"register_email_error" = "Wprowadź prawidłowy adres e-mail.";
+"skip_button" = "Pomiń";
+"yes_update" = "Tak, zaktualizuj";

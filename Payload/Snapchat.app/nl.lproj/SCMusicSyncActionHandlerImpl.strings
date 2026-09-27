@@ -1,0 +1,9 @@
+"memories_picker_max_duration_warning_text" = "Video's langer dan %1$d seconden kunnen niet worden bewerkt.";
+"memories_picker_max_item_message" = "Biedt ondersteuning voor maximaal %1$d items";
+"memories_picker_min_item_message" = "Selecteer ten minste %1$d items om te beginnen";
+"memories_picker_primary_button_title" = "Volgende";
+"memories_picker_title" = "Voeg een afbeelding of video toe";
+"music_sync_error_dialog_cancel_button_title" = "Annuleren";
+"music_sync_error_dialog_message" = "Een netwerkverbinding is vereist om een Snap met geluidsynchronisatie te maken. Controleer je netwerk en probeer het later opnieuw.";
+"music_sync_error_dialog_retry_button_title" = "Probeer het opnieuw";
+"music_sync_error_dialog_title" = "Geen netwerkverbinding";

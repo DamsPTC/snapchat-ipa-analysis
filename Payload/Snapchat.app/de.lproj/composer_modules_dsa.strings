@@ -1,0 +1,12 @@
+"confirmation_dialog_cancel_button" = "Abbrechen";
+"confirmation_dialog_description" = "Du wirst weiterhin Inhalte sehen, allerdings werden diese willkürlicher und weniger an deine Interessen angepasst sein.";
+"confirmation_dialog_disable_button" = "Deaktivieren";
+"confirmation_dialog_title" = "Personalisierten Inhalt deaktivieren?";
+"dsa_about_organic_content_description_first_paragraph" = "Bei Snap möchten wir dich dazu ermutigen, Neues über die Welt zu erfahren und Spaß mit anderen Snapchattern zu haben. Wir helfen dir dabei, indem wir dir Inhalte zeigen, für die du dich interessierst. Außerdem erhältst du Eilmeldungen und andere Geheimtipps, die dir vielleicht gefallen.  Jede Person ist einzigartig – daher verwenden wir einige deiner Informationen dazu, dir eine individuelle Snapchat Erfahrung zu ermöglichen! Wir zeigen dir beispielsweise personalisierte Inhalte. Wenn du also ein Sport-Fan bist, siehst du wahrscheinlich mehr Inhalte zum Thema Sport.\n\n";
+"dsa_about_organic_content_description_second_paragraph" = "Du kannst Informationen wie deinen Geburtstag, deinen Lifestyle und deine Interessen sowie die Datenschutzeinstellungen der Europäischen Union in den <tap-link>Snapchat Einstellungen</tap-link> aktualisieren.";
+"dsa_about_organic_content_title" = "Über Inhalte";
+"explainer_subtext" = "Diese Einstellungen gelten nur für Nutzer in der Europäischen Union.";
+"explainer_text" = "Jeder Mensch ist individuell. Deshalb personalisieren und stufen wir Content entsprechend ein, einschließlich Entdecken-, Spotlight- und Werbecontent. Wenn du beispielsweise viel Sportcontent ansiehst und angibst, dass Haar- und Schminktipps nicht dein Ding sind, passt die App den Content an dich an, indem sie dir bevorzugt Sportcontent und weniger Schminktipps anzeigt. Wenn diese Einstellung deaktiviert ist und du in der Europäischen Union lebst, zeigen wir dir weniger personalisierten Content an und verlassen uns stattdessen auf grundlegende Informationen, wie die Sprache, die du auf deinem Telefon eingestellt hast, dein Alter und dein Bundesland. Es wird dir zwar immer noch Content angezeigt, aber dieser ist eher zufällig und weniger auf deine Interessen zugeschnitten. Es kann etwas dauern, bis sich die Inhalte ändern.";
+"explainer_title" = "Personalisierten Content anzeigen";
+"header_title" = "Kontrollen der EU";
+"learn_more" = "Mehr erfahren";

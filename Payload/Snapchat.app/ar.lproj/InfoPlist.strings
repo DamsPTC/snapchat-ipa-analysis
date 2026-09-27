@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>سيُتيح هذا لتطبيق سناب شات الاتصال بملحقات البلوتوث مثل نظارة Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>استخدم الكاميرا لتصوير اللقطات واللعب بالعدسات وأكثر من ذلك بكثير! قد تستخدم بعض عدسات Lens كاميرا TrueDepth في Apple. يُرجى الاطلاع على سياسة الخصوصية للمزيد من المعلومات.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>سَيتم تحميل جهات الاتصال الخاصة بك على خوادم سناب شات بحيث تستطيع أنت وآخرون العثور على الأصدقاء والارتقاء بتجاربكم.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>سيُتيح هذا لتطبيق سناب شات الاتصال بملحقات البلوتوث مثل نظارة Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>سيتيح اختيار "السماح دائمًا" لسناب شات تحديث موقعك في الخلفية لمشاركة الموقع المباشر وتحسين تجربتك.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>سيتيح اختيار "السماح دائمًا" لسناب شات تحديث موقعك في الخلفية لمشاركة الموقع المباشر وتحسين تجربتك.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>يستخدم سناب شات هذه المعلومات لتخصيص تجربتك وتُتيح لك اكتشف الفلاتر والقصص وما حولك بشكل أكبر.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>استخدم الميكروفون لتسجيل رسائل صوتية لمقاطع Snap والدردشة بالفيديو وأكثر من ذلك.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>يُسجل سناب شات ما إذا كان جهازك في وضع رأسي أو أفقي عندما تلتقط اللقطات أو تستخدم عدسات Lens أو تقرأ مقالاً في قسم شاشة اكتشف وتُشاهد الإعلانات.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>شارك محتوى ألبوم الكاميرا الخاص بك مع الأصدقاء على سناب شات.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>شارك محتوى ألبوم الكاميرا الخاص بك مع الأصدقاء على سناب شات.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>من خلال اختيار "السماح"، قد يحدّ Snap من الإعلانات التي قد تبدو لك غير مناسبة أو متكررة مع مرور الوقت. اطّلع على سياسة الخصوصية لدينا لمعرفة مزيد من المعلومات حول التتبّع.</string>
+</dict>
+</plist>

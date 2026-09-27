@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Aby udostępnić ekran, musisz być w trakcie połączenia.";
+"screen_capture_error_generic" = "Coś poszło nie tak: spróbuj ponownie udostępnić ekran.";
+"screen_capture_not_enabled" = "Coś poszło nie tak.";

@@ -1,0 +1,4 @@
+"error_title" = "3D no disponible";
+"frame_error_body" = "No se pudieron activar los efectos 3D en este marco. Puede que esté muy oscuro o muy cerca o lejos del sujeto. Intenta seleccionar otro encuadre en este video.";
+"ok" = "Aceptar";
+"snap_error_body" = "No se pudieron activar los efectos 3D en este Snap. Puede que esté muy oscuro o muy cerca o lejos del sujeto.";

@@ -1,0 +1,4 @@
+"chatv3_leave_group_alert_description" = "Als je deze Groep verlaat, word je ook uit het bijbehorende Verhaal verwijderd. Snaps en Chats die je hebt verstuurd, worden verwijderd en Badges die je hebt verborgen worden weer hersteld.";
+"chatv3_leave_group_alert_fail_message" = "Je kunt de groep op dit moment niet verlaten.";
+"chatv3_leave_group_alert_leave_button" = "Verlaten";
+"chatv3_leave_group_alert_title" = "Groep verlaten?";

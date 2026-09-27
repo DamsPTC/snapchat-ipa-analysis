@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "ਆਪਣੀ ਸਕ੍ਰੀਨ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਇੱਕ ਕਾਲ ਵਿੱਚ ਹੋਣਾ ਜ਼ਰੂਰੀ ਹੈ।";
+"screen_capture_error_generic" = "ਕੋਈ ਗੜਬੜ ਹੋ ਗਈ ਹੈ: ਕਿਰਪਾ ਕਰਕੇ ਸਕ੍ਰੀਨ ਦੁਬਾਰਾ ਸਾਂਝੀ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।";
+"screen_capture_not_enabled" = "ਕੋਈ ਗੜਬੜ ਹੋ ਗਈ ਹੈ।";

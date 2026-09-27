@@ -1,0 +1,5 @@
+"captcha_error_loading_msg" = "Er is een fout opgetreden bij het laden van de afbeeldingen. Zorg ervoor dat je een goede internetverbinding hebt en probeer het opnieuw.";
+"captcha_error_verifying_msg" = "Er is een probleem opgetreden bij het versturen van jouw antwoord. Verzeker je ervan dat je een goede internetverbinding hebt en probeer het opnieuw.";
+"captcha_failure_verifying_msg" = "Je hebt niet alle afbeeldingen geïdentificeerd";
+"register_captcha_title" = "Bewijs dat je geen robot bent";
+"try_again" = "Opnieuw Proberen";

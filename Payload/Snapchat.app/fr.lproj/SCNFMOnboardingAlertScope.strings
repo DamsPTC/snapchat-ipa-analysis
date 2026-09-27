@@ -1,0 +1,4 @@
+"onboarding_alert_description" = "%1$@ a pu vous envoyer un message, car son numéro de téléphone est enregistré dans vos contacts. \n\nÀ tout moment, vous pouvez bloquer %1$@ ou modifier les réglages relatifs à vos contacts pour ne plus recevoir ce type de messages. \n\nSi vous ouvrez ce message, %1$@ saura que son numéro de téléphone est enregistré dans votre carnet d'adresses.";
+"onboarding_alert_open_chat_button" = "Ouvrir le Chat";
+"onboarding_alert_settings_button" = "Réglages";
+"onboarding_alert_title" = "Discuter avec %1$@";

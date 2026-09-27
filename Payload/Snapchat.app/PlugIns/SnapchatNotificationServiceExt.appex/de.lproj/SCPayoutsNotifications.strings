@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Neue Spotlight-Auszahlung!";
+"payouts_push_notification_gifting_title" = "Neue Schenken-Auszahlung!";
+"payouts_push_notification_title_spotlight_challenges" = "Neue Spotlight Challenge-Auszahlung!";
+"payouts_push_notification_title_story" = "Neue Storys-Auszahlung!";
+"payouts_push_notification_title_lens_creator_fund" = "Neue Bonusprogramm-Auszahlung für Linsen-Kreatoren!";
+"payouts_push_notification_title_ildg" = "Neue Auszahlung für freischaltbare Objekte für Linsen!";
+"payouts_push_notification_title_cashout_eligible" = "Deine Awards werden bald automatisch ausgezahlt!";
+"payouts_push_notification_title_invalidate_eligible" = "Deine Awards verfallen in Kürze!";
+
+"payouts_push_notification_subtitle_onboarded" = "Glückwunsch! Du kannst in deinem Profil unter „Meine Auszahlungen“ direkt nachsehen, wie viel du erhalten hast!";
+"payouts_push_notification_subtitle_not_onboarded" = "Du hast bei Spotlight Geld verdient. Melde dich über dein Profil an, um deine Auszahlung zu erhalten!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Du hast bei Spotlight Challenges Kristalle erhalten. Melde dich über dein Profil an, um deine Auszahlung zu erhalten!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Du hast Kristalle geschenkt bekommen. Melde dich über dein Profil an, um deine Auszahlung zu erhalten!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Du hast Kristalle durch Storys erhalten. Melde dich über dein Profil an, um deine Auszahlung zu erhalten!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Du hast Kristalle aus dem Bonusprogamm für Linsen-Kreatoren erhalten. Melde dich über dein Profil an, um deine Auszahlung zu erhalten!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Du hast Kristalle aus freischaltbaren Objekten für Linsen bekommen. Melde dich über dein Profil an, um deine Auszahlung zu erhalten!";
+"payouts_push_notification_subtitle_cashout_eligible" = "Deine Kristall-Awards werden am %1$@ automatisch ausgezahlt, wenn du keine Maßnahmen ergreifst. Überprüfe in deinem Profil „Meine Kristalle“, um das Problem zu beheben.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Deine Kristall-Awards verfallen am %1$@, wenn du keine Maßnahmen ergreifst. Überprüfe in deinem Profil „Meine Kristalle“, um das Problem zu beheben.";
+
+"payouts_state_title" = "Dein Auszahlungsstatus wurde aktualisiert!";
+"payouts_state_subtitle" = "Dein Berechtigungsstatus für Auszahlungen wurde aktualisiert. Prüfe deinen Status in deinem Profil unter „Meine Snap Kristalle“!";
+"gifting_opened_gift" = "%1$@ hat dein Geschenk geöffnet!";
+"gifting_support_thanks" = "Vielen Dank für deine Unterstützung auf Snapchat.";
+

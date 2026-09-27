@@ -1,0 +1,8 @@
+"suggestion_error" = "Bir sorun oluştu, lütfen daha sonra tekrar dene";
+"username_invalid_begin" = "Kullanıcı adları bir harfle başlamalıdır 🔠";
+"username_invalid_char" = "Kullanıcı adlarında sadece Latin harfleri, rakamlar ve bir adet -, _ ya da . bulunabilir. Özel karakterler kullanılamaz! 👌";
+"username_invalid_end" = "Kullanıcı adları bir harf ya da rakamla bitmelidir 👆";
+"username_invalid_long" = "Kullanıcı adları 15 karakterden uzun olamaz 📖";
+"username_invalid_separator" = "Kullanıcı adlarında sadece bir adet -, _ ya da . bulunabilir. Sen birazcık fazla kullandın ✌️";
+"username_invalid_short" = "Kullanıcı adları en az 3 karakter uzunluğunda olmalıdır 📝";
+"username_taken" = "%1$@ başkası tarafından alınmış!";

@@ -1,0 +1,57 @@
+#include <metal_stdlib>
+#include <metal_common>
+#include <metal_math>
+using namespace metal;
+
+// Vertex to fragment interface
+struct V2F {
+    float4 gl_Position [[ position ]];
+    float2 v_coord;
+};
+
+vertex V2F VertShader(device const float2 *a_pos_array [[ buffer(0) ]],
+                           device const float2& u_scale [[ buffer(1) ]],
+                           device const float2& u_translate [[ buffer(2) ]],
+                           uint vertexId [[ vertex_id ]]) {
+    const float2 a_pos = a_pos_array[vertexId];
+    V2F out;
+    out.v_coord = a_pos;
+    out.gl_Position = float4(a_pos * u_scale + u_translate, 0.0, 1.0);
+    return out;
+}
+
+half4 mix_colors(const half4 src, const half4 dest) {
+    return clamp(src + dest * (1.0 - src.a), 0.0, 1.0);
+}
+
+half unit_circle_drop_shadow_alpha(const half dist) {
+    return (exp(-dist * dist / 0.32) - 0.044) * 3.0;
+}
+
+fragment float4 FragShader(V2F in [[ stage_in ]],
+                                device const float& u_alpha [[ buffer(3) ]],
+                                device const float& u_border_scale [[ buffer(4) ]]){
+    const half border_width = 0.05;
+    const half base_alpha = 0.8;
+    const half base_drop_shadow_alpha = 0.5;
+    const half4 white = half4(1.0, 1.0, 1.0, 1.0);
+    const half4 black = half4(0.0, 0.0, 0.0, 1.0);
+    
+    half borderWidth = border_width * u_border_scale;
+    half circleRadius = 1.0 - borderWidth;
+    
+    half dist = sqrt(in.v_coord.x * in.v_coord.x + in.v_coord.y * in.v_coord.y);
+    half delta = fwidth(dist);
+    
+    half circleMask = half(1.0) - smoothstep(circleRadius - delta, circleRadius, dist);
+    half outerAlpha = 1.0;
+    
+    half4 circleColor = white * outerAlpha * circleMask;
+    
+    // don't show drop for small circles where it would dominate the size
+    half dropShadowAlphaStep = clamp(half(1.0) - smoothstep(half(0.1), half(0.5), borderWidth) - circleMask, half(0.0), half(1.0));
+    half4 dropShadowColor = black * unit_circle_drop_shadow_alpha(dist) * dropShadowAlphaStep * base_drop_shadow_alpha;
+    
+    return float4(mix_colors(circleColor, dropShadowColor) * u_alpha * base_alpha);
+}
+

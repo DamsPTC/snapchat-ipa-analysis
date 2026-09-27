@@ -1,0 +1,9 @@
+"spotlight_comments_approval_description" = "Los comentarios que recibes en tus Snaps se muestran públicamente una vez aprobados. Elige cómo quieres que se aprueben.";
+"spotlight_comments_approval_everyone" = "Aprobar automáticamente para todas las personas";
+"spotlight_comments_approval_everyone_description" = "Todos los comentarios se aprueban automáticamente de forma predeterminada";
+"spotlight_comments_approval_friends" = "Aprobar automáticamente para mis amigos";
+"spotlight_comments_approval_friends_description" = "Los comentarios de tus amistades se aprueban automáticamente";
+"spotlight_comments_approval_no_one" = "Aprobar de forma manual";
+"spotlight_comments_approval_no_one_description" = "Aprobar cada comentario de forma manual";
+"spotlight_comments_description" = "Configura la aprobación automática para los comentarios de ciertos grupos de personas que sean de confianza.";
+"spotlight_comments_settings" = "Ajustes de comentarios";

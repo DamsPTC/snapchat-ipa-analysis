@@ -1,0 +1,8 @@
+"suggestion_error" = "Terjadi kesalahan, coba lagi nanti";
+"username_invalid_begin" = "Nama pengguna harus dimulai dengan huruf 🔠";
+"username_invalid_char" = "Nama pengguna hanya boleh terdiri dari huruf romawi, angka, dan salah satu tanda -, _, atau . tapi tidak boleh karakter khusus! 👌";
+"username_invalid_end" = "Nama pengguna harus diakhiri dengan huruf atau angka 👆";
+"username_invalid_long" = "Nama pengguna tidak boleh lebih dari 15 karakter 📖";
+"username_invalid_separator" = "Nama pengguna hanya dapat menyertakan salah satu tanda -, _, atau . Kamu menggunakan terlalu banyak tanda ✌️";
+"username_invalid_short" = "Nama pengguna harus sedikitnya 3 karakter 📝";
+"username_taken" = "%1$@ sudah dipakai!";

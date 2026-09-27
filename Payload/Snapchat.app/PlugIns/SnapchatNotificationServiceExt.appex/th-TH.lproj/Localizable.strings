@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "โปรดเข้าสู่ระบบอีกครั้ง";
+"incorrect_user_error_body" = "มีบางอย่างผิดพลาด";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Snap ของคุณน่าตื่นเต้น 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "Snap ของคุณที่ส่งไปยังสตอรี่ของเรามียอดรับชมมากกว่า %1$@ ครั้ง!";
+
+"our_story_submission_view_milestone_generic_body" = "Snap ของคุณที่ส่งไปยังสตอรี่ของเรามียอดรับชมจำนวนมาก!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "Spotlight Snap ของคุณมีการรับชมมากกว่า %1$@ ครั้ง!";
+
+"spotlight_submission_view_milestone_generic_body" = "Spotlight Snap ของคุณมีการรับชมมากมายหลายครั้ง!";

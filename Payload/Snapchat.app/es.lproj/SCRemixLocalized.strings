@@ -1,0 +1,12 @@
+"remix_add_to_my_story" = "Añadir a Mi Historia";
+"remix_create_post" = "Crear publicación";
+"remix_error_record_more_additional_snaps" = "Graba al menos %1$.01f segundos.";
+"remix_error_stitch_minimum_duration" = "Selecciona al menos %1$.01f segundos del Snap versionado.";
+"remix_error_total_snap_duration" = "El Snap debe durar al menos %1$.01f segundos en total.";
+"remix_explanation_text" = "Cualquier persona que se mencione en los Snaps de Historias puede versionarlos y compartirlos";
+"remix_mention_privacy_prompt_description_no_toggle" = "Cualquier persona que menciones puede usar tu Snap para crear uno propio. A esto lo llamamos un Snap versionado. %1$@\n\nCada Snap versionado tiene su propia duración, se puede guardar, y otras personas pueden utilizarlo para crear otros Snaps versionados.\n\nAl eliminar tu Snap, no se eliminará ningún Snap versionado existente con contenido de tu Snap.";
+"remix_mention_privacy_prompt_learn_more_link" = "Obtén más información";
+"remix_mention_privacy_prompt_title" = "Las personas que menciono pueden versionar";
+"remix_promoted_cta_text" = "Versiona y comparte";
+"remix_remix_to_my_story" = "Snap versionado de Mi Historia";
+"remix_text" = "Snap versionado";

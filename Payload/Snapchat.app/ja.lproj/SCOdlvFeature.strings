@@ -1,0 +1,9 @@
+"landing_context" = "通常とは異なる環境でログインしようとしているようです。アカウントの安全性を守るため、下記のいずれかの方法でアカウントの認証を行ってください。";
+"landing_message_note" = "*データ使用料や通信料が適用される場合があります。";
+"landing_options_radio_phone" = "SMS";
+"landing_title" = "不審なログイン";
+"retry_message" = "問題が起きたようです。もう一度お試しください。";
+"verification_description" = "以下に送信されたコードを入力してください\n%1$@";
+"verification_title" = "認証コードを入力";
+"verification_unable_to_verify" = "認証できません";
+"verification_unable_to_verify_dialog" = "アカウントを認証できませんでした。Snapchatサポートまでお問い合わせください。";

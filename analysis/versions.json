@@ -1,0 +1,68 @@
+[
+  {
+    "path": "Payload/Snapchat.app/PlugIns/ScreenCaptureExtension.appex/Info.plist",
+    "bundle_id": "app.neriostore.snapchatunbanss06.screencapture",
+    "version": "12.81.0",
+    "build": "12.81.0.47"
+  },
+  {
+    "path": "Payload/Snapchat.app/PlugIns/SnapchatHomeScreenWidget.appex/Info.plist",
+    "bundle_id": "app.neriostore.snapchatunbanss06.homeWidget",
+    "version": "12.81.0",
+    "build": "12.81.0.47"
+  },
+  {
+    "path": "Payload/Snapchat.app/PlugIns/SnapchatLocationPushExtension.appex/Info.plist",
+    "bundle_id": "app.neriostore.snapchatunbanss06.locationpushservice",
+    "version": "12.81.0",
+    "build": "12.81.0.47"
+  },
+  {
+    "path": "Payload/Snapchat.app/PlugIns/SnapchatShareExt.appex/Info.plist",
+    "bundle_id": "app.neriostore.snapchatunbanss06.share",
+    "version": "12.81.0",
+    "build": "12.81.0.47"
+  },
+  {
+    "path": "Payload/Snapchat.app/PlugIns/SnapchatIntentsExtension.appex/Info.plist",
+    "bundle_id": "app.neriostore.snapchatunbanss06.intents",
+    "version": "12.81.0",
+    "build": "12.81.0.47"
+  },
+  {
+    "path": "Payload/Snapchat.app/PlugIns/SnapchatNotificationServiceExt.appex/Info.plist",
+    "bundle_id": "app.neriostore.snapchatunbanss06.notification",
+    "version": "12.81.0",
+    "build": "12.81.0.47"
+  },
+  {
+    "path": "Payload/Snapchat.app/Mapbox.bundle/Info.plist",
+    "bundle_id": "com.mapbox.Mapbox",
+    "version": "5.9.0",
+    "build": "15256"
+  },
+  {
+    "path": "Payload/Snapchat.app/Frameworks/ExtensionsSharedDependencies.framework/Info.plist",
+    "bundle_id": "com.toyopagroup.shared.ExtensionsSharedDependencies",
+    "version": "1.0",
+    "build": "1.0"
+  },
+  {
+    "path": "Payload/Snapchat.app/Frameworks/SCRT.framework/Info.plist",
+    "bundle_id": "com.samsoffes.SCRT",
+    "version": "1.5.3",
+    "build": "1"
+  },
+  {
+    "path": "Payload/Snapchat.app/Frameworks/CydiaSubstrate.framework/Info.plist",
+    "bundle_id": "com.saurik.CydiaSubstate",
+    "version": "0.9",
+    "build": null
+  },
+  {
+    "path": "Payload/Snapchat.app/Info.plist",
+    "bundle_id": "app.neriostore.snapchatunbanss06",
+    "version": "12.81.0",
+    "build": "12.81.0.47"
+  }
+]

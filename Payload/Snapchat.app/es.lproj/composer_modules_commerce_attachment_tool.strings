@@ -1,0 +1,11 @@
+"attach_products_section_title_text" = "Productos";
+"attach_store_section_title_text" = "Tienda";
+"attach_store_subtitle_text" = "$0 productos";
+"attach_to_snap_button_text" = "Adjuntar al Snap ($0)";
+"max_items_attached_text" = "Alcanzaste el límite máximo de $0 productos adjuntos. Anula la selección de un producto para actualizar.";
+"no_results_found_text" = "Sin resultados";
+"retry_text" = "Reintentar";
+"search_box_search_text" = "Buscar";
+"sold_out_text" = "Agotado";
+"something_went_wrong_text" = "Se produjo un error. Vuelve a intentarlo más tarde.";
+"store_card_subtitle_text" = "Toca aquí para adjuntar tu Historia completa";

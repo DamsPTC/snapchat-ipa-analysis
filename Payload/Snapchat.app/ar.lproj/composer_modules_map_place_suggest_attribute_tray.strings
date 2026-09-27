@@ -1,0 +1,9 @@
+"attribute_search_error" = "حدث خطأ أثناء البحث عن الصفات.";
+"attribute_text" = "$0  $1";
+"close" = "إغلاق";
+"edit_place_attributes" = "ضع علامة على هذا المكان.";
+"edit_place_attributes_subtitle" = "اقترح تفاصيل مختلفة عن هذا المكان.";
+"no_results" = "لا توجد نتائج.";
+"searching" = "جارٍ البحث";
+"submit" = "إرسال";
+"submit_error" = "تعذر إرسال تعديلات الصفات. حاول مرة أخرى.";

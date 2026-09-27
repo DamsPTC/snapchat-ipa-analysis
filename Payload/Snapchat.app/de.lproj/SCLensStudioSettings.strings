@@ -1,0 +1,4 @@
+"studio_force_unpair_confirm" = "Kopplungsdaten aus Lens Studio wurden gelöscht.";
+"studio_force_unpair_status_desc" = "Durch das Zurücksetzen wird die Kopplung mit Lens Studio aufgehoben. Gepushte Linsen werden aus dem Karussell entfernt.";
+"studio_force_unpair_status_title" = "Kopplungsstatus zurücksetzen";
+"studio_settings_tap_to_force_unpair" = "Tippen";

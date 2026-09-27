@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "捨棄";
+
+"add_a_chat" = "新增聊天…";
+
+"are_you_sure_you_want_to_abandon" = "確定要放棄你的曠世鉅作？";
+
+"best_friends_header" = "好友";
+
+"groups_header" = "群組";
+
+"friends_header" = "好友";
+
+"send" = "傳送";
+
+"cancel" = "取消";
+
+"cannot_add_more_snapchatters" = "無法新增更多 Snapchatter ！";
+
+
+"login_before_sharing_message" = "請登入 Snapchat 以分享。";
+
+"login_before_sharing_title" = "必須登入";
+
+"me_hint" = "(我)";
+
+"noticed_new_acct_sharing_message" = "帳號錯誤！";
+
+"noticed_new_acct_sharing_title" = "看來你轉換了帳號。請重新登入以傳送你的 Snap，或重新開始分享。";
+
+"okay" = "確定";
+
+"open_before_sharing_message" = "請開啟 Snapchat 以分享。";
+
+"open_before_sharing_title" = "開啟 Snapchat";
+
+"problem_sharing_try_again" = "發生錯誤了，請重試。";
+
+"recents_header" = "最近";
+
+"search_text_view_hint" = "搜尋";
+
+"send_to" = "傳送給…";
+
+"try_again" = "重試";
+
+"video_too_long" = "分享的影片長度不得超過 60 秒。";
+
+"video_too_long_with_maximum_duration_desc" = "分享的影片長度不得超過 %1$ld 秒。";
+
+"stories_header" = "故事";
+
+"my_story" = "我的故事";

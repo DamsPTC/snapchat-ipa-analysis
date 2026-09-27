@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "Te vom suna la %1$@.";
+"alt_send_code_by_sms" = "Trimite codul prin SMS";
+"alt_send_code_by_sms_dialogue" = "Îți vom trimite un cod prin SMS la %1$@.";
+"error_occurred_message" = "A intervenit o eroare. Încearcă din nou mai târziu.";
+"ngo_email_instead" = "Folosește adresa de e-mail";
+"ngo_phone_verification_description" = "Introdu codul trimis la %1$@";
+"ngo_phone_verification_title" = "Confirmă numărul de telefon";
+"ngo_submit" = "Trimite";
+"ok" = "OK";
+"register_phone_verification_desc" = "Introdu codul pe care ți l-am trimis la %1$@";
+"register_phone_verification_title" = "Introdu codul de confirmare";
+"resend_code" = "Retrimite";
+"skip_button" = "Omite";
+"verifying" = "Se verifică...";

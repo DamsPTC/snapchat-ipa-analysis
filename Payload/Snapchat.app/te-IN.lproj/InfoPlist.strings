@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Snapchatని Spectacles వంటి bluetooth ఉపకరణాలను జతచేయడానికి ఇది అనుమతిస్తుంది.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>మీ కెమెరా ను Snaps తీయడానికి, లెన్సెస్ తో ఆడడానికి, మరి ఇంకెన్నో చేయడానికి వాడవచ్చు! కొన్ని లెన్సెస్ Apple యొక్క TrueDepth కెమెరా వాడవచ్చు. మరింత సమాచారం కొరకు మా గోప్యత విధానాన్ని చూడండి</string>
+	<key>NSContactsUsageDescription</key>
+	<string>మీ కాంటాక్ట్‌స్ Snapchat సర్వర్‌కు అప్‌లోడ్ చేయబడతాయి తద్వారా మీరు మరియు ఇతరులు స్నేహితులను కనుగొనగలుగతారు, మరియు మీ అనుభవాన్ని మెరుగుపరుచుకుంటారు.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Snapchatని Spectacles వంటి Wi-Fi ఎనేబుల్డ్ ఉపకరణాలను జతచేయడానికి ఇది వీలు కల్పిస్తుంది.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>"ఎల్లప్పుడూ అనుమతించు" ఎంచుకోవడం వలన లైవ్ లొకేషన్‌ను షేర్ చేసుకోవడానికి మరియు మీ అనుభవాన్ని మెరుగుపరచడానికి Snapchat మీ లొకేషన్‌ను బ్యాక్‌గ్రౌండ్‌లో అప్డేట్ చేస్తుంది.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>"ఎల్లప్పుడూ అనుమతించు" ఎంచుకోవడం వలన లైవ్ లొకేషన్‌ను షేర్ చేసుకోవడానికి మరియు మీ అనుభవాన్ని మెరుగుపరచడానికి Snapchat మీ లొకేషన్‌ను బ్యాక్‌గ్రౌండ్‌లో అప్డేట్ చేస్తుంది.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>మీ అనుభవాన్ని అనుకులీకరించడానికి మరియు మీరు ఫిల్టర్‌స్, స్టోరీస్, మరియు మీ చుట్టూ ఉండే ఇంకా ఎన్నింటినో అన్వేషించడానికి Snapchat దీనిని ఉపయోగిస్తుంది.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Snapలు, వీడియో చాట్‌ మరియు మరిన్నిటి కొరకు ఆడియోను రికార్డ్ చేయడానికి మీ మైక్రోఫోన్ ఉపయోగించండి.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>మీరు Snapలు తీసుకునేటప్పుడు, లెన్సెస్ ఉపయోగించేటప్పుడు, డిస్కవర్ చదివేటప్పుడు, మరియు యాడ్‌స్‌ను చూసేటప్పుడు మీ పరికరం నిట్టనిలువుగా లేదా అడ్డంగా ఉన్నట్లయితే Snapchat రికార్డ్ చేస్తుంది.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Snapలో మీ కెమెరా రోల్ కంటెంట్‌ను ఫ్రెండ్స్‌తో షేర్ చేసుకోండి.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Snapలో మీ కెమెరా రోల్ కంటెంట్‌ను ఫ్రెండ్స్‌తో షేర్ చేసుకోండి.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>"అనుమతించండి" ఎంచుకోవడం ద్వారా, Snap కాలక్రమేణా మీకు అసంబద్ధంగా అనిపించే లేదా పునరావృతమయ్యే యాడ్స్‌ను తగ్గించవచ్చు. ట్రాకింగ్ గురించి మరింత సమాచారం కోసం మా గోప్యతా విధానాన్ని చూడండి.</string>
+</dict>
+</plist>

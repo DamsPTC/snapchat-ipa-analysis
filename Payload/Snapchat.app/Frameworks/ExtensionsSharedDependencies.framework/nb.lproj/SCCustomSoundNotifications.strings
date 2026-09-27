@@ -1,0 +1,20 @@
+/*
+
+ SCCustomSoundNotifications.strings
+ SCNotificationServiceExtensionBridge
+*/
+
+/// File Names for Notification Custom Sounds 
+"custom_sound_notifications_default_sound_name" = "Standard lyd";
+"custom_sound_notifications_melody_beach_sound_name" = "Pling og plong";
+"custom_sound_notifications_bottle_pop_sound_name" = "Flaskepopp";
+"custom_sound_notifications_fairy_glass_sound_name" = "Glasspling";
+"custom_sound_notifications_alien_amulet_sound_name" = "Amulettpling";
+"custom_sound_notifications_log_goblin_sound_name" = "Kubbebang";
+"custom_sound_notifications_mini_drop_sound_name" = "Mini-svisj";
+"custom_sound_notifications_click_world_sound_name" = "Klikkeverden";
+"custom_sound_notifications_digi_drip_sound_name" = "Digitale drypp";
+"custom_sound_notifications_friendly_object_sound_name" = "Vennlig objekt";
+"custom_sound_notifications_star_lite_sound_name" = "Star Lite";
+"custom_sound_notifications_stone_web_sound_name" = "Stone Web";
+"custom_sound_notifications_techno_zone_sound_name" = "Techno-sone";

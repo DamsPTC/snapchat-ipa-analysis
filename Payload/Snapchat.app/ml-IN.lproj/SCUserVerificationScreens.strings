@@ -1,0 +1,18 @@
+"finish" = "പൂർത്തിയാക്കുക";
+"invalid_phone_number_suggestion_title" = "ഫോൺ നമ്പർ അസാധുവാണ്";
+"ngo_country_title" = "രാജ്യം";
+"ngo_email_instead" = "പകരം ഇമെയിൽ ഉപയോഗിക്കുക";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "ഇമെയിൽ ചെയ്യുക";
+"ngo_phone_instead" = "പകരം ഫോൺ നമ്പർ ഉപയോഗിക്കൂ";
+"ngo_phone_number_info" = "ഞങ്ങൾ SMS ആയി ഒരു പരിശോധിച്ചുറപ്പിക്കൽ കോഡ് അയയ്ക്കും.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "ഞങ്ങൾ SMS വഴി ഒരു പരിശോധിച്ചുറപ്പിക്കൽ കോഡ് അയയ്ക്കും. നിങ്ങളുടെ നമ്പർ നൽകുന്നതിലൂടെ, നിങ്ങളുടെ അക്കൗണ്ടുമായി ബന്ധപ്പെട്ട ട്രാൻസാക്ഷൻ സന്ദേശങ്ങൾ SMS അല്ലെങ്കിൽ മറ്റ് സന്ദേശ ചാനൽ വഴി ലഭിക്കാൻ നിങ്ങൾ സമ്മതം നൽകുന്നു.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "ഞങ്ങൾ നിങ്ങൾക്ക് ഒരു പരിശോധിച്ചുറപ്പിക്കൽ കോഡ് അയയ്ക്കും. നിങ്ങളുടെ നമ്പർ നൽകുന്നതിലൂടെ, നിങ്ങളുടെ അക്കൗണ്ടുമായി ബന്ധപ്പെട്ട ട്രാൻസാക്ഷൻ സന്ദേശങ്ങൾ SMS അല്ലെങ്കിൽ മറ്റ് സന്ദേശ ചാനലുകൾ വഴി നിങ്ങൾക്ക് ലഭിക്കും.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "ഞങ്ങൾ നിങ്ങൾക്ക് ഒരു പരിശോധിച്ചുറപ്പിക്കൽ കോഡ് അയയ്ക്കും. നിങ്ങളുടെ നമ്പർ നൽകുന്നതിലൂടെ, നിങ്ങളുടെ അക്കൗണ്ടുമായി ബന്ധപ്പെട്ട ട്രാൻസാക്ഷൻ സന്ദേശങ്ങൾ SMS അല്ലെങ്കിൽ മറ്റ് സന്ദേശ ചാനലുകൾ വഴി ലഭിക്കാൻ നിങ്ങൾ സമ്മതം നൽകുന്നു. Snap എങ്ങനെയാണ് നിങ്ങളുടെ ഫോൺ നമ്പർ ഉപയോഗിക്കുന്നതെന്ന് മനസ്സിലാക്കാൻ [കൂടുതലറിയുക](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number).";
+"ngo_phone_number_title" = "ഫോൺ നമ്പർ";
+"ngo_phone_placeholder" = "ഫോൺ നമ്പർ";
+"phone_suggestion_description" = "സാധുതയുള്ള ഫോൺ നമ്പർ അല്ല %1$@. \n%2$@ ആണോ നിങ്ങൾ ഉദ്ദേശിച്ചത്?";
+"register_email_button" = "പകരം, ഇമെയിൽ-ലൂടെ സൈൻ അപ്പ് ചെയ്യുക";
+"register_email_error" = "സാധുവായ ഒരു ഇമെയിൽ വിലാസം നൽകൂ.";
+"skip_button" = "ഒഴിവാക്കുക";
+"yes_update" = "ഉവ്വ്, അപ്ഡേറ്റ് ചെയ്യുക";

@@ -1,0 +1,5 @@
+"friendmoji_settings_policy_cell_friends" = "Friends";
+"friendmoji_settings_policy_cell_only_me" = "Only Me";
+"friendmoji_settings_policy_description" = "Friendmoji stickers and some Bitmoji Stories feature your personal Bitmoji avatar alongside your Friend’s Bitmoji avatar. You can find them in Snaps with Friends, Chats, Group Chats and more. Snaps with Friendmoji stickers can be sent to others and posted to Stories. This toggle allows you to choose who can use your Bitmoji in Friendmoji stickers and Bitmoji Stories.";
+"friendmoji_settings_policy_title" = "Use My Bitmoji Avatar";
+"friendmoji_settings_policy_update_error_message" = "Failed to update the Bitmoji Friendmoji setting. Please try again";

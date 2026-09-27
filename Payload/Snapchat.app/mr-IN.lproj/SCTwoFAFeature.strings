@@ -1,0 +1,9 @@
+"connection_error" = "कनेक्शनमध्ये त्रुटी आली";
+"okay" = "ठीक आहे";
+"send_code_again" = "पुन्हा कोड पाठवा";
+"twofa_login_code_verification_otp_to_sms_info" = "त्याऐवजी मला एक एसएमएस पाठवा";
+"twofa_login_code_verification_otp_to_sms_progress" = "पाठवित आहे...";
+"twofa_login_code_verification_with_otp_explanation" = "तुमची ओळख सत्यापित करण्यासाठी कृपया आपल्या प्रमाणीकरण ॲपद्वारे जनरेट केलेला कोड प्रविष्ट करा.";
+"twofa_login_recovery_code_used" = "तुम्ही लॉग इन करण्यासाठी तुमचा रिकव्हरी कोड वापरला आहे. आम्ही दोन-घटक प्रमाणीकरण अक्षम केले आहे - ते पुन्हा-सक्षम करण्यासाठी सेटिंग्स वर जा.";
+"twofa_new_device_verification_explanation" = "तुमची ओळख सत्यापित करण्यासाठी कृपया %1$@ आम्ही पाठवलेले कोड प्रविष्ट करा .";
+"twofa_settings_recovery_code_used_title" = "दोन-घटक प्रमाणीकरण अक्षम";

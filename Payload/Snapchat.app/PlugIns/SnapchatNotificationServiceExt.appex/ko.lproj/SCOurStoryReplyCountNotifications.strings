@@ -1,0 +1,18 @@
+/*
+
+ SCOurStoryReplyCountNotifications.strings
+ SCOurStoryReplyModifier
+*/
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count" = "보류 중인 스포트라이트 댓글 %1$d개";
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count_singular" = "보류 중인 스포트라이트 댓글 1개";
+
+/// Generic text in case the reply count is not available.
+"generic_push_notification_title_comment" = "보류 중인 스포트라이트 댓글";
+
+/// Shown as a subtitle on the push notification on lock screen.
+"push_notification_subtitle" = "눌러서 보기";
+

@@ -1,0 +1,10 @@
+"imported_plural" = "افتح لاستيراد ⁦%1$ld⁩ من اللقطات";
+"imported_singular" = "افتح لاستيراد Snap الجديدة";
+"new_snap_notification_title_plural_format" = "⁦%1$ld⁩ من اللقطات الجديدة";
+"new_snap_notification_title_singular" = "لقطة واحدة جديد";
+"pairing_complete_notification_body" = "المس للاستيراد إلى \"الذكريات\"";
+"transfer_complete_with_count_plural" = "تم استيراد ⁦%1$ld⁩ اللقطات من ⁦%2$@⁩";
+"transfer_complete_with_count_singular" = "تم استيراد 1 لقطة من ⁦%1$@⁩";
+"transfer_complete_without_count_singular" = "لقطة جديدة من ⁦%1$@⁩";
+"transfer_interrupted" = "توقّف استيراد نظارة Spectacles";
+"transfer_sd_complete" = "تم اكتمال الاستيراد من نظارة Spectacles.";

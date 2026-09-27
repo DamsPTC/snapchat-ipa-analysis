@@ -1,0 +1,6 @@
+"delete_error_message" = "Fehler beim Löschen des Scanverlaufs. Versuch’s später nochmal.";
+"delete_success_message" = "Scanverlauf wurde gelöscht!";
+"deselect_all" = "Auswahl aufheben";
+"no_results" = "Keine Ergebnisse";
+"nothing_to_see_here" = "Hier gibts nichts zu sehen!";
+"select_all" = "Alle auswählen";

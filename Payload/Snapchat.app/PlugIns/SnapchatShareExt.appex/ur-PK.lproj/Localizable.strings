@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "چھوڑ دیں";
+
+"add_a_chat" = "چیٹ شامل کریں۔۔۔";
+
+"are_you_sure_you_want_to_abandon" = "کیا آپ واقعی اپنا Snapsterpiece چھوڑ دینا چاہتے ہیں؟";
+
+"best_friends_header" = "بہترین دوست";
+
+"groups_header" = "گروپس";
+
+"friends_header" = "دوست";
+
+"send" = "بھیجیں";
+
+"cancel" = "منسوخ کریں";
+
+"cannot_add_more_snapchatters" = "مزید سنیپ چیٹرز شامل نہیں کر سکتے!";
+
+
+"login_before_sharing_message" = "شیئر کرنے سے قبل براہِ کرم Snapchat میں لاگ ان کریں۔";
+
+"login_before_sharing_title" = "لاگ ان درکار ہے";
+
+"me_hint" = "(میں)";
+
+"noticed_new_acct_sharing_message" = "غلط اکاؤنٹ!";
+
+"noticed_new_acct_sharing_title" = "لگتا ہے آپ نے اکاؤنٹ بدل لیے ہیں۔ اپنی snap بھیجنے کیلئے دوبارہ لاگ ان کریں، یا پھر دوبارہ سے اپنی شیئرنگ شروع کریں۔";
+
+"okay" = "ٹھیک ہے";
+
+"open_before_sharing_message" = "شیئر کرنے سے قبل براہِ کرم Snapchat کھولیں۔";
+
+"open_before_sharing_title" = "Snapchat کھولیں";
+
+"problem_sharing_try_again" = "کچھ غلط ہو گیا، براہِ کرم دوبارہ کوشش کریں۔";
+
+"recents_header" = "حالیہ";
+
+"search_text_view_hint" = "تلاش کریں";
+
+"send_to" = "بھیجیں بنام...";
+
+"try_again" = "دوبارہ کوشش کریں";
+
+"video_too_long" = "شیئر کرنے کیلئے ویڈیوز کو 60 سیکنڈ سے کم ہونا چاہیئے۔";
+
+"video_too_long_with_maximum_duration_desc" = "شیئر کرنے کیلئے ویڈیوز ⁦%1$ld⁩ سیکنڈ سے مختصر ہونی چاہئیں۔";
+
+"stories_header" = "کہانیاں";
+
+"my_story" = "میری کہانی";

@@ -1,0 +1,18 @@
+"finish" = "مکمل کریں";
+"invalid_phone_number_suggestion_title" = "غلط فون نمبر";
+"ngo_country_title" = "ملک";
+"ngo_email_instead" = "اس کے بجائے ای میل استعمال کریں";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "ای میل";
+"ngo_phone_instead" = "اس کے بجائے فون نمبر استعمال کریں";
+"ngo_phone_number_info" = "ہم ایک SMS توثیقی کوڈ بھیجیں گے۔";
+"ngo_phone_number_info_receive_messaging_by_channel" = "ہم SMS توثیقی کوڈ بھیجیں گے۔ نمبر درج کرنے کا مطلب ہے کہ آپ SMS یا میسج کے کسی اور ذریعہ سے اپنے اکاؤنٹ سے متعلق ٹرانزیکشنل میسجنگ موصول کرنے سے متفق ہیں۔";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "ہم آپ کو توثیقی کوڈ بھیجیں گے۔ اپنا نمبر درج کرنے کا مطلب ہے کہ آپ SMS یا میسج کے دیگر ذرائع سے اپنے اکاؤنٹ وغیرہ سے متعلق ٹرانزیکشنل میسجنگ موصول کرنے سے متفق ہیں۔";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "ہم آپ کو توثیقی کوڈ بھیجیں گے۔ اپنا نمبر درج کرنے کا مطلب ہے کہ آپ SMS یا میسج کے کسی اور ذریعہ سے اپنے اکاؤنٹ سے متعلق ٹرانزیکشنل میسجنگ موصول کرنے سے متفق ہیں۔ اس بارے میں [مزید جانیں⁦](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number)⁩ کہ Snap آپ کا فون نمبر کس طرح استعمال کرتی ہے۔";
+"ngo_phone_number_title" = "فون نمبر";
+"ngo_phone_placeholder" = "فون نمبر";
+"phone_suggestion_description" = "⁦%1$@⁩ درست فون نمبر نہیں ہے۔ کیا آپ کا مطلب \n⁦%2$@⁩ ہے؟";
+"register_email_button" = "اس کے بجائے ای میل سے سائن اپ کریں";
+"register_email_error" = "براہِ کرم ایک مستند ای میل ایڈریس درج کریں۔";
+"skip_button" = "چھوڑ دیں";
+"yes_update" = "ہاں، اپ ڈیٹ کریں";

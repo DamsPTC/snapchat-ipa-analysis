@@ -1,0 +1,16 @@
+"studio_menu_title" = "Lens Studio";
+"studio_pair_accept" = "Enlazar";
+"studio_pair_connecting" = "Enlazando...";
+"studio_pair_connection_failed" = "No se puede enlazar";
+"studio_pair_dismiss" = "AHORA NO";
+"studio_pair_error_text" = "Intenta de nuevo o comunícate con el equipo de Ayuda.";
+"studio_pair_error_title" = "No se pudo enlazar con Lens Studio";
+"studio_pair_success_toast" = "¡Se enlazó correctamente!";
+"studio_pair_title" = "¿Enlazar con Lens Studio?";
+"studio_unpair_accept" = "Desenlazar";
+"studio_unpair_confirm" = "¿Seguro que quieres desenlazar Lens Studio?";
+"studio_unpair_error" = "Error al desenlazar Lens Studio";
+"studio_update_required_text" = "Actualizar a la última versión de Snapchat";
+"studio_update_required_title" = "Se necesita una actualización";
+"studio_update_snapchat_title" = "¡Actualiza Snapchat para enlazar tu dispositivo!";
+"studio_version_unsupported_title" = "¡Uy! Esta versión de Snapchat no es compatible.";

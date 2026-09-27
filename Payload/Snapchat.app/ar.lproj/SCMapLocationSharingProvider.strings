@@ -1,0 +1,13 @@
+"friend" = "صديق واحد";
+"friends" = "⁦%1$@⁩ أصدقاء";
+"live_location_entering_ghost_mode_warning_subtitle" = "أنت في وضع الشبح ولكن ما زال بإمكان ⁦%1$@⁩ رؤية موقعك المباشر. لإيقاف المشاركة، المس \"إخفاء موقعي المباشر\" أدناه.";
+"live_location_entering_ghost_mode_warning_title" = "ما زلت تشارك موقعك المباشر";
+"live_location_exit_ghost_mode_subtitle" = "ستتوقف عن إخفاء موقعك المباشر ومشاركته مع الأصدقاء الذين تختارهم.";
+"live_location_exit_ghost_mode_title" = "هل ترغب بالخروج من وضع الشبح؟";
+"live_location_pausing_alert_OK" = "حسنًا";
+"live_location_pausing_alert_body_all_friends" = "تم إخفاء موقعك المباشر، لكن يمكن لجميع أصدقائك رؤية آخر موقع ظهرت فيه. \n\n يمكنك تغيير هذا في إعدادات الموقع.";
+"live_location_pausing_alert_body_plural" = "تم إخفاء موقعك المباشر، لكن يمكن لـ ⁦%1$@⁩ من الأصدقاء رؤية آخر موقع ظهرت فيه. \n\n يمكنك تغيير هذا في إعدادات الموقع.";
+"live_location_pausing_alert_body_singular" = "تم إخفاء موقعك المباشر، لكن يمكن لصديق واحد رؤية آخر موقع ظهرت فيه. \n\n يمكنك تغيير هذا في إعدادات الموقع.";
+"live_location_pausing_alert_title" = "ما زلت تشارك آخر موقع ظهرت فيه.";
+"live_location_resuming_alert_body" = "هل تريد مشاركة البث المباشر مع ⁦%1$@⁩ واستئناف الجلسات المباشرة؟";
+"live_location_resuming_alert_subtitle" = "ستتوقف عن إخفاء موقعك المباشر وستشاركه مع ⁦%1$@⁩، وجميع من حدّدتهم سابقًا.";

@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "Kami akan menelefon anda di %1$@.";
+"alt_send_code_by_sms" = "Hantar kod melalui SMS";
+"alt_send_code_by_sms_dialogue" = "Kami akan menghantar kod melalui SMS ke %1$@.";
+"error_occurred_message" = "Ada ralat berlaku. Sila cuba lagi nanti.";
+"ngo_email_instead" = "Sebaliknya gunakan email";
+"ngo_phone_verification_description" = "Masukkan kod yang dihantar ke %1$@";
+"ngo_phone_verification_title" = "Sahkan nombor anda";
+"ngo_submit" = "Hantar";
+"ok" = "OK";
+"register_phone_verification_desc" = "Masukkan kod yang kami hantar ke %1$@";
+"register_phone_verification_title" = "Masukkan Kod Pengesahan";
+"resend_code" = "Hantar semula";
+"skip_button" = "Langkau";
+"verifying" = "Mengesahkan…";

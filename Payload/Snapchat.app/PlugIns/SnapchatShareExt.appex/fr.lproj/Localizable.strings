@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Abandonner";
+
+"add_a_chat" = "Ajouter un Chat...";
+
+"are_you_sure_you_want_to_abandon" = "Voulez-vous vraiment abandonner votre Snapsterpiece ?";
+
+"best_friends_header" = "Meilleurs Amis";
+
+"groups_header" = "Groupes";
+
+"friends_header" = "Ami·e·s";
+
+"send" = "Envoyer";
+
+"cancel" = "Annuler";
+
+"cannot_add_more_snapchatters" = "Impossible d'ajouter d'autres Snapchatters !";
+
+
+"login_before_sharing_message" = "Connectez-vous sur Snapchat pour pouvoir partager.";
+
+"login_before_sharing_title" = "Connexion nécessaire";
+
+"me_hint" = "(moi)";
+
+"noticed_new_acct_sharing_message" = "Mauvais  compte !";
+
+"noticed_new_acct_sharing_title" = "Il semblerait que vous ayez changé de compte. Reconnectez-vous pour envoyer votre Snap, ou recommencez tout depuis le début.";
+
+"okay" = "Ok";
+
+"open_before_sharing_message" = "Veuillez ouvrir Snapchat afin de partager.";
+
+"open_before_sharing_title" = "Ouvrir Snapchat";
+
+"problem_sharing_try_again" = "Une erreur s'est produite. Veuillez réessayer.";
+
+"recents_header" = "Récents";
+
+"search_text_view_hint" = "Rechercher";
+
+"send_to" = "Envoyer à…";
+
+"try_again" = "Réessayer";
+
+"video_too_long" = "Pour pouvoir être partagées, les vidéos doivent faire moins de 60 secondes.";
+
+"video_too_long_with_maximum_duration_desc" = "Pour pouvoir être partagées, les vidéos doivent faire moins de %1$ld secondes.";
+
+"stories_header" = "Stories";
+
+"my_story" = "Ma Story";

@@ -1,0 +1,5 @@
+"default_description" = "Your account has been reported for violating our Community Guidelines.\n\n Refrain from this kind of behavior in the future, or your account may be suspended or deleted. Thanks for your cooperation.";
+"dialog_button_text" = "View Guidelines";
+"dialog_button_text_no_internet" = "I understand";
+"dialog_title" = "Time Out!";
+"read_community_guidelines" = "You must fully read the community guidelines before proceeding.";

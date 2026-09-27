@@ -1,0 +1,15 @@
+"friend_is_sharing_live_location" = " يشارك ⁦%1$@⁩ الموقع المباشر";
+"friend_live_location_session_ended" = "انتهت جلسة مشاركة موقع ⁦%1$@⁩ المباشر";
+"friend_not_currently_on_map" = "⁦%1$@⁩ غير موجود حالياً على الخريطة";
+"friends_live_location" = "موقع ⁦%1$@⁩ المباشر";
+"generic_error_message" = "لم يعد هذا الموقع متاحًا بعد الآن.";
+"let_friend_see_your_location" = "اسمح لـ ⁦%1$@⁩ أن يرى موقعك.";
+"live_location_session_stopped" = "⁦%1$@⁩ تم إيقاف مشاركة الموقع المباشر";
+"loc_shared_but_not_sharing_anymore" = "لقد شاركتَ موقعك، ولكنك لم تعد تُشاركه";
+"location_muted" = "تم إخفاء الموقع";
+"me" = "أنا";
+"my_live_location" = "موقعي المباشر";
+"session_expired" = "انتهت الجلسة";
+"stop_sharing" = "إيقاف المشاركة";
+"you" = "أنت";
+"your_live_location_session_ended" = "انتهت جلسة مشاركة موقعك المباشر";

@@ -1,0 +1,14 @@
+"accessDenied" = "Zugriff verweigert";
+"accessDeniedMessage" = "Wenn du vermutest, dass jemand anderes sich Zugriff auf deinen Account verschaffen wollte, ändere dein Passwort oder kontaktiere den Support.";
+"approveButton" = "Ja";
+"changePassword" = "Passwort ändern";
+"contactSupport" = "Support kontaktieren";
+"denyButton" = "Nein";
+"destination" = "Ziel";
+"device" = "Gerät";
+"encryptionSubtitle" = "Bitte lass Snapchat so lange geöffnet!";
+"encryptionTitle" = "Deine Konversationen werden synchronisiert …";
+"near" = "In der Nähe";
+"responseErrorMessage" = "Sorry, wir konnten deine Anfrage nicht erfüllen. Das kann an einem Verbindungsproblem mit deinem Handy oder an unseren Services liegen.\n\nVersuchs später nochmal oder wende dich an den Support.";
+"username" = "Nutzername";
+"when" = "Wann";

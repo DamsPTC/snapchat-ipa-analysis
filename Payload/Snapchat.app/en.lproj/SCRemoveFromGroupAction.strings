@@ -1,0 +1,5 @@
+"confirm_removal_dialog_body" = "⁦%1$@⁩ and other group members will see that you removed them from this group. \n\n⁦%1$@⁩ will still be able to see and take screenshots of the history of the conversation.";
+"confirm_removal_dialog_cancel_button" = "Cancel";
+"confirm_removal_dialog_confirm_button" = "Remove";
+"confirm_removal_dialog_title" = "Remove ⁦%1$@⁩?";
+"remove_action_sheet_cell_text" = "Remove from Group";

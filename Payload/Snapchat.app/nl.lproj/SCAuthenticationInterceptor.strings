@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "De back-up naar Herinneringen van Snaps die door %1$@ zijn opgeslagen is nog niet klaar. Als je inlogt als %2$@ raak je deze Snaps kwijt. Log opnieuw in als %3$@ om de back-up te voltooien.";
+"memories_pending_sync_alert_login_action" = "IK WIL TOCH INLOGGEN";
+"memories_pending_sync_alert_registration_action" = "IK WIL MIJ TOCH AANMELDEN";
+"memories_pending_sync_alert_registration_body" = "De back-up naar Herinneringen van Snaps die door %1$@ zijn opgeslagen is nog niet klaar. Als je je aanmeldt voor een nieuw account raak je deze Snaps kwijt. Log opnieuw in als %2$@ om de back-up te voltooien.";
+"memories_pending_sync_alert_title" = "Momentje.";

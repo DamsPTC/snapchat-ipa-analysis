@@ -1,0 +1,9 @@
+"attribute_search_error" = "Received error while searching for attributes.";
+"attribute_text" = "$0  $1";
+"close" = "Close";
+"edit_place_attributes" = "Tag this place!";
+"edit_place_attributes_subtitle" = "Suggest different details about this place.";
+"no_results" = "No results.";
+"searching" = "Searching";
+"submit" = "Submit";
+"submit_error" = "Could not submit attribute edits. Please try again.";

@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Snapcode ของฉัน";
+
+"Snapcode Desc" = "วิดเจ็ตนี้แสดง Snapcode ของคุณ";
+
+"camera" = "กล้อง";
+
+"camera_desc" = "เปิดกล้อง Snapchat";
+
+"log_in" = "เข้าสู่ระบบ";
+
+"shortcut_to_a_friend" = "แตะวิดเจ็ตหลังจากที่วางวิดเจ็ตเรียบร้อยแล้วเพื่อเลือกเพื่อนหรือกลุ่ม";
+
+"pin_a_friend" = "ปักหมุดเพื่อนหรือกลุ่ม";
+
+"birthdays" = "วันเกิด";
+
+"see_upcoming_birthdays" = "ดูวันเกิดที่กำลังมาถึง";
+
+"no_upcoming_birthdays" = "ไม่มีวันเกิดที่กำลังมาถึง";
+
+"user_and_other_have_birthday" = "%1$@ + %2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ ในอีก %2$d วัน";
+
+"user_has_birthday_in_days_plural" = "%1$@ ในอีก %2$d วัน";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d ในอีก %3$d วัน";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d ในอีก %3$d วัน";
+
+"Memories" = "Memories";
+
+"Memories Desc" = "Snap เด่นจาก Memories ของคุณ รวมถึงการรำลึกความหลัง การเดินทาง การสรุป และอื่น ๆ! ";
+
+"Friend Location Widget Desc" = "ปักหมุดเพื่อนด้วยวิดเจ็ตนี้เพื่อดูตำแหน่งที่ตั้งของเพื่อน";
+
+"map" = "แผนที่";
+
+"now" = "ตอนนี้";
+
+"something_went_wrong" = "มีบางอย่างผิดพลาด โปรดเปิด Snapchat";
+
+"long_press_to_pin" = "แก้ไขเพื่อปักหมุดเพื่อน";
+
+"off_the_grid" = "ปิดตำแหน่งที่ตั้ง";

@@ -1,0 +1,3 @@
+"try_again_message" = "Vuelve a intentarlo.";
+"twofa_login_mobile_change_disabled_msg" = "Cambiaste tu número de teléfono. Desactivamos la autenticación de dos factores. Ve a Ajustes para reactivarla.";
+"twofa_login_mobile_change_disabled_title" = "Autenticación de dos factores desactivada";

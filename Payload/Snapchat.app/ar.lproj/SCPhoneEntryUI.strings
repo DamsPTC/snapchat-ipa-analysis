@@ -1,0 +1,11 @@
+"country_code_field" = "حقل رمز الدولة";
+"mobile_number_field" = "خانة رقم الهاتف";
+"phone_entry_invalid_country_code" = "🌎 رمز البلد غير صالح";
+"phone_entry_phone_placeholder" = "رقم الهاتف";
+"phone_entry_select_country_code" = "🌎 اختر رمز البلد";
+"register_country_picker_title" = "اختر الدولة";
+"register_phone_label" = "رقم الهاتف";
+"send_sms_explanation" = "سنُرسل لك رمز التحقّق في رسالة نصية.";
+"send_sms_explanation_here" = "سنستخدم رقم هاتفك لإرسال رمز التحقق عبر رسالة نصية قصيرة وكما تم التوضيح [هنا](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_and_here" = "سنستخدم رقم هاتفك لإرسال رمز التحقق والتحديثات المهمة عبر رسالة نصية قصيرة، بالإضافة إلى ما ورد وصفه [هنا](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_here" = "سنستخدم رقم هاتفك لإرسال رمز التحقق عبر رسالة نصية قصيرة والتحديثات المهمة كما تم التوضيح [هنا](https://support.snapchat.com/article/snap-phone-number).";

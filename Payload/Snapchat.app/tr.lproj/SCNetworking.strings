@@ -1,0 +1,3 @@
+"check_connection_message" = "Lütfen bağlantını kontrol edip tekrar dene.";
+"connect_failed_title" = "Bağlantı Kurulamadı";
+"server_error_try_again" = "Bir sorun oluştu. Lütfen daha sonra tekrar dene!";

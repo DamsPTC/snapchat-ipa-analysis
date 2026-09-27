@@ -1,0 +1,3 @@
+"locked_conversation_alert_body" = "Du wurdest aus dieser Gruppe entfernt. \n\nEin anderes Mitglied der Gruppe muss dich wieder hinzufügen, damit du Chats senden oder die Gruppe anrufen kannst.";
+"locked_conversation_alert_button" = "Okay";
+"locked_conversation_alert_title" = "Entfernt aus %1$@";

@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "%1$@ 保存的 Snap 尚未完全备份至回忆。如果以 %2$@ 的身份登录，这些 Snap 会丢失。以 %3$@ 的身份重新登录以完成备份。";
+"memories_pending_sync_alert_login_action" = "仍要登录";
+"memories_pending_sync_alert_registration_action" = "仍要注册";
+"memories_pending_sync_alert_registration_body" = "%1$@ 保存的 Snap 尚未完全备份至回忆。如果注册新帐户，这些 Snap 会丢失。以 %2$@ 的身份重新登录以完成备份。";
+"memories_pending_sync_alert_title" = "稍等一下！";

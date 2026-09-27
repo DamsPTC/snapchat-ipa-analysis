@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "%1$@ द्वारा सेव किए गए Snaps का मेमोरीज़ में बैकअप किया जाना पूर्ण नहीं हुआ। यदि आप %2$@ के रूप में लॉगिन करते हैं, तो वे Snaps गुम हो जाएंगे। बैकअप पूरा करने के लिए %3$@ के रूप में वापस लॉगिन करें।";
+"memories_pending_sync_alert_login_action" = "फिर भी लॉगिन करें";
+"memories_pending_sync_alert_registration_action" = "फिर भी साइन अप करें";
+"memories_pending_sync_alert_registration_body" = "%1$@ द्वारा सेव किए गए Snaps का मेमोरीज़ में बैकअप किया जाना पूर्ण नहीं हुआ। यदि आप नए अकाउंट के लिए साइन अप करते हैं, तो वे Snaps गुम हो जाएंगे। बैकअप पूरा करने के लिए %2$@ के रूप में वापस लॉगिन करें।";
+"memories_pending_sync_alert_title" = "एक पल रुकें!";

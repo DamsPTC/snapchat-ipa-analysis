@@ -1,0 +1,7 @@
+"deselect_all" = "Deselect All";
+"okay" = "Okay";
+"segment_thumbnail_duration" = "$0s";
+"segment_thumbnail_duration_in_minutes" = "$0m";
+"segment_thumbnail_duration_in_minutes_and_seconds" = "$0m $1s";
+"select_all" = "Select All";
+"select_limit_items" = "Sorry, only $0 items can be selected at a time.";

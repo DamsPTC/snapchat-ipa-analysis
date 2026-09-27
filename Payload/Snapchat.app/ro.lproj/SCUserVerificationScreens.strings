@@ -1,0 +1,18 @@
+"finish" = "Finalizare";
+"invalid_phone_number_suggestion_title" = "Număr de telefon nevalid";
+"ngo_country_title" = "Țară";
+"ngo_email_instead" = "Folosește adresa de e-mail";
+"ngo_email_placeholder" = "tu@email.com";
+"ngo_email_title" = "E-mail";
+"ngo_phone_instead" = "Folosește numărul de telefon";
+"ngo_phone_number_info" = "Îți vom trimite un cod de verificare prin SMS.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Îți vom trimite un cod de verificare prin SMS. Dacă introduci numărul, ești de acord să primești mesaje tranzacționale despre contul tău, prin SMS sau prin alt canal de mesagerie.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Îți vom trimite un cod de verificare. Dacă introduci numărul, vei primi mesaje tranzacționale despre contul tău și despre alte subiecte, prin SMS sau prin alte canale de mesagerie.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Îți vom trimite un cod de verificare. Dacă introduci numărul, ești de acord să primești mesaje tranzacționale despre contul tău, prin SMS sau prin alt canal de mesagerie.[Află mai multe](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) despre modul în care Snapchat îți folosește numărul de telefon.";
+"ngo_phone_number_title" = "Număr de telefon";
+"ngo_phone_placeholder" = "Număr de telefon";
+"phone_suggestion_description" = "%1$@ nu este un număr de telefon valid. Ai vrut să spui\n%2$@?";
+"register_email_button" = "Înregistrează-te cu adresa de e-mail";
+"register_email_error" = "Introdu o adresă de e-mail valabilă.";
+"skip_button" = "Omite";
+"yes_update" = "Da, actualizează";

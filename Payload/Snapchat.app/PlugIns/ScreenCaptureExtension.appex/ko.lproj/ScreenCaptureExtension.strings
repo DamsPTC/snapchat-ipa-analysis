@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "화면을 공유하려면 통화 중이어야 합니다.";
+"screen_capture_error_generic" = "문제가 발생했습니다. 화면 공유를 다시 시도해 주세요.";
+"screen_capture_not_enabled" = "문제가 발생했습니다.";

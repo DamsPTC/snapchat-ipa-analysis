@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Mi Snapcódigo";
+
+"Snapcode Desc" = "Este widget muestra tu Snapcódigo";
+
+"camera" = "Cámara";
+
+"camera_desc" = "Abre la cámara de Snapchat.";
+
+"log_in" = "Iniciar sesión";
+
+"shortcut_to_a_friend" = "Toca el widget luego de acomodarlo para seleccionar un amigo o grupo.";
+
+"pin_a_friend" = "Fijar a un amigo o grupo";
+
+"birthdays" = "Cumpleaños";
+
+"see_upcoming_birthdays" = "Ve los próximos cumpleaños.";
+
+"no_upcoming_birthdays" = "No hay ninguno próximo";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ en %2$d día";
+
+"user_has_birthday_in_days_plural" = "%1$@ en %2$d días";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d en %3$d día";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d en %3$d días";
+
+"Memories" = "Recuerdos";
+
+"Memories Desc" = "Snaps principales de tus Recuerdos, con eventos pasados, viajes, resúmenes y más.";
+
+"Friend Location Widget Desc" = "Usa este widget para fijar a un amigo y echar un vistazo a su ubicación.";
+
+"map" = "Mapa";
+
+"now" = "ahora";
+
+"something_went_wrong" = "Algo salió mal. Abre Snapchat.";
+
+"long_press_to_pin" = "Modifica para fijar a una amistad";
+
+"off_the_grid" = "Fuera de la red";

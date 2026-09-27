@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "Mag-log in ulit";
+"incorrect_user_error_body" = "Nagkaroon ng problema";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "On fire ang Snap mo 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "Ang Snap mo na isinumite sa Story Natin ay nakita nang mahigit %1$@ beses!";
+
+"our_story_submission_view_milestone_generic_body" = "Ang Snap mo na isinumite sa Story Natin ay nakita nang napakaraming beses!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "Na-view nang %1$@ beses ang iyong Spotlight Snap!";
+
+"spotlight_submission_view_milestone_generic_body" = "Na-view nang maraming beses ang iyong Spotlight Snap!";

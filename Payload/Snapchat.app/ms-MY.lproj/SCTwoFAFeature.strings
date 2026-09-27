@@ -1,0 +1,9 @@
+"connection_error" = "Ralat Sambungan";
+"okay" = "Okey";
+"send_code_again" = "HANTAR KOD SEKALI LAGI";
+"twofa_login_code_verification_otp_to_sms_info" = "Sebaliknya, hantar SMS kepada saya";
+"twofa_login_code_verification_otp_to_sms_progress" = "Menghantar…";
+"twofa_login_code_verification_with_otp_explanation" = "Sila masukkan kod yang dijana oleh aplikasi pengesahan anda untuk mengesahkan identiti.";
+"twofa_login_recovery_code_used" = "Anda telah menggunakan kod pemulihan untuk log masuk. Kami telah melumpuhkan pengesahan dua faktor — pergi ke Seting untuk mendayakan semula.";
+"twofa_new_device_verification_explanation" = "Sila masukkan kod yang kami hantar ke %1$@ untuk mengesahkan identiti anda.";
+"twofa_settings_recovery_code_used_title" = "Pengesahan Dua Faktor Dinyahdayakan";

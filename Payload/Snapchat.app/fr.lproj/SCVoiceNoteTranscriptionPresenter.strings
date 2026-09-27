@@ -1,0 +1,11 @@
+"feedback_button_back" = "Retour";
+"feedback_button_send" = "Envoyer mon commentaire";
+"feedback_option_misheard_words" = "Mots mal compris";
+"feedback_option_wrong_words" = "Mauvais mots";
+"feedback_screen_description" = "Votre message vocal a-t-il été correctement transcrit ?";
+"feedback_screen_title" = "Commentaire sur la transcription";
+"feedback_submission_notification" = "Merci pour votre commentaire !";
+"menu_button_done" = "Terminé";
+"menu_button_edit_transcript" = "Modifier la transcription";
+"menu_button_give_feedback" = "Envoyer un commentaire";
+"transcription_unavailable" = "Transcription non disponible";

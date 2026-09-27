@@ -1,0 +1,8 @@
+"add_nearby_friends" = "Add Nearby Friends";
+"add_nearby_friends_description" = "Turn on Add Nearby and find potential friends near you! Only other Snapchatters who share mutual friends will show up. \n\nIf you forget to turn Add Nearby off, don’t worry we've got you covered. We will automatically turn it off after a while.";
+"add_nearby_friends_learn_more" = "Learn more.";
+"find_friends_nearby_description" = "You may exit this screen and we’ll notify you when mutual friends are nearby";
+"finding_friends_nearby" = "Finding Friends Nearby...";
+"found_friends_nearby" = "$0 Friends Nearby";
+"found_friends_nearby_description" = "Only showing mutual friends that turned on nearby. You may exit this screen and we’ll notify you when more friends are nearby";
+"found_one_friend_nearby" = "1 Friend Nearby";

@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Ekranını paylaşmak için bir aramada olmalısın.";
+"screen_capture_error_generic" = "Bir şeyler ters gitti: Lütfen ekran paylaşımını tekrar dene.";
+"screen_capture_not_enabled" = "Bir hata oluştu.";

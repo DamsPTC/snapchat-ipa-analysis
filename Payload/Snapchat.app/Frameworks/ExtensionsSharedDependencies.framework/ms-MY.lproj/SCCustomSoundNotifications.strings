@@ -1,0 +1,20 @@
+/*
+
+ SCCustomSoundNotifications.strings
+ SCNotificationServiceExtensionBridge
+*/
+
+/// File Names for Notification Custom Sounds 
+"custom_sound_notifications_default_sound_name" = "Bunyi Lalai";
+"custom_sound_notifications_melody_beach_sound_name" = "Pantai Melodi";
+"custom_sound_notifications_bottle_pop_sound_name" = "Botol Pop";
+"custom_sound_notifications_fairy_glass_sound_name" = "Pari-pari Kaca";
+"custom_sound_notifications_alien_amulet_sound_name" = "Azimat Makhluk Asing";
+"custom_sound_notifications_log_goblin_sound_name" = "Jembalang Balak";
+"custom_sound_notifications_mini_drop_sound_name" = "Titisan Mini";
+"custom_sound_notifications_click_world_sound_name" = "Klik Dunia";
+"custom_sound_notifications_digi_drip_sound_name" = "Titisan Digi";
+"custom_sound_notifications_friendly_object_sound_name" = "Objek Mesra";
+"custom_sound_notifications_star_lite_sound_name" = "Panahan Bintang";
+"custom_sound_notifications_stone_web_sound_name" = "Jaring Batu";
+"custom_sound_notifications_techno_zone_sound_name" = "Zon Techno";

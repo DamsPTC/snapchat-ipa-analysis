@@ -1,0 +1,10 @@
+"apply_effect" = "Anwenden";
+"bounce" = "Bounce";
+"effect_min_duration_message" = "Für diesen Effekt muss dein Video mindestens %1$@ Sekunden lang sein.";
+"hyperspeed" = "Hyperspeed";
+"incompatible_edits_alert_detail" = "Durch Tippen auf „Anwenden“ werden zeitbasierte Änderungen deines Snaps (einschließlich bestimmter Linsen) entfernt. Fortfahren?";
+"incompatible_edits_alert_title" = "Effekt anwenden und zeitbasierte Änderungen entfernen?";
+"jump_cut" = "Jump Cut";
+"no_effect" = "Kein Effekt";
+"orbit_3d" = "Orbit 3D";
+"zoom_in" = "Ranzoomen";

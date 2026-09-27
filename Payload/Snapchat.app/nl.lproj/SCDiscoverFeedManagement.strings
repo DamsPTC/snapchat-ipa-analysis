@@ -1,0 +1,12 @@
+"df_hidden" = "Onzichtbare Verhalen";
+"df_manage_accounts_added_subtitle" = "Accounts die ik volg en meldingen beheren.";
+"df_manage_accounts_following" = "Accounts beheren die ik volg";
+"df_manage_hidden_subtitle" = "Beheer je onzichtbare Verhalen hier.";
+"df_manage_subscriptions" = "Abonnementen en meldingen beheren";
+"df_manage_subscriptions_subtitle" = "Stel je instellingen voor abonnementen en meldingen in";
+"df_management_subscriptions_unsubscribe_confirmation_description" = "Door hieronder te tikken wordt %1$@ uit je abonneelijst verwijderd.";
+"df_management_subscriptions_unsubscribe_confirmation_title" = "Afmelden bij %1$@?";
+"df_un_hide" = "Verbergen opheffen";
+"df_unsubscribe_prompt" = "Je bent afgemeld";
+"df_unsubscribe_prompt_with_display_name" = "Je bent afgemeld voor %1$@";
+"df_view_hidden" = "Onzichtbare Verhalen bekijken";

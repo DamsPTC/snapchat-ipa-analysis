@@ -1,0 +1,8 @@
+"minis_add_to_favorites_prompt_allow" = "Ajouter aux favoris";
+"minis_add_to_favorites_prompt_allow_and_leave" = "Ajouter aux favoris et quitter";
+"minis_add_to_favorites_prompt_deny" = "Quitter";
+"minis_add_to_favorites_prompt_description" = "Ajoutez-le à vos favoris afin d'y revenir plus facilement la prochaine fois.";
+"minis_add_to_favorites_prompt_error_notif" = "Une erreur s'est produite. Veuillez réessayer.";
+"minis_add_to_favorites_prompt_leave" = "Quitter $0 ?";
+"minis_add_to_favorites_prompt_title" = "Ajouter $0 aux favoris ?";
+"minis_add_to_favorites_success_toast_text" = "Ajouté à vos favoris";

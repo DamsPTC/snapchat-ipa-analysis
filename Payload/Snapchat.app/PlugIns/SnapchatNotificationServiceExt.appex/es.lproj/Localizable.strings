@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "Vuelve a iniciar sesión";
+"incorrect_user_error_body" = "Se produjo un error";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Tu Snap está increíble 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "¡El Snap que enviaste a Nuestra Historia fue visto más de %1$@ veces!";
+
+"our_story_submission_view_milestone_generic_body" = "¡El Snap que enviaste a Nuestra Historia fue visto muchas veces!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "¡Tu Snap publicado en Spotlight fue visto más de %1$@ veces!";
+
+"spotlight_submission_view_milestone_generic_body" = "¡Tu Snap publicado en Spotlight fue visto muchas veces!";

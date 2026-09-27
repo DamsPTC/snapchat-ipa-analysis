@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "Παρακαλούμε πραγματοποίησε είσοδο ξανά";
+"incorrect_user_error_body" = "Κάτι πήγε στραβά";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Το Snap σου έχει πάρει φωτιά 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "Το Snap σου που υποβλήθηκε στο Η ιστορία μας έχει πάνω από %1$@ προβολές!";
+
+"our_story_submission_view_milestone_generic_body" = "Το Snap σου που υποβλήθηκε στο Η ιστορία μας έχει τόσες πολλές προβολές!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "Το Snap προσκηνίου σου έχει πάνω από %1$@ προβολές!";
+
+"spotlight_submission_view_milestone_generic_body" = "Το Snap προσκηνίου σου έχει προβληθεί τόσες φορές!";

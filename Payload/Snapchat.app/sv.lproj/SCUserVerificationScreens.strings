@@ -1,0 +1,18 @@
+"finish" = "Okej";
+"invalid_phone_number_suggestion_title" = "Ogiltigt telefonnummer";
+"ngo_country_title" = "Land";
+"ngo_email_instead" = "Använd e-post i stället";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "E-postadress";
+"ngo_phone_instead" = "Använd telefonnumret i stället";
+"ngo_phone_number_info" = "Vi kommer att skicka en verifieringskod via SMS.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Vi kommer att skicka en verifieringskod via sms. Genom att ange ditt nummer godkänner du att vi skickar transaktionsmeddelanden som rör ditt konto via sms eller andra kanaler.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Vi kommer att skicka en verifieringskod till dig. Genom att ange ditt nummer kommer du att ta emot transaktionsmeddelanden som rör ditt konto via sms eller andra kanaler.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Vi kommer att skicka en verifieringskod till dig. Genom att ange ditt nummer godkänner du att vi skickar transaktionsmeddelanden som rör ditt konto via sms eller andra kanaler. [Läs mer](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) om hur Snap använder ditt telefonnummer.";
+"ngo_phone_number_title" = "Telefonnummer";
+"ngo_phone_placeholder" = "Telefonnummer";
+"phone_suggestion_description" = "%1$@ är inte ett giltigt telefonnummer. Menade du\n%2$@?";
+"register_email_button" = "Registrera med e-post i stället";
+"register_email_error" = "Skriv in en giltig e-postadress.";
+"skip_button" = "Hoppa över";
+"yes_update" = "Ja, uppdatera";

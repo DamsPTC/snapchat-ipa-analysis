@@ -1,0 +1,12 @@
+"cancel" = "Annuler";
+"clear" = "Supprimer";
+"clear_location_history" = "Effacer les endroits les plus fréquentés";
+"clear_location_history_alert_message" = "Cela aura pour effet d'effacer les endroits que vous fréquentez le plus. Nous utilisons ces informations pour les Actionmojis de la Carte Snap et d'autres fonctionnalités.";
+"clear_location_history_alert_title" = "Effacer les endroits les plus fréquentés ?";
+"clear_location_history_request_failure_message" = "Impossible d'effacer les endroits les plus fréquentés";
+"clear_location_history_request_success_message" = "Vos endroits les plus fréquentés ont bien été effacés !";
+"clear_location_history_v2_subtext" = "Effacez votre historique des localisations, y compris les voyages effectués et les endroits que vous avez visités lorsque votre localisation était activée. Cela ne comprend pas les lieux identifiés dans des Snaps.";
+"clear_location_history_v2_title" = "Effacer l'historique des localisations";
+"display_public_friend_favorites" = "Ne pas montrer mes lieux favoris à mes ami·e·s. Vous pourrez toujours voir ceux de vos ami·e·s.";
+"places" = "Lieux";
+"recommend_to_friends" = "Utiliser les lieux que j'ai identifiés dans Ma Story ou que j'ai ajoutés à mes favoris pour les recommander à mes amis";

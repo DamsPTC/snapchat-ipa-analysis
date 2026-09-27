@@ -1,0 +1,16 @@
+"chat_notification_update_error_message" = "Échec de la mise à jour des notifications du Chat. Veuillez réessayer !";
+"chat_profile_change_retention_hide_policy" = "Masquer les Chats…";
+"chat_profile_change_snap_viewing_policy_delete_snaps" = "Supprimer les Snaps…";
+"chat_profile_change_snap_viewing_policy_title_toggle" = "Conserver les Snaps dans le Chat";
+"chat_profile_change_snap_viewing_policy_toggle" = "Les Snaps resteront dans le Chat 24 heures après avoir été vus.";
+"chat_profile_setting_confirmation_title" = "Paramètres de chat enregistrés !";
+"chat_profile_setting_keep_snaps_enabled" = "Conserver les Snaps dans le Chat : activé";
+"pin_conversation_alert_message" = "Vous ne pouvez avoir que %1$d conversations épinglées en même temps. Essayer de retirer l'une de vos conversations pour en épingler une autre !";
+"pin_conversation_alert_title" = "Impossible d'épingler la conversation";
+"snapstreak_reminder" = "Rappel de Snapflamme";
+"snapstreak_reminder_confirmation_subtitle" = "Rappel de Snapflamme activé";
+"snapstreak_reminder_notification_dialog_cancel" = "Annuler";
+"snapstreak_reminder_notification_dialog_description" = "Pour utiliser cette fonctionnalité, Snapchat doit pouvoir vous envoyer des notifications.";
+"snapstreak_reminder_notification_dialog_okay" = "Ok";
+"snapstreak_reminder_notification_dialog_title" = "Activer les notifications ?";
+"snapstreak_reminder_subtitle" = "Recevez une notification une heure avant que votre flamme ne s'éteigne.";

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>ਇਸ ਨਾਲ Snapchat, Spectacles ਵਰਗੇ bluetooth ਸਹਾਇਕ ਉਪਕਰਣਾਂ ਦੇ ਨਾਲ ਕਨੈਕਟ ਕਰ ਸਕੇਗਾ।</string>
+	<key>NSCameraUsageDescription</key>
+	<string>ਆਪਣੇ ਕੈਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰਕੇ Snaps ਲਓ, ਲੈਂਜ਼ ਨੂੰ ਅਜ਼ਮਾਓ, ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ ਕਰੋ! ਕੁਝ ਲੈਂਜ਼, Apple ਦੇ TrueDepth ਕੈਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹਨ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਪੜ੍ਹੋ।</string>
+	<key>NSContactsUsageDescription</key>
+	<string>ਤੁਹਾਡੇ ਸੰਪਰਕਾਂ ਨੂੰ Snapchat ਦੇ ਸਰਵਰਾਂ ’ਤੇ ਅੱਪਲੋਡ ਕੀਤਾ ਜਾਵੇਗਾ ਤਾਂ ਜੋ ਤੁਸੀਂ ਅਤੇ ਹੋਰ ਲੋਕ ਦੋਸਤਾਂ ਨੂੰ ਲੱਭ ਸਕੋ, ਅਤੇ ਤੁਹਾਡੇ ਅਨੁਭਵ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਜਾ ਸਕੇ।</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>ਇਸ ਨਾਲ Snapchat, Spectacles ਵਰਗੇ ਵਾਈ-ਫ਼ਾਈ ਸਮਰਥਿਤ ਸਹਾਇਕ ਉਪਕਰਣਾਂ ਦੇ ਨਾਲ ਕਨੈਕਟ ਕਰ ਸਕੇਗਾ।</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>"ਹਮੇਸ਼ਾਂ ਕਰਨ ਦਿਓ" ਚੁਣਨਾ Snapchat ਨੂੰ ਲਾਈਵ ਟਿਕਾਣਾ ਸਾਂਝਾ ਕਰਨ ਲਈ ਅਤੇ ਆਪਣੇ ਅਨੁਭਵ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨ ਲਈ ਪਿੱਠਭੂਮੀ ਵਿੱਚ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਦੇਵੇਗਾ।</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>"ਹਮੇਸ਼ਾਂ ਕਰਨ ਦਿਓ" ਚੁਣਨਾ Snapchat ਨੂੰ ਲਾਈਵ ਟਿਕਾਣਾ ਸਾਂਝਾ ਕਰਨ ਲਈ ਅਤੇ ਆਪਣੇ ਅਨੁਭਵ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨ ਲਈ ਪਿੱਠਭੂਮੀ ਵਿੱਚ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਦੇਵੇਗਾ।</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat ਇਸ ਦੀ ਵਰਤੋਂ ਤੁਹਾਡੇ ਅਨੁਭਵ ਨੂੰ ਵਿਉਂਤਬੱਧ ਬਣਾਉਣ ਲਈ ਅਤੇ ਤੁਹਾਨੂੰ ਫਿਲਟਰਾਂ, ਕਹਾਣੀਆਂ, ਅਤੇ ਆਪਣੇ ਇਰਦ-ਗਿਰਦ ਹੋਰ ਚੀਜ਼ਾਂ ਦਾ ਪਤਾ ਲਾਉਣ ਦੇ ਯੋਗ ਬਣਾਉਣ ਲਈ ਕਰਦੀ ਹੈ।</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>ਆਪਣੇ ਮਾਈਕ੍ਰੋਫ਼ੋਨ ਨੂੰ Snaps ਵਾਸਤੇ ਆਡੀਓ ਰਿਕਾਰਡ ਕਰਨ ਲਈ, ਵੀਡੀਓ ਚੈਟ ਕਰਨ ਲਈ, ਅਤੇ ਕਈ ਹੋਰ ਚੀਜ਼ਾਂ ਲਈ ਵਰਤੋ।</string>
+	<key>NSMotionUsageDescription</key>
+	<string>ਜਦ ਤੁਸੀਂ Snaps ਲੈਂਦੇ ਹੋ, ਲੈਂਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ, ਡਿਸਕਵਰ ਨੂੰ ਪੜ੍ਹਦੇ ਹੋ, ਅਤੇ ਇਸ਼ਤਿਹਾਰ ਦੇਖਦੇ ਹੋ, ਤਾਂ Snapchat ਇਹ ਰਿਕਾਰਡ ਕਰਦੀ ਹੈ ਕਿ ਕੀ ਤੁਹਾਡੀ ਡੀਵਾਈਸ ਲੰਬੇ ਦਾਅ ਸੀ ਜਾਂ ਖੜ੍ਹੇ ਦਾਅ ਸੀ।</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Snap 'ਤੇ ਦੋਸਤਾਂ ਨਾਲ ਆਪਣੀ ਕੈਮਰਾ ਰੋਲ ਸਮੱਗਰੀ ਨੂੰ ਸਾਂਝਾ ਕਰੋ।</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Snap 'ਤੇ ਦੋਸਤਾਂ ਨਾਲ ਆਪਣੀ ਕੈਮਰਾ ਰੋਲ ਸਮੱਗਰੀ ਨੂੰ ਸਾਂਝਾ ਕਰੋ।</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>“ਆਗਿਆ ਦਿਓ” ਦੀ ਚੋਣ ਕਰਕੇ, Snap ਵੱਲੋਂ ਉਨ੍ਹਾਂ ਵਿਗਿਆਪਨਾਂ ਨੂੰ ਘਟਾਇਆ ਜਾ ਸਕਦਾ ਹੈ ਜਿਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਅਸੰਬੰਧਿਤ ਜਾਂ ਸਮੇਂ ਦੇ ਨਾਲ ਦੁਹਰਾਏ ਗਏ ਪਾਉਂਦੇ ਹੋ। ਟ੍ਰੈਕਿੰਗ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਨੀਤੀ ਨੂੰ ਦੇਖੋ।</string>
+</dict>
+</plist>

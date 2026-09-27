@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Πρέπει να βρίσκεσαι σε κλήση για να μοιραστείς την οθόνη σου.";
+"screen_capture_error_generic" = "Κάτι πήγε στραβά: προσπάθησε να μοιραστείς ξανά την οθόνη σου.";
+"screen_capture_not_enabled" = "Κάτι πήγε στραβά.";

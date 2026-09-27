@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "புதிய ஸ்பாட்லைட் பணம் வழங்கல்!";
+"payouts_push_notification_gifting_title" = "புதிய பரிசளிப்பு பணம் வழங்கல்!";
+"payouts_push_notification_title_spotlight_challenges" = "புதிய ஸ்பாட்லைட் சவால் பணம் வழங்கல்!";
+"payouts_push_notification_title_story" = "புதிய கதைகள் பணம் வழங்கல்!";
+"payouts_push_notification_title_lens_creator_fund" = "புதிய லென்ஸ் படைப்பாளர் வெகுமதி திட்டத்திற்குப் பணம் வழங்கல்!";
+"payouts_push_notification_title_ildg" = "புதிய லென்ஸ் அன்லாக் செய்யக்கூடிய பணம் வழங்கல்!";
+"payouts_push_notification_title_cashout_eligible" = "உங்கள் விருதுகள் விரைவில் தானாகப் பணமாக்கி வெளியில் எடுக்கப்படும்!";
+"payouts_push_notification_title_invalidate_eligible" = "விரைவில் உங்கள் விருதுகள் செல்லாதவையாகவுள்ளன!";
+
+"payouts_push_notification_subtitle_onboarded" = "வாழ்த்துக்கள்! உங்களுடைய வருவாய்களைக் காண, தகவல் குறிப்புப் பக்கத்தில் உள்ள என் பணம் வழங்கல்கள் என்பதைப் பாருங்கள்!";
+"payouts_push_notification_subtitle_not_onboarded" = "நீங்கள் ஸ்பாட்லைட்டிலிருந்து பணம் சம்பாதித்துள்ளீர்கள். பணம் பெறுவதற்கு, தகவல் குறிப்புப் பக்கத்திற்குச் செல்லுங்கள்!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "நீங்கள் ஸ்பாட்லைட் சவாலில் இருந்து படிகங்களைப் பெற்றுள்ளீர்கள். பணம் பெறுவதற்கு, இப்போதே தகவல் குறிப்பில் சேருங்கள்!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "நீங்கள் பரிசுகளிலிருந்து படிகங்களைப் பெற்றுள்ளீர்கள். பணம் பெறுவதற்கு, இப்போதே தகவல் குறிப்பில் சேருங்கள்!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "நீங்கள் கதைகளிலிருந்து படிகங்களைப் பெற்றுள்ளீர்கள். பணம் பெறுவதற்கு, இப்போதே தகவல் குறிப்பில் சேருங்கள்!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "லென்ஸ் படைப்பாளர் வெகுமதி திட்டத்திலிருந்து படிகங்களைப் பெற்றுள்ளீர்கள். பணம் பெறுவதற்கு, இப்போதே சுயவிவரத்தைச் சேருங்கள்!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "அன்லாக் செய்யக்கூடிய லென்ஸ்களிலிருந்து படிகங்களைப் பெற்றுள்ளீர்கள். பணம் பெறுவதற்கு, இப்போதே சுயவிவரத்தில் சேருங்கள்!";
+"payouts_push_notification_subtitle_cashout_eligible" = "எந்த நடவடிக்கையும் எடுக்காவிட்டால் உங்கள் படிகங்கள் %1$@ அன்று தானாகப் பணமாக்கி வெளியில் எடுக்கப்படும். சரி செய்ய, தகவல் பக்கத்தில் என் படிகங்களைப் பாருங்கள்.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "எந்த நடவடிக்கையும் எடுக்காவிட்டால் உங்கள் படிகங்கள் %1$@ அன்று செல்லாதவையாகும். சரி செய்ய, தகவல் பக்கத்தில் என் படிகங்களைப் பாருங்கள்.";
+
+"payouts_state_title" = "பணம் வழங்கல்கள் நிலை புதுப்பிக்கப்பட்டது!";
+"payouts_state_subtitle" = "உங்கள் பணம் வழங்கல்கள் தகுதி நிலை புதுப்பிக்கப்பட்டுள்ளது. உங்கள் நிலையைக் காண, தகவல் குறிப்பில் என் Snap படிகங்களைப் பாருங்கள்!";
+"gifting_opened_gift" = "%1$@ உங்கள் பரிசைத் திறந்தார்!";
+"gifting_support_thanks" = "Snapchatல் அவர்களை ஆதரிப்பதற்கு நன்றி.";
+

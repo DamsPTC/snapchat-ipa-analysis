@@ -1,0 +1,7 @@
+"ai_mode_compatibility_w_magic_eraser" = "Le mode IA n'est pas compatible avec la gomme magique.";
+"ai_mode_disclaimer_body" = "Le mode AI vous permet de transformer des Snaps ou d'en créer de nouveaux à partir de mots. Il est alimenté par Snapchat et nos partenaires. Nous pouvons conserver le contenu de votre Snaps pour continuer à améliorer cette fonctionnalité.";
+"ai_mode_disclaimer_title" = "✨ Bienvenue dans l'éditeur IA ✨";
+"remote_inference_onboarding_allow" = "Autoriser";
+"remote_inference_onboarding_body" = "Pour retoucher votre Snap, nous avons d'abord besoin de votre autorisation. Êtes-vous d'accord ? %1$@";
+"remote_inference_onboarding_dont_allow" = "Non, merci";
+"remote_inference_onboarding_title" = "Améliorer le Snap";

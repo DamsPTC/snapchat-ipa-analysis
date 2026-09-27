@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "नया स्पॉटलाइट पेआउट!";
+"payouts_push_notification_gifting_title" = "नया गिफ़्टिंग पेआउट!";
+"payouts_push_notification_title_spotlight_challenges" = "नया स्पॉटलाइट चैलेंज पेआउट!";
+"payouts_push_notification_title_story" = "नया स्टोरीज़ पेआउट!";
+"payouts_push_notification_title_lens_creator_fund" = "नया लेंस क्रिएटर रिवॉर्ड्स प्रोग्राम पेआउट!";
+"payouts_push_notification_title_ildg" = "नया लेंस अनलॉकेबल्स पेआउट!";
+"payouts_push_notification_title_cashout_eligible" = "आपके पुरस्कार जल्द ही अपने आप कैशआउट हो जाएंगे!";
+"payouts_push_notification_title_invalidate_eligible" = "आपके पुरस्कार जल्द ही अमान्य हो जाएंगे!";
+
+"payouts_push_notification_subtitle_onboarded" = "बधाई हो! प्रोफ़ाइल में अपनी कमाई देखने के लिए अभी मेरे पेआउट जांचें!";
+"payouts_push_notification_subtitle_not_onboarded" = "आपने स्पॉटलाइट के ज़रिए पैसे कमाए हैं। भुगतान पाने के लिए प्रोफ़ाइल को अभी पूरा करें!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "आपको स्पॉटलाइट चैलेंज के ज़रिए क्रिस्टल मिले हैं। भुगतान पाने के लिए प्रोफ़ाइल को अभी पूरा करें!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "आपको गिफ़्ट के ज़रिए क्रिस्टल मिले हैं। भुगतान पाने के लिए प्रोफ़ाइल को अभी पूरा करें!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "आपको स्टोरीज़ से क्रिस्टल मिले हैं। भुगतान पाने के लिए प्रोफ़ाइल को अभी पूरा करें!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "आपको लेंस क्रिएटर रिवॉर्ड्स प्रोग्राम के ज़रिए क्रिस्टल मिले हैं। भुगतान पाने के लिए प्रोफ़ाइल को अभी पूरा करें!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "आपको लेंस अनलॉकेबल्स के ज़रिए क्रिस्टल मिले हैं। भुगतान पाने के लिए प्रोफ़ाइल को अभी पूरा करें!";
+"payouts_push_notification_subtitle_cashout_eligible" = "कोई कार्रवाई नहीं किए जाने पर %1$@ को आपके क्रिस्टल पुरस्कार अपने आप कैशआउट हो जाएंगे। इस समस्या को हल करने के लिए प्रोफ़ाइल में मेरे क्रिस्टल की जांच करें।";
+"payouts_push_notification_subtitle_invalidate_eligible" = "कोई कार्रवाई नहीं किए जाने पर %1$@ को आपके क्रिस्टल पुरस्कार अमान्य हो जाएंगे। इस समस्या को हल करने के लिए प्रोफ़ाइल में मेरे क्रिस्टल की जांच करें।";
+
+"payouts_state_title" = "पेआउट स्थिति अपडेट की गई!";
+"payouts_state_subtitle" = "आपकी पेआउट योग्यता स्थिति अपडेट की गई है! अपनी स्थिति देखने के लिए प्रोफ़ाइल में मेरे Snap क्रिस्टल जांचें!";
+"gifting_opened_gift" = "%1$@ ने आपका गिफ़्ट खोला!";
+"gifting_support_thanks" = "Snapchat पर उनका समर्थन करने के लिए धन्यवाद।";
+

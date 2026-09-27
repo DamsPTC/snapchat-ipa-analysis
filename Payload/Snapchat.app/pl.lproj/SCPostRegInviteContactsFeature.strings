@@ -1,0 +1,3 @@
+"invite_sms_rate_limit_body" = "W tym momencie możesz wysłać tylko maksymalnie dziesięć zaproszeń.";
+"invite_sms_rate_limit_okay" = "OK";
+"invite_sms_rate_limit_title" = "Osiągnięto limit.";

@@ -1,0 +1,18 @@
+"finish" = "完成";
+"invalid_phone_number_suggestion_title" = "無效的電話號碼";
+"ngo_country_title" = "國家/地區";
+"ngo_email_instead" = "改用電子郵件";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "電子郵件";
+"ngo_phone_instead" = "改用電話號碼";
+"ngo_phone_number_info" = "我們會傳送簡訊驗證代碼。";
+"ngo_phone_number_info_receive_messaging_by_channel" = "我們將使用簡訊傳送驗證碼。輸入你的手機號碼後，表示你同意以簡訊或其他訊息管道方式接收關於你帳戶的通知訊息。";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "我們將傳送驗證碼給你。輸入你的手機號碼後，我們將以簡訊或其他訊息管道方式傳送關於你帳戶和其他資訊的通知訊息給你。";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "我們將傳送驗證碼給你。輸入你的手機號碼後，表示你同意以簡訊或其他訊息管道方式接收關於你帳戶的通知訊息。[了解更多](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number)關於 Snap 如何使用你的電話號碼的相關資訊。";
+"ngo_phone_number_title" = "電話號碼";
+"ngo_phone_placeholder" = "電話號碼";
+"phone_suggestion_description" = "%1$@ 不是有效的電話號，你是指 \n%2$@ 嗎？";
+"register_email_button" = "改用電子郵件註冊";
+"register_email_error" = "請輸入有效的電子郵件地址。";
+"skip_button" = "跳過";
+"yes_update" = "是，請更新";

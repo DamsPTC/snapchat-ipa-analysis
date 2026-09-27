@@ -1,0 +1,3 @@
+"invite_sms_rate_limit_body" = "目前你只能发送最多十条邀请。";
+"invite_sms_rate_limit_okay" = "确定";
+"invite_sms_rate_limit_title" = "已达到上限。";

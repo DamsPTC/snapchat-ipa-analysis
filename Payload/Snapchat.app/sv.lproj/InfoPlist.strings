@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Det här tillåter Snapchat att ansluta till Bluetooth-tillbehör som Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Använd din kamera för att ta Snappar, leka med Linser och mycket mer. Vissa Linser kan använda Apples TrueDepth-kamera. Läs mer i våra sekretessvillkor.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Dina kontakter kommer att laddas upp till Snapchats servrar så att du och andra kan hitta vänner och förbättra din upplevelse.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Det här tillåter Snapchat att ansluta till Wi-Fi-aktiverade tillbehör som Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Genom att välja Tillåt alltid tillåter du Snapchat att uppdatera din plats i bakgrunden för att dela liveplats och förbättra din upplevelse.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Genom att välja Tillåt alltid tillåter du Snapchat att uppdatera din plats i bakgrunden för att dela liveplats och förbättra din upplevelse.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat använder detta för att anpassa din upplevelse och låta dig upptäcka filter, Stories med mer omkring dig.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Använd din mikrofon för att spela in ljud till Snappar, videochatta och mycket mer.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Snapchat registrerar om din enhet hölls vertikalt eller horisontellt när du tar en Snap, använder linser, läser Upptäck och ser annonser.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Dela ditt innehåll i kamerarullen med vänner på Snap.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Dela ditt innehåll i kamerarullen med vänner på Snap.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Om du väljer Tillåt kan Snap minska antalet annonser som du anser är irrelevanta eller upprepande över tid. Se våra sekretessvillkor för mer information om spårning.</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+"done" = "تم";
+"group_invite_link_create_request_failed" = "تعذَّر نسخ رابط دعوة المجموعة. يُرجى المحاولة مجددًا.";
+"group_invite_link_create_request_sent" = "جارٍ نسخ رابط دعوة المجموعة...";
+"group_invite_link_deep_link_copy_named_group" = "تمت دعوتك للانضمام للمجموعة \"⁦%1$@⁩\" في سناب شات. المس الرابط للانضمام! ⁦%2$@⁩";
+"group_invite_link_deep_link_copy_unnamed_group" = "تمت دعوتك للانضمام للمجموعة في سناب شات. المس الرابط للانضمام! ⁦%1$@⁩";
+"group_invite_link_delete_request_failed" = "تعذَّر إلغاء رابط دعوة المجموعة. يُرجى المحاولة مرة أخرى.";
+"group_invite_link_delete_request_sent" = "جارٍ إلغاء رابط دعوة المجموعة...";
+"group_invite_link_delete_request_succeeded" = "تم إلغاء رابط دعوة المجموعة!";
+"max_group_size_description" = "يُمكن للمجموعات أن تضم ⁦%1$@⁩ من مُستخدمي سناب شات.";
+"max_group_size_title" = "المجموعة مكتملة.";
+"new_all_caps" = "جديد";
+"new_group" = "مجموعة جديدة";
+"new_group_create_group_link" = "دعوة إلى مجموعة عبر رابط";
+"new_group_delete_group_links_action_menu_title" = "إلغاء الروابط";
+"new_group_group_name_required_description" = "قبل إرسال الدعوات إلى الأصدقاء، يُرجى تسمية مجموعتك.";
+"new_group_group_name_required_header" = "قم بتسمية مجموعتك!";
+"okay" = "حسنًا";

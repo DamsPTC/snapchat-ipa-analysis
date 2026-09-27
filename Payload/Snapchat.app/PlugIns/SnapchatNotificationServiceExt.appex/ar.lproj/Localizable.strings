@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "يُرجى تسجيل الدخول مرة أخرى";
+"incorrect_user_error_body" = "حدث خطأ ما";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Snap التي نشرتها حقّقت مشاهدات خرافية🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "تمت مشاهدة Snap التي أرسلتها إلى قصتنا أكثر من ⁦%1$@⁩ مرة!";
+
+"our_story_submission_view_milestone_generic_body" = "حقّقت Snap التي أرسلتها إلى قصتنا مشاهدات عالية!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "تمت مشاهدة لقطة منصّة \"الأضواء\" لأكثر من ⁦%1$@⁩ من المرات.";
+
+"spotlight_submission_view_milestone_generic_body" = "تمت مشاهدة لقطة منصّة \"الأضواء\" لمرات عديدة.";

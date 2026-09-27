@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "通話中でなければ画面を共有できません。";
+"screen_capture_error_generic" = "問題が起きたようです：もう一度画面を共有してみてください。";
+"screen_capture_not_enabled" = "問題が起きたようです。";

@@ -1,0 +1,4 @@
+"delete_error_message" = "Ocurrió un error al eliminar tu Historial de escaneo. Vuelve a intentarlo más tarde.";
+"delete_success_message" = "¡Historial de escaneo eliminado!";
+"done" = "Listo";
+"error_message" = "Ocurrió un error al obtener tu historial de escaneo. Vuelve a intentarlo más tarde.";

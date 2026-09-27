@@ -1,0 +1,14 @@
+"cancel_button_prompt" = "Cancelar";
+"delete_button_prompt" = "Eliminar";
+"delete_snap_dialog_title" = "¿Eliminar Snap?";
+"delete_snap_group_dialog_body" = "Todos en el grupo podrán ver que eliminaste un Snap.";
+"delete_snap_individual_dialog_body" = "Tus amigos pueden ver que eliminaste algo.";
+"delete_snap_learn_more_header" = "¿Qué es Eliminar?";
+"erase_message_group_prompt" = "Todos en el grupo podrán ver que eliminaste algo.";
+"erase_message_header_prompt" = "¿Eliminar Chat?";
+"erase_message_individual_prompt" = "Tus amigos pueden ver que eliminaste algo.";
+"erase_message_learn_more" = "Cuando elimines un mensaje, intentaremos eliminarlo de nuestros servidores y de los dispositivos de tus amigos. Puede que esto no siempre funcione, por ejemplo si alguien no tiene una buena conexión a Internet, o tiene una versión vieja de Snapchat.";
+"erase_message_learn_more_action" = "Obtener más información";
+"erase_message_learn_more_header" = "¿Qué es \"Eliminar Chat\"?";
+"erase_message_merlin_learn_more_addendum" = "%1$@\n\nSolo se eliminará el mensaje seleccionado. Para eliminar los mensajes con My AI que desaparecieron, dirígete a Ajustes > Controles de privacidad > Borrar datos > Borrar datos de My AI.";
+"okay_button_prompt" = "Aceptar";

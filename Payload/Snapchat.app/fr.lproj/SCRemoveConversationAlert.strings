@@ -1,0 +1,4 @@
+"remove_conversation_alert_body" = "Cela supprimera %1$@ de votre flux et supprimera tous vos messages enregistrés et envoyés.";
+"remove_conversation_alert_cancel_button" = "Annuler";
+"remove_conversation_alert_confirm_button" = "Supprimer";
+"remove_conversation_alert_title" = "Supprimer la conversation";

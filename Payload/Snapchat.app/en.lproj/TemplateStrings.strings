@@ -1,0 +1,7 @@
+"use_template_flow_error_primary_button_title" = "OK";
+"use_template_flow_error_title" = "Error";
+"use_template_flow_filling_in_error_message" = "Error filling in template";
+"use_template_flow_get_template_error_message" = "Error getting template";
+"use_template_flow_memories_picker_title" = "Import media";
+"use_template_flow_progress_bar_title" = "Importing media...";
+"use_template_flow_unsupported_template" = "Your app doesn't support this template";

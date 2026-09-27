@@ -1,0 +1,18 @@
+"finish" = "Τέλος";
+"invalid_phone_number_suggestion_title" = "Μη έγκυρος τηλεφωνικός αριθμός";
+"ngo_country_title" = "Χώρα";
+"ngo_email_instead" = "Είσοδος με email αντί αυτού";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "Email";
+"ngo_phone_instead" = "Χρησιμοποίησε εναλλακτικά τον αριθμό τηλεφώνου";
+"ngo_phone_number_info" = "Θα σου στείλουμε έναν κωδικό επαλήθευσης SMS.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Θα σου στείλουμε έναν κωδικό επαλήθευσης SMS. Εισάγοντας τον αριθμό σου, συμφωνείς να λαμβάνεις μηνύματα για συναλλαγές μέσω SMS ή κάποιου άλλου διαύλου επικοινωνίας σχετικά με τον λογαριασμό σου.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Θα σου στείλουμε έναν κωδικό επαλήθευσης. Εισάγοντας τον αριθμό σου, θα λαμβάνεις μηνύματα για συναλλαγές μέσω SMS ή άλλων διαύλων επικοινωνίας σχετικά με τον λογαριασμό σου, και όχι μόνο.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Θα σου στείλουμε έναν κωδικό επαλήθευσης. Εισάγοντας τον αριθμό σου, συμφωνείς να λαμβάνεις μηνύματα για συναλλαγές μέσω SMS ή άλλου διαύλου επικοινωνίας σχετικά με τον λογαριασμό σου. [Μάθε περισσότερα](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) σχετικά με το πώς χρησιμοποιείται ο αριθμός τηλεφώνου σου από το Snap.";
+"ngo_phone_number_title" = "Τηλεφωνικός αριθμός";
+"ngo_phone_placeholder" = "Αριθμός τηλεφώνου";
+"phone_suggestion_description" = "Το %1$@ δεν είναι έγκυρος τηλεφωνικός αριθμός. Εννοείς\n%2$@;";
+"register_email_button" = "Εναλλακτικά, κάνε εγγραφή με το email σου";
+"register_email_error" = "Εισάγαγε μια έγκυρη διεύθυνση email.";
+"skip_button" = "Παράλειψη";
+"yes_update" = "Ναι, ενημέρωση";

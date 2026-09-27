@@ -1,0 +1,3 @@
+"try_again_message" = "Please try again.";
+"twofa_login_mobile_change_disabled_msg" = "You’ve changed your phone number. We’ve disabled two-factor authentication – go to Settings to re-enable it.";
+"twofa_login_mobile_change_disabled_title" = "Two-Factor Authentication Disabled";

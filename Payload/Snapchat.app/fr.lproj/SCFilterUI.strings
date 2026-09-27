@@ -1,0 +1,5 @@
+"broad_location_prompt_body" = "Vous devez activer la Position exacte dans les paramètres d'iOS pour utiliser les Geofilters de lieu.";
+"broad_location_prompt_button" = "Ouvrir les Réglages";
+"location_prompt_v2_body" = "Découvrez des Filtres liés à des lieux, des événements et bien plus autour de vous !";
+"location_prompt_v2_button" = "Activer";
+"location_prompt_v2_title" = "Activer les Filtres géolocalisés ?";

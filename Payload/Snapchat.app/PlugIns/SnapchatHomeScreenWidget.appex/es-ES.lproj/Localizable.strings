@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Mi Snapcódigo";
+
+"Snapcode Desc" = "Este widget muestra tu Snapcódigo";
+
+"camera" = "Cámara";
+
+"camera_desc" = "Abre la cámara de Snapchat.";
+
+"log_in" = "Iniciar sesión";
+
+"shortcut_to_a_friend" = "Toca el widget tras colocarlo para seleccionar 1 amigx o grupo.";
+
+"pin_a_friend" = "Fija a 1 amigx o a un grupo";
+
+"birthdays" = "Cumpleaños";
+
+"see_upcoming_birthdays" = "Consulta los cumpleaños próximos";
+
+"no_upcoming_birthdays" = "Ninguno próximamente";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ en %2$d día";
+
+"user_has_birthday_in_days_plural" = "%1$@ en %2$d días";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d en %3$d día";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d en %3$d días";
+
+"Memories" = "Recuerdos";
+
+"Memories Desc" = "¡Los Snap principales de tus Recuerdos incluyen momentos especiales, viajes, resúmenes y mucho más!";
+
+"Friend Location Widget Desc" = "Fija a 1 amigx con este widget para ver su ubicación.";
+
+"map" = "Mapa";
+
+"now" = "ahora";
+
+"something_went_wrong" = "Se ha producido un error. Abre Snapchat";
+
+"long_press_to_pin" = "Editar para fijar a tu amigx";
+
+"off_the_grid" = "Fuera del mapa";

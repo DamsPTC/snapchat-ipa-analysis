@@ -1,0 +1,9 @@
+"chat_ui_participant_created_invite_link" = "%1$@ HEEFT EEN UITNODIGINGSLINK VOOR DE GROEP GEMAAKT";
+"chat_ui_participant_removed_participant" = "%1$@ HEEFT %2$@ UIT DE GROEP VERWIJDERD";
+"chat_ui_participant_removed_participants_multiple" = "%1$@ HEEFT %2$@ EN %3$@ UIT DE GROEP VERWIJDERD";
+"chat_ui_participant_removed_you" = "%1$@ HEEFT JE UIT DE GROEP VERWIJDERD";
+"chat_ui_participant_removed_you_and_multiple" = "%1$@ HEEFT JOU, %2$@ EN %3$@ UIT DE GROEP VERWIJDERD";
+"chat_ui_participant_removed_you_and_participant" = "%1$@ HEEFT JOU EN %2$@ UIT DE GROEP VERWIJDERD";
+"chat_ui_you_created_invite_link" = "JE HEBT EEN UITNODIGINGSLINK VOOR DE GROEP GEMAAKT";
+"chat_ui_you_removed_participant" = "JE HEBT %1$@ UIT DE GROEP VERWIJDERD";
+"chat_ui_you_removed_participants_multiple" = "JE HEBT %1$@ EN %2$@ UIT DE GROEP VERWIJDERD ";

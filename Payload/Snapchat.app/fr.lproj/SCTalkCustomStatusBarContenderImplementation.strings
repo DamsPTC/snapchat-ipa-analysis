@@ -1,0 +1,7 @@
+"call_active" = "Appel en cours";
+"call_active_with_display_name_1" = "Appel en cours avec %1$@";
+"call_active_with_display_name_n" = "Appel en cours - %1$@";
+"connecting" = "Connexion...";
+"mic_muted_in_call" = "Micro coupé pendant l'appel";
+"ringing" = "Appel…";
+"tap_to_return_to_call" = "Appuyez pour revenir à l'appel.";

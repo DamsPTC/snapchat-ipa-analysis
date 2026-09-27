@@ -1,0 +1,11 @@
+"country_code_field" = "Feld für Ländercode";
+"mobile_number_field" = "Feld für Handynummer";
+"phone_entry_invalid_country_code" = "🌎 Ungültige Landesvorwahl";
+"phone_entry_phone_placeholder" = "Handynummer";
+"phone_entry_select_country_code" = "🌎 Landesvorwahl auswählen";
+"register_country_picker_title" = "Land auswählen";
+"register_phone_label" = "HANDYNUMMER";
+"send_sms_explanation" = "Wir schicken dir einen Bestätigungscode per SMS.";
+"send_sms_explanation_here" = "Wir verwenden deine Handynummer, um dir einen Bestätigungscode per SMS zu schicken, und für die [hier](https://support.snapchat.com/article/snap-phone-number) beschriebenen Zwecke.";
+"send_sms_explanation_updates_and_here" = "Wir verwenden deine Handynummer, um dir einen Bestätigungscode per SMS, wichtige Updates und die [hier](https://support.snapchat.com/article/snap-phone-number) beschriebenen Inhalte zu schicken.";
+"send_sms_explanation_updates_here" = "Wir verwenden deine Handynummer, um dir einen Bestätigungscode per SMS und wichtige Updates wie [hier](https://support.snapchat.com/article/snap-phone-number) beschrieben zu schicken.";

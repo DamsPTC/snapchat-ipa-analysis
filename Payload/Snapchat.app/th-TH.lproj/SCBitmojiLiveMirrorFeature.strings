@@ -1,0 +1,17 @@
+"bitmoji_live_mirror_exit_dialog_cancel_button" = "ยกเลิก";
+"bitmoji_live_mirror_exit_dialog_exit_button" = "ออก";
+"bitmoji_live_mirror_exit_dialog_text" = "จะไม่มีการบันทึกออวทาร์ของคุณหากคุณออกในตอนนี้";
+"bitmoji_live_mirror_exit_dialog_title" = "ออกโดยไม่บันทึกหรือไม่?";
+"bitmoji_live_mirror_interstitial_body_v2" = "เลือกเครื่องแต่งกายเองและแก้ไขอวทาร์ Bitmoji ของคุณได้ตลอดเวลาจาก \"โปรไฟล์ของฉัน\"";
+"bitmoji_live_mirror_interstitial_body_v3" = "แต่งกายและแก้ไขอวทาร์ Bitmoji ของคุณได้ตลอดเวลาจาก \"โปรไฟล์ของฉัน\"";
+"bitmoji_live_mirror_interstitial_choose_body_button_1_v1" = "ดูดีจัง!";
+"bitmoji_live_mirror_interstitial_done_button_1_v2" = "เสร็จสิ้น";
+"bitmoji_live_mirror_interstitial_done_button_3_v3" = "เสร็จสิ้น";
+"bitmoji_live_mirror_interstitial_edit_facial_avatar_caption_v2" = "ทำการแก้ไข";
+"bitmoji_live_mirror_interstitial_edit_facial_button_1_v3" = "แก้ไขอวทาร์";
+"bitmoji_live_mirror_interstitial_edit_facial_button_2_v1" = "ทำการแก้ไข";
+"bitmoji_live_mirror_interstitial_select_outfit_button_2_v3" = "เลือกเครื่องแต่งกาย";
+"bitmoji_live_mirror_interstitial_title_v1" = "พอใจกับคุณลักษณะผมและใบหน้าของคุณไหม?";
+"bitmoji_live_mirror_interstitial_title_v2" = "อวทาร์ของคุณพร้อมใช้งานแล้ว!";
+"bitmoji_live_mirror_interstitial_title_v3" = "อวทาร์ของคุณพร้อมใช้งานแล้ว!";
+"server_error_try_again" = "เซิร์ฟเวอร์เกิดข้อผิดพลาด ให้ลองอีกครั้ง";

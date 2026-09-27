@@ -1,0 +1,9 @@
+"connection_error" = "कनेक्शन एरर";
+"okay" = "ठीक है";
+"send_code_again" = "कोड फिर से भेजें";
+"twofa_login_code_verification_otp_to_sms_info" = "इसके बजाय मुझे SMS भेजें";
+"twofa_login_code_verification_otp_to_sms_progress" = "भेज रहे हैं…";
+"twofa_login_code_verification_with_otp_explanation" = "अपनी पहचान सत्यापित करने के लिए अपने प्रमाणन ऐप द्वारा उत्पन्न कोड एंटर करें।";
+"twofa_login_recovery_code_used" = "आपने लॉग इन करने के लिए अपने रिकवरी कोड का उपयोग किया है। इसलिए हमने दो-चरण वाला प्रमाणीकरण अक्षम कर दिया है — इसे पुनः सक्षम करने के लिए सेटिंग पर जाएं।";
+"twofa_new_device_verification_explanation" = "अपनी पहचान सत्यापित करने के लिए हमारे द्वारा %1$@ पर भेजा गया कोड डालें।";
+"twofa_settings_recovery_code_used_title" = "दो-चरण वाला प्रमाणीकरण अक्षम";

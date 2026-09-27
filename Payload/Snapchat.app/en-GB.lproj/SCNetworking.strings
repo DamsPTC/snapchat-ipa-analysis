@@ -1,0 +1,3 @@
+"check_connection_message" = "Please check your connection and try again.";
+"connect_failed_title" = "Could Not Connect";
+"server_error_try_again" = "Something went wrong. Please try again later!";

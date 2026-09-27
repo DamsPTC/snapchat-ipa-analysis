@@ -1,0 +1,9 @@
+"change_language_button" = "Einstellungen ändern";
+"change_language_description" = "Du kannst in den Geräteeinstellungen die Sprache für Snapchat ändern";
+"change_language_dialog_cancel" = "Abbrechen";
+"change_language_dialog_description" = "Starte Snapchat neu, um die neue Sprache zu verwenden";
+"change_language_dialog_restart" = "Neu starten";
+"change_language_dialog_title" = "Snapchat neu starten";
+"change_language_instruction" = "Bevorzugte Sprache → Sprache";
+"change_language_title" = "Sprache";
+"settings_option_change_language" = "Sprache";

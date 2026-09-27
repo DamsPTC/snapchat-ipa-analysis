@@ -1,0 +1,8 @@
+"default_lens_author_name" = "سناب شات";
+"guided_mode" = "الوضع الموجّه";
+"guided_mode_desc" = "يُثبت الوضع الموجّه نظارتك Spectacles على استخدام عدسة Lens واحدة ويضع قيودًا على بعض الميزات، مثل التقاط لقطة أو استخدام ميزة المسح الضوئي.";
+"guided_mode_lens_selection" = "اختيار عدسة Lens";
+"guided_mode_restart" = "إعادة التشغيل";
+"guided_mode_restart_alert_message" = "لتحديث التغييرات في الوضع الموجّه، يلزم إعادة تشغيل نظارة Spectacles. \n \n يمكنك إعادة تشغيل نظارة Spectacles في أي وقت آخر لتطبيق التغييرات في الوضع الموجّه.";
+"guided_mode_restart_later" = "لاحقًا";
+"guided_mode_selected_lens" = "عدسة Lens المختارة";

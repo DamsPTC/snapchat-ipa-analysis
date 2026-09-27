@@ -1,0 +1,12 @@
+"remix_add_to_my_story" = "Ajouter à ma Story";
+"remix_create_post" = "Créer une publication";
+"remix_error_record_more_additional_snaps" = "Filmez au moins %1$.01f secondes.";
+"remix_error_stitch_minimum_duration" = "Sélectionnez au moins %1$.01f secondes du Snap remixé.";
+"remix_error_total_snap_duration" = "Le Snap final doit durer au moins %1$.01f secondes.";
+"remix_explanation_text" = "Les personnes mentionnées dans les Snaps de la Story peuvent les remixer et les partager.";
+"remix_mention_privacy_prompt_description_no_toggle" = "Toute personne que vous mentionnez peut réutiliser votre Snap et le remixer. %1$@\n\nChaque Snap remixé a sa propre durée de vie et peut être enregistré et remixé à nouveau par d'autres utilisateurs.\n\nSupprimer votre Snap ne supprimera pas les remix existants qui reprennent le contenu de votre Snap.";
+"remix_mention_privacy_prompt_learn_more_link" = "En savoir plus";
+"remix_mention_privacy_prompt_title" = "Mention et remix";
+"remix_promoted_cta_text" = "Remixer et partager";
+"remix_remix_to_my_story" = "Remixer dans ma Story";
+"remix_text" = "Remix";

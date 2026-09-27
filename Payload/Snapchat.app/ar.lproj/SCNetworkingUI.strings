@@ -1,0 +1,5 @@
+"check_connection_message" = "يُرجى التحقق من اتصالك والمحاولة مرة أخرى.";
+"could_not_refresh" = "لا يمكن التحديث. الرجاء المحاولة مرة أخرى";
+"could_not_refresh_app_initiated" = "لم نتمكن من التحديث";
+"no_internet_connection" = "لا يوجد اتصال إنترنت.";
+"send_failed" = "لم نستطع الإرسال. يرجى المحاولة مرة أخرى.";

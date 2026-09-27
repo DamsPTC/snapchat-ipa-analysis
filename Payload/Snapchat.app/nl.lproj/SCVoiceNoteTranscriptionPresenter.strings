@@ -1,0 +1,11 @@
+"feedback_button_back" = "Terug";
+"feedback_button_send" = "Geef feedback";
+"feedback_option_misheard_words" = "Woorden die verkeerd zijn verstaan";
+"feedback_option_wrong_words" = "Verkeerde woorden";
+"feedback_screen_description" = "Is je audiobericht correct getranscribeerd?";
+"feedback_screen_title" = "Transcriptiefeedback";
+"feedback_submission_notification" = "Bedankt voor je feedback!";
+"menu_button_done" = "Klaar";
+"menu_button_edit_transcript" = "Transcript bewerken";
+"menu_button_give_feedback" = "Feedback geven";
+"transcription_unavailable" = "Transcript niet beschikbaar";

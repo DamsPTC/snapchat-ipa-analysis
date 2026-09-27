@@ -1,0 +1,9 @@
+"connection_error" = "Erro de conexão";
+"okay" = "Ok";
+"send_code_again" = "ENVIAR CÓDIGO NOVAMENTE";
+"twofa_login_code_verification_otp_to_sms_info" = "Prefiro receber um SMS";
+"twofa_login_code_verification_otp_to_sms_progress" = "Enviando...";
+"twofa_login_code_verification_with_otp_explanation" = "Digite o código gerado pelo seu aplicativo de autenticação para confirmar sua identidade.";
+"twofa_login_recovery_code_used" = "Você usou seu código de recuperação para fazer o login. A autenticação de dois fatores foi desabilitada — vá para Configurações para reabilitá-la.";
+"twofa_new_device_verification_explanation" = "Digite o código enviado a %1$@ para confirmar sua identidade.";
+"twofa_settings_recovery_code_used_title" = "Autenticação de dois fatores desabilitada";

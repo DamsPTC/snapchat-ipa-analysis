@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "Sila log masuk semula";
+"incorrect_user_error_body" = "Ada sesuatu yang tidak kena";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Snap Anda membara 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "Snap anda yang dihantar ke Cerita Kita telah dilihat lebih daripada %1$@ kali!";
+
+"our_story_submission_view_milestone_generic_body" = "Snap anda yang dihantarkan ke Cerita Kita telah dilihat banyak kali!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "Snap Tumpuan anda telah dilihat lebih daripada %1$@ kali!";
+
+"spotlight_submission_view_milestone_generic_body" = "Snap Tumpuan anda telah dilihat banyak kali!";

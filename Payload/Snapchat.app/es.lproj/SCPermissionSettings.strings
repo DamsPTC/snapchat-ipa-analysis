@@ -1,0 +1,4 @@
+"share_intents_permission_alert_text" = "Para sugerir accesos rápidos, cierta información de uso se comparte con iOS cuando se envía o recibe un mensaje o cuando se hace una llamada: el nombre de perfil, el Bitmoji y el ID del usuario del destinatario o del remitente.";
+"share_intents_permission_desc" = "Permite que iOS te sugiera accesos rápidos, como enviar un mensaje. Los accesos rápidos pueden aparecer en la búsqueda de iOS o cuando estás compartiendo algo desde otra app o al administrar las notificaciones. Cuando están activados, parte de tu información se comparte con iOS.";
+"share_intents_permission_learn_more" = "Obtener más información";
+"share_intents_permission_title" = "Accesos rápidos de iOS";

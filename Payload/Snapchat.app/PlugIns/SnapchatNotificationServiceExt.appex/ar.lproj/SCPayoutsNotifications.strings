@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "مكاسب مالية جديدة في منصّة \"الأضواء\"";
+"payouts_push_notification_gifting_title" = "إهداء مكاسب مالية جديدة.";
+"payouts_push_notification_title_spotlight_challenges" = "المكاسب المالية لتحدي منصّة \"الأضواء\" الجديد.";
+"payouts_push_notification_title_story" = "المكاسب المالية للقصص الجديدة";
+"payouts_push_notification_title_lens_creator_fund" = "مكاسب مالية جديدة لبرنامج مكافآت مُنشئ العدسات Lens Creator.";
+"payouts_push_notification_title_ildg" = "مكاسب مالية جديدة لعدسات Lens القابلة للفتح.";
+"payouts_push_notification_title_cashout_eligible" = "سيتم صرف جوائزك تلقائيًا قريبًا.";
+"payouts_push_notification_title_invalidate_eligible" = "ستنتهي صلاحية جوائزك قريبًا.";
+
+"payouts_push_notification_subtitle_onboarded" = "تهانينا، راجع \"مكاسبي المالية\" في الملف التعريفي الآن للاطلاع على مكاسبك.";
+"payouts_push_notification_subtitle_not_onboarded" = "لقد ربحت أموالاً من منصّة \"الأضواء\". أكمل الخطوات الآن في الملف التعريفي للحصول على مكاسبك.";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "لقد حصلت على أحجار كريستال من تحديات منصّة \"الأضواء\". أكمل الخطوات الآن في الملف التعريفي للحصول على مكاسبك.";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "لقد حصلت على أحجار كريستال من الهدايا. أكمل الخطوات الآن في الملف التعريفي للحصول على مكاسبك.";
+"payouts_push_notification_subtitle_story_not_onboarded" = "حصلت على أحجار كريستال من القصص. أكمل الخطوات الآن في الملف التعريفي للحصول على مكاسبك.";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "لقد حصلت على أحجار كريستال من برنامج مكافآت مُنشئ العدسات Lens Creator. أكمل الخطوات الآن في الملف التعريفي للحصول على مكاسبك.";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "لقد حصلت على أحجار كريستال من عدسات Lens القابلة للفتح. أكمل الخطوات الآن في الملف التعريفي للحصول على مكاسبك.";
+"payouts_push_notification_subtitle_cashout_eligible" = "سيتم صرف الجوائز الخاصة بك تلقائيًا في ⁦%1$@⁩ في حال عدم القيام بأي نشاط. يرجى تفقد قائمة \"جوائزي الكريستالية\" في \"شاشة الملف التعريفي\" لحلّ المسألة.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "ستنتهي صلاحية جوائزك الكريستالية في ⁦%1$@⁩ في حال عدم القيام بأي نشاط. يرجى تفقد قائمة \"جوائزي الكريستالية\" في \"شاشة الملف التعريفي\" لحلّ المسألة.";
+
+"payouts_state_title" = "تم تحديث حالة المكاسب المالية.";
+"payouts_state_subtitle" = "تم تحديث حالة أهليتك لتلقي المكاسب المالية. راجع \"أحجار كريستالي في Snap\" في الملف التعريفي للاطلاع على حالتك.";
+"gifting_opened_gift" = "فتحَ ⁦%1$@⁩ هديتك.";
+"gifting_support_thanks" = "شكرًا على دعمك هذا الشخص على سناب شات.";
+

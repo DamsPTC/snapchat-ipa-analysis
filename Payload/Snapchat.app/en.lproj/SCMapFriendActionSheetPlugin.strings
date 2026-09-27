@@ -1,0 +1,8 @@
+"location_settings_title" = "Location Settings";
+"mute_location_alert_body" = "You won't see this friend's location on Snapchat. You can always unmute their location from their profile.";
+"mute_location_alert_cancel" = "Cancel";
+"mute_location_alert_okay" = "Okay";
+"mute_location_alert_title" = "Are you sure you want to mute %@'s location?";
+"mute_location_cell_title" = "Mute %@'s Location";
+"mute_location_done_title" = "Done";
+"mute_location_failed" = "Couldn't update Location Muting settings. Please try again!";

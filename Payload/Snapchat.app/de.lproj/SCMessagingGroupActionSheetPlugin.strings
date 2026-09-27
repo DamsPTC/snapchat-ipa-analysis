@@ -1,0 +1,12 @@
+"add_members_to_group" = "Mitglieder zur Gruppe hinzufügen";
+"edit_group_name" = "Gruppenname bearbeiten";
+"leave_group" = "Gruppe verlassen";
+"manage_group" = "Gruppe verwalten";
+"message_notifications_all_messages" = "Alle Nachrichten";
+"message_notifications_all_messages_details" = "Einschließlich Reaktionen und Schreibbenachrichtigungen";
+"message_notifications_chats_and_snaps" = "Chats und Snaps";
+"message_notifications_chats_and_snaps_details" = "Chats, Erwähnungen und Antwortbenachrichtigungen";
+"message_notifications_mentions_only" = "Nur Erwähnungen";
+"message_notifications_mentions_only_details" = "Nur Erwähnungen und Antwortbenachrichtigungen";
+"message_notifications_silent" = "Lautlos";
+"more" = "Mehr";

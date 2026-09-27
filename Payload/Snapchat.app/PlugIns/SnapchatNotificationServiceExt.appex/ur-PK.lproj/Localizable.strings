@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "براہِ کرم دوبارہ لاگ ان کریں";
+"incorrect_user_error_body" = "کچھ غلط ہو گیا";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "اپ کی Snap مشہور ہو رہی ہے 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "ہماری کہانی پر جمع کرائی گئی آپ کی Snap ⁦%1$@⁩ سے زائد بار ملاحظہ کی جا چکی ہے!";
+
+"our_story_submission_view_milestone_generic_body" = "ہماری کہانی پر جمع کرائی گئی آپ کی Snap کئی بار ملاحظہ کی جا چکی ہے!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "آپ کی Spotlight Snap ⁦%1$@⁩ سے زائد بار دیکھی گئی ہے!";
+
+"spotlight_submission_view_milestone_generic_body" = "آپ کی Spotlight Snap بہت بار دیکھی گئی ہے!";

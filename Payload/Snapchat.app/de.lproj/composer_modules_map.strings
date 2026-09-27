@@ -1,0 +1,5 @@
+"kilometers" = "$0 km";
+"miles" = "$0 mi";
+"navigation_days" = "$0 T.";
+"navigation_hours" = "$0 Std.";
+"navigation_mins" = "$0 Min.";

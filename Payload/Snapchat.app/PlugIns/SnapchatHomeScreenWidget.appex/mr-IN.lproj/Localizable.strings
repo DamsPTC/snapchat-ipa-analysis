@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "माझा Snapcode";
+
+"Snapcode Desc" = "हा विजेट तुमचा Snapcode प्रदर्शित करतो";
+
+"camera" = "कॅमेरा";
+
+"camera_desc" = "Snapchat कॅमेरा उघडा.";
+
+"log_in" = "लॉग इन करा";
+
+"shortcut_to_a_friend" = "मित्र किंवा ग्रुप निवडण्यासाठी जागेवर ठेवल्यानंतर विजेटवर टॅप करा.";
+
+"pin_a_friend" = "मित्र किंवा ग्रुपला पिन करा";
+
+"birthdays" = "बर्थडेज";
+
+"see_upcoming_birthdays" = "आगामी बर्थडेज पहा.";
+
+"no_upcoming_birthdays" = "आगामी नाहीत";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%2$d दिवसात %1$@";
+
+"user_has_birthday_in_days_plural" = "%2$d दिवसांत %1$@";
+
+"user_and_other_have_birthday_in_days_singular" = "%3$d दिवसात %1$@ +%2$d";
+
+"user_and_other_have_birthday_in_days_plural" = "%3$d दिवसांमध्ये %1$@ +%2$d";
+
+"Memories" = "मेमरीझ";
+
+"Memories Desc" = "तुमच्या मेमरीझमधील वैशिष्ट्यीकृत Snaps मध्ये फ्लॅशबॅक्स, ट्रिप्स, रीकॅप्स आणि बऱ्याच गोष्टींचा समावेश आहे!";
+
+"Friend Location Widget Desc" = "तुमच्या मित्राचे स्थान पाहण्यासाठी या विजेटसह मित्राला पिन करा.";
+
+"map" = "मॅप";
+
+"now" = "आत्ता";
+
+"something_went_wrong" = "काहीतरी चुकीचे घडले, कृपया Snapchat उघडा";
+
+"long_press_to_pin" = "मित्राला पिन करण्यासाठी बदल करा";
+
+"off_the_grid" = "ग्रिडच्या बाहेर";

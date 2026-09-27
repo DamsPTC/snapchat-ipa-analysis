@@ -1,0 +1,4 @@
+"studio_force_unpair_confirm" = "Koppelingsgegevens voor Lens Studio zijn gewist.";
+"studio_force_unpair_status_desc" = "Door te resetten, wordt Lens Studio ontkoppeld. Alle gepushte Lenzen worden uit je carrousel verwijderd.";
+"studio_force_unpair_status_title" = "Koppelingsstatus resetten";
+"studio_settings_tap_to_force_unpair" = "Tik om te resetten";

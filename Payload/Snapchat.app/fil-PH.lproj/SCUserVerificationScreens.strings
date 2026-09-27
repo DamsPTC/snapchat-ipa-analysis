@@ -1,0 +1,18 @@
+"finish" = "Tapusin";
+"invalid_phone_number_suggestion_title" = "Hindi Valid ang Phone Number";
+"ngo_country_title" = "Bansa";
+"ngo_email_instead" = "Email na lang ang gamitin";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "Email";
+"ngo_phone_instead" = "Gumamit na lang ng phone number";
+"ngo_phone_number_info" = "Magse-send kami ng SMS verification code.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Magse-send kami ng SMS verification code. Sa pamamagitan ng paglalagay ng number mo, sumasang-ayon kang makatanggap ng transactional messaging sa pamamagitan ng SMS o iba pang message channel tungkol sa account mo.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Magse-send kami sa'yo ng verification code. Sa pamamagitan ng paglalagay ng number mo, makakatanggap ka ng transactional messaging sa pamamagitan ng SMS o iba pang message channel tungkol sa account mo, at higit pa.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Magse-send kami sa'yo ng verification code. Sa pamamagitan ng paglalagay ng number mo, sumasang-ayon kang makatanggap ng transactional messaging sa pamamagitan ng SMS o iba pang message channel tungkol sa account mo. [Matuto pa](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) kung paano ginagamit ng Snap ang phone number mo.";
+"ngo_phone_number_title" = "Phone Number";
+"ngo_phone_placeholder" = "Phone number";
+"phone_suggestion_description" = "Hindi valid na phone number ang %1$@. Ang ibig mo bang sabihin ay\n%2$@?";
+"register_email_button" = "Mag-sign up gamit ang email";
+"register_email_error" = "Maglagay ng valid na email address.";
+"skip_button" = "I-skip";
+"yes_update" = "Oo, i-update";

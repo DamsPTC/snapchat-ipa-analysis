@@ -1,0 +1,16 @@
+"chat_notification_update_error_message" = "Benachrichtigungseinstellungen für Chats konnten nicht aktualisiert werden. Versuch’s nochmal!";
+"chat_profile_change_retention_hide_policy" = "Chats ausblenden …";
+"chat_profile_change_snap_viewing_policy_delete_snaps" = "Snaps löschen …";
+"chat_profile_change_snap_viewing_policy_title_toggle" = "Snaps im Chat behalten";
+"chat_profile_change_snap_viewing_policy_toggle" = "Nach dem Ansehen bleiben Snaps 24 Stunden im Chat";
+"chat_profile_setting_confirmation_title" = "Chateinstellungen gespeichert.";
+"chat_profile_setting_keep_snaps_enabled" = "Snaps im Chat aktiviert lassen";
+"pin_conversation_alert_message" = "Du kannst nur %1$d Konversationen auf einmal anpinnen. Du müsstest bei einer deiner angepinnten Konversationen die Markierung aufheben!";
+"pin_conversation_alert_title" = "Konversation kann nicht angepinnt werden";
+"snapstreak_reminder" = "Flammen-Erinnerung";
+"snapstreak_reminder_confirmation_subtitle" = "Flammen-Erinnerung aktiviert";
+"snapstreak_reminder_notification_dialog_cancel" = "Abbrechen";
+"snapstreak_reminder_notification_dialog_description" = "Snapchat muss dir Benachrichtigungen senden können, damit du diese Funktion verwenden kannst.";
+"snapstreak_reminder_notification_dialog_okay" = "Okay";
+"snapstreak_reminder_notification_dialog_title" = "Benachrichtigungen aktivieren?";
+"snapstreak_reminder_subtitle" = "Erhalte 1 Stunde, bevor deine Flamme erlischt, eine Erinnerung.";

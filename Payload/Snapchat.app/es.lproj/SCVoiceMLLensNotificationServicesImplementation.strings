@@ -1,0 +1,3 @@
+"sys_command_error_cannot_favorite_unpublished_lens" = "No uses la función de favoritos antes de enviar el Lente";
+"sys_command_error_cannot_share_unpublished_lens" = "No uses la función de compartir con un amigo antes de enviar el Lente";
+"sys_command_error_lens_already_favorite" = "Este Lente ya está en favoritos";

@@ -1,0 +1,11 @@
+"add_member" = "Add Members";
+"add_member_short" = "Add";
+"added_to_group" = "You’ve been added to the group with $0";
+"added_to_group_more_than_five" = "You’ve been added to the group with $0 +$1 others";
+"added_to_group_single_person_group" = "You’ve been added to the group, add members";
+"community_education" = "Community Group Chats are not affiliated or managed by schools. Anyone in the Community will be able to join this Group Chat. Messages sent here are set to delete 7 days after viewing. New members will be able to see any messages or Snaps sent to the Group Chat that have not expired.";
+"created_by_me" = "You created the group and added $0";
+"created_by_me_more_than_five" = "You created the group and added $0 +$1 others";
+"created_by_me_single_person_group" = "You created the group, add members";
+"extra_people_text" = "+$0";
+"invite" = "Invite";

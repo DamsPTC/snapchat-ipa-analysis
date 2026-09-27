@@ -1,0 +1,9 @@
+"context_add_user" = "إضافة ⁦%1$@⁩";
+"context_remove_user" = "إزالة ⁦%1$@⁩";
+"group_invite_link_cta_tooltip" = "المس أو اسحب لأعلى للانضمام إلى الدردشة الجماعية!";
+"public_story_replies_disclaimer" = "يمكن لـ ⁦%1$@⁩ مشاركة ردك على قصته العلنية.";
+"question_sticker_story_reply_disclaimer" = "يمكن لـ ⁦%1$@⁩ مشاركة ردّك.";
+"snap_pro_story_replies_dialog_description" = "تتم مراجعة الردود على القصص للتحقّق من خلوّها من الرسائل العشوائية والإساءة. ويمكن لمُتلقّي الردود استعراض ردّك على قصصهم العلنية ومشاركته، حيث يمكن لمستخدمي سناب شات الآخرين مشاهدة اسمك الأول وBitmoji الخاص بك ونص رسالتك.";
+"snap_pro_story_replies_dialog_send" = "إرسال";
+"snap_pro_story_replies_dialog_title" = "هل تريد إرسال رد على القصة؟";
+"snap_pro_story_replies_disclaimer" = "⁦%1$@⁩ يمكنه استعراض ردّك ومشاركته في قصته العلنية.";

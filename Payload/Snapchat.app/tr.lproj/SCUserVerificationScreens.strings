@@ -1,0 +1,18 @@
+"finish" = "Bitir";
+"invalid_phone_number_suggestion_title" = "Geçersiz Telefon Numarası";
+"ngo_country_title" = "Ülke";
+"ngo_email_instead" = "Bunun yerine e-posta adresini kullan";
+"ngo_email_placeholder" = "sen@eposta.com";
+"ngo_email_title" = "E-posta";
+"ngo_phone_instead" = "Bunun yerine telefon numaranı kullan";
+"ngo_phone_number_info" = "SMS ile doğrulama kodu göndereceğiz.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "SMS ile doğrulama kodu göndereceğiz. Numaranı girdiğinde hesabınla ilgili işlemler için SMS veya diğer mesaj kanalları yoluyla mesaj almayı kabul etmiş olursun.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Sana bir doğrulama kodu göndereceğiz. Numaranı girdiğinde hesabınla ilgili işlemler ve daha fazlası için SMS veya diğer mesaj kanalları yoluyla mesaj alacaksın.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Sana bir doğrulama kodu göndereceğiz. Numaranı girdiğinde hesabınla ilgili işlemler ve daha fazlası için SMS veya diğer mesaj kanalları yoluyla mesaj almayı kabul etmiş olursun. Snap'in telefon numaranı nasıl kullandığı hakkında [daha fazla bilgi edin](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number).";
+"ngo_phone_number_title" = "Telefon Numarası";
+"ngo_phone_placeholder" = "Telefon numarası";
+"phone_suggestion_description" = "%1$@ geçerli bir telefon numarası değil. Şunu mu demek istedin:\n%2$@";
+"register_email_button" = "E-posta adresinle kayıt ol";
+"register_email_error" = "Lütfen geçerli bir e-posta adresi gir.";
+"skip_button" = "Geç";
+"yes_update" = "Evet, güncelle";

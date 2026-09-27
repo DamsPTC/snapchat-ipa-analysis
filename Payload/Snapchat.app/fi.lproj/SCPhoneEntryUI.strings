@@ -1,0 +1,11 @@
+"country_code_field" = "Maatunnuskenttä";
+"mobile_number_field" = "Matkapuhelinnumerokenttä";
+"phone_entry_invalid_country_code" = "🌎 Virheellinen maatunnus";
+"phone_entry_phone_placeholder" = "puhelinnumero";
+"phone_entry_select_country_code" = "🌎 Valitse maatunnus";
+"register_country_picker_title" = "Valitse maa";
+"register_phone_label" = "MATKAPUHELINNUMERO";
+"send_sms_explanation" = "Lähetämme vahvistuskoodin tekstiviestillä.";
+"send_sms_explanation_here" = "Käytämme puhelinnumeroasi vahvistuskoodin lähettämiseen tekstiviestitse sekä [tässä](https://support.snapchat.com/article/snap-phone-number) kuvatulla tavalla.";
+"send_sms_explanation_updates_and_here" = "Käytämme puhelinnumeroasi sekä vahvistuskoodin ja tärkeiden päivitysten lähettämiseen tekstiviestitse että [tässä](https://support.snapchat.com/article/snap-phone-number) kuvailluin tavoin.";
+"send_sms_explanation_updates_here" = "Lähetämme sinulle tekstiviestitse vahvistuskoodin ja tärkeitä päivityksiä käyttämällä puhelinnumeroasi, kuten kuvailtu [tässä](https://support.snapchat.com/article/snap-phone-number).";

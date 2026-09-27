@@ -1,0 +1,7 @@
+"modal_cancel" = "Abbrechen";
+"modal_continue" = "Weiter";
+"modal_desc" = "Wem steht dieser Look am besten?\n\nWenn du Herausforderungen für diesen Snap zulässt, wird er für andere öffentlich verfügbar gemacht, sodass sie ihn ansehen, die Herausforderung annehmen oder abstimmen können, wem der Look am besten steht.\n\nJede Herausforderung hat eine bestimmte Anzeigedauer und kann von anderen Nutzern gespeichert und für weitere Herausforderungen verwendet werden.\n\nDein öffentlicher Snap wird auf der öffentlichen Outfit-Bestenliste angezeigt, wenn er viele Stimmen bekommt.\n\nWenn du deinen Snap löschst, werden dadurch keine laufenden Herausforderungen gelöscht, die Inhalte aus deinem Snap enthalten.";
+"modal_title" = "Herausforderungen von anderen zulassen";
+"poll_title" = "Wem steht %1$@ am besten?";
+"top_model_privacy_disclaimer_subtitle" = "Herausforderungen von Freundesfreunden zulassen";
+"top_model_privacy_disclaimer_title" = "Herausforderungen von Freunden zulassen";

@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "Harap masuk lagi";
+"incorrect_user_error_body" = "Terjadi kesalahan";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Snap kamu populer 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "Snap yang kamu kirim ke Cerita Kita sudah dilihat lebih dari %1$@ kali!";
+
+"our_story_submission_view_milestone_generic_body" = "Snap yang kamu kirim ke Cerita Kita sudah dilihat berkali-kali!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "Lampu Sorotmu telah dilihat lebih dari %1$@ kali!";
+
+"spotlight_submission_view_milestone_generic_body" = "Lampu Sorotmu telah dilihat berkali-kali!";

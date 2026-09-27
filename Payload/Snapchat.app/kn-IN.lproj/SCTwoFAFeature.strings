@@ -1,0 +1,9 @@
+"connection_error" = "ಸಂಪರ್ಕ ದೋಷ";
+"okay" = "ಸರಿ";
+"send_code_again" = "ಕೋಡ್ ಪುನಃ ಕಳುಹಿಸಿ";
+"twofa_login_code_verification_otp_to_sms_info" = "ಬದಲಿಗೆ ನನಗೆ SMS ಕಳುಹಿಸಿ";
+"twofa_login_code_verification_otp_to_sms_progress" = "ಕಳಿಸುತ್ತಿದೆ...";
+"twofa_login_code_verification_with_otp_explanation" = "ನಿಮ್ಮ ಗುರುತನ್ನು ಪರಿಶೀಲಿಸಲು ನಿಮ್ಮ ದೃಢೀಕರಣ ಆ್ಯಪ್‌‌ನಿಂದ ಜನರೇಟ್ ಆದ ಕೋಡ್ ಅನ್ನು ದಯವಿಟ್ಟು ನಮೂದಿಸಿ.";
+"twofa_login_recovery_code_used" = "ನೀವು ಲಾಗಿನ್ ಮಾಡಲು ನೀವು ನಿಮ್ಮ ರಿಕವರಿ ಕೋಡ್ ಅನ್ನು ಬಳಸಿದ್ದೀರಿ. ನಾವು ಎರಡು-ಅಂಶಗಳ ದೃಢೀಕರಣವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ್ದೇವೆ — ಅದನ್ನು ಮರು-ಸಕ್ರಿಯಗೊಳಿಸಲು ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಹೋಗಿ.";
+"twofa_new_device_verification_explanation" = "ನಿಮ್ಮ ಗುರುತನ್ನು ಪರಿಶೀಲಿಸಲು ನಾವು  %1$@ ಗೆ ಕಳುಹಿಸಿದ ಕೋಡ್ ಅನ್ನು ದಯವಿಟ್ಟು ನಮೂದಿಸಿ.";
+"twofa_settings_recovery_code_used_title" = "ಎರಡು-ಅಂಶಗಳ ದೃಢೀಕರಣ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ";

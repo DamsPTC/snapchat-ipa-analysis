@@ -1,0 +1,17 @@
+"bitmoji_live_mirror_exit_dialog_cancel_button" = "ரத்து";
+"bitmoji_live_mirror_exit_dialog_exit_button" = "வெளியேறு";
+"bitmoji_live_mirror_exit_dialog_text" = "நீங்கள் இப்போது வெளியேறினால் உங்கள் அவதார் சேமிக்கப்படாது.";
+"bitmoji_live_mirror_exit_dialog_title" = "சேமிக்காமல் வெளியேறவா?";
+"bitmoji_live_mirror_interstitial_body_v2" = "எனது சுயவிவரம்' என்பதில் எப்போது வேண்டுமானாலும் உடைகளைத் தனிப்பயனாக்கலாம் மற்றும் உங்கள் Bitmoji அவதாரைத் திருத்தலாம்.";
+"bitmoji_live_mirror_interstitial_body_v3" = "என்னுடைய தகவல் குறிப்பிலிருந்து எந்த நேரத்திலும் உங்கள் Bitmoji அவதாருக்கு ஆடை அணிவியுங்கள், அதைத் திருத்துங்கள்.";
+"bitmoji_live_mirror_interstitial_choose_body_button_1_v1" = "அழகாகத் தோன்றுகிறது!";
+"bitmoji_live_mirror_interstitial_done_button_1_v2" = "முடிந்தது";
+"bitmoji_live_mirror_interstitial_done_button_3_v3" = "முடிந்தது";
+"bitmoji_live_mirror_interstitial_edit_facial_avatar_caption_v2" = "திருத்தங்களைச் செய்யுங்கள்";
+"bitmoji_live_mirror_interstitial_edit_facial_button_1_v3" = "அவதாரைத் திருத்துங்கள்";
+"bitmoji_live_mirror_interstitial_edit_facial_button_2_v1" = "திருத்தங்களைச் செய்யுங்கள்";
+"bitmoji_live_mirror_interstitial_select_outfit_button_2_v3" = "ஆடை தேர்வு";
+"bitmoji_live_mirror_interstitial_title_v1" = "உங்கள் முடி மற்றும் முக அம்சங்கள் உங்களுக்கு மகிழ்ச்சியளிக்கின்றனவா?";
+"bitmoji_live_mirror_interstitial_title_v2" = "உங்கள் அவதார் தயார்!";
+"bitmoji_live_mirror_interstitial_title_v3" = "உங்கள் அவதார் தயார்!";
+"server_error_try_again" = "சேவையகப் பிழை. மீண்டும் முயலுங்கள்.";

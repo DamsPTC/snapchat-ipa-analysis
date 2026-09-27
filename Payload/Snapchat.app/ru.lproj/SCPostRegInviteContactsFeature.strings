@@ -1,0 +1,3 @@
+"invite_sms_rate_limit_body" = "В настоящее время вы можете отправлять не больше 10 приглашений.";
+"invite_sms_rate_limit_okay" = "ОК";
+"invite_sms_rate_limit_title" = "Вы достигли лимита.";

@@ -1,0 +1,13 @@
+"connect_wallet_description" = "استعرض عدساتك القابلة للجمع. كل ما عليك هو ربط محفظة العملة المشفرة بحسابك على سناب شات وسيظهر اسم المستخدم الخاص بك للعامة على عدسة Lens وفي أي مكان آخر في سناب شات. يمكنك دائمًا إلغاء ربط محفظتك من الإعدادات ضمن المحافظ المرتبطة.";
+"connect_wallet_ftx_disclosure" = "FTX ليست متاحة حاليًا في الاختصاصات القضائية المقيضة ومنها نيويورك.";
+"connect_wallet_learn_more" = "اعرف المزيد";
+"connect_wallet_legal_disclosure" = "من خلال ربط محفظتك، أنت توافق على ⁦%1$@⁩.";
+"connect_wallet_terms_of_use" = "شروط العناصر الرقمية القابلة للجمع";
+"connect_wallet_title" = "ربط محفظتك";
+"result_failure_body" = "تحقق من بيانات اعتمادك وتأكد من أن اتصالك بالإنترنت يعمل.";
+"result_failure_not_available" = "هذه الميزة غير متاحة لك الآن.";
+"result_failure_title" = "تعذّر الاتصال";
+"result_success_body" = "محفظتك الآن مرتبطة.";
+"result_success_no_collection_body" = "لم تجمع NFT هذا، ولكن لا يزال بإمكانك استخدام عدسة Lens. إذا كنت قد اشتريت مؤخرًا NFT مرتبط بعدسة Lens هذه، يُرجى الانتظار لمدة تصل إلى 5 دقائق للتحقق من عملية الجمع.";
+"result_success_no_collection_title" = "المحفظة مرتبطة بعدسة Lens";
+"result_success_title" = "نجح الربط";

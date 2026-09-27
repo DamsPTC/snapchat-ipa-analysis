@@ -1,0 +1,10 @@
+"apply_effect" = "Toepassen";
+"bounce" = "Bounce";
+"effect_min_duration_message" = "Er zijn minimaal %1$@ seconden vereist voor dit effect";
+"hyperspeed" = "Hyperspeed";
+"incompatible_edits_alert_detail" = "Als je op 'Toepassen' tikt, worden alle eerder aangebrachte tijdgebaseerde bewerkingen van je Snap (inclusief bepaalde Lenzen) verwijderd. Doorgaan?";
+"incompatible_edits_alert_title" = "Effect toepassen en tijdgebaseerde bewerkingen verwijderen?";
+"jump_cut" = "Jump cut";
+"no_effect" = "Geen effect";
+"orbit_3d" = "Orbit 3D";
+"zoom_in" = "Inzoomen";

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Astfel, Snapchat se va putea conecta la accesorii bluetooth precum Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Folosește camera pentru a realiza Snap-uri, a te juca cu lentile și multe altele! Unele lentile pot utiliza camera TrueDepth de la Apple. Consultă Politica de confidențialitate pentru mai multe informații.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Contactele tale vor fi încărcate pe serverele Snapchat pentru ca tu și alții să puteți să vă găsiți prietenii și să vă îmbunătățiți experiența.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Astfel, Snapchat se va putea conecta la accesorii activate prin Wi-Fi precum Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Dacă alegi „Permite întotdeauna”, Snapchat va putea să-ți actualizeze locația în fundal, pentru a-ți afișa Locația live și a-ți îmbunătăți experiența.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Dacă alegi „Permite întotdeauna”, Snapchat va putea să-ți actualizeze locația în fundal, pentru a-ți afișa Locația live și a-ți îmbunătăți experiența.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat folosește acest lucru pentru a-ți personaliza experiența și pentru a-ți permite să descoperi filtre, povești și multe altele din jurul tău.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Utilizează microfonul pentru a înregistra fișiere audio pentru Snap-uri, chat video și altele.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Snapchat înregistrează dacă dispozitivul tău are poziție verticală sau orizontală atunci când faci Snap-uri, folosești lentile, citești de pe Discover sau vizionezi reclame.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Distribuie conținut din galerie pentru prieteni pe Snapchat.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Distribuie conținut din galerie pentru prieteni pe Snapchat.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Dacă selectezi „Permite”, în timp, Snap poate reduce numărul reclamelor pe care le consideri irelevante sau repetitive. Consultă Politica de confidențialitate pentru mai multe informații despre urmărire.</string>
+</dict>
+</plist>

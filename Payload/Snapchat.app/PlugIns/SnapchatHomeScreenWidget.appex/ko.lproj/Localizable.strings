@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "스냅코드";
+
+"Snapcode Desc" = "이 위젯은 스냅코드를 표시합니다.";
+
+"camera" = "카메라";
+
+"camera_desc" = "Snapchat 카메라를 엽니다.";
+
+"log_in" = "로그인";
+
+"shortcut_to_a_friend" = "위젯을 놓은 후 눌러서 친구나 그룹을 선택합니다.";
+
+"pin_a_friend" = "친구 또는 그룹 고정";
+
+"birthdays" = "생일";
+
+"see_upcoming_birthdays" = "다가오는 생일을 확인합니다.";
+
+"no_upcoming_birthdays" = "다가오는 생일 없음";
+
+"user_and_other_have_birthday" = "%1$@ 님 +%2$d명";
+
+"user_has_birthday_in_days_singular" = "%2$d일 후 %1$@ 님";
+
+"user_has_birthday_in_days_plural" = "%2$d일 후 %1$@ 님";
+
+"user_and_other_have_birthday_in_days_singular" = "%3$d일 후 %1$@ 님 +%2$d명";
+
+"user_and_other_have_birthday_in_days_plural" = "%3$d일 후 %1$@ 님 +%2$d명";
+
+"Memories" = "메모리";
+
+"Memories Desc" = "플래시백, 여행, 요약 등이 포함된 메모리의 추천 Snap입니다!";
+
+"Friend Location Widget Desc" = "이 위젯으로 친구를 고정하고 친구의 위치 정보를 한눈에 확인하세요.";
+
+"map" = "지도";
+
+"now" = "방금";
+
+"something_went_wrong" = "문제가 발생했습니다. Snapchat을 열어 주세요.";
+
+"long_press_to_pin" = "수정하여 친구 고정";
+
+"off_the_grid" = "오프라인 상태";

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>filterId</key>
+		<string>35475161117</string>
+		<key>icon_link</key>
+		<string></string>
+		<key>code</key>
+		<string>grayscale_filter</string>
+	</dict>
+	<dict>
+		<key>filterId</key>
+		<string>35536870913</string>
+		<key>icon_link</key>
+		<string></string>
+		<key>code</key>
+		<string>miss_etikate_filter</string>
+	</dict>
+	<dict>
+		<key>filterId</key>
+		<string>35551650875</string>
+		<key>icon_link</key>
+		<string></string>
+		<key>code</key>
+		<string>instasnap_filter</string>
+	</dict>
+</array>
+</plist>

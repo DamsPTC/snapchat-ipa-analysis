@@ -1,0 +1,9 @@
+"bitmoji_camera_permission_continue_button" = "Create with Camera";
+"bitmoji_camera_permission_continue_button_new" = "Continue";
+"bitmoji_camera_permission_desc" = "Use your camera to instantly create an avatar that looks like you";
+"bitmoji_camera_permission_pre_prompt_accept" = "OK";
+"bitmoji_camera_permission_pre_prompt_deny" = "Not Now";
+"bitmoji_camera_permission_pre_prompt_desc" = "Grant camera access and instantly create a Bitmoji by taking selfies";
+"bitmoji_camera_permission_pre_prompt_title" = "Enable Camera Access";
+"bitmoji_camera_permission_skip_button" = "Skip";
+"bitmoji_camera_permission_title" = "Create Your Bitmoji";

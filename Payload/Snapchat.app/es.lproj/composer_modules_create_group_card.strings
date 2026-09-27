@@ -1,0 +1,11 @@
+"add_member" = "Añadir miembros";
+"add_member_short" = "Añadir";
+"added_to_group" = "Te añadieron al grupo con $0";
+"added_to_group_more_than_five" = "Te añadieron al grupo con $0 y $1 personas más";
+"added_to_group_single_person_group" = "Te añadieron al grupo; añade miembros";
+"community_education" = "Las escuelas no están vinculadas con los chats grupales de las comunidades ni se encargan de gestionarlos. Cualquier miembro de la comunidad podrá unirse a este chat grupal. Los mensajes enviados se configuraron para que desaparezcan en 7 días tras su visualización. Los miembros nuevos podrán ver cualquier mensaje o Snap enviado al chat grupal que no haya desaparecido.";
+"created_by_me" = "Creaste el grupo y añadiste a $0";
+"created_by_me_more_than_five" = "Creaste el grupo y añadiste a $0 y a $1 personas más";
+"created_by_me_single_person_group" = "Creaste al grupo; añade miembros";
+"extra_people_text" = "+$0";
+"invite" = "Invitar";

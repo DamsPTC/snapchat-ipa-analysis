@@ -1,0 +1,15 @@
+"ota_failed_charger_not_connected_body" = "Veuillez brancher vos Spectacles avant de lancer la mise à jour.";
+"ota_failed_charger_not_connected_title" = "Chargeur requis";
+"ota_failed_low_battery_body" = "Rechargez vos Spectacles au moins à 40 %, puis réessayez.";
+"ota_failed_low_battery_title_format" = "Niveau de batterie faible (%1$@ %%)";
+"ota_failed_title" = "Échec de la mise à jour";
+"ota_failed_too_cold_body" = "La température de vos Spectacles est trop basse pour pouvoir réaliser la mise à jour ❄️. Réchauffez-les un peu avant de réessayer.";
+"ota_failed_too_hot_body" = "La température de vos Spectacles est trop élevée pour pouvoir réaliser la mise à jour 🔥. Laissez-les refroidir un peu avant de réessayer.";
+"ota_low_disk_space_body" = "Il semblerait que l'espace de stockage sur votre appareil soit presque saturé. Pour libérer de l'espace, vous pouvez supprimer des applications, de la musique ou des photos.";
+"ota_low_disk_space_title" = "Impossible de télécharger la mise à jour";
+"ota_unlock_body" = "Votre code secret vous est demandé à la suite d'un redémarrage. Veuillez le saisir sur vos Spectacles et réessayer.";
+"ota_unlock_title" = "Débloquer des Spectacles";
+"ota_update_required_cancel_title" = "Plus tard";
+"ota_update_required_title" = "Mise à jour requise";
+"update_error_body" = "Les réglages de vos Spectacles n'ont pas pu être mis à jour. Veuillez réessayer.";
+"update_error_title" = "Un problème est survenu.";

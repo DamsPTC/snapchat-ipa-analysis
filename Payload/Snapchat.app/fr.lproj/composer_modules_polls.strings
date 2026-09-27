@@ -1,0 +1,11 @@
+"cancel" = "Annuler";
+"polls_ask_a_question" = "Poser une question";
+"polls_network_error" = "Une erreur s'est produite. Veuillez réessayer plus tard.";
+"privacy_nux_description" = "Les sondages ne sont pas anonymes sur Snapchat. Voulez-vous continuer ?";
+"privacy_nux_description_v2" = "$0 verra votre vote. Voulez-vous continuer ?";
+"send_button_text" = "Envoyer les réponses";
+"vote_button_text" = "Voter";
+"voters_list_empty_subtitle" = "Aucun vote pour le moment";
+"voters_list_title" = "Résultats du sondage";
+"voters_list_voters_subtitle" = "Personnes ayant voté";
+"votes_text" = "$0 votes";

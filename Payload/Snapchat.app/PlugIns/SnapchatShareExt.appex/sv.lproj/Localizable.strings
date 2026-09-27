@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Lämna";
+
+"add_a_chat" = "Lägg till en chatt …";
+
+"are_you_sure_you_want_to_abandon" = "Är du säker på att du vill lämna din Snapsterpiece?";
+
+"best_friends_header" = "Bästa vänner";
+
+"groups_header" = "Grupper";
+
+"friends_header" = "Vänner";
+
+"send" = "Skicka";
+
+"cancel" = "Avbryt";
+
+"cannot_add_more_snapchatters" = "Kan inte lägga till fler Snapchattare!";
+
+
+"login_before_sharing_message" = "Logga in på Snapchat innan du delar.";
+
+"login_before_sharing_title" = "Inloggning krävs";
+
+"me_hint" = "(jag)";
+
+"noticed_new_acct_sharing_message" = "Fel konto!";
+
+"noticed_new_acct_sharing_title" = "Det verkar som om du har bytt konto. Logga in igen för att skicka din Snap eller börja din delning igen.";
+
+"okay" = "Okej";
+
+"open_before_sharing_message" = "Öppna Snapchat innan du delar.";
+
+"open_before_sharing_title" = "Öppna Snapchat";
+
+"problem_sharing_try_again" = "Något gick snett, försök igen.";
+
+"recents_header" = "Senaste";
+
+"search_text_view_hint" = "Sök";
+
+"send_to" = "Skicka till …";
+
+"try_again" = "Försök igen";
+
+"video_too_long" = "Videor måste vara under 60 sekunder för att kunna delas.";
+
+"video_too_long_with_maximum_duration_desc" = "Videor måste vara under %1$ld sekunder för att kunna delas.";
+
+"stories_header" = "Stories";
+
+"my_story" = "Min Story";

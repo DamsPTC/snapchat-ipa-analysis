@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "يجب أن تكون في مكالمة لمشاركة شاشتك.";
+"screen_capture_error_generic" = "حدث خطأ ما: يُرجى إعادة محاولة مشاركة الشاشة مرة أخرى.";
+"screen_capture_not_enabled" = "حدث خطأ.";

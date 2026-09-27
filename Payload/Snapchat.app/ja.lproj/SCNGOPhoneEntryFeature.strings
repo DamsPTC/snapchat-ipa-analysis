@@ -1,0 +1,4 @@
+"country" = "国";
+"invalid_country_code" = "🌎国番号が無効です";
+"phone_number" = "電話番号";
+"select_country_code" = "🌎国番号を選択";

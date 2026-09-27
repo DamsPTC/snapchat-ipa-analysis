@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "%1$@ என்ற எண்ணில் உங்களை அழைப்போம்.";
+"alt_send_code_by_sms" = "SMS வழியாகக் குறியீட்டை அனுப்பு";
+"alt_send_code_by_sms_dialogue" = "%1$@ என்ற எண்ணுக்கு உங்களுக்கு ஒரு குறுஞ்செய்தி குறியீட்டை அனுப்புவோம்.";
+"error_occurred_message" = "ஒரு பிழை ஏற்பட்டது. பிறகு முயன்று பாருங்கள்.";
+"ngo_email_instead" = "அதற்குப் பதிலாக மின்னஞ்சலைப் பயன்படுத்து";
+"ngo_phone_verification_description" = "%1$@க்கு அனுப்பப்பட்ட குறியீட்டை உள்ளிடுங்கள்";
+"ngo_phone_verification_title" = "உங்கள் எண்ணை உறுதிப்படுத்துங்கள்";
+"ngo_submit" = "சமர்ப்பி";
+"ok" = "சரி";
+"register_phone_verification_desc" = "%1$@-க்கு நாங்கள் அனுப்பிய குறியீட்டை உள்ளிடுங்கள்";
+"register_phone_verification_title" = "உறுதிப்படுத்துதல் குறியீட்டை உள்ளிடுங்கள்";
+"resend_code" = "மீண்டும் அனுப்பு";
+"skip_button" = "தவிர்";
+"verifying" = "உறுதிப்படுத்துகிறது...";

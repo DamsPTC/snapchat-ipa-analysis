@@ -1,0 +1,4 @@
+"studio_force_unpair_confirm" = "Se borró la información de enlace de Lens Studio.";
+"studio_force_unpair_status_desc" = "Al restablecerlo, se desenlazará de Lens Studio. También se eliminará de tu carrusel cualquier Lente que hayas enviado.";
+"studio_force_unpair_status_title" = "Restablecer enlace";
+"studio_settings_tap_to_force_unpair" = "Toca para restablecerlo";

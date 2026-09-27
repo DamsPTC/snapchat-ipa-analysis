@@ -1,0 +1,5 @@
+"default_description" = "Denunciaron tu cuenta porque infringe nuestras Pautas para la comunidad.\n\n Evita este tipo de comportamiento en el futuro o es posible que se suspenda o elimine tu cuenta. Gracias por cooperar.";
+"dialog_button_text" = "Ver pautas";
+"dialog_button_text_no_internet" = "Entendido";
+"dialog_title" = "¡Un momento!";
+"read_community_guidelines" = "Debes leer las Pautas para la comunidad por completo antes de continuar.";

@@ -1,0 +1,16 @@
+/*
+
+Localizable.strings (English)
+SCTimeAgoFormatter
+Copyright (c) 2020 Snapchat, Inc. All rights reserved.
+*/
+
+/* Time span strings such as "5s ago" or "5d ago". The %@ placeholder is replaced with the numerical value and the unit. */
+
+"time_ago" = "%1$@ আগে"; // Added August 25, 2020
+
+"now_label" = "এখন"; // Added 02/24/16
+
+"just_now_label" = "এক্ষুনি";
+
+"just_now_label_lower_case" = "এক্ষুনি"; // Added 02/31/16

@@ -1,0 +1,4 @@
+"chatv3_leave_group_alert_description" = "Si abandonas este grupo también saldrás de su Historia. Los Snaps y Chats que hayas enviado se borrarán y se restablecerá cualquier Medallita que hayas escondido.";
+"chatv3_leave_group_alert_fail_message" = "No puedes abandonar el grupo en este momento.";
+"chatv3_leave_group_alert_leave_button" = "Abandonar";
+"chatv3_leave_group_alert_title" = "¿Abandonar grupo?";

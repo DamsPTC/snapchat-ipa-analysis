@@ -1,0 +1,7 @@
+"description" = "输入发送至 %1$@ 的验证码";
+"ok" = "确定";
+"resend_button" = "重新发送验证码";
+"resend_description" = "%1$lu 后重新发送验证码";
+"submit" = "提交";
+"title_email" = "确认你的电子邮件";
+"title_phone" = "确认你的电话号码";

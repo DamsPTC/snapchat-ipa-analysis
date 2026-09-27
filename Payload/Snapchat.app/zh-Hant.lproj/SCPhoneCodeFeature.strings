@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "我們會透過 %1$@ 致電給你。";
+"alt_send_code_by_sms" = "透過簡訊傳送代碼";
+"alt_send_code_by_sms_dialogue" = "我們會透過 %1$@ 傳送簡訊代碼給你。";
+"error_occurred_message" = "發生錯誤，請稍後重試。";
+"ngo_email_instead" = "改用電子郵件";
+"ngo_phone_verification_description" = "輸入傳送至 %1$@ 的驗證碼";
+"ngo_phone_verification_title" = "確認你的電話號碼";
+"ngo_submit" = "送出";
+"ok" = "確定";
+"register_phone_verification_desc" = "輸入我們傳送至 %1$@ 的代碼";
+"register_phone_verification_title" = "輸入確認代碼";
+"resend_code" = "重新傳送";
+"skip_button" = "跳過";
+"verifying" = "正在驗證...";

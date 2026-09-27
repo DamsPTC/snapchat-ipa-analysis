@@ -1,0 +1,7 @@
+"body" = "Votre e-mail et votre numéro de téléphone sont-ils à jour ?";
+"dismiss_button_with_details" = "Confirmer";
+"dismiss_button_without_details" = "Terminé";
+"no_email_placeholder" = "Ajouter votre adresse e-mail";
+"no_phone_placeholder" = "Ajouter votre numéro de téléphone";
+"title_with_details" = "Confirmer les informations de contact";
+"title_without_details" = "Ajouter des informations de contact";

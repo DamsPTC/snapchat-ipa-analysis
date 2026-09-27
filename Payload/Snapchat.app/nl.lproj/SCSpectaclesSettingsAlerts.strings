@@ -1,0 +1,15 @@
+"ota_failed_charger_not_connected_body" = "Sluit je Spectacles aan voordat je gaat updaten.";
+"ota_failed_charger_not_connected_title" = "Lader vereist";
+"ota_failed_low_battery_body" = "Laad je Spectacles op tot minstens 40% en probeer opnieuw te updaten.";
+"ota_failed_low_battery_title_format" = "Batterij bijna leeg (%1$@%%)";
+"ota_failed_title" = "Update mislukt";
+"ota_failed_too_cold_body" = "Je Spectacles is te koud voor het updaten ❄️. Warm de bril eerst op en probeer het dan opnieuw.";
+"ota_failed_too_hot_body" = "Je Spectacles is te warm voor het updaten 🔥. Koel de bril eerst af en probeer het dan opnieuw.";
+"ota_low_disk_space_body" = "Zo te zien is de opslagruimte van je apparaat bijna vol. Om ruimte vrij te maken, kun je ongebruikte apps, muziek of foto's verwijderen.";
+"ota_low_disk_space_title" = "Update kan niet worden gedownload";
+"ota_unlock_body" = "Na het opnieuw opstarten is je toegangscode vereist. Voer de code in op je Spectacles en probeer het opnieuw.";
+"ota_unlock_title" = "Spectacles ontgrendelen";
+"ota_update_required_cancel_title" = "Misschien later";
+"ota_update_required_title" = "Update vereist";
+"update_error_body" = "De instellingen van je Spectacles kunnen niet worden bijgewerkt. Probeer het nog eens.";
+"update_error_title" = "Er is iets misgegaan";

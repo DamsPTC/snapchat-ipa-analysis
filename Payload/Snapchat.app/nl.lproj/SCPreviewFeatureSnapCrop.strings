@@ -1,0 +1,17 @@
+"crop_tool_ai_tool_disclaimer_accept_title" = "Accepteren";
+"crop_tool_ai_tool_disclaimer_cancel_title" = "Annuleren";
+"crop_tool_ai_tool_disclaimer_info_dalle" = "Deze creatieve AI-tool wordt mogelijk gemaakt door DALL-E. Wanneer je deze tool gebruikt, wordt je Snap met dit bedrijf gedeeld.";
+"crop_tool_ai_tool_disclaimer_info_open_ai" = "Deze creatieve AI-tool wordt mogelijk gemaakt door een Snapchat-partner (bijvoorbeeld OpenAI). Wanneer je deze tool gebruikt, wordt je Snap met deze partner gedeeld.";
+"crop_tool_ai_tool_disclaimer_info_partner" = "Deze creatieve AI-tool wordt mogelijk gemaakt door een partner. Wanneer je deze tool gebruikt, wordt je Snap met deze partner gedeeld.";
+"crop_tool_ai_tool_disclaimer_info_third_party" = "Deze creatieve AI-tool wordt mogelijk gemaakt door een derde partij. Wanneer je deze tool gebruikt, wordt je Snap met deze partij gedeeld.";
+"crop_tool_ai_tool_error_title" = "Er is iets misgegaan";
+"crop_tool_ai_tool_error_try_again" = "Probeer het opnieuw";
+"crop_tool_enhance_button_title" = "Vergroten";
+"crop_tool_enhance_error" = "We konden je Snap niet verbeteren";
+"crop_tool_extend_button_title" = "Uitbreiden";
+"crop_tool_extend_error" = "We konden je Snap niet uitbreiden";
+"crop_tool_loading_default_message" = "Je Snap wordt verwerkt.";
+"crop_tool_loading_extend_message" = "Deze functie is experimenteel.\nJe Snap wordt verwerkt.\nDit kan tot 15 seconden duren";
+"crop_tool_loading_title" = "Even wachten";
+"crop_tool_retouch_error" = "het retoucheren is niet toegepast, wil je het opnieuw proberen?";
+"crop_tool_undo_button_title" = "Ongedaan maken";

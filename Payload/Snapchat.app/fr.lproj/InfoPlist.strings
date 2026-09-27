@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Cela autorisera Snapchat à se connecter à des accessoires Bluetooth comme les Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Utilisez l'appareil photo pour prendre des Snaps, jouer avec des Lenses et plus encore ! Certaines Lenses utilisent la fonction TrueDepth d'Apple. Consultez notre Politique de confidentialité pour en savoir plus.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Vos contacts seront importés dans les serveurs de Snapchat afin que vous et vos ami·e·s puissiez vous retrouver plus facilement et bénéficier d'une meilleure expérience.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Cela autorisera Snapchat à se connecter à des accessoires connectés au Wi-Fi comme les Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Si vous choisissez « Toujours autoriser », Snapchat pourra mettre à jour votre localisation en arrière-plan pour partager votre localisation en direct et améliorer votre expérience.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Si vous choisissez « Toujours autoriser », Snapchat pourra mettre à jour votre localisation en arrière-plan pour partager votre localisation en direct et améliorer votre expérience.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat utilise ces informations pour rendre votre expérience unique et vous permettre de découvrir des Filtres, des Stories et bien plus encore autour de vous.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Utilisez le microphone pour ajouter de l'audio à vos Snaps, discuter lors d'appels vidéo et bien plus encore.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Snapchat se souvient si votre appareil est tenu à l'horizontale ou à la verticale quand vous prenez des Snaps, utilisez des Lenses, consultez la rubrique Découvrir et regardez des publicités.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Partagez les photos de votre téléphone avec vos ami·e·s sur Snapchat.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Partagez les photos de votre téléphone avec vos ami·e·s sur Snapchat.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>En sélectionnant « Autoriser », Snap tentera de réduire la quantité de publicités que vous trouvez non pertinentes ou répétitives. Pour en savoir plus sur le suivi, consultez notre Politique de confidentialité.</string>
+</dict>
+</plist>

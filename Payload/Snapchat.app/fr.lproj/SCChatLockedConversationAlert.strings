@@ -1,0 +1,3 @@
+"locked_conversation_alert_body" = "Vous avez été retiré(e) de ce groupe. \n\nUn autre membre du groupe doit vous ajouter à nouveau pour que vous puissiez envoyer des Chats ou appeler le groupe.";
+"locked_conversation_alert_button" = "Ok";
+"locked_conversation_alert_title" = "Retiré(e) de %1$@";

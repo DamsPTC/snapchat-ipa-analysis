@@ -1,0 +1,4 @@
+"share_intents_permission_alert_text" = "Afin de suggérer des raccourcis, certaines données d'utilisation sont partagées avec iOS. Lors de l'envoi ou de la réception d'un message ou d'un appel : nom affiché, Bitmoji et identifiant utilisateur du destinataire.";
+"share_intents_permission_desc" = "Autoriser iOS à suggérer des raccourcis, notamment pour l'envoi de messages. Les raccourcis sont généralement visibles dans la fonctionnalité de recherche iOS, lors du partage depuis d'autres applications ou lors de la gestion des notifications. Lorsqu'ils sont activés, certaines de vos données sont partagées avec iOS.";
+"share_intents_permission_learn_more" = "En savoir plus";
+"share_intents_permission_title" = "Raccourcis iOS";

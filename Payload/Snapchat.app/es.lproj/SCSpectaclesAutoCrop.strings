@@ -1,0 +1,12 @@
+"apply_to_your_snap" = "Aplicando \"Recorte automático\". Esto puede demorar un poco.";
+"auto_crop" = "Recorte automático";
+"auto_crop_applied_automatically_tooltip" = "Se aplicó el recorte automático";
+"auto_crop_apply_tooltip" = "Toca para aplicar Recorte automático";
+"auto_crop_intro_detail" = "Recorte automático se aplica automáticamente a tus Snaps de Pixy cuando editas";
+"auto_crop_intro_title" = "¡Presentamos Recorte automático!";
+"auto_crop_remove_tooltip" = "Toca para eliminar Recorte automático";
+"auto_crop_unavailable_message" = "Recorte automático no disponible. Revisa la conexión a la red.";
+"crop_action_title" = "Recortar";
+"crop_and_remove_effects_detail" = "Al tocar \"Recortar\", se eliminará de tu Snap cualquier modificación inteligente de Pixy";
+"crop_and_remove_effects_title" = "¿Recortar y eliminar efectos de modificación inteligente?";
+"remove_from_your_snap" = "Eliminando \"Recorte automático\". Esto puede demorar un poco.";

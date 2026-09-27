@@ -1,0 +1,9 @@
+"landing_context" = "L'accesso sembra non essere stato effettuato da te! Per proteggere il tuo account, verificalo mediante una delle opzioni elencate di seguito.";
+"landing_message_note" = "*Potrebbero essere applicate tariffe per i messaggi e il trasferimento di dati.";
+"landing_options_radio_phone" = "SMS";
+"landing_title" = "Accesso sospetto";
+"retry_message" = "Si è verificato un errore. Riprova.";
+"verification_description" = "Inserisci il codice che ti abbiamo inviato al numero\n%1$@";
+"verification_title" = "Inserisci il codice di verifica";
+"verification_unable_to_verify" = "Problemi con la verifica?";
+"verification_unable_to_verify_dialog" = "Oh no! Non siamo riusciti a verificare il tuo account. Contatta l'Assistenza Snapchat per ricevere aiuto.";

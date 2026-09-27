@@ -1,0 +1,7 @@
+"description" = "%1$@に送信されたコードを入力";
+"ok" = "OK";
+"resend_button" = "コードの再送信";
+"resend_description" = "%1$lu以内にコードを再送信";
+"submit" = "送信";
+"title_email" = "メールアドレスを確認";
+"title_phone" = "電話番号を確認";

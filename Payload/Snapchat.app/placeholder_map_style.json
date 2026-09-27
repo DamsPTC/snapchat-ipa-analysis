@@ -1,0 +1,23 @@
+{
+  "layers": [
+    {
+      "layout": {
+        "visibility": "visible"
+      },
+      "type": "background",
+      "id": "background",
+      "paint": {
+        "background-opacity": 1,
+        "background-color": "hsl(43, 39%, 87%)"
+      }
+    }
+  ],
+  "light": {
+    "intensity": 0.5,
+    "anchor": "viewport"
+  },
+  "visibility": "private",
+  "sources": {},
+  "version": 0,
+  "id": "placeholder"
+}

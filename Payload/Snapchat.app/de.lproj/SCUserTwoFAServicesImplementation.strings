@@ -1,0 +1,3 @@
+"try_again_message" = "Versuch's nochmal.";
+"twofa_login_mobile_change_disabled_msg" = "Du hast deine Handynummer geändert. Wir haben die 2-Faktoren-Bestätigung deaktiviert – gehe in deine Einstellungen, um sie wieder zu aktivieren.";
+"twofa_login_mobile_change_disabled_title" = "2-Faktoren-Bestätigung deaktiviert";

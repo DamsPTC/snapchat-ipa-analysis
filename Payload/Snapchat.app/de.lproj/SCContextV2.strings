@@ -1,0 +1,9 @@
+"context_add_user" = "%1$@ adden";
+"context_remove_user" = "%1$@ entfernen";
+"group_invite_link_cta_tooltip" = "Tippe oder wische nach oben, um dem Gruppenchat beizutreten!";
+"public_story_replies_disclaimer" = "%1$@ kann deine Antwort in der eigenen öffentlichen Story teilen.";
+"question_sticker_story_reply_disclaimer" = "%1$@ können deine Antwort teilen.";
+"snap_pro_story_replies_dialog_description" = "Story-Antworten werden auf Spam und Missbrauch geprüft. Der Empfänger erstellt ggf. eine Vorschau deiner Antwort und teilt diese in seiner Öffentlichen Story. Andere Snapchatter können dann deinen Vornamen, dein Bitmoji und deine Nachricht sehen.";
+"snap_pro_story_replies_dialog_send" = "Senden";
+"snap_pro_story_replies_dialog_title" = "Story-Antwort senden?";
+"snap_pro_story_replies_disclaimer" = "%1$@ erstellt ggf. eine Vorschau deiner Antwort und teilt diese in der Öffentlichen Story.";

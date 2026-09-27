@@ -1,0 +1,8 @@
+"location_settings_title" = "Ajustes de ubicación";
+"mute_location_alert_body" = "No verás la ubicación de esta persona en Snapchat, pero puedes elegir dejar de silenciar su ubicación desde su perfil.";
+"mute_location_alert_cancel" = "Cancelar";
+"mute_location_alert_okay" = "Ok";
+"mute_location_alert_title" = "¿Confirmas que deseas silenciar la ubicación de %1$@?";
+"mute_location_cell_title" = "Silenciar la ubicación de %1$@";
+"mute_location_done_title" = "Listo";
+"mute_location_failed" = "Error al actualizar los ajustes para silenciar la ubicación. Vuelve a intentarlo.";

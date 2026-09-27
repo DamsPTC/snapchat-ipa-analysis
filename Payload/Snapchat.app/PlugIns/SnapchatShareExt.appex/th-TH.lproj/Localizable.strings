@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "ลบทิ้ง";
+
+"add_a_chat" = "เพิ่มแชท...";
+
+"are_you_sure_you_want_to_abandon" = "คุณแน่ใจหรือไม่ว่าต้องการลบ Snapsterpiece ของคุณ";
+
+"best_friends_header" = "เพื่อนสนิท";
+
+"groups_header" = "กลุ่ม";
+
+"friends_header" = "เพื่อน";
+
+"send" = "ส่ง";
+
+"cancel" = "ยกเลิก";
+
+"cannot_add_more_snapchatters" = "ไม่สามารถเพิ่ม Snapchatter ได้อีก!";
+
+
+"login_before_sharing_message" = "กรุณาเข้าสู่ระบบ Snapchat ก่อนที่จะแชร์";
+
+"login_before_sharing_title" = "กรุณาเข้าสู่ระบบ";
+
+"me_hint" = "(ฉัน)";
+
+"noticed_new_acct_sharing_message" = "บัญชีไม่ถูกต้อง!";
+
+"noticed_new_acct_sharing_title" = "ดูเหมือนว่าคุณจะเปลี่ยนบัญชี ลงชื่อเข้าใช้อีกครั้งเพื่อส่ง  snap ของคุณหรือเริ่มการแชร์อีกครั้ง";
+
+"okay" = "ตกลง";
+
+"open_before_sharing_message" = "กรุณาเปิด Snapchat ก่อนแชร์";
+
+"open_before_sharing_title" = "เปิด Snapchat";
+
+"problem_sharing_try_again" = "มีบางอย่างผิดพลาด กรุณาลองอีกครั้ง!";
+
+"recents_header" = "ล่าสุด";
+
+"search_text_view_hint" = "ค้นหา";
+
+"send_to" = "ส่งไปยัง...";
+
+"try_again" = "ลองอีกครั้ง";
+
+"video_too_long" = "วิดีโอต้องมีความยาวน้อยกว่า 60 วินาทีจึงจะแบ่งปันได้";
+
+"video_too_long_with_maximum_duration_desc" = "วิดีโอต้องมีความยาวน้อยกว่า %1$ld วินาทีจึงจะแบ่งปันได้";
+
+"stories_header" = "สตอรี่";
+
+"my_story" = "สตอรี่ของฉัน";

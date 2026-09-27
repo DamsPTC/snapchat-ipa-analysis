@@ -1,0 +1,17 @@
+"crop_tool_ai_tool_disclaimer_accept_title" = "Accept";
+"crop_tool_ai_tool_disclaimer_cancel_title" = "Cancel";
+"crop_tool_ai_tool_disclaimer_info_dalle" = "This AI creative tool is powered by DALL-E. When you use it, your Snap is shared with them.";
+"crop_tool_ai_tool_disclaimer_info_open_ai" = "This AI Creative Tool is powered by a Snapchat partner (e.g. OpenAI). When you use it, your snap is shared with them.";
+"crop_tool_ai_tool_disclaimer_info_partner" = "This AI creative tool is powered by a partner. When you use it, your Snap is shared with them.";
+"crop_tool_ai_tool_disclaimer_info_third_party" = "This AI creative tool is powered by a third party. When you use it, your Snap is shared with them.";
+"crop_tool_ai_tool_error_title" = "Something went wrong";
+"crop_tool_ai_tool_error_try_again" = "Try Again";
+"crop_tool_enhance_button_title" = "Enhance";
+"crop_tool_enhance_error" = "We were unable to enhance your Snap";
+"crop_tool_extend_button_title" = "Extend";
+"crop_tool_extend_error" = "We were unable to extend your Snap";
+"crop_tool_loading_default_message" = "We are processing your Snap.";
+"crop_tool_loading_extend_message" = "This feature is experimental.\nWe are processing your Snap.\nThis may take up to 15 seconds";
+"crop_tool_loading_title" = "Please wait";
+"crop_tool_retouch_error" = "oops retouch didn’t apply, try again?";
+"crop_tool_undo_button_title" = "Undo";

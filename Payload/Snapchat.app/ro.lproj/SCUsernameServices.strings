@@ -1,0 +1,8 @@
+"suggestion_error" = "A apărut o eroare. Încearcă din nou mai târziu.";
+"username_invalid_begin" = "Numele de utilizator trebuie să înceapă cu o literă 🔠";
+"username_invalid_char" = "Numele de utilizator poate să includă numai litere ale alfabetului latin, cifre şi -, _, sau ., dar niciun caracter special! 👌";
+"username_invalid_end" = "Numele de utilizator trebuie să se încheie cu o literă sau o cifră 👆";
+"username_invalid_long" = "Numele de utilizator nu poate fi mai lung de 15 caractere 📖";
+"username_invalid_separator" = "Numele de utilizator poate să includă numai un semn -, _, sau . Cel introdus are prea multe ✌️";
+"username_invalid_short" = "Numele de utilizator trebuie să conțină minimum 3 caractere 📝";
+"username_taken" = "%1$@ este utilizat deja!";

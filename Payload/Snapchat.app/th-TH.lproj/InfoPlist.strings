@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>วิธีการนี้จะอนุญาตให้ Snapchat เชื่อมต่อกับอุปกรณ์เสริมที่ใช้บลูทูธ เช่น Spectacles เป็นต้น</string>
+	<key>NSCameraUsageDescription</key>
+	<string>ใช้กล้องของคุณเพื่อจับภาพ Snap เล่นกับเลนส์ และอีกมากมาย! เลนส์บางตัวอาจใช้กล้อง TrueDepth ของ Apple ดูนโยบายความเป็นส่วนตัวของเราสำหรับข้อมูลเพิ่มเติม</string>
+	<key>NSContactsUsageDescription</key>
+	<string>รายชื่อผู้ติดต่อของคุณจะถูกอัปโหลดไปยังเซิร์ฟเวอร์ของ Snapchat เพื่อให้คุณและผู้อื่นสามารถค้นหาเพื่อนและเพื่อปรับปรุงประสบการณ์ของคุณได้</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>วิธีการนี้จะอนุญาตให้ Snapchat เชื่อมต่อกับอุปกรณ์เสริมที่ใช้ Wi-Fi เช่น Spectacles เป็นต้น</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>เมื่อเลือก "อนุญาตเสมอ" จะเป็นการอนุญาตให้ Snapchat อัปเดตตำแหน่งที่ตั้งของคุณโดยทำงานในพื้นหลัง เพื่อแบ่งปันตำแหน่งที่ตั้งปัจจุบัน และเพื่อปรับปรุงประสบการณ์การใช้งานของคุณให้ดีขึ้น</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>เมื่อเลือก "อนุญาตเสมอ" จะเป็นการอนุญาตให้ Snapchat อัปเดตตำแหน่งที่ตั้งของคุณโดยทำงานในพื้นหลัง เพื่อแบ่งปันตำแหน่งที่ตั้งปัจจุบัน และเพื่อปรับปรุงประสบการณ์การใช้งานของคุณให้ดีขึ้น</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat ใช้สิ่งนี้เพื่อปรับแต่งประสบการณ์ให้เหมาะกับคุณ และช่วยให้คุณพบฟิลเตอร์ สตอรี่ และอย่างอื่นอีกมากมายรอบตัวคุณ</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>ใช้ไมโครโฟนของคุณเพื่อบันทึกเสียงสำหรับ Snap วิดีโอแชท และอื่น ๆ</string>
+	<key>NSMotionUsageDescription</key>
+	<string>การบันทึก Snapchat หากอุปกรณ์ของคุณเป็นแนวตั้งหรือแนวนอน เมื่อคุณถ่ายรูป Snap, ใช้เลนส์, อ่านหน้า Discover และดูโฆษณา</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>แบ่งปันเนื้อหาคลังภาพกับเพื่อนๆ ใน Snap</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>แบ่งปันเนื้อหาคลังภาพกับเพื่อนๆ ด้วย Snap</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>เมื่อเลือก "อนุญาต" Snap อาจลดโฆษณาที่คุณพบว่าไม่เกี่ยวข้องหรือซ้ำกันเมื่อเวลาผ่านไป ดูนโยบายความเป็นส่วนตัวของเราสำหรับข้อมูลเพิ่มเติมเกี่ยวกับการติดตาม</string>
+</dict>
+</plist>

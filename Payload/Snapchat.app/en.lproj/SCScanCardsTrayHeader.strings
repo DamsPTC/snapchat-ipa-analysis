@@ -1,0 +1,8 @@
+"no_results_state_subtitle" = "Scan did not find any results";
+"no_results_state_title" = "No Results";
+"results_state_subtitle" = "Related content based on your scene";
+"results_state_title" = "Scan Results";
+"scanning_state_subtitle" = "Searching for content based on your scene";
+"scanning_state_title" = "Scanning...";
+"tray_header_loading" = "Loading";
+"tray_header_shazam_loading" = "Listening for Music";

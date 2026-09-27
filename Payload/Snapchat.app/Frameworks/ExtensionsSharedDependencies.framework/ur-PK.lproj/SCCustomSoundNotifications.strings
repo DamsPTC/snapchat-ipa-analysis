@@ -1,0 +1,20 @@
+/*
+
+ SCCustomSoundNotifications.strings
+ SCNotificationServiceExtensionBridge
+*/
+
+/// File Names for Notification Custom Sounds 
+"custom_sound_notifications_default_sound_name" = "ڈیفالٹ ساؤنڈ";
+"custom_sound_notifications_melody_beach_sound_name" = "میلیڈی بیچ";
+"custom_sound_notifications_bottle_pop_sound_name" = "بوٹل پاپ";
+"custom_sound_notifications_fairy_glass_sound_name" = "فیری گلاس";
+"custom_sound_notifications_alien_amulet_sound_name" = "ایلین ایمولیٹ";
+"custom_sound_notifications_log_goblin_sound_name" = "لاگ گوبلن";
+"custom_sound_notifications_mini_drop_sound_name" = "منی ڈراپ";
+"custom_sound_notifications_click_world_sound_name" = "کلک ورلڈ";
+"custom_sound_notifications_digi_drip_sound_name" = "ڈیجی ڈرپ";
+"custom_sound_notifications_friendly_object_sound_name" = "فرینڈلی آبجیکٹ";
+"custom_sound_notifications_star_lite_sound_name" = "اسٹار لائٹ";
+"custom_sound_notifications_stone_web_sound_name" = "اسٹون ویب";
+"custom_sound_notifications_techno_zone_sound_name" = "ٹیکنو زون";

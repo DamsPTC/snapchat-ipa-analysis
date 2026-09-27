@@ -1,0 +1,4 @@
+"country" = "País";
+"invalid_country_code" = "🌎 Ese código de país no es válido";
+"phone_number" = "Número de teléfono";
+"select_country_code" = "🌎 Seleccioná el código de país";

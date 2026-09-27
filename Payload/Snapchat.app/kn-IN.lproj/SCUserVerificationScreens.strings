@@ -1,0 +1,18 @@
+"finish" = "ಮುಗಿಸಿ";
+"invalid_phone_number_suggestion_title" = "ಅಮಾನ್ಯ ಫೋನ್ ಸಂಖ್ಯೆ";
+"ngo_country_title" = "ದೇಶ";
+"ngo_email_instead" = "ಬದಲಿಗೆ ಇಮೇಲ್ ಬಳಸಿ";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "ಇಮೇಲ್";
+"ngo_phone_instead" = "ಬದಲಿಗೆ ಫೋನ್ ನಂಬರ್ ಬಳಸಿ";
+"ngo_phone_number_info" = "ನಾವು ಒಂದು SMS ಪರಿಶೀಲನಾ ಕೋಡ್ ಅನ್ನು ನಿಮಗೆ ಕಳುಹಿಸುತ್ತೇವೆ.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "ನಾವು SMS ಪರಿಶೀಲನೆ ಕೋಡ್ ಅನ್ನು ಕಳುಹಿಸುತ್ತೇವೆ. ನಿಮ್ಮ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸುವ ಮೂಲಕ, ನಿಮ್ಮ ಖಾತೆಯ ಕುರಿತು SMS ಅಥವಾ ಇತರ ಸಂದೇಶ ಮಾಧ್ಯಮದ ಮೂಲಕ ವಹಿವಾಟಿನ ಸಂದೇಶವನ್ನು ಸ್ವೀಕರಿಸಲು ನೀವು ಒಪ್ಪುತ್ತೀರಿ.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "ನಾವು ನಿಮಗೆ ಪರಿಶೀಲನಾ ಕೋಡ್ ಅನ್ನು ಕಳುಹಿಸುತ್ತೇವೆ. ನಿಮ್ಮ ನಂಬರ್ ನಮೂದಿಸುವ ಮೂಲಕ, ನಿಮ್ಮ ಖಾತೆಯ ಕುರಿತು SMS ಅಥವಾ ಇತರ ಸಂದೇಶ ಚಾನೆಲ್‌ಗಳ ಮೂಲಕ ವಹಿವಾಟಿನ ಸಂದೇಶ ಮತ್ತು ಇನ್ನಷ್ಟನ್ನು ನೀವು ಸ್ವೀಕರಿಸುತ್ತೀರಿ.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "ನಾವು ನಿಮಗೆ ಪರಿಶೀಲನಾ ಕೋಡ್ ಅನ್ನು ಕಳುಹಿಸುತ್ತೇವೆ. ನಿಮ್ಮ ನಂಬರ್ ನಮೂದಿಸುವ ಮೂಲಕ, ನಿಮ್ಮ ಖಾತೆಯ ಕುರಿತು SMS ಅಥವಾ ಇತರ ಸಂದೇಶ ಚಾನೆಲ್‌ಗಳ ಮೂಲಕ ವಹಿವಾಟಿನ ಸಂದೇಶವನ್ನು ಸ್ವೀಕರಿಸಲು ನೀವು ಒಪ್ಪುತ್ತೀರಿ. ನಿಮ್ಮ ಫೋನ್ ನಂಬರ್ ಅನ್ನು Snap ಹೇಗೆ ಬಳಸುತ್ತದೆ ಎಂಬ ಬಗ್ಗೆ [ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number).";
+"ngo_phone_number_title" = "ಫೋನ್ ಸಂಖ್ಯೆ";
+"ngo_phone_placeholder" = "ಫೋನ್ ನಂಬರ್";
+"phone_suggestion_description" = "%1$@ ಒಂದು ಮಾನ್ಯವಾದ ಫೋನ್ ಸಂಖ್ಯೆಯಲ್ಲ. ನೀವು ಹೇಳಿದ್ದು \n%2$@ತಾನೆ?";
+"register_email_button" = "ಬದಲಿಗೆ ಇಮೇಲ್ ಮೂಲಕ ಸೈನ್ ಅಪ್ ಮಾಡಿ";
+"register_email_error" = "ದಯವಿಟ್ಟು ಒಂದು ಮಾನ್ಯವಾದ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ.";
+"skip_button" = "ಸ್ಕಿಪ್ ಮಾಡಿ";
+"yes_update" = "ಹೌದು, ಅಪ್‌ಡೇಟ್ ಮಾಡಿ";

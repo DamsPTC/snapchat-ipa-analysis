@@ -1,0 +1,9 @@
+"chat_ui_participant_created_invite_link" = "أنشأ ⁦%1$@⁩ رابط دعوة للمجموعة";
+"chat_ui_participant_removed_participant" = "قام ⁦%1$@⁩ بإزالة ⁦%2$@⁩ من المجموعة";
+"chat_ui_participant_removed_participants_multiple" = "قام ⁦%1$@⁩ بإزالة ⁦%2$@⁩ و⁦%3$@⁩ من المجموعة";
+"chat_ui_participant_removed_you" = "أزالك ⁦%1$@⁩ من المجموعة";
+"chat_ui_participant_removed_you_and_multiple" = "أزالك ⁦%1$@⁩ أنت و⁦%2$@⁩ و⁦%3$@⁩ من المجموعة";
+"chat_ui_participant_removed_you_and_participant" = "أزالك ⁦%1$@⁩ أنت و⁦%2$@⁩ من المجموعة";
+"chat_ui_you_created_invite_link" = "لقد أنشأتَ رابط دعوة للمجموعة";
+"chat_ui_you_removed_participant" = "لقد أزلت ⁦%1$@⁩ من المجموعة";
+"chat_ui_you_removed_participants_multiple" = "لقد أزلت ⁦%1$@⁩ و⁦%2$@⁩ من المجموعة";

@@ -1,0 +1,4 @@
+"country" = "Pays";
+"invalid_country_code" = "🌎 Indicatif international non valide";
+"phone_number" = "Numéro de téléphone";
+"select_country_code" = "🌎 Sélectionner un indicatif international";

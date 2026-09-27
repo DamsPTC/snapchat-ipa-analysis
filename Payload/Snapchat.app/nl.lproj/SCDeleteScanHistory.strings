@@ -1,0 +1,5 @@
+"cancel" = "Annuleren";
+"delete_all_scan_results" = "Alles verwijderen";
+"delete_n_scan_results" = "Verwijder %1$d";
+"delete_scan_history_alert_message" = "Je kunt resultaten niet terughalen als ze eenmaal zijn verwijderd.";
+"delete_scan_history_alert_title" = "Weet je zeker dat je je scanresultaten wilt verwijderen?";

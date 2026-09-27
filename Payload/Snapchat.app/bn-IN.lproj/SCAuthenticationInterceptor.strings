@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "%1$@ দ্বারা সেভ করা Snap-গুলি মেমোরিজে ব্যাকআপ করা শেষ হয়নি। আপনি %2$@ হিসেবে লগ ইন করলে ঐ Snap-গুলি হারিয়ে যাবে। ব্যাকআপ শেষ করতে %3$@ হিসেবে লগইন করুন।";
+"memories_pending_sync_alert_login_action" = "যাই হোক লগ ইন করুন";
+"memories_pending_sync_alert_registration_action" = "যাই হোক সাইন আপ করুন";
+"memories_pending_sync_alert_registration_body" = "%1$@ দ্বারা সেভ করা Snap-গুলি মেমোরিজে ব্যাকআপ করা শেষ হয়নি। আপনি কোনও নতুন অ্যাকাউন্টে সাইন আপ করলে ঐ Snap-গুলি হারিয়ে যাবে। ব্যাকআপ শেষ করতে %2$@ হিসেবে লগইন করুন।";
+"memories_pending_sync_alert_title" = "এক সেকেন্ড অপেক্ষা করুন!";

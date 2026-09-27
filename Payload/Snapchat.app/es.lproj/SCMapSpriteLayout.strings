@@ -1,0 +1,16 @@
+"let_friend_see_my_location" = "Dejar que %1$@ vea mi ubicación";
+"live_location_cant_reach" = "No se puede llegar a %1$@";
+"live_location_last_seen_here" = "Visto aquí por última vez hace %1$@";
+"live_location_turn_on_notifications" = "Activar notificaciones para compartir en tiempo real";
+"live_location_update_location_permissions" = "No se puede actualizar tu ubicación en tiempo real";
+"location_accuracy_callout" = "Activar ubicación exacta";
+"map_and_others" = "y %1$@";
+"map_location_accuracy" = "aproximadamente a %1$@";
+"map_name_and_name" = "%1$@ y %2$@";
+"map_name_and_others" = "%1$@ y %2$lu más";
+"map_seen_timestamp_within_x_units" = "Se vio %1$@ - %2$@";
+"map_x_more" = "%1$lu más";
+"sharing_live_location" = "Compartiendo ubicación en vivo";
+"updating_live_location" = "Actualizando la ubicación en tiempo real...";
+"widget_callout_text_cluster" = "Mira la ubicación de un amigo\nen tu pantalla de inicio.";
+"widget_callout_text_friend" = "Mira la ubicación de %1$@\nen tu pantalla de inicio.";

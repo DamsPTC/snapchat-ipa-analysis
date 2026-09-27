@@ -1,0 +1,9 @@
+"connection_error" = "இணைப்புப் பிழை";
+"okay" = "சரி";
+"send_code_again" = "மீண்டும் குறியீட்டை அனுப்பு";
+"twofa_login_code_verification_otp_to_sms_info" = "இதற்குப் பதிலாக எனக்கு ஒரு குறுஞ்செய்தி அனுப்பு";
+"twofa_login_code_verification_otp_to_sms_progress" = "அனுப்புகிறது...";
+"twofa_login_code_verification_with_otp_explanation" = "உங்கள் அடையாளத்தை உறுதிப்படுத்த, உங்கள் அங்கீகாரச் செயலி மூலம் உருவாக்கப்பட்ட குறியீட்டை உள்ளிடுங்கள்.";
+"twofa_login_recovery_code_used" = "உள்நுழைய உங்கள் மீட்புக் குறியீட்டைப் பயன்படுத்தியுள்ளீர்கள். இரு காரணி அங்கீகாரத்தை முடக்கியுள்ளோம் - அதை மீண்டும் இயக்க அமைப்புகளுக்குச் செல்லுங்கள்.";
+"twofa_new_device_verification_explanation" = "உங்கள் அடையாளத்தை உறுதிப்படுத்த, %1$@-க்கு நாங்கள் அனுப்பிய குறியீட்டை உள்ளிடுங்கள்.";
+"twofa_settings_recovery_code_used_title" = "இரு காரணி அங்கீகாரம் முடக்கப்பட்டுள்ளது";

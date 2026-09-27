@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Sinun on oltava puhelussa, jotta voit jakaa näyttösi.";
+"screen_capture_error_generic" = "Jokin meni pieleen. Yritä jakaa näyttö uudelleen.";
+"screen_capture_not_enabled" = "Jokin meni vikaan.";

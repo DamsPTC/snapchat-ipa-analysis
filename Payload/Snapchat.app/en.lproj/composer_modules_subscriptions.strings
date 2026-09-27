@@ -1,0 +1,11 @@
+"following_count_billions_short" = "Followed by $0B";
+"following_count_millions_short" = "Followed by $0M";
+"following_count_one" = "Followed by 1";
+"following_count_plural" = "Followed by $0";
+"following_count_thousands_short" = "Followed by $0K";
+"following_count_thousands_string_short" = "Followed by $0K";
+"subscribed_count_billions_short" = "$0B Subscribers";
+"subscribed_count_millions_short" = "$0M Subscribers";
+"subscribed_count_one" = "1 Subscriber";
+"subscribed_count_plural" = "$0 Subscribers";
+"subscribed_count_thousands_short" = "$0K Subscribers";

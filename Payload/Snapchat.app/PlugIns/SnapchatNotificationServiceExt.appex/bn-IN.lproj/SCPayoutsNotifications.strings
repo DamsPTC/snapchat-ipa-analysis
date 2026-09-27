@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "নতুন স্পটলাইট পেআউট!";
+"payouts_push_notification_gifting_title" = "নতুন পেআউট উপহার দেওয়া!";
+"payouts_push_notification_title_spotlight_challenges" = "নতুন স্পটলাইট চ্যালেঞ্জ পেআউট!";
+"payouts_push_notification_title_story" = "নতুন গল্পগুলির জন্য পেআউট!";
+"payouts_push_notification_title_lens_creator_fund" = "নতুন লেন্স নির্মাতা রিওয়ার্ড প্রোগ্রাম পেআউট!";
+"payouts_push_notification_title_ildg" = "নতুন আনলকযোগ্য লেন্স পেআউট!";
+"payouts_push_notification_title_cashout_eligible" = "আপনার পুরস্কারগুলি শীঘ্রই স্বয়ংক্রিয়ভাবে ক্যাশ আউট করা হবে!";
+"payouts_push_notification_title_invalidate_eligible" = "আপনার পুরস্কারগুলি শীঘ্রই ব্যবহারের অযোগ্য হয়ে যাবে!";
+
+"payouts_push_notification_subtitle_onboarded" = "অভিনন্দন! আপনার উপার্জন দেখতে এখন প্রোফাইলে আমার পেআউট পরীক্ষা করে দেখুন!";
+"payouts_push_notification_subtitle_not_onboarded" = "আপনি স্পটলাইট থেকে অর্থ উপার্জন করেছেন। পেমেন্ট পেতে এখনই প্রোফাইলে আসুন!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "আপনি স্পটলাইট চ্যালেঞ্জ থেকে ক্রিস্টাল পেয়েছেন। পেমেন্ট পেতে এখনই প্রোফাইলে আসুন!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "আপনি উপহার থেকে ক্রিস্টাল পেয়েছেন। পেমেন্ট পেতে এখনই প্রোফাইলে আসুন!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "আপনি গল্পগুলি থেকে ক্রিস্টাল পেয়েছেন। পেমেন্ট পেতে এখনই প্রোফাইলে আসুন!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "আপনি লেন্স নির্মাতা রিওয়ার্ড প্রোগ্রাম থেকে ক্রিস্টাল পেয়েছেন। পেমেন্ট পেতে এখনই প্রোফাইলে আসুন!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "আপনি আনলকযোগ্য লেন্স থেকে ক্রিস্টাল পেয়েছেন। পেমেন্ট পেতে এখনই প্রোফাইলে আসুন!";
+"payouts_push_notification_subtitle_cashout_eligible" = "কোনও ব্যবস্থা না নেওয়া হলে আপনার ক্রিস্টাল পুরস্কারগুলি %1$@ তারিখে স্বয়ংক্রিয়ভাবে ক্যাশ আউট করা হবে। বিষয়টির সমাধান করতে প্রোফাইলে 'আমার ক্রিস্টালগুলি চেক করুন'।";
+"payouts_push_notification_subtitle_invalidate_eligible" = "কোনও ব্যবস্থা না নেওয়া হলে আপনার ক্রিস্টাল পুরস্কারগুলি %1$@ তারিখে ব্যবহারের অযোগ্য হয়ে হবে। বিষয়টির সমাধান করতে প্রোফাইলে আমার ক্রিস্টালগুলি চেক করুন।";
+
+"payouts_state_title" = "পেআউট স্ট্যাটাস আপডেট করা হয়েছে!";
+"payouts_state_subtitle" = "আপনার পেআউট-এর যোগ্যতামানের স্ট্যাটাস আপডেট করা হয়েছে। আপনার স্ট্যাটাস পরীক্ষা করে দেখতে প্রোফাইলে আমার Snap ক্রিস্টাল দেখুন!";
+"gifting_opened_gift" = "%1$@ আপনার উপহার খুলেছেন!";
+"gifting_support_thanks" = "Snapchat-এ তাদের সমর্থন করার জন্য ধন্যবাদ।";
+

@@ -1,0 +1,6 @@
+"cancel" = "Cancelar";
+"clear_search_history_alert_confirm" = "Borrar";
+"clear_search_history_alert_message" = "Esto borrará tu historia de términos de búsqueda.";
+"clear_search_history_alert_title" = "¿Quieres borrar historial de búsqueda?";
+"delete_search_history_request_failure_message" = "No se pudo borrar el historial de búsqueda";
+"delete_search_history_request_success_message" = "¡Se borró el historial de búsqueda!";

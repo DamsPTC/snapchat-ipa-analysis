@@ -1,0 +1,10 @@
+"privacy_settings_done" = "تم";
+"privacy_settings_item" = "إعدادات الخصوصية";
+"privacy_settings_my_location" = "موقعي";
+"privacy_settings_my_story" = "قصتي";
+"privacy_settings_subtitle_two_items" = "%1$@، %2$@";
+"privacy_settings_title" = "يستطيع ⁦%1$@⁩ مشاهدة...";
+"something_wrong_message" = "حدث خطأ.";
+"success" = "تم!";
+"update_location_privacy_failed" = "تعذر تحديث إعدادات الموقع. يُرجى إعادة المحاولة.";
+"update_story_privacy_failed" = "تعذر تحديث إعدادات القصة. يُرجى إعادة المحاولة.";

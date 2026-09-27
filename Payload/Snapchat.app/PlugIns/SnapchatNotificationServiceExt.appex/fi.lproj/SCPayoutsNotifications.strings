@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Uusi valokeilapalkkio";
+"payouts_push_notification_gifting_title" = "Uusi palkkio lahjoituksesta!";
+"payouts_push_notification_title_spotlight_challenges" = "Uusi palkkio valokeilahaasteesta!";
+"payouts_push_notification_title_story" = "Uusi tarinapalkkio!";
+"payouts_push_notification_title_lens_creator_fund" = "Uusi tehosteen tekijöiden palkinto-ohjelman palkkio!";
+"payouts_push_notification_title_ildg" = "Uusi avattavien tehosteiden palkkio!";
+"payouts_push_notification_title_cashout_eligible" = "Palkkiosi lunastetaan automaattisesti pian!";
+"payouts_push_notification_title_invalidate_eligible" = "Palkkiosi muuttuvat pian kelvottomiksi!";
+
+"payouts_push_notification_subtitle_onboarded" = "Onnittelut! Näet ansaitsemasi palkkiot profiilin Omat palkkiot -kohdasta.";
+"payouts_push_notification_subtitle_not_onboarded" = "Olet ansainnut rahaa valokeilasta. Tee tarvittavat toimet profiilissasi, jotta saat palkkiosi.";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Olet saanut kristalleja valokeilahaasteista. Tee tarvittavat toimet profiilissasi, jotta saat palkkiosi.";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Olet saanut kristalleja lahjoituksista. Tee tarvittavat toimet profiilissasi, jotta saat palkkiosi.";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Olet saanut kristalleja tarinoista. Tee tarvittavat toimet profiilissasi, jotta saat palkkiosi.";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Olet saanut kristalleja tehosteen tekijöiden palkinto-ohjelmasta. Tee tarvittavat toimet profiilissasi, jotta saat palkkiosi.";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Olet saanut kristalleja avattavista tehosteista. Tee tarvittavat toimet profiilissasi, jotta saat palkkiosi.";
+"payouts_push_notification_subtitle_cashout_eligible" = "Ansaitsemasi kristallit lunastetaan automaattisesti %1$@, jos et tee mitään. Tarkista Omat kristallit profiilistasi ja päätä, mitä haluat tehdä.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Ansaitsemasi kristallit muuttuvat kelvottomiksi %1$@, jos et tee mitään. Tarkista Omat kristallit profiilistasi ja päätä, mitä haluat tehdä.";
+
+"payouts_state_title" = "Palkkion tila päivitetty";
+"payouts_state_subtitle" = "Palkkio-oikeuksiesi tila on päivitetty. Näet tilasi profiilin Omat Snap-kristallit -kohdasta.";
+"gifting_opened_gift" = "%1$@ avasi lahjoituksesi!";
+"gifting_support_thanks" = "Kiitos, että tuet häntä Snapchatissa.";
+

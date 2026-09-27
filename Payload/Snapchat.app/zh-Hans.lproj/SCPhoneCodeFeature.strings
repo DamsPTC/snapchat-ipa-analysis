@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "我们将通过以下电话联系你：%1$@。";
+"alt_send_code_by_sms" = "通过短信发送";
+"alt_send_code_by_sms_dialogue" = "短信验证码将发送到 %1$@。";
+"error_occurred_message" = "出错了，请稍后重试。";
+"ngo_email_instead" = "改用电子邮件";
+"ngo_phone_verification_description" = "输入发送至 %1$@ 的验证码";
+"ngo_phone_verification_title" = "确认电话号码";
+"ngo_submit" = "提交";
+"ok" = "确定";
+"register_phone_verification_desc" = "输入我们发送至 %1$@ 的验证码";
+"register_phone_verification_title" = "输入验证码";
+"resend_code" = "重新发送";
+"skip_button" = "跳过";
+"verifying" = "验证中...";

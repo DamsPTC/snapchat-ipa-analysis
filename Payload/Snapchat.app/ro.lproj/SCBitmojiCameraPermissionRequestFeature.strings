@@ -1,0 +1,9 @@
+"bitmoji_camera_permission_continue_button" = "Creează cu camera";
+"bitmoji_camera_permission_continue_button_new" = "Continuă";
+"bitmoji_camera_permission_desc" = "Folosește-ți camera foto ca să creezi instantaneu un avatar care seamănă cu tine";
+"bitmoji_camera_permission_pre_prompt_accept" = "OK";
+"bitmoji_camera_permission_pre_prompt_deny" = "Nu acum";
+"bitmoji_camera_permission_pre_prompt_desc" = "Permite accesul la cameră și creează instantaneu un Bitmoji după ce faci un selfie";
+"bitmoji_camera_permission_pre_prompt_title" = "Permite accesul la cameră";
+"bitmoji_camera_permission_skip_button" = "Omite";
+"bitmoji_camera_permission_title" = "Creează-ți propriul Bitmoji";

@@ -1,0 +1,5 @@
+"default_description" = "Uns wurde von einem anderen Snapchatter gemeldet, dass dein Account gegen die Community-Richtlinien verstößt.\n\nBitte halte dich an unsere Richtlinien. Andernfalls kann es passieren, dass wir deinen Account sperren oder löschen. Danke für deine Mithilfe.";
+"dialog_button_text" = "Richtlinien aufrufen";
+"dialog_button_text_no_internet" = "Verstanden";
+"dialog_title" = "Zeitlimit überschritten!";
+"read_community_guidelines" = "Du musst die Community-Richtlinien vollständig lesen, bevor du fortfährst.";

@@ -1,0 +1,4 @@
+"error_title" = "3D nicht verfügbar";
+"frame_error_body" = "3D-Effekte konnten für diesen Rahmen nicht eingeschaltet werden. Er könnte zu dunkel sein, zu nah dran oder zu weit entfernt von einem Objekt. Wähl einen anderen Rahmen für dieses Video aus.";
+"ok" = "OK";
+"snap_error_body" = "3D-Effekte konnten für diesen Snap nicht eingeschaltet werden. Er könnte zu dunkel sein, zu nah dran oder zu weit entfernt von einem Objekt.";

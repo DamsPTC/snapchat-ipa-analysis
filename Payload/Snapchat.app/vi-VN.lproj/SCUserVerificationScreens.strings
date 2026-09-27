@@ -1,0 +1,18 @@
+"finish" = "Kết Thúc";
+"invalid_phone_number_suggestion_title" = "Số Điện Thoại Không Hợp Lệ";
+"ngo_country_title" = "Quốc Gia";
+"ngo_email_instead" = "Dùng email";
+"ngo_email_placeholder" = "ban@email.com";
+"ngo_email_title" = "Email";
+"ngo_phone_instead" = "Dùng số điện thoại";
+"ngo_phone_number_info" = "Chúng tôi sẽ gửi mã xác thực qua SMS.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Chúng tôi sẽ gửi mã xác thực qua SMS. Bằng việc nhập số điện thoại, bạn đồng ý nhận tin nhắn giao dịch cho tài khoản của bạn thông qua SMS hoặc kênh nhắn tin khác.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Chúng tôi sẽ gửi mã xác thực cho bạn. Nếu nhập số điện thoại, bạn sẽ nhận được tin nhắn về giao dịch của tài khoản thông qua SMS hoặc kênh nhắn tin khác, cùng nhiều nội dung khác.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Chúng tôi sẽ gửi mã xác thực cho bạn. Bằng việc nhập số điện thoại, bạn đồng ý nhận tin nhắn về giao dịch của tài khoản thông qua SMS hoặc kênh nhắn tin khác. [Tìm hiểu thêm](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) về cách Snap dùng số điện thoại của bạn.";
+"ngo_phone_number_title" = "Số Điện Thoại";
+"ngo_phone_placeholder" = "Số điện thoại";
+"phone_suggestion_description" = "%1$@ không phải số điện thoại hợp lệ. Có phải ý bạn là\n%2$@?";
+"register_email_button" = "Đăng ký thay thế bằng email";
+"register_email_error" = "Hãy nhập địa chỉ email hợp lệ.";
+"skip_button" = "Bỏ Qua";
+"yes_update" = "Đúng, hãy cập nhật";

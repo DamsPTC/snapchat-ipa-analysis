@@ -1,0 +1,2 @@
+"generic_error" = "Algo correu mal. Tenta novamente mais tarde.";
+"update_email_failed_with_code" = "Não foi possível atualizar o e-mail. Tenta novamente. \nCódigo da assistência: %1$02d";

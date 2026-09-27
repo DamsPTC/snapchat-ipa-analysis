@@ -1,0 +1,11 @@
+"following_count_billions_short" = "$0 Mrd. Follower";
+"following_count_millions_short" = "$0 Mio. Follower";
+"following_count_one" = "1 Follower";
+"following_count_plural" = "$0 Follower";
+"following_count_thousands_short" = "$0 Tsd. Follower";
+"following_count_thousands_string_short" = "$0 Tsd. Follower";
+"subscribed_count_billions_short" = "$0 Mrd. Abonnenten";
+"subscribed_count_millions_short" = "$0 Mio. Abonnenten";
+"subscribed_count_one" = "1 Abonnent";
+"subscribed_count_plural" = "$0 Abonnenten";
+"subscribed_count_thousands_short" = "$0 Tsd. Abonnenten";

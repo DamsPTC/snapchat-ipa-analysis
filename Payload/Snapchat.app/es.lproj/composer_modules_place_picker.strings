@@ -1,0 +1,8 @@
+"errorText" = "¡Parece que ocurrió un problema al cargar!";
+"formattedAddressAndLocation" = "$0 · $1";
+"loading" = "Cargando lugares...";
+"noPlacesFound" = "No se encontraron lugares.";
+"places" = "Lugares";
+"retry" = "Reintentar";
+"search" = "Buscar";
+"suggestAPlace" = "Sugerir un lugar";

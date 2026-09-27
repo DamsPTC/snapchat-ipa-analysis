@@ -1,0 +1,13 @@
+"onboarding_open_chat" = "Ouvrir le Chat";
+"onboarding_prompt_body" = "Vous pouvez discuter avec $0, car son numéro de téléphone est enregistré dans vos contacts.\n\nÀ tout moment, vous pouvez bloquer $0 ou modifier les réglages relatifs à vos contacts pour ne plus recevoir de messages de vos contacts.\n\nSi vous discutez avec $0, cette personne saura que son numéro de téléphone est enregistré dans votre carnet d'adresses.";
+"onboarding_prompt_body_with_unread_message" = "$0 a pu vous envoyer un message, car son numéro de téléphone est enregistré dans vos contacts.\n\nÀ tout moment, vous pouvez bloquer $0 ou modifier les réglages relatifs à vos contacts pour ne plus recevoir ce type de messages.\n\nSi vous ouvrez ce message, $0 saura que son numéro de téléphone est enregistré dans votre carnet d'adresses.";
+"onboarding_prompt_minor_aged_up" = "Vous pouvez chatter avec $0 parce que vos paramètres de contact sont réglés sur « Tout le monde ». \n\n Vous pouvez bloquer $0 ou modifier vos paramètres à tout moment pour ne plus recevoir de messages de sa part.";
+"onboarding_prompt_welcome_title" = "Discuter avec $0";
+"onboarding_settings" = "Réglages";
+"recipient_prompt_body_added" = "Vous n'êtes pas encore ami·e avec $0, mais cette personne peut vous envoyer des messages conformément à vos paramètres de contact.";
+"recipient_prompt_body_adding" = "$0 ne vous a pas encore ajouté·e comme ami·e. Cette personne ne pourra pas voir vos messages tant que vous n'êtes pas ami·e·s.";
+"recipient_prompt_body_in_my_contacts" = "$0 n'est pas votre ami·e sur Snapchat, mais vous voyez son nom parce qu'il est inscrit dans votre carnet d'adresses.";
+"recipient_prompt_body_low_mutual_friends" = "Vous et $0 n'avez pas beaucoup d'ami·e·s en communs. Connaissez-vous cette personne ? Vérifiez avant de commencer à discuter.";
+"recipient_prompt_button_dismiss" = "Ok";
+"recipient_prompt_button_report_or_block" = "Signaler ou bloquer";
+"recipient_prompt_button_settings" = "Réglages";

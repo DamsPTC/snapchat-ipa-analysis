@@ -1,0 +1,9 @@
+"connection_error" = "Eroare de conexiune";
+"okay" = "OK";
+"send_code_again" = "TRIMITE CODUL DIN NOU";
+"twofa_login_code_verification_otp_to_sms_info" = "Trimite-mi un SMS în schimb";
+"twofa_login_code_verification_otp_to_sms_progress" = "Trimitere...";
+"twofa_login_code_verification_with_otp_explanation" = "Introdu codul generat de aplicația de autentificare pentru a-ți verifica identitatea.";
+"twofa_login_recovery_code_used" = "Ai utilizat codul de recuperare pentru conectare. Am dezactivat opțiunea de autentificare cu doi factori — pentru reactivare, accesează meniul Configurări.";
+"twofa_new_device_verification_explanation" = "Introdu codul pe care ți l-am trimis la %1$@ pentru a-ți verifica identitatea.";
+"twofa_settings_recovery_code_used_title" = "Autentificare cu doi factori dezactivată";

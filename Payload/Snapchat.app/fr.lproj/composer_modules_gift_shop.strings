@@ -1,0 +1,17 @@
+"add_a_reply" = "Ajouter une réponse…";
+"cancel" = "Annuler";
+"fake_subtitle" = "Model Rox verra que vous lui avez envoyé un cadeau et pourra vous répondre ou partager votre cadeau dans sa Story publique.";
+"fake_title" = "Choisir un cadeau à envoyer";
+"gift_shop_error_button_text" = "Ignorer";
+"gift_shop_error_description" = "Une erreur s'est produite. Veuillez vérifier vos informations et réessayer.";
+"gift_shop_error_title" = "Oups !";
+"gift_shop_nux_body" = "Vous pouvez désormais exprimer votre amour pour vos créateur·trice·s préféré·e·s en répondant à leurs Stories avec des Cadeaux. Ils seront alors plus susceptibles de vous répondre et de partager votre réponse !";
+"gift_shop_nux_button_text" = "Voir les cadeaux";
+"gift_shop_nux_title" = "Découvrez les Cadeaux !";
+"insufficient_token_shop_page_subtitle" = "Choisissez le nombre de jetons que vous souhaitez ajouter.";
+"insufficient_token_shop_page_title" = "Vous avez besoin de $0 jetons supplémentaires.";
+"no_enough_token_content" = "Oh non, vous n'avez pas assez de jetons ! Achetez-en dans la boutique de jetons.";
+"no_enough_token_title" = "Il vous faut davantage de jetons Snap.";
+"pick_a_gift" = "Choisir un cadeau";
+"send_gift" = "Envoyer le cadeau";
+"send_gift_and_reply" = "Envoyer le cadeau et la réponse";

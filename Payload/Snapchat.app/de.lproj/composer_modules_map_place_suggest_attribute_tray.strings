@@ -1,0 +1,9 @@
+"attribute_search_error" = "Fehler bei der Attributsuche aufgetreten.";
+"attribute_text" = "$0  $1";
+"close" = "Schließen";
+"edit_place_attributes" = "Markiere diesen Ort!";
+"edit_place_attributes_subtitle" = "Schlage verschiedene Details zu diesem Ort vor.";
+"no_results" = "Keine Ergebnisse.";
+"searching" = "Suche läuft";
+"submit" = "Senden";
+"submit_error" = "Die Attributsänderungen konnten nicht übermittelt werden. Versuchs später nochmal.";

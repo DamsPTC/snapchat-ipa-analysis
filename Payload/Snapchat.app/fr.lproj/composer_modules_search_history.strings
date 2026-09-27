@@ -1,0 +1,6 @@
+"cancel" = "Annuler";
+"clear_search_history_alert_confirm" = "Effacer";
+"clear_search_history_alert_message" = "L'historique de vos recherches sera effacé.";
+"clear_search_history_alert_title" = "Effacer l'historique de vos recherches ?";
+"delete_search_history_request_failure_message" = "Impossible d'effacer l'historique des recherches";
+"delete_search_history_request_success_message" = "Historique des recherches effacé !";

@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "%1$@に電話いたします。";
+"alt_send_code_by_sms" = "SMSで送信";
+"alt_send_code_by_sms_dialogue" = "SMSコードを%1$@に送信します。";
+"error_occurred_message" = "エラーが発生しました。後ほどもう一度お試しください。";
+"ngo_email_instead" = "代わりにメールアドレスを使用する";
+"ngo_phone_verification_description" = "%1$@に送信されたコードを入力してください";
+"ngo_phone_verification_title" = "電話番号を確認";
+"ngo_submit" = "送信";
+"ok" = "OK";
+"register_phone_verification_desc" = "%1$@に送信されたコードを入力してください";
+"register_phone_verification_title" = "認証コードを入力する";
+"resend_code" = "再送信";
+"skip_button" = "スキップ";
+"verifying" = "認証中...";

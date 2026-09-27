@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Для демонстрации экрана нужно участвовать в звонке.";
+"screen_capture_error_generic" = "Что-то пошло не так. Попробуйте поделиться экраном ещё раз.";
+"screen_capture_not_enabled" = "Что-то пошло не так.";

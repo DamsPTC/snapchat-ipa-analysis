@@ -1,0 +1,8 @@
+"default_lens_author_name" = "Snapchat";
+"guided_mode" = "Geführter Modus";
+"guided_mode_desc" = "Im geführten Modus wird deine Spectacles auf eine Linse beschränkt und einige Features wie das Erstellen von Snaps oder der Scan werden eingeschränkt.";
+"guided_mode_lens_selection" = "Linsen-Auswahl";
+"guided_mode_restart" = "Neustart";
+"guided_mode_restart_alert_message" = "Um Änderungen am geführten Modus zu übernehmen, müssen die Spectacles neu gestartet werden. \n \n Du kannst die Spectacles jederzeit neu starten, damit die Änderungen am geführten Modus wirksam werden.";
+"guided_mode_restart_later" = "Später";
+"guided_mode_selected_lens" = "Ausgewählte Linse";

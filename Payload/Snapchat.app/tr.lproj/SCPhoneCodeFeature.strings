@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "%1$@ numaralı telefonunu arayacağız.";
+"alt_send_code_by_sms" = "Kodu SMS ile gönder";
+"alt_send_code_by_sms_dialogue" = "%1$@ numaralı telefonuna SMS göndereceğiz.";
+"error_occurred_message" = "Bir hata oluştu. Lütfen daha sonra tekrar dene.";
+"ngo_email_instead" = "Bunun yerine e-posta adresini kullan";
+"ngo_phone_verification_description" = "%1$@ üzerinden gönderilen kodu gir";
+"ngo_phone_verification_title" = "Numaranı onayla";
+"ngo_submit" = "Gönder";
+"ok" = "TAMAM";
+"register_phone_verification_desc" = "%1$@ numaralı telefona gönderdiğimiz kodu gir";
+"register_phone_verification_title" = "Onay Kodunu Gir";
+"resend_code" = "Tekrar gönder";
+"skip_button" = "Geç";
+"verifying" = "Doğrulanıyor...";

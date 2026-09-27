@@ -1,0 +1,12 @@
+"confirmation_dialog_cancel_button" = "Annuler";
+"confirmation_dialog_description" = "Vous verrez toujours du contenu, mais il sera plus aléatoire et moins en lien avec vos centres d'intérêt.";
+"confirmation_dialog_disable_button" = "Désactiver";
+"confirmation_dialog_title" = "Désactiver le contenu personnalisé ?";
+"dsa_about_organic_content_description_first_paragraph" = "Chez Snap Inc., nous voulons vous donner les moyens de découvrir le monde et de vous amuser avec d'autres Snapchatters. Nous vous aidons à le faire en vous montrant du contenu qui vous intéresse, ainsi que des flash info ou d'autres perles rares susceptibles de vous plaire.  Tout le monde est différent, c'est pourquoi nous utilisons certaines de vos informations pour personnaliser votre expérience sur Snapchat. Nous personnalisons par exemple le contenu que vous voyez, ainsi, si vous montrez un intérêt pour le sport, vous verrez certainement plus de contenu lié au sport.\n\n";
+"dsa_about_organic_content_description_second_paragraph" = "Vous pouvez mettre à jour des informations telles que votre date de naissance, votre style de vie et vos centres d'intérêt, ainsi que les contrôles propres à l'Union européenne dans les <tap-link>réglages de Snapchat</tap-link>.";
+"dsa_about_organic_content_title" = "À propos du contenu";
+"explainer_subtext" = "Ces paramètres ne s'appliquent qu'aux utilisateur·rice·s qui résident dans l'Union européenne.";
+"explainer_text" = "Nous sommes tous différents, c'est pourquoi nous personnalisons et classons les contenus, y compris les contenus Découvrir, Spotlight et les publicités. Par exemple, si vous regardez beaucoup de contenu sportif et que vous indiquez que vous n'aimez pas les conseils de coiffure et de maquillage, l'application peut personnaliser le contenu qui vous est proposé en privilégiant le sport et en évitant les conseils de maquillage. Si ce paramètre est désactivé et que vous résidez dans l'Union européenne, nous vous proposerons un contenu moins personnalisé et nous le sélectionnerons en fonction de critères de base, tels que la langue que vous avez définie sur votre téléphone, votre âge et votre région. Vous verrez toujours du contenu, mais il sera plus aléatoire et moins lié à vos centres d'intérêt. Le type de contenu qui vous est proposé peut mettre un certain temps avant d'être modifié.";
+"explainer_title" = "Afficher un contenu personnalisé";
+"header_title" = "Contrôles de l'Union européenne";
+"learn_more" = "En savoir plus";

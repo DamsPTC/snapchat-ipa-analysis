@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Kassér";
+
+"add_a_chat" = "Tilføj en chat ...";
+
+"are_you_sure_you_want_to_abandon" = "Er du sikker på at du vil kassere dit Snapsterpiece?";
+
+"best_friends_header" = "Bedste venner";
+
+"groups_header" = "Grupper";
+
+"friends_header" = "Venner";
+
+"send" = "Send";
+
+"cancel" = "Annuller";
+
+"cannot_add_more_snapchatters" = "Kan ikke tilføje flere Snapchatters!";
+
+
+"login_before_sharing_message" = "Log på Snapchat inden du deler.";
+
+"login_before_sharing_title" = "Login påkrævet";
+
+"me_hint" = "(mig)";
+
+"noticed_new_acct_sharing_message" = "Forkert konto!";
+
+"noticed_new_acct_sharing_title" = "Det ser ud til, at du har skiftet konto. Log ind igen for at sende din Snap, eller start forfra.";
+
+"okay" = "Okay";
+
+"open_before_sharing_message" = "Åbn Snapchat inden du deler.";
+
+"open_before_sharing_title" = "Åbn Snapchat";
+
+"problem_sharing_try_again" = "Noget gik galt. Prøv igen.";
+
+"recents_header" = "Seneste";
+
+"search_text_view_hint" = "Søg";
+
+"send_to" = "Send til...";
+
+"try_again" = "Prøv igen";
+
+"video_too_long" = "Videoer skal være under 60 sekunder for at kunne deles.";
+
+"video_too_long_with_maximum_duration_desc" = "Videoer skal være under %1$ld sekunder for at kunne deles.";
+
+"stories_header" = "Historier";
+
+"my_story" = "Min Historie";

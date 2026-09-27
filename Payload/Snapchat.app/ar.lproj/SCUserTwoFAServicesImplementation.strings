@@ -1,0 +1,3 @@
+"try_again_message" = "يرجى المحاولة مرة أخرى.";
+"twofa_login_mobile_change_disabled_msg" = "لقد غيّرت رقم هاتفك. وقد عطّلنا تسجيل الدخول بخطوتين، لذا انتقل إلى الإعدادات لإعادة تفعيله.";
+"twofa_login_mobile_change_disabled_title" = "تم تعطيل تسجيل الدخول بخطوتين";

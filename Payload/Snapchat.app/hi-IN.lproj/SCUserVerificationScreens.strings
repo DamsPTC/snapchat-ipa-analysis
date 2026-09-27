@@ -1,0 +1,18 @@
+"finish" = "समाप्त";
+"invalid_phone_number_suggestion_title" = "अमान्य फ़ोन नंबर";
+"ngo_country_title" = "देश";
+"ngo_email_instead" = "इसके बजाय ईमेल का इस्तेमाल करें";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "ईमेल";
+"ngo_phone_instead" = "इसके बजाय फ़ोन नंबर का इस्तेमाल करें";
+"ngo_phone_number_info" = "हम आपको एक SMS वेरिफ़िकेशन कोड भेजेंगे।";
+"ngo_phone_number_info_receive_messaging_by_channel" = "हम एक SMS वेरिफ़िकेशन कोड भेजेंगे। अपना नंबर डाल कर, आप SMS या मैसेज के दूसरे चैनल के ज़रिए अपने अकाउंट से जुड़े ट्रांज़ैक्शनल मैसेज पाने की सहमति जताते हैं।";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "हम आपको वेरिफ़िकेशन कोड भेजेंगे। अपना नंबर दर्ज करने के बाद आपको SMS या अन्य मैसेज चैनलों के ज़रिए अपने अकाउंट से जुड़े लेन-देन के और अन्य संबंधित मैसेज मिलेंगे।";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "हम आपको वेरिफ़िकेशन कोड भेजेंगे। अपना नंबर दर्ज करने का मतलब है कि आप SMS या अन्य मैसेजिंग चैनल के ज़रिए अपने अकाउंट से जुड़े लेन-देन के मैसेज पाने की सहमति जताते हैं। Snap Inc. किस प्रकार से आपके फ़ोन नंबर का इस्तेमाल करता है, इस बारे में [अधिक जानकारी पाएं](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number)।";
+"ngo_phone_number_title" = "फ़ोन नंबर";
+"ngo_phone_placeholder" = "फ़ोन नंबर";
+"phone_suggestion_description" = "%1$@ मान्य फ़ोन नंबर नहीं है। क्या आपका मतलब\n%2$@ है?";
+"register_email_button" = "इसके बजाय ईमेल से साइन अप करें";
+"register_email_error" = "प्लीज़, सही ईमेल पता डालें।";
+"skip_button" = "छोड़ें";
+"yes_update" = "हां, अपडेट करें";

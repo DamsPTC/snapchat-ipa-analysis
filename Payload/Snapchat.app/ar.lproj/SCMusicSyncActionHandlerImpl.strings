@@ -1,0 +1,9 @@
+"memories_picker_max_duration_warning_text" = "لا يمكن تعديل فيديوهات تزيد عن ⁦%1$d⁩ ثانية.";
+"memories_picker_max_item_message" = "يتحمل ما يصل إلى ⁦%1$d⁩ عناصر";
+"memories_picker_min_item_message" = "اختر ⁦%1$d⁩ عناصر على الأقل للبدء";
+"memories_picker_primary_button_title" = "التالي";
+"memories_picker_title" = "إضافة صورة أو فيديو";
+"music_sync_error_dialog_cancel_button_title" = "إلغاء";
+"music_sync_error_dialog_message" = "يلزم الاتصال بالشبكة لإنشاء لقطة تناغم الصوت. يُرجى التحقق من حالة الشبكة لديك وإعادة المحاولة لاحقًا.";
+"music_sync_error_dialog_retry_button_title" = "أعِد المحاولة";
+"music_sync_error_dialog_title" = "لا يوجد اتصال بالشبكة";

@@ -1,0 +1,8 @@
+"suggestion_error" = "發生錯誤，請稍後重試";
+"username_invalid_begin" = "用戶名的第一個字元必須是英文字母 🔠";
+"username_invalid_char" = "用戶名只能包括英文字母、數字和「-」、「_」或「.」的其中一個符號，其他都不行！👌";
+"username_invalid_end" = "用戶名的最後一個字元必須是英文字母或數字 👆";
+"username_invalid_long" = "用戶名不可超過 15 個字元 📖";
+"username_invalid_separator" = "用戶名只能包含一個「-」、「_」或「.」。你使用了太多符號 ✌️";
+"username_invalid_short" = "用戶名必須至少有 3 個字元 📝";
+"username_taken" = "%1$@ 已有人使用！";

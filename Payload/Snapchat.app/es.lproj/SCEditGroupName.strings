@@ -1,0 +1,4 @@
+"chatv3_edit_name" = "Editar nombre";
+"chatv3_edit_name_alert_placeholder" = "Nombrar grupo";
+"empty_name_message" = "El nombre nuevo no puede estar vacío.";
+"something_went_wrong_please_try_again" = "Ocurrió un error. Vuelve a intentarlo.";

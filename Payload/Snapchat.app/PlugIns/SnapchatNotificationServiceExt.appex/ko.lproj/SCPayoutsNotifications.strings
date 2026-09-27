@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "새 스포트라이트 지급 금액이 있습니다!";
+"payouts_push_notification_gifting_title" = "새 선물 제공 지급 금액이 있습니다!";
+"payouts_push_notification_title_spotlight_challenges" = "새 스포트라이트 챌린지 지급!";
+"payouts_push_notification_title_story" = "새 스토리 지급!";
+"payouts_push_notification_title_lens_creator_fund" = "새 렌즈 크리에이터 보상 프로그램 지급이 있습니다!";
+"payouts_push_notification_title_ildg" = "새 렌즈 잠금 해제 지급이 있습니다!";
+"payouts_push_notification_title_cashout_eligible" = "회원님의 상금이 곧 자동으로 현금화됩니다!";
+"payouts_push_notification_title_invalidate_eligible" = "회원님의 상금이 곧 무효화됩니다!";
+
+"payouts_push_notification_subtitle_onboarded" = "축하합니다! 이제 프로필의 내 지급에서 수익을 확인하세요!";
+"payouts_push_notification_subtitle_not_onboarded" = "스포트라이트에서 수익을 얻었습니다. 지금 프로필로 이동해 지급을 받으세요!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "스포트라이트 챌린지에서 크리스탈을 얻었습니다. 지금 프로필로 이동해 지급을 받으세요!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "선물에서 크리스탈을 얻었습니다. 지금 프로필로 이동해 지급을 받으세요!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "스토리에서 크리스탈을 얻었습니다. 지금 프로필로 이동해 지급을 받으세요!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "렌즈 크리에이터 보상 프로그램에서 크리스탈을 얻었습니다. 지금 프로필로 이동해 지급을 받으세요!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "렌즈 잠금 해제에서 크리스탈을 얻었습니다. 지금 프로필로 이동해 지급을 받으세요!";
+"payouts_push_notification_subtitle_cashout_eligible" = "아무 조치를 취하지 않으면 크리스탈 상금이 %1$@에 자동으로 현금화됩니다. 문제를 해결하려면 프로필에서 내 크리스탈을 확인하세요.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "아무 조치를 취하지 않으면 크리스탈 상금이 %1$@에 무효화됩니다. 문제를 해결하려면 프로필에서 내 크리스탈을 확인하세요.";
+
+"payouts_state_title" = "지급 상태가 업데이트되었습니다!";
+"payouts_state_subtitle" = "지급 자격 상태가 업데이트되었습니다. 프로필의 내 Snap 크리스탈에서 상태를 확인하세요!";
+"gifting_opened_gift" = "%1$@ 님이 회원님의 선물을 열었습니다!";
+"gifting_support_thanks" = "Snapchat에서 지원해 주셔서 감사합니다.";
+

@@ -1,0 +1,8 @@
+"suggestion_error" = "問題が起きたようです。後でもう一度お試しください。";
+"username_invalid_begin" = "ユーザーIDはアルファベットで始めてください 🔠";
+"username_invalid_char" = "ユーザーIDには英数字、および「-」、「_」または「.」のいずれかの記号をひとつだけ含めることができます。それ以外の文字は使えませんのでご注意ください！👌";
+"username_invalid_end" = "ユーザーIDは文字または数字で終える必要があります 👆";
+"username_invalid_long" = "ユーザーIDは15文字以下にしてください 📖";
+"username_invalid_separator" = "ユーザーIDに使用できる記号は「-」「_」「、」のいずれか1つのみです。記号が多すぎます✌";
+"username_invalid_short" = "ユーザーIDは3文字以上必要です 📝";
+"username_taken" = "%1$@は既に使用されています！";

@@ -1,0 +1,7 @@
+"ai_mode_compatibility_w_magic_eraser" = "وضع الذكاء الاصطناعي غير متوافق مع الممحاة السحرية";
+"ai_mode_disclaimer_body" = "يتيح لك وضع الذكاء الاصطناعي تحويل اللقطات أو إنشاء لقطات جديدة تمامًا باستخدام الكلمات وحدها. إنه مدعوم من سناب شات وشركائنا، وقد نحتفظ بمحتوى لقطاتك لمواصلة تحسين هذه الميزة.";
+"ai_mode_disclaimer_title" = "✨ مرحبًا بك في أداة التعديل باستخدام الذكاء الاصطناعي ✨";
+"remote_inference_onboarding_allow" = "سماح";
+"remote_inference_onboarding_body" = "من أجل تعديل لقطتك، نحتاج إلى إذنك أولاً. هل توافق على ذلك؟ ⁦%1$@⁩";
+"remote_inference_onboarding_dont_allow" = "لا، شكرًا";
+"remote_inference_onboarding_title" = "تحسين اللقطة";

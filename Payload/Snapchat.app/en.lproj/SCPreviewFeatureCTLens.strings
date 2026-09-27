@@ -1,0 +1,7 @@
+"ai_mode_compatibility_w_magic_eraser" = "AI Mode is not compatible with Magic Eraser";
+"ai_mode_disclaimer_body" = "AI Mode lets you transform Snaps or create entirely new ones with words alone. It’s powered by Snapchat and our partners, and we may retain the content of your Snap to keep improving this feature.";
+"ai_mode_disclaimer_title" = "✨ Welcome to AI Editor ✨";
+"remote_inference_onboarding_allow" = "Allow";
+"remote_inference_onboarding_body" = "In order to retouch your Snap, we need your permission first. Is that okay? %1$@";
+"remote_inference_onboarding_dont_allow" = "No Thanks";
+"remote_inference_onboarding_title" = "Enhance Snap";

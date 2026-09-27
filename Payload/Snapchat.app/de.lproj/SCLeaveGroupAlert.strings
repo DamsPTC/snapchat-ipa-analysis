@@ -1,0 +1,4 @@
+"chatv3_leave_group_alert_description" = "Durch das Verlassen dieser Gruppe wirst du auch aus deren Story entfernt. Snaps und Chats, die du gesendet hast, werden gelöscht und Meilensteine, die du ausgeblendet hast, werden wiederhergestellt.";
+"chatv3_leave_group_alert_fail_message" = "Du kannst die Gruppe jetzt gerade nicht verlassen.";
+"chatv3_leave_group_alert_leave_button" = "Verlassen";
+"chatv3_leave_group_alert_title" = "Gruppe verlassen?";

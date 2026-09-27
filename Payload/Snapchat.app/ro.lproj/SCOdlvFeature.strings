@@ -1,0 +1,9 @@
+"landing_context" = "Această autentificare pare a fi neobișnuită pentru tine! Pentru a-ți menține contul securizat, verifică contul prin una dintre aceste opțiuni.";
+"landing_message_note" = "* Se pot aplica tarife pentru mesaje și date mobile.";
+"landing_options_radio_phone" = "Mesaj text";
+"landing_title" = "Conectare suspectă";
+"retry_message" = "A intervenit o problemă. Încearcă din nou.";
+"verification_description" = "Introdu codul pe care ți l-am trimis la \n%1$@";
+"verification_title" = "Introdu codul de verificare";
+"verification_unable_to_verify" = "Ai probleme la verificare?";
+"verification_unable_to_verify_dialog" = "O, nu! Nu putem să-ți verificăm contul. Contactează echipa de suport Snapchat pentru ajutor.";

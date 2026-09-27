@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "削除 ";
+
+"add_a_chat" = "チャットの追加...";
+
+"are_you_sure_you_want_to_abandon" = "この素敵なSnapを本当に削除しますか？";
+
+"best_friends_header" = "BF";
+
+"groups_header" = "グループ";
+
+"friends_header" = "フレンド";
+
+"send" = "送信";
+
+"cancel" = "キャンセル";
+
+"cannot_add_more_snapchatters" = "これ以上Snapchatユーザーを追加できません";
+
+
+"login_before_sharing_message" = "共有するにはSnapchatにログインしてください";
+
+"login_before_sharing_title" = "ログインが必要です";
+
+"me_hint" = "（自分）";
+
+"noticed_new_acct_sharing_message" = "アカウントが違います";
+
+"noticed_new_acct_sharing_title" = "アカウントが切り替わっているようです。ログインし直してSnapを送信するか、また初めから共有を開始してください。";
+
+"okay" = "OK";
+
+"open_before_sharing_message" = "共有するにはSnapchatを開いてください";
+
+"open_before_sharing_title" = "Snapchatを開く";
+
+"problem_sharing_try_again" = "問題が起きたようです。もう一度お試しください。";
+
+"recents_header" = "最新";
+
+"search_text_view_hint" = "検索";
+
+"send_to" = "送信先...";
+
+"try_again" = "やり直す";
+
+"video_too_long" = "60秒を超えるビデオは共有できません。";
+
+"video_too_long_with_maximum_duration_desc" = "%1$ld秒を超えるビデオは共有できません。";
+
+"stories_header" = "ストーリー";
+
+"my_story" = "マイストーリー";

@@ -1,0 +1,9 @@
+"connection_error" = "Verbindingsfout";
+"okay" = "Oké";
+"send_code_again" = "VERSTUUR CODE OPNIEUW";
+"twofa_login_code_verification_otp_to_sms_info" = "Stuur me een sms";
+"twofa_login_code_verification_otp_to_sms_progress" = "Versturen...";
+"twofa_login_code_verification_with_otp_explanation" = "Vul de code in die je hebt gekregen via je authenticatie-app om je identiteit te verifiëren.";
+"twofa_login_recovery_code_used" = "Je hebt gebruik gemaakt van je herstelcode om in te loggen. We hebben twee-factor-authenticatie uitgeschakeld - ga naar Instellingen om het opnieuw in te schakelen.";
+"twofa_new_device_verification_explanation" = "Vul de code in die we naar %1$@ hebben gestuurd om je identiteit te verifiëren.";
+"twofa_settings_recovery_code_used_title" = "Twee-factor-authenticatie uitgeschakeld";

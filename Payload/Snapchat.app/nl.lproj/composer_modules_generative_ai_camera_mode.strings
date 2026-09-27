@@ -1,0 +1,11 @@
+"cancel" = "Annuleren";
+"edit_and_share" = "Volgende";
+"generate_with_me" = "Met mij genereren";
+"generate_with_me_tooltip" = "Probeer eens te genereren met je Bitmoji of AI-selfie!";
+"generating" = "Je AI-Snap genereren...";
+"loading_slow" = "Sommige afbeeldingen kunnen tot\n<b>20 seconden</b> duren om te genereren";
+"no_results" = "Geen resultaten";
+"no_results_description" = "Afbeeldingen met scheldwoorden, naaktheid, schadelijke inhoud of auteursrechtelijk materiaal zijn verboden.";
+"prompts_search_placeholder" = "Begin je idee hier te typen...";
+"prompts_title" = "AI-Snaps";
+"result_title" = "AI-Snaps";

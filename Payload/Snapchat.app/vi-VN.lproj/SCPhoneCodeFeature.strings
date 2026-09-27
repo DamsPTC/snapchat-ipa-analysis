@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "Chúng tôi sẽ gọi bạn theo số %1$@.";
+"alt_send_code_by_sms" = "Gửi mã qua tin SMS";
+"alt_send_code_by_sms_dialogue" = "Chúng tôi sẽ gửi mã SMS đến %1$@.";
+"error_occurred_message" = "Đã xảy ra lỗi. Vui lòng thử lại.";
+"ngo_email_instead" = "Dùng email";
+"ngo_phone_verification_description" = "Nhập mã chúng tôi gửi đến %1$@";
+"ngo_phone_verification_title" = "Xác nhận số điện thoại của bạn";
+"ngo_submit" = "Gửi";
+"ok" = "OK";
+"register_phone_verification_desc" = "Nhập mã chúng tôi gửi đến %1$@";
+"register_phone_verification_title" = "Nhập Mã Xác Nhận";
+"resend_code" = "Gửi Lại";
+"skip_button" = "Bỏ Qua";
+"verifying" = "Đang Xác Thực…";

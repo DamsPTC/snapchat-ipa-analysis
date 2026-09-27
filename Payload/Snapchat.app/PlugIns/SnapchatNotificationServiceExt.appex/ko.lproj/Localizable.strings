@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "다시 로그인해 주세요";
+"incorrect_user_error_body" = "문제가 발생했습니다";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "내 Snap이 불타오르는 중 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "우리 스토리로 보낸 내 Snap의 조회수가 %1$@회를 돌파했어요!";
+
+"our_story_submission_view_milestone_generic_body" = "우리 스토리로 보낸 내 Snap이 높은 조회수를 기록했어요!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "스포트라이트 Snap의 조회수가 %1$@회를 넘었습니다!";
+
+"spotlight_submission_view_milestone_generic_body" = "스포트라이트 Snap의 조회수가 아주 높습니다!";

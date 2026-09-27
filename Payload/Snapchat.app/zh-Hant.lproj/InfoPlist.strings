@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>這可讓 Snapchat 連接至 Spectacles 此類藍牙配件。</string>
+	<key>NSCameraUsageDescription</key>
+	<string>使用你的相機來拍攝 Snap、試玩鏡頭和更多功能！部分鏡頭可以使用 Apple 的 TrueDepth 相機。如欲了解更多資訊，請參閱我們的隱私政策。</string>
+	<key>NSContactsUsageDescription</key>
+	<string>你的聯絡人會被上傳到 Snapchat 的伺服器，方便你和其他人可以找到好友，並改善使用體驗。</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>這可讓 Snapchat 連接至 Spectacles 此類 Wi-Fi 配件。</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>選擇「一律允許」，Snapchat 會在背景中更新你的位置資訊，以分享即時位置和改善你的使用體驗。</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>選擇「一律允許」，Snapchat 會在背景中更新你的位置資訊，以分享即時位置和改善你的使用體驗。</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat 會利用此資訊客製化你的使用體驗，為你獻上濾鏡、故事和身邊更多驚喜。</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>使用你的麥克風錄製 Snap 語音、視訊聊天等等。</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Snapchat 會記錄你在拍攝 Snap、使用特效鏡頭、閱讀「發現」、觀看廣告時，裝置為直向或橫向。</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>在 Snap 上與好友分享你的相機膠卷內容。</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>在 Snap 上與好友分享你的相機膠卷內容。</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>選擇「允許」，Snap 可能會逐漸減少不相關或重複的廣告內容。請參閱我們的「隱私政策」以了解更多關於「追蹤」的詳細資訊。</string>
+</dict>
+</plist>

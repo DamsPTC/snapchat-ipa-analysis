@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "もう一度ログインしてください";
+"incorrect_user_error_body" = "問題が起きたようです";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Snapが盛り上がっています 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "みんなのストーリーに投稿したSnapが%1$@回以上閲覧されています！";
+
+"our_story_submission_view_milestone_generic_body" = "みんなのストーリーに投稿したSnapが何度も閲覧されています！";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "あなたのSpotlightSnapが%1$@回以上閲覧されています！";
+
+"spotlight_submission_view_milestone_generic_body" = "あなたのスポットライトSnapが何度も閲覧されています！";

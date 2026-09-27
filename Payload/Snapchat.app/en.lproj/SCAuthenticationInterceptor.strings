@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "Snaps saved by %@ didn't finish backing up to Memories. If you log in as %@, those Snaps will be lost. Log back in as %@ to finish the backup.";
+"memories_pending_sync_alert_login_action" = "LOG IN ANYWAY";
+"memories_pending_sync_alert_registration_action" = "SIGN UP ANYWAY";
+"memories_pending_sync_alert_registration_body" = "Snaps saved by %@ didn't finish backing up to Memories. If you sign up for a new account, those Snaps will be lost. Log back in as %@ to finish the backup.";
+"memories_pending_sync_alert_title" = "Hold On A Second!";

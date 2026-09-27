@@ -1,0 +1,8 @@
+"errorText" = "يبدو أنه قد حدثت مشكلة في التحميل.";
+"formattedAddressAndLocation" = "$0 · $1";
+"loading" = "جارٍ تحميل الأماكن...";
+"noPlacesFound" = "لم يتم العثور على أي أماكن.";
+"places" = "الأماكن";
+"retry" = "يُرجى إعادة المحاولة";
+"search" = "بحث";
+"suggestAPlace" = "اقتراح مكان";

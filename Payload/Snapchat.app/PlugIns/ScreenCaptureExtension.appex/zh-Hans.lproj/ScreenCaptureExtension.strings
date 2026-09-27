@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "你必须在通话中才能共享你的屏幕。";
+"screen_capture_error_generic" = "出错了：请尝试重新共享屏幕。";
+"screen_capture_not_enabled" = "出错了。";

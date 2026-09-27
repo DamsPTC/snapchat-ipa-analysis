@@ -1,0 +1,13 @@
+"friend" = "1 amistad";
+"friends" = "%1$@ amistades";
+"live_location_entering_ghost_mode_warning_subtitle" = "Estás en modo fantasma, pero tu ubicación en tiempo real todavía es visible para %1$@. Para dejar de compartir, toca “Ocultar mi ubicación en tiempo real” a continuación.";
+"live_location_entering_ghost_mode_warning_title" = "Todavía estás compartiendo tu ubicación en tiempo real";
+"live_location_exit_ghost_mode_subtitle" = "Dejarás de ocultar tu ubicación en tiempo real y la compartirás con las amistades seleccionadas.";
+"live_location_exit_ghost_mode_title" = "¿Salir del modo fantasma?";
+"live_location_pausing_alert_OK" = "Aceptar";
+"live_location_pausing_alert_body_all_friends" = "Tu ubicación en tiempo real está oculta, pero todos tus amigos todavía pueden ver tu última ubicación activa. \n\n Puedes cambiar esta configuración en Ajustes de ubicación.";
+"live_location_pausing_alert_body_plural" = "Tu ubicación en tiempo real está oculta, pero %1$@ amigos todavía pueden ver tu última ubicación activa. \n\n Puedes cambiar esta configuración en Ajustes de ubicación.";
+"live_location_pausing_alert_body_singular" = "Tu ubicación en tiempo real está oculta, pero un amigo todavía puede ver tu última ubicación activa. \n\n Puedes cambiar esta configuración en Ajustes de ubicación.";
+"live_location_pausing_alert_title" = "Todavía estás compartiendo tu última ubicación activa";
+"live_location_resuming_alert_body" = "¿Quieres compartir en tiempo real con %1$@ y reanudar las sesiones en vivo?";
+"live_location_resuming_alert_subtitle" = "Dejarás de ocultar tu ubicación en tiempo real y la compartirás con %1$@ y todas las demás personas que seleccionaste previamente.";

@@ -1,0 +1,15 @@
+"delete_pin" = "Pin löschen";
+"get_there" = "Ankommen";
+"more" = "Mehr";
+"navigation_time" = "$0 Min.";
+"nearby_places" = "Orte in der Nähe";
+"no_nearby_places" = "Keine Orte in der Nähe gefunden.";
+"no_results" = "Keine Ergebnisse";
+"num_results" = "$0 Ergebnisse";
+"one_result" = "1 Ergebnis";
+"place_metadata" = "$0 · $1";
+"places_nearby" = "Orte in der Nähe";
+"send" = "Senden";
+"suggest_a_place" = "Einen Ort vorschlagen";
+"view_less" = "Weniger anzeigen";
+"view_more" = "Mehr anzeigen";

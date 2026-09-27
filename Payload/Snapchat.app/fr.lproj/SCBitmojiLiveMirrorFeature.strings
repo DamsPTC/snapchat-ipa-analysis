@@ -1,0 +1,17 @@
+"bitmoji_live_mirror_exit_dialog_cancel_button" = "Annuler";
+"bitmoji_live_mirror_exit_dialog_exit_button" = "Quitter";
+"bitmoji_live_mirror_exit_dialog_text" = "Votre avatar ne sera pas enregistré si vous quittez maintenant.";
+"bitmoji_live_mirror_exit_dialog_title" = "Quitter sans enregistrer ?";
+"bitmoji_live_mirror_interstitial_body_v2" = "Personnalisez vos tenues et modifiez votre avatar Bitmoji à tout moment depuis Mon profil.";
+"bitmoji_live_mirror_interstitial_body_v3" = "Habillez et modifiez votre avatar Bitmoji à tout moment depuis Mon profil.";
+"bitmoji_live_mirror_interstitial_choose_body_button_1_v1" = "Quelle allure !";
+"bitmoji_live_mirror_interstitial_done_button_1_v2" = "Terminé";
+"bitmoji_live_mirror_interstitial_done_button_3_v3" = "Terminé";
+"bitmoji_live_mirror_interstitial_edit_facial_avatar_caption_v2" = "Effectuer des modifications";
+"bitmoji_live_mirror_interstitial_edit_facial_button_1_v3" = "Modifier mon avatar";
+"bitmoji_live_mirror_interstitial_edit_facial_button_2_v1" = "Effectuer des modifications";
+"bitmoji_live_mirror_interstitial_select_outfit_button_2_v3" = "Sélectionner une tenue";
+"bitmoji_live_mirror_interstitial_title_v1" = "Vos cheveux et votre visage vous plaisent ?";
+"bitmoji_live_mirror_interstitial_title_v2" = "Votre avatar est prêt !";
+"bitmoji_live_mirror_interstitial_title_v3" = "Votre avatar est prêt !";
+"server_error_try_again" = "Une erreur de serveur est survenue. Veuillez réessayer.";

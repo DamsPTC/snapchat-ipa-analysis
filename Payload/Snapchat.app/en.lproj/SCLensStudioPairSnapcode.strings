@@ -1,0 +1,16 @@
+"studio_menu_title" = "Lens Studio";
+"studio_pair_accept" = "Pair";
+"studio_pair_connecting" = "Pairing...";
+"studio_pair_connection_failed" = "Can't pair";
+"studio_pair_dismiss" = "NOT NOW";
+"studio_pair_error_text" = "Please try again or contact support.";
+"studio_pair_error_title" = "Unable to pair with Lens Studio";
+"studio_pair_success_toast" = "Paired successfully!";
+"studio_pair_title" = "Pair with Lens Studio?";
+"studio_unpair_accept" = "Unpair";
+"studio_unpair_confirm" = "Are you sure you want to unpair Lens Studio?";
+"studio_unpair_error" = "Error unpairing Lens Studio";
+"studio_update_required_text" = "Update to the latest Snapchat version";
+"studio_update_required_title" = "Update Required";
+"studio_update_snapchat_title" = "Please update Snapchat to pair your device!";
+"studio_version_unsupported_title" = "Oops! This version of Snapchat is  unsupported.";

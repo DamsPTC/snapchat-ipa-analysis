@@ -1,0 +1,18 @@
+"finish" = "Beenden";
+"invalid_phone_number_suggestion_title" = "Ungültige Handynummer";
+"ngo_country_title" = "Land";
+"ngo_email_instead" = "Stattdessen Email verwenden";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "Email";
+"ngo_phone_instead" = "Stattdessen Handynummer verwenden";
+"ngo_phone_number_info" = "Wir schicken einen Bestätigungscode per SMS.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Wir schicken einen Bestätigungscode per SMS. Mit der Eingabe deiner Nummer erklärst du dich damit einverstanden, Transaktionsmitteilungen per SMS oder über einen anderen Messaging-Channel zu deinem Account zu erhalten.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Wir schicken dir einen Bestätigungscode. Durch die Eingabe deiner Nummer erhältst du unter anderem Transaktionsmitteilungen zu deinem Account per SMS oder über andere Messaging-Channels.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Wir schicken dir einen Bestätigungscode. Mit der Eingabe deiner Nummer erklärst du dich damit einverstanden, Transaktionsmitteilungen zu deinem Account per SMS oder über andere Messaging-Channels zu erhalten. [Erfahre mehr darüber](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number), wie Snap deine Telefonnummer verwendet.";
+"ngo_phone_number_title" = "Handynummer";
+"ngo_phone_placeholder" = "Handynummer";
+"phone_suggestion_description" = "%1$@ ist keine gültige Handynummer. Meintest du\n%2$@?";
+"register_email_button" = "Lieber mit Email registrieren";
+"register_email_error" = "Bitte gib eine gültige Email-Adresse an.";
+"skip_button" = "Überspringen";
+"yes_update" = "Ja, aktualisieren";

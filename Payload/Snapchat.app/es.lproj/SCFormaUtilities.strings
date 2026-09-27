@@ -1,0 +1,7 @@
+"modal_cancel" = "Cancelar";
+"modal_continue" = "Continuar";
+"modal_desc" = "¿Quién luce mejor este atuendo?\n\nSi permites que otros puedan desafiar este Snap, el Snap será público para que otros lo vean, lo desafíen o voten quién luce mejor.\n\nCada desafío tiene su propia duración, se puede guardar y otras personas podrán usarlo para desafíos adicionales.\n\nTu Snap público aparecerá en la tabla de posiciones pública del atuendo si es uno de los más votados.\n\nSi eliminas tu Snap, no se eliminarán los desafíos existentes que incluyan contenido de tu Snap.";
+"modal_title" = "Permitir que otros te desafíen";
+"poll_title" = "¿Quién luce %1$@ mejor?";
+"top_model_privacy_disclaimer_subtitle" = "Permitir que los amigos de tus amigos te desafíen";
+"top_model_privacy_disclaimer_title" = "Permitir que tus amigos te desafíen";

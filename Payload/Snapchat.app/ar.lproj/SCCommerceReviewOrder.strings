@@ -1,0 +1,14 @@
+"go_to_checkout" = "انتقل إلى التأكيد والدفع";
+"item_one" = "⁦%1$@⁩ عنصر";
+"item_other" = "⁦%1$@⁩ عناصر";
+"max_items_error_message" = "بحد أقصى ⁦%1$@⁩ من كل منتج في المرة الواحدة!";
+"my_shopping_bags" = "حقيبة التسوّق";
+"ok" = "حسنًا";
+"remove" = "إزالة";
+"returns" = "الإرجاع";
+"review_order" = "مراجعة الطلب";
+"see_return_policy" = "اقرأ سياسة الإرجاع";
+"select_quantity" = "تحديد الكمية";
+"subtotal" = "المبلغ الإجمالي";
+"view_all" = "عرض الكل";
+"web_checkout" = "التأكيد والدفع على الموقع الإلكتروني";

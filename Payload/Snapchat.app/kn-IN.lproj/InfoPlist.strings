@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>ಇದು Snapchat ಗೆ Spectacles ನಂತಹ bluetooth ಪರಿಕರಗಳೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Snapಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು, ಲೆನ್ಸ್‌ಗಳೊಂದಿಗೆ ಆಟವಾಡಲು ಮತ್ತು ಇನ್ನಷ್ಟು ಮಾಡಲು ನಿಮ್ಮ ಕ್ಯಾಮೆರಾ ಬಳಸಿ! ಕೆಲವು ಲೆನ್ಸ್‌ಗಳು Apple ನ TrueDepth ಕ್ಯಾಮೆರಾವನ್ನು ಬಳಸಬಹುದು. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ನಮ್ಮ ಗೌಪ್ಯತೆ ನೀತಿಯನ್ನು ನೋಡಿ.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>ನಿಮ್ಮ ಸಂಪರ್ಕಗಳನ್ನು Snapchat ನ ಸರ್ವರ್‌ಗಳಿಗೆ ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತದೆ ಇದರಿಂದ ನೀವು ಮತ್ತು ಇತರರು ಸ್ನೇಹಿತರನ್ನು ಹುಡುಕಬಹುದು ಮತ್ತು ನಿಮ್ಮ ಅನುಭವವನ್ನು ಸುಧಾರಿಸಬಹುದು.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>ಇದು Snapchat ಗೆ Spectacles ನಂತಹ ವೈ-ಫೈ ಸಕ್ರಿಯಗೊಳಿಸಿದ ಪರಿಕರಗಳೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>"ಯಾವಾಗಲೂ ಅನುಮತಿಸಿ" ಆಯ್ಕೆ ಮಾಡುವುದರಿಂದ, Snapchat ನಿಮ್ಮ ಲೈವ್ ಸ್ಥಳವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಮತ್ತು ನಿಮ್ಮ ಅನುಭವವನ್ನು ಸುಧಾರಿಸಲು ನಿಮ್ಮ ಸ್ಥಳದ ಕುರಿತಾದ ಮಾಹಿತಿಯನ್ನು ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಅಪ್‌ಡೇಟ್ ಮಾಡುತ್ತದೆ.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>"ಯಾವಾಗಲೂ ಅನುಮತಿಸಿ" ಆಯ್ಕೆ ಮಾಡುವುದರಿಂದ, Snapchat ನಿಮ್ಮ ಲೈವ್ ಸ್ಥಳವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಮತ್ತು ನಿಮ್ಮ ಅನುಭವವನ್ನು ಸುಧಾರಿಸಲು ನಿಮ್ಮ ಸ್ಥಳದ ಕುರಿತಾದ ಮಾಹಿತಿಯನ್ನು ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಅಪ್‌ಡೇಟ್ ಮಾಡುತ್ತದೆ.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>ನಿಮ್ಮ ಅನುಭವವನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಲು Snapchat ಇದನ್ನು ಬಳಸುತ್ತದೆ ಮತ್ತು ನಿಮ್ಮ ಸುತ್ತಲಿನ ಫಿಲ್ಟರ್‌ಗಳು, ಕಥೆಗಳು ಮತ್ತು ಹೆಚ್ಚಿನವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಿಮಗೆ ಅವಕಾಶ ಮಾಡಿಕೊಡುತ್ತದೆ.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Snapಗಳು , ವೀಡಿಯೊ ಚಾಟ್ ಮುಂತಾದವುಗಳಿಗಾಗಿ ಆಡಿಯೊ ರೆಕಾರ್ಡ್ ಮಾಡಲು ನಿಮ್ಮ ಮೈಕ್ರೊಫೋನ್ ಬಳಸಿ.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>ನೀವು Snap ಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವಾಗ, ಲೆನ್ಸ್‌ ಗಳನ್ನು ಬಳಸುವಾಗ, ಡಿಸ್ಕವರ್ ಓದುವಾಗ ಮತ್ತು ಜಾಹೀರಾತುಗಳನ್ನು ನೋಡುವಾಗ ನಿಮ್ಮ ಸಾಧನವು ಲಂಬವಾಗಿರಲಿ ಅಥವಾ ಅಡ್ಡವಾಗಿರಲಿ Snapchat ರೆಕಾರ್ಡ್ ಮಾಡಿಕೊಳ್ಳುತ್ತದೆ.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>ನಿಮ್ಮ ಕ್ಯಾಮರಾ ರೋಲ್ ಕಂಟೆಂಟ್ ಅನ್ನು Snap ನಲ್ಲಿ ಸ್ನೇಹಿತರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>ನಿಮ್ಮ ಕ್ಯಾಮರಾ ರೋಲ್ ಕಂಟೆಂಟ್ ಅನ್ನು Snap ನಲ್ಲಿ ಸ್ನೇಹಿತರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>"ಅನುಮತಿಸಿ" ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡುವ ಮೂಲಕ, ನಿಮಗೆ ಅಪ್ರಸ್ತುತ ಅಥವಾ ಕಾಲಕ್ರಮೇಣ ಪುನರಾವರ್ತಿತಗೊಳ್ಳುವ ಜಾಹೀರಾತುಗಳನ್ನು Snap ಕಡಿಮೆ ಮಾಡಬಹುದು. ಟ್ರ್ಯಾಕಿಂಗ್ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ನಮ್ಮ ಗೌಪ್ಯತಾ ನೀತಿಯನ್ನು ನೋಡಿ.</string>
+</dict>
+</plist>

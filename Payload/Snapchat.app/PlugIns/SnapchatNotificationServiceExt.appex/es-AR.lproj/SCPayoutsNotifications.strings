@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "¡Nuevo pago de Spotlight!";
+"payouts_push_notification_gifting_title" = "¡Nuevo pago de regalos!";
+"payouts_push_notification_title_spotlight_challenges" = "¡Nuevo pago de un desafío de Spotlight!";
+"payouts_push_notification_title_story" = "¡Nuevo pago de Historias!";
+"payouts_push_notification_title_lens_creator_fund" = "¡Nuevo pago del Programa de recompensas para creadores de Lentes!";
+"payouts_push_notification_title_ildg" = "¡Nuevo pago de Lentes desbloqueables!";
+"payouts_push_notification_title_cashout_eligible" = "¡Tus premios se cobrarán pronto automáticamente!";
+"payouts_push_notification_title_invalidate_eligible" = "¡Sus premios se invalidarán pronto!";
+
+"payouts_push_notification_subtitle_onboarded" = "¡Felicitaciones! Consultá la sección \"Mis pagos\" en tu perfil ahora mismo para ver tu ganancia.";
+"payouts_push_notification_subtitle_not_onboarded" = "Ganaste dinero con Spotlight. Realizá la incorporación en tu perfil ahora mismo para obtener tu pago.";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Ganaste cristales con el desafío de Spotlight. Realizá la incorporación en tu perfil ahora mismo para obtener tu pago.";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Ganaste cristales con regalos. Realizá la incorporación en tu perfil ahora mismo para obtener tu pago.";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Ganaste cristales con Historias. Realizá la incorporación en tu perfil ahora mismo para obtener tu pago.";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Ganaste cristales con el Programa de recompensas para creadores de Lentes. Realizá la incorporación en tu perfil ahora mismo para obtener tu pago.";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Ganaste cristales con los Lentes desbloqueables. Realizá la incorporación en tu perfil ahora mismo para obtener tu pago.";
+"payouts_push_notification_subtitle_cashout_eligible" = "Tus premios cristal se cobrarán automáticamente el %1$@ si no se toman medidas. Comprobá Mis cristales en el perfil para resolverlo.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Tus premios cristal se invalidarán el %1$@ si no se toman medidas. Comprobá Mis cristales en el perfil para resolverlo.";
+
+"payouts_state_title" = "Se actualizó el estado de pagos.";
+"payouts_state_subtitle" = "Se actualizó tu estado de elegibilidad de pagos. Revisá Mis cristales de Snap en el perfil para ver tu estado.";
+"gifting_opened_gift" = "%1$@ abrió tu regalo.";
+"gifting_support_thanks" = "Gracias por apoyarlos en Snapchat.";
+

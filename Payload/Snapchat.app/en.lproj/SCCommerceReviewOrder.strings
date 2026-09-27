@@ -1,0 +1,14 @@
+"go_to_checkout" = "Go To Checkout";
+"item_one" = "%@ Item";
+"item_other" = "%@ Items";
+"max_items_error_message" = "Max of %@ per product at a time!";
+"my_shopping_bags" = "Shopping Bag";
+"ok" = "Ok";
+"remove" = "Remove";
+"returns" = "Returns";
+"review_order" = "Review Order";
+"see_return_policy" = "See Return Policy";
+"select_quantity" = "Select Quantity";
+"subtotal" = "Subtotal";
+"view_all" = "View All";
+"web_checkout" = "Checkout On Website";

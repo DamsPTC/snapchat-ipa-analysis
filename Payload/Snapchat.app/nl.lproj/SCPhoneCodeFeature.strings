@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "We bellen je op %1$@.";
+"alt_send_code_by_sms" = "Verstuur code via sms";
+"alt_send_code_by_sms_dialogue" = "We sturen je een sms-code op %1$@.";
+"error_occurred_message" = "Er is een fout opgetreden. Probeer het later opnieuw.";
+"ngo_email_instead" = "In plaats daarvan e-mail gebruiken";
+"ngo_phone_verification_description" = "Voer de code in die naar %1$@ is gestuurd";
+"ngo_phone_verification_title" = "Bevestig je nummer";
+"ngo_submit" = "Verzenden";
+"ok" = "OK";
+"register_phone_verification_desc" = "Vul de code in die we naar %1$@ hebben gestuurd";
+"register_phone_verification_title" = "Vul je bevestigingscode in";
+"resend_code" = "Opnieuw versturen";
+"skip_button" = "Overslaan";
+"verifying" = "Verifiëren...";

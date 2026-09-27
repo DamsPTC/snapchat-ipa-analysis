@@ -1,0 +1,12 @@
+"remix_add_to_my_story" = "Toevoegen aan Mijn Verhaal";
+"remix_create_post" = "Post maken";
+"remix_error_record_more_additional_snaps" = "Ten minste %1$.01f seconden opnemen.";
+"remix_error_stitch_minimum_duration" = "Ten minste %1$.01f seconden van de geremixte Snap selecteren.";
+"remix_error_total_snap_duration" = "De totale snap moet ten minste %1$.01f seconden lang zijn.";
+"remix_explanation_text" = "Iedereen die in Snaps in Verhalen genoemd wordt, kan remixen en delen";
+"remix_mention_privacy_prompt_description_no_toggle" = "Iedereen die jij noemt, kan jouw Snap gebruiken om een eigen Snap te maken. Dat noemen we een Remix. %1$@\n\nElke Remix heeft een eigen levensduur, kan worden opgeslagen en kan door anderen worden gebruikt om weer extra Remixen te maken.\n\nAls je je Snap verwijdert, worden de bestaande Remixen met de content van jouw Snap niet verwijderd.";
+"remix_mention_privacy_prompt_learn_more_link" = "Meer informatie";
+"remix_mention_privacy_prompt_title" = "Wie is genoemd kan remixen";
+"remix_promoted_cta_text" = "Remix en delen";
+"remix_remix_to_my_story" = "Remix van Mijn Verhaal";
+"remix_text" = "Remix";

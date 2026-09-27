@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "%1$@ adlı hesap tarafından kaydedilen Snap'lerin Anılar'a yedeklenmesi tamamlanmadı. Eğer %2$@ hesabıyla oturum açarsan, o Snap'ler kaybolacak. Yedeklemeyi tamamlamak için %3$@ hesabıyla tekrar oturum aç.";
+"memories_pending_sync_alert_login_action" = "YİNE DE GİRİŞ YAP";
+"memories_pending_sync_alert_registration_action" = "YİNE DE HESAP OLUŞTUR";
+"memories_pending_sync_alert_registration_body" = "%1$@ adlı hesap tarafından kaydedilen Snap'lerin Anılar'a yedeklenmesi tamamlanmadı. Eğer yeni bir hesap oluşturursan, o Snap'ler kaybolacak. Yedeklemeyi tamamlamak için %2$@ hesabıyla tekrar oturum aç.";
+"memories_pending_sync_alert_title" = "Dur Bir Saniye!";

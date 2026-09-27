@@ -1,0 +1,20 @@
+/*
+
+ SCCustomSoundNotifications.strings
+ SCNotificationServiceExtensionBridge
+*/
+
+/// File Names for Notification Custom Sounds 
+"custom_sound_notifications_default_sound_name" = "Oletusääni";
+"custom_sound_notifications_melody_beach_sound_name" = "Sävelranta";
+"custom_sound_notifications_bottle_pop_sound_name" = "Korkin poksahdus";
+"custom_sound_notifications_fairy_glass_sound_name" = "Keijukaislasi";
+"custom_sound_notifications_alien_amulet_sound_name" = "Avaruusamuletti";
+"custom_sound_notifications_log_goblin_sound_name" = "Puupeikko";
+"custom_sound_notifications_mini_drop_sound_name" = "Uikahdus";
+"custom_sound_notifications_click_world_sound_name" = "Napsautus";
+"custom_sound_notifications_digi_drip_sound_name" = "Digipisara";
+"custom_sound_notifications_friendly_object_sound_name" = "Hyväntahtoinen";
+"custom_sound_notifications_star_lite_sound_name" = "Tähdenlento";
+"custom_sound_notifications_stone_web_sound_name" = "Kivinen";
+"custom_sound_notifications_techno_zone_sound_name" = "Teknovyöhyke";

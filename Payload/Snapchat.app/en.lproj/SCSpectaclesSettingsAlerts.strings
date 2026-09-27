@@ -1,0 +1,15 @@
+"ota_failed_charger_not_connected_body" = "Please plug in your Specs before updating.";
+"ota_failed_charger_not_connected_title" = "Charger Required";
+"ota_failed_low_battery_body" = "Charge your Specs to at least 40%, then try updating again.";
+"ota_failed_low_battery_title_format" = "Low Battery (%@%%)";
+"ota_failed_title" = "Update Failed";
+"ota_failed_too_cold_body" = "Your Spectacles are too cold to update ❄️. Warm them up before trying again.";
+"ota_failed_too_hot_body" = "Your Spectacles are too hot to update 🔥. Let them cool down before trying again.";
+"ota_low_disk_space_body" = "Looks like your device is low on storage. To free up space, try deleting unused apps, music, or photos.";
+"ota_low_disk_space_title" = "Can't Download Update";
+"ota_unlock_body" = "Your passcode is required after a restart. Please enter it on your Spectacles and try again.";
+"ota_unlock_title" = "Unlock Spectacles";
+"ota_update_required_cancel_title" = "Maybe Later";
+"ota_update_required_title" = "Update Required";
+"update_error_body" = "Your Spectacles settings were not able to be updated. Please try again.";
+"update_error_title" = "Something went wrong";

@@ -1,0 +1,9 @@
+"amazon" = "Amazon";
+"available_to_link" = "Disponible pour synchronisation";
+"link" = "Synchroniser";
+"linked_accounts" = "Comptes synchronisés";
+"third_party_accounts" = "Comptes tiers";
+"third_party_accounts_intro" = "Vous pouvez synchroniser des comptes d'autres sites web pour faciliter vos achats sur Snapchat.";
+"unlink" = "Désynchroniser";
+"unlink_confirmation_text" = "La désynchronisation rendra plus difficile l'achat de produits présentés dans les publicités.";
+"unlink_confirmation_title" = "Désynchroniser le compte %1$@ ?";

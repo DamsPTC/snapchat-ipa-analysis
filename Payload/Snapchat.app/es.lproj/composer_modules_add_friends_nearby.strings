@@ -1,0 +1,8 @@
+"add_nearby_friends" = "Añadir amistades cercanas";
+"add_nearby_friends_description" = "¡Activa la función “Añadir amistades cercanas” y encuentra posibles amistades cerca de ti! Solo se mostrarán otros Snapchatters con los que tengas amistades en común. \n\nSi olvidas desactivar esta función, no te preocupes: cuentas con nosotros. La desactivaremos automáticamente después de un tiempo.";
+"add_nearby_friends_learn_more" = "Más información.";
+"find_friends_nearby_description" = "Puedes salir de esta pantalla y te enviaremos una notificación cuando haya amistades en común cercanas.";
+"finding_friends_nearby" = "Buscando amistades cercanas…";
+"found_friends_nearby" = "$0 amistades cercanas";
+"found_friends_nearby_description" = "Solo se muestran las amistades en común que hayan activado esta función. Puedes salir de esta pantalla y te enviaremos una notificación cuando haya más amistades cercanas.";
+"found_one_friend_nearby" = "1 amistad cercana";

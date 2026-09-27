@@ -1,0 +1,2 @@
+"generic_error" = "Något gick snett. Försök igen senare!";
+"update_email_failed_with_code" = "Kunde inte uppdatera e-posten. Försök igen. \nSupportkod: %1$02d";

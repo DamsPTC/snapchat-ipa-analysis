@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "Snappar sparade av %1$@ säkerhetskopierades inte färdigt till Memories. Om du loggar in som %2$@ kommer dessa Snappar förloras. Logga in igen som %3$@ för att göra klart säkerhetskopieringen.";
+"memories_pending_sync_alert_login_action" = "LOGGA IN ÄNDÅ";
+"memories_pending_sync_alert_registration_action" = "REGISTRERA ÄNDÅ";
+"memories_pending_sync_alert_registration_body" = "Snappar sparade av %1$@ säkerhetskopierades inte färdigt till Memories. Om du registerar ett nytt konto kommer dessa Snappar förloras. Logga in igen som %2$@ för att göra klart säkerhetskopieringen.";
+"memories_pending_sync_alert_title" = "Vänta lite!";

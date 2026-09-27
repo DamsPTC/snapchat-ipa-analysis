@@ -1,0 +1,5 @@
+"body" = "Permite que Spectacles guarde el lugar donde capturaste una foto o video. Esto te va a permitir agregar Lentes, stickers, Filtros y más en función de tu ubicación. [Obtener más información.](https://support.spectacles.com/hc/articles/360060227752)";
+"button_title" = "Activar";
+"phase_subtitle" = "Datos de ubicación de Spectacles";
+"phase_title" = "Permisos de ubicación";
+"title" = "Activar datos de ubicación";

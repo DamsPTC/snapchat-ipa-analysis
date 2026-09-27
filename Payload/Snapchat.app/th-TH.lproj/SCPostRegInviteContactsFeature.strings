@@ -1,0 +1,3 @@
+"invite_sms_rate_limit_body" = "คุณสามารถส่งคำเชิญได้ไม่เกินสิบรายการในขณะนี้";
+"invite_sms_rate_limit_okay" = "ตกลง";
+"invite_sms_rate_limit_title" = "คุณส่งคำเชิญครบจำนวนสูงสุดแล้ว";

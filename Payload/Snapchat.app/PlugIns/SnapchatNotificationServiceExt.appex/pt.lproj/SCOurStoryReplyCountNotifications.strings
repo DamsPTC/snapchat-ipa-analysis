@@ -1,0 +1,18 @@
+/*
+
+ SCOurStoryReplyCountNotifications.strings
+ SCOurStoryReplyModifier
+*/
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count" = "%1$d comentários pendentes no Holofote";
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count_singular" = "1 comentário pendente no Holofote";
+
+/// Generic text in case the reply count is not available.
+"generic_push_notification_title_comment" = "Comentários pendentes no Holofote";
+
+/// Shown as a subtitle on the push notification on lock screen.
+"push_notification_subtitle" = "Toque para visualizar";
+

@@ -1,0 +1,9 @@
+"landing_context" = "Cette connexion ne semble pas habituelle avec votre compte ! Pour garantir la sécurité de votre compte, veuillez le vérifier à l'aide des options suivantes.";
+"landing_message_note" = "*Des frais pour l'envoi de messages et de données peuvent vous être facturés.";
+"landing_options_radio_phone" = "SMS";
+"landing_title" = "Connexion suspecte";
+"retry_message" = "Une erreur s'est produite. Veuillez réessayer.";
+"verification_description" = "Saisissez le code envoyé au \n%1$@";
+"verification_title" = "Saisir le code de vérification";
+"verification_unable_to_verify" = "Problème de vérification ?";
+"verification_unable_to_verify_dialog" = "Oups ! Nous n'avons pas pu vérifier votre compte. Veuillez contacter l'assistance Snapchat pour obtenir de l'aide.";

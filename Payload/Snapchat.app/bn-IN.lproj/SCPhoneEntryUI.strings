@@ -1,0 +1,11 @@
+"country_code_field" = "দেশের কোড লেখার জায়গা";
+"mobile_number_field" = "মোবাইল নম্বরের ফিল্ড";
+"phone_entry_invalid_country_code" = " দেশের কোডটি অবৈধ";
+"phone_entry_phone_placeholder" = "ফোন নম্বর";
+"phone_entry_select_country_code" = "🌎 দেশের কোড নির্বাচন করুন";
+"register_country_picker_title" = "দেশ নির্বাচন করুন";
+"register_phone_label" = "মোবাইল নম্বর";
+"send_sms_explanation" = "আমরা আপনাকে একটি এসএমএস যাচাইকরণ কোড পাঠাবো";
+"send_sms_explanation_here" = "আমরা আপনাকে একটি SMS যাচাইকরণ কোড পাঠানোর জন্য এবং যেভাবে [এখানে](https://support.snapchat.com/article/snap-phone-number) বর্ণনা করা আছে সেভাবে আপনার ফোন নম্বর ব্যবহার করব।";
+"send_sms_explanation_updates_and_here" = "আমরা আপনাকে একটি SMS যাচাইকরণ কোড, গুরুত্বপূর্ণ আপডেটগুলি পাঠানোর জন্য এবং যেভাবে [এখানে](https://support.snapchat.com/article/snap-phone-number) বর্ণনা করা আছে সেভাবে আপনার ফোন নম্বর ব্যবহার করব।";
+"send_sms_explanation_updates_here" = "আমরা আপনাকে একটি SMS যাচাইকরণ কোড ও গুরুত্বপূর্ণ আপডেটগুলি পাঠানোর জন্য যেভাবে [এখানে](https://support.snapchat.com/article/snap-phone-number) বর্ণনা করা আছে সেভাবে আপনার ফোন নম্বর ব্যবহার করব।";

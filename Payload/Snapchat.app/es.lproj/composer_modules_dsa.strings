@@ -1,0 +1,12 @@
+"confirmation_dialog_cancel_button" = "Cancelar";
+"confirmation_dialog_description" = "Seguirás viendo contenido, pero será más aleatorio y estará menos relacionado con tus intereses.";
+"confirmation_dialog_disable_button" = "Desactivar";
+"confirmation_dialog_title" = "¿Quieres desactivar el contenido personalizado?";
+"dsa_about_organic_content_description_first_paragraph" = "En Snap, queremos que conozcas el mundo y te diviertas con otros Snapchatters. Para ello, te mostramos contenido relevante para ti, junto con noticias de última hora y otras joyas ocultas que pensamos que podrías disfrutar.  No hay dos personas iguales; por lo tanto, usamos parte de tu información para adaptar especialmente tu experiencia en Snapchat. Por ejemplo, personalizamos el contenido que ves: si muestras interés en los deportes, probablemente veas más contenido relacionado con ellos.\n\n";
+"dsa_about_organic_content_description_second_paragraph" = "Puedes actualizar la información, como tu cumpleaños, estilo de vida e intereses, y los controles de la Unión Europea en los <tap-link>Ajustes de Snapchat</tap-link>.";
+"dsa_about_organic_content_title" = "Sobre el contenido";
+"explainer_subtext" = "Estos ajustes solo se aplican a los usuarios que viven en la Unión Europea.";
+"explainer_text" = "Todas las personas son únicas. Por eso, personalizamos y clasificamos el contenido, como Descubre, Spotlight y las publicidades. Por ejemplo, si miras mucho contenido relacionado con los deportes e indicas que no te gustan las recomendaciones de maquillaje y peluquería, la app podría personalizar el contenido priorizando los deportes y dejando de lado las recomendaciones de maquillaje. Si este ajuste está desactivado y vives en la Unión Europea, te mostraremos menos contenido personalizado y nos enfocaremos en lo básico, como el idioma configurado en tu teléfono, tu edad y tu estado/provincia. Seguirás viendo contenido, pero será más aleatorio y menos alineado a tus intereses. Es posible que la experiencia del contenido demore un tiempo en cambiar.";
+"explainer_title" = "Mostrar contenido personalizado";
+"header_title" = "Controles de la Unión Europea";
+"learn_more" = "Obtener más información";

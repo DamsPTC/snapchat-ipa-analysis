@@ -1,0 +1,18 @@
+"finish" = "Selesai";
+"invalid_phone_number_suggestion_title" = "Nomor Telepon Tidak Valid";
+"ngo_country_title" = "Negara";
+"ngo_email_instead" = "Gunakan email saja";
+"ngo_email_placeholder" = "kamu@email.com";
+"ngo_email_title" = "Email";
+"ngo_phone_instead" = "Gunakan nomor telepon saja";
+"ngo_phone_number_info" = "Kami akan mengirim kode verifikasi SMS.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Kami akan mengirimkan SMS yang berisi kode verifikasi. Dengan memasukkan nomor teleponmu, kamu setuju untuk menerima pesan transaksi tentang akunmu melalui SMS atau saluran pesan lainnya.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Kami akan mengirimimu kode verifikasi. Dengan memasukkan nomor teleponmu, kamu akan menerima pesan transaksi tentang akunmu melalui SMS atau saluran pesan lainnya, dan banyak lagi.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Kami akan mengirimimu kode verifikasi. Dengan memasukkan nomor teleponmu, kamu setuju untuk menerima pesan transaksi tentang akunmu melalui SMS atau saluran pesan lainnya. [Pelajari lebih lanjut](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) cara Snap menggunakan nomor teleponmu.";
+"ngo_phone_number_title" = "Nomor Telepon";
+"ngo_phone_placeholder" = "Nomor telepon";
+"phone_suggestion_description" = "%1$@ bukan nomor telepon yang valid. Apakah \n%2$@ yang kamu maksud?";
+"register_email_button" = "Daftar dengan email saja";
+"register_email_error" = "Harap masukkan alamat email yang valid.";
+"skip_button" = "Lewati";
+"yes_update" = "Ya, perbarui";

@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "Logga in igen";
+"incorrect_user_error_body" = "Något gick snett";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Din Snap är poppis 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "Din Snap som skickades till Vår Story har över %1$@ visningar!";
+
+"our_story_submission_view_milestone_generic_body" = "Din Snap som skickades till Vår Story har så många visningar!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "Din Spotlight-Snap har visats över %1$@ gånger!";
+
+"spotlight_submission_view_milestone_generic_body" = "Din Spotlight-Snap har visats så många gånger!";

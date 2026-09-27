@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "Snap-urile salvate de %1$@ nu au copia de rezervă finalizată în Amintiri. Dacă te conectezi cu %2$@, acele Snap-uri se vor pierde. Conectează-te din nou cu %3$@ pentru a finaliza copia de rezervă.";
+"memories_pending_sync_alert_login_action" = "CONECTEAZĂ-TE ORICUM";
+"memories_pending_sync_alert_registration_action" = "ÎNREGISTREAZĂ-TE ORICUM";
+"memories_pending_sync_alert_registration_body" = "Snap-urile salvate de %1$@ nu au copia de rezervă finalizată în Amintiri. Dacă te conectezi cu un cont nou, acele Snap-uri se vor pierde. Conectează-te din nou cu %2$@ pentru a finaliza copia de rezervă.";
+"memories_pending_sync_alert_title" = "Așteaptă un moment!";

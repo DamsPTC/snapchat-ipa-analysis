@@ -1,0 +1,4 @@
+"share_intents_permission_alert_text" = "In order to suggest shortcuts, some usage data is shared with iOS, when sending a message, receiving a message, or placing a call: the recipient’s or sender’s Display Name, Bitmoji, and User ID.";
+"share_intents_permission_desc" = "Allow iOS to suggest shortcuts such as sending a message. Shortcuts may be visible in iOS search, when sharing from other apps, or when managing notifications. When enabled, some of your data is shared with iOS.";
+"share_intents_permission_learn_more" = "Learn More";
+"share_intents_permission_title" = "iOS Shortcuts";

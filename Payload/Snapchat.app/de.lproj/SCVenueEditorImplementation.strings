@@ -1,0 +1,13 @@
+"confirm_error_dialog" = "Fertig";
+"photo_library_permission_dialog_cancel" = "Abbrechen";
+"photo_library_permission_dialog_enable" = "Aktivieren";
+"photo_library_permission_dialog_subtitle" = "Füge Fotos des Ortes aus deinen Aufnahmen hinzu.";
+"photo_library_permission_dialog_title" = "Zugriff auf Fotos erlauben";
+"place_offensive" = "Dieser Inhalt ist unangemessen oder anstößig";
+"place_permanently_closed" = "Dieser Ort ist dauerhaft geschlossen";
+"report_an_issue" = "Problem melden";
+"report_successful" = "Meldung gesendet! Vielen Dank!";
+"report_unsuccessful" = "Die Meldung konnte nicht gesendet werden. Bitte versuche es später erneut!";
+"sending_report" = "Bericht wird gesendet ...";
+"suggest_an_edit" = "Änderung vorschlagen";
+"suggestion_received" = "Wir haben deinen Vorschlag erhalten und veröffentlichen ihn nach der Freigabe!";

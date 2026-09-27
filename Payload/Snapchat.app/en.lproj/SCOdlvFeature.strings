@@ -1,0 +1,9 @@
+"landing_context" = "This login seems out of the ordinary for you! To keep your account secure, please verify your account through one of these options.";
+"landing_message_note" = "*Message and data rates may apply.";
+"landing_options_radio_phone" = "Text Message";
+"landing_title" = "Suspicious Login";
+"retry_message" = "Something went wrong. Please try again.";
+"verification_description" = "Enter the code we sent to\n%@";
+"verification_title" = "Enter Verification Code";
+"verification_unable_to_verify" = "Trouble verifying?";
+"verification_unable_to_verify_dialog" = "Oh no! We were unable to verify your account. Please reach out to Snapchat Support for help.";

@@ -1,0 +1,17 @@
+"calibration_cancel_alert_body" = "Voulez-vous vraiment arrêter le calibrage ? Si vous ne le terminez pas, votre Pixy risque de ne pas être en mesure de suivre avec précision ses trajectoires de vol prédéterminées.";
+"calibration_cancel_alert_title" = "Annuler le calibrage ?";
+"calibration_done_tray_title" = "C'est presque terminé ! Votre Pixy va maintenant redémarrer pour terminer le calibrage.";
+"calibration_error_alert_body" = "Votre Pixy n'a pas pu terminer le calibrage. Veuillez recommencer cette opération dans un moment. Pour de meilleurs résultats, vérifiez votre connexion internet et assurez-vous que votre Pixy reste immobile pendant le calibrage.";
+"calibration_error_alert_title" = "Calibrage impossible";
+"calibration_loading_screen_body" = "Cette opération peut prendre quelques minutes.";
+"calibration_loading_screen_title" = "Préparation du calibrage";
+"calibration_page_title" = "Calibrage de Pixy";
+"calibration_success_tray_title" = "C'est bon ! Votre Pixy est maintenant calibré.";
+"calibration_video_download_failure_alert_body" = "Impossible de démarrer le calibrage. Veuillez vérifier votre connexion internet et réessayer.";
+"calibration_video_download_failure_alert_title" = "Impossible de démarrer le calibrage";
+"calibration_x_down_tray_title" = "Retournez Pixy et placez-le sur une surface plane, cadran vers le bas.";
+"calibration_x_up_tray_title" = "Placez Pixy sur une surface plane, cadran vers le haut.";
+"calibration_y_down_tray_title" = "Posez le côté de Pixy sur une surface plane de façon à ce que la caméra soit orientée vers vous, cadran sur votre gauche.";
+"calibration_y_up_tray_title" = "Posez le côté de Pixy sur une surface plane de façon à ce que la caméra ne soit pas orientée vers vous, cadran sur votre gauche.";
+"calibration_z_down_tray_title" = "Posez le côté de Pixy sur une surface plane de façon à ce que la caméra soit orientée vers le haut.";
+"calibration_z_up_tray_title" = "Posez le côté de Pixy sur une surface plane de façon à ce que la caméra soit orientée vers le bas.";

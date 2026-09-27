@@ -1,0 +1,4 @@
+"studio_force_unpair_confirm" = "Lens Studio pairing data has been cleared.";
+"studio_force_unpair_status_desc" = "Resetting will unpair from Lens Studio. Any pushed Lenses will also be removed from your carousel.";
+"studio_force_unpair_status_title" = "Reset Pairing Status";
+"studio_settings_tap_to_force_unpair" = "Tap to reset";

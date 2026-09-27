@@ -1,0 +1,6 @@
+"clear_recently_viewed_items_cancel" = "Abbrechen";
+"clear_recently_viewed_items_confirm" = "Okay";
+"clear_recently_viewed_items_error" = "Etwas ist schiefgegangen. Versuch's nochmal.";
+"clear_recently_viewed_items_question" = "Hiermit wird der jüngste Verlauf deiner Produktsuche gelöscht.";
+"clear_recently_viewed_items_success" = "Suchverlauf erfolgreich gelöscht.";
+"clear_recently_viewed_items_title" = "Shoppingverlauf löschen";

@@ -1,0 +1,17 @@
+"crop_tool_ai_tool_disclaimer_accept_title" = "Aceptar";
+"crop_tool_ai_tool_disclaimer_cancel_title" = "Cancelar";
+"crop_tool_ai_tool_disclaimer_info_dalle" = "Esta herramienta creativa con IA cuenta con tecnología de DALL-E. Cuando la uses, tu Snap se compartirá con ellos.";
+"crop_tool_ai_tool_disclaimer_info_open_ai" = "Esta herramienta creativa con IA cuenta con tecnología de un socio de Snapchat. Cuando la uses, tu Snap se compartirá con ellos.";
+"crop_tool_ai_tool_disclaimer_info_partner" = "Esta herramienta creativa con IA cuenta con tecnología de un socio. Cuando la uses, tu Snap se compartirá con ellos.";
+"crop_tool_ai_tool_disclaimer_info_third_party" = "Esta herramienta creativa con IA cuenta con tecnología de un tercero. Cuando la uses, tu Snap se compartirá con ellos.";
+"crop_tool_ai_tool_error_title" = "Se produjo un error";
+"crop_tool_ai_tool_error_try_again" = "Volver a intentar";
+"crop_tool_enhance_button_title" = "Mejorar";
+"crop_tool_enhance_error" = "No pudimos mejorar tu Snap";
+"crop_tool_extend_button_title" = "Ampliar";
+"crop_tool_extend_error" = "No pudimos ampliar tu Snap";
+"crop_tool_loading_default_message" = "Estamos procesando tu Snap.";
+"crop_tool_loading_extend_message" = "Esta función es experimental.\nEstamos procesando tu Snap.\nEsto podría demorar hasta 15 segundos.";
+"crop_tool_loading_title" = "Espera un momento";
+"crop_tool_retouch_error" = "Uy, la función Retocar no se aplicó. ¿Quieres volver a intentar?";
+"crop_tool_undo_button_title" = "Deshacer";

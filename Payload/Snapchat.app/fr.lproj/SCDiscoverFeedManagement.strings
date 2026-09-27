@@ -1,0 +1,12 @@
+"df_hidden" = "Stories masquées";
+"df_manage_accounts_added_subtitle" = "Gérez les comptes que vous suivez et vos notifications.";
+"df_manage_accounts_following" = "Gérer les comptes que je suis";
+"df_manage_hidden_subtitle" = "Gérez vos Stories masquées ici.";
+"df_manage_subscriptions" = "Gérer mes abonnements et mes notifications";
+"df_manage_subscriptions_subtitle" = "Gérez vos abonnements et vos notifications.";
+"df_management_subscriptions_unsubscribe_confirmation_description" = "Si vous appuyez ci-dessous, vous supprimerez %1$@ de votre liste d'abonnements.";
+"df_management_subscriptions_unsubscribe_confirmation_title" = "Se désabonner de %1$@ ?";
+"df_un_hide" = "Ne plus masquer";
+"df_unsubscribe_prompt" = "Vous êtes désabonné(e)";
+"df_unsubscribe_prompt_with_display_name" = "Vous êtes désabonné(e) de %1$@";
+"df_view_hidden" = "Voir les Stories masquées";

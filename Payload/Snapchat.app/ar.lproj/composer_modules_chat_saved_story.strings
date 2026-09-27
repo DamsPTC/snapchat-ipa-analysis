@@ -1,0 +1,10 @@
+"me" = "أنا";
+"save_story_tooltip_education" = "لقد تم حفظ لقطة القصة في الدردشة! يمكنك الضغط عليها باستمرار لحذفها.";
+"saved_participant_story_by_both" = "لقد حفظت أنت و$0 لقطة من قصة $1 في الدردشة";
+"saved_participant_story_by_paticipant" = "تم حفظ لقطة من قِبل $0 من قصة $1 في الدردشة";
+"saved_participant_story_by_you" = "لقد حفظت لقطة من قصة $0 في الدردشة";
+"saved_your_story_by_both" = "لقد حفظت أنت و$0 لقطة من قصتك في الدردشة";
+"saved_your_story_by_participant" = "تم حفظ لقطة من قصتك في الدردشة من قِبل $0";
+"saved_your_story_by_you" = "لقد حفظت لقطة من قصتك في الدردشة";
+"story_media_deleted" = "تم حذف قصة Snap هذه";
+"tap_to_load" = "المس للتحميل";

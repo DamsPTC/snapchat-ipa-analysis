@@ -1,0 +1,10 @@
+"me" = "Moi";
+"save_story_tooltip_education" = "Le Snap de votre Story a été enregistré dans le Chat ! Vous pouvez le supprimer en appuyant longuement dessus.";
+"saved_participant_story_by_both" = "VOUS ET $0 AVEZ ENREGISTRÉ UN SNAP DE LA STORY DE $1 DANS LE CHAT.";
+"saved_participant_story_by_paticipant" = "$0 A ENREGISTRÉ UN SNAP DE LA STORY DE $1 DANS LE CHAT.";
+"saved_participant_story_by_you" = "VOUS AVEZ ENREGISTRÉ UN SNAP DE LA STORY DE $0 DANS LE CHAT.";
+"saved_your_story_by_both" = "VOUS ET $0 AVEZ ENREGISTRÉ UN SNAP DE VOTRE STORY DANS LE CHAT.";
+"saved_your_story_by_participant" = "$0 A ENREGISTRÉ UN SNAP DE VOTRE STORY DANS LE CHAT.";
+"saved_your_story_by_you" = "VOUS AVEZ ENREGISTRÉ UN SNAP DE VOTRE STORY DANS LE CHAT.";
+"story_media_deleted" = "Le Snap de cette Story a été supprimé.";
+"tap_to_load" = "Appuyez pour charger.";

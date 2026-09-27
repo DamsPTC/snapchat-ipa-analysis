@@ -1,0 +1,15 @@
+"search_placeholder" = "Поиск";
+"sig_action_bar_done" = "Готово";
+"sig_action_bar_more" = "Ещё";
+"sig_header_dismiss_accessibility_label" = "Закрыть";
+"sig_index_view_favorites_image_accessibility_label" = "Избранное";
+"sig_index_view_groups_image_accessibility_label" = "Группы";
+"sig_index_view_quick_adds_image_accessibility_label" = "Добавить сейчас";
+"sig_index_view_recents_image_accessibility_label" = "Недавние";
+"sig_index_view_snap_stars_image_accessibility_label" = "Звёзды Snap";
+"sig_select_bar_group" = "Группа";
+"sig_send_to_button_accessibility_label" = "Отправить";
+"toggle_off" = "Выкл.";
+"toggle_on" = "Вкл.";
+"toggle_switch_hint" = "При активации произойдёт включение либо выключение";
+"toggle_switch_label" = "Переключить";

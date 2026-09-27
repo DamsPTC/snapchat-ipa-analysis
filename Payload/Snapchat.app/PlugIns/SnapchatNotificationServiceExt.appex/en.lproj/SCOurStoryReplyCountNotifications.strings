@@ -1,0 +1,19 @@
+/* l10nsvc:sourcefile */
+/*
+
+  SCOurStoryReplyCountNotifications.strings
+  SCOurStoryReplyModifier
+*/
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count" = "%d Pending Spotlight Comments";
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count_singular" = "1 Pending Spotlight Comment";
+
+/// Generic text in case the reply count is not available.
+"generic_push_notification_title_comment" = "Pending Spotlight Comments";
+
+/// Shown as a subtitle on the push notification on lock screen.
+"push_notification_subtitle" = "Tap to view";
+

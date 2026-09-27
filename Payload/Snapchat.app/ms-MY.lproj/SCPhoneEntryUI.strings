@@ -1,0 +1,11 @@
+"country_code_field" = "Medan Kod Negara";
+"mobile_number_field" = "Medan Nombor Mudah alih";
+"phone_entry_invalid_country_code" = "🌎Kod negara tidak sah";
+"phone_entry_phone_placeholder" = "nombor telefon";
+"phone_entry_select_country_code" = "🌎 Pilih kod negara";
+"register_country_picker_title" = "Pilih Negara";
+"register_phone_label" = "NOMBOR TELEFON";
+"send_sms_explanation" = "Kami akan hantar kod pengesahan SMS kepada anda.";
+"send_sms_explanation_here" = "Kami akan menggunakan nombor telefon anda untuk menghantar kod pengesahan SMS kepada anda dan seperti dinyatakan [di sini](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_and_here" = "Kami akan menggunakan nombor telefon anda untuk menghantar kod pengesahan SMS, kemas kini penting, dan seperti yang dinyatakan [di sini](https://support.snapchat.com/article/snap-phone-number) kepada anda.";
+"send_sms_explanation_updates_here" = "Kami akan menggunakan nombor telefon anda untuk menghantar kod pengesahan SMS dan kemas kini penting kepada anda seperti dinyatakan [di sini](https://support.snapchat.com/article/snap-phone-number).";

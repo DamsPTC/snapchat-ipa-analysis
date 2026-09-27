@@ -1,0 +1,17 @@
+"calibration_cancel_alert_body" = "Are you sure you want to stop Calibration? If you don't finish Calibration, Pixy may not be able to follow its predetermined flight paths as accurately.";
+"calibration_cancel_alert_title" = "Cancel Calibration?";
+"calibration_done_tray_title" = "Almost done! Your Pixy will now restart to finish calibrating.";
+"calibration_error_alert_body" = "Pixy was unable to complete calibration. Please try calibration again later. For best results, check your network connection and hold Pixy still while calibrating.";
+"calibration_error_alert_title" = "Unable to Calibrate";
+"calibration_loading_screen_body" = "This may take a few minutes";
+"calibration_loading_screen_title" = "Preparing to Calibrate";
+"calibration_page_title" = "Pixy Calibration";
+"calibration_success_tray_title" = "That's it! Your Pixy is now calibrated.";
+"calibration_video_download_failure_alert_body" = "Unable to start Calibration. Please check your connection to the internet and try again.";
+"calibration_video_download_failure_alert_title" = "Unable to Start Calibration";
+"calibration_x_down_tray_title" = "Flip Pixy over and place it on a flat surface with the dial facing down.";
+"calibration_x_up_tray_title" = "Place Pixy on a flat surface with the dial facing up.";
+"calibration_y_down_tray_title" = "Hold the side of Pixy on a flat surface so the camera is facing you and the dial is on your left.";
+"calibration_y_up_tray_title" = "Hold the side of Pixy on a flat surface so that the camera is facing away from you and the dial is on your left.";
+"calibration_z_down_tray_title" = "Hold the side of Pixy on a flat surface so that the camera is facing up.";
+"calibration_z_up_tray_title" = "Hold the side of Pixy on a flat surface so the camera is facing down.";

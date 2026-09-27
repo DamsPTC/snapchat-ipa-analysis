@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Trebuie să te afli într-un apel pentru a partaja ecranul.";
+"screen_capture_error_generic" = "A intervenit o eroare: încearcă din nou să partajezi ecranul.";
+"screen_capture_not_enabled" = "A apărut o problemă.";

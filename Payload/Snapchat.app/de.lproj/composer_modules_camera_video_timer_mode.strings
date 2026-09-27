@@ -1,0 +1,7 @@
+"cancel_button" = "Abbrechen";
+"confirm_button" = "Timer einstellen";
+"dialog_description" = "Die Länge deiner Aufnahme festlegen";
+"dialog_title" = "Video-Timer";
+"duration_text_in_minutes" = "$0 Min.";
+"duration_text_in_minutes_and_seconds" = "$0 Min. $1 Sek.";
+"time_unit_seconds" = "Sek.";

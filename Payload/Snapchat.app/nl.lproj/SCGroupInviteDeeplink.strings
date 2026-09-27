@@ -1,0 +1,8 @@
+"group_invite_accept_link_joining_group" = "Deelnemen aan groep...";
+"group_invite_cannot_join_group" = "Kan niet deelnemen aan de groep";
+"group_invite_confirm_dialog_cancel_button" = "Annuleren";
+"group_invite_confirm_dialog_description" = "Iedereen met deze link kan lid worden. Controleer of je degene die de link heeft verstuurd vertrouwt.";
+"group_invite_confirm_dialog_header" = "Lid worden van groep?";
+"group_invite_confirm_dialog_ok_button" = "Lid worden van groep";
+"group_invite_creator_not_participant" = "De Snapchatter die dit %1$@ heeft gedeeld, is niet langer lid.";
+"group_invite_link" = "link";

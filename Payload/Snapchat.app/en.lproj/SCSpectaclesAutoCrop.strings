@@ -1,0 +1,12 @@
+"apply_to_your_snap" = "Applying \"Auto-Crop.\" This may take a few moments.";
+"auto_crop" = "Auto-Crop";
+"auto_crop_applied_automatically_tooltip" = "Auto-crop applied automatically";
+"auto_crop_apply_tooltip" = "Tap to Apply Auto-Crop";
+"auto_crop_intro_detail" = "Auto-Crop is automatically applied to your Pixy Snaps when you edit!";
+"auto_crop_intro_title" = "Introducing Auto-Crop!";
+"auto_crop_remove_tooltip" = "Tap to Remove Auto-Crop";
+"auto_crop_unavailable_message" = "Auto-crop unavailable. Check Network connection.";
+"crop_action_title" = "Crop";
+"crop_and_remove_effects_detail" = "By tapping \"Crop\", any Pixy Smart Edits will be removed from your Snap";
+"crop_and_remove_effects_title" = "Crop and Remove Smart Edit Effects?";
+"remove_from_your_snap" = "Removing \"Auto-Crop.\" This may take a few moments.";

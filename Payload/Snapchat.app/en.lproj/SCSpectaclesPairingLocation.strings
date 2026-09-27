@@ -1,0 +1,5 @@
+"body" = "Allow Spectacles to save where you captured a video or photo, so you can get location-based Lenses, Stickers, Filters, and more! [Learn More.](https://support.spectacles.com/hc/articles/360060227752)";
+"button_title" = "Enable";
+"phase_subtitle" = "Spectacles Location Data";
+"phase_title" = "Location Permissions";
+"title" = "Enable Location Data";

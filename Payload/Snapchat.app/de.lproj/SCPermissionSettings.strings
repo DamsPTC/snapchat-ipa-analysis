@@ -1,0 +1,4 @@
+"share_intents_permission_alert_text" = "Damit dir Verknüpfungen vorgeschlagen werden können, werden einige Daten an iOS weitergegeben, wenn du Nachrichten verschickst oder empfängst oder wenn du jemanden anrufst. Dazu gehören der Anzeigename, das Bitmoji und die Nutzer-ID des Empfängers oder Absenders.";
+"share_intents_permission_desc" = "Gestatte iOS, Verknüpfungen vorzuschlagen, etwa zum Senden von Nachrichten. Verknüpfungen können in der iOS-Suche, beim Teilen in anderen Apps oder beim Verwalten von Benachrichtigungen angezeigt werden. Wenn du sie aktivierst, werden einige deiner Daten an iOS weitergegeben.";
+"share_intents_permission_learn_more" = "Mehr erfahren";
+"share_intents_permission_title" = "iOS-Verknüpfungen";

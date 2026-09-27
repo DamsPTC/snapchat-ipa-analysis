@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Snapkodum";
+
+"Snapcode Desc" = "Bu araç takımı snapkodunu gösterir";
+
+"camera" = "Kamera";
+
+"camera_desc" = "Snapchat kamerasını aç.";
+
+"log_in" = "Oturum aç";
+
+"shortcut_to_a_friend" = "Bir arkadaş veya grup seçmek için, onu yerleştirdikten sonra araç takımına dokun.";
+
+"pin_a_friend" = "Bir Arkadaşını veya Grubu üste tuttur";
+
+"birthdays" = "Doğum Günleri";
+
+"see_upcoming_birthdays" = "Yaklaşan doğum günlerini gör.";
+
+"no_upcoming_birthdays" = "Yaklaşan doğum günü yok";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%2$d gün içinde %1$@";
+
+"user_has_birthday_in_days_plural" = "%2$d gün içinde %1$@";
+
+"user_and_other_have_birthday_in_days_singular" = "%3$d gün içinde %1$@ +%2$d";
+
+"user_and_other_have_birthday_in_days_plural" = "%3$d gün içinde %1$@ +%2$d";
+
+"Memories" = "Anılar";
+
+"Memories Desc" = "Flashback'ler, geziler, özetler ve daha fazlasını içeren Anılarından Öne Çıkan Snap'ler!";
+
+"Friend Location Widget Desc" = "Arkadaşının konumuna göz atmak için bu araç takımı ile bir arkadaşını işaretle.";
+
+"map" = "Harita";
+
+"now" = "şimdi";
+
+"something_went_wrong" = "Bir hata oluştu, lütfen Snapchat'i aç";
+
+"long_press_to_pin" = "Bir arkadaşını işaretlemek için düzenle";
+
+"off_the_grid" = "Ortalıklarda yok";

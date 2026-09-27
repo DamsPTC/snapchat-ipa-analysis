@@ -1,0 +1,9 @@
+"memories_picker_max_duration_warning_text" = "No se pueden editar videos de más de %1$d segundos.";
+"memories_picker_max_item_message" = "Admite hasta %1$d elementos";
+"memories_picker_min_item_message" = "Selecciona al menos %1$d elementos para comenzar";
+"memories_picker_primary_button_title" = "Siguiente";
+"memories_picker_title" = "Añadir una imagen o video";
+"music_sync_error_dialog_cancel_button_title" = "Cancelar";
+"music_sync_error_dialog_message" = "Se necesita una conexión de red para crear un Snap sincronizado con sonidos. Verifica el estado de tu red y vuelve a intentarlo más tarde.";
+"music_sync_error_dialog_retry_button_title" = "Volver a intentar";
+"music_sync_error_dialog_title" = "No hay conexión de red";

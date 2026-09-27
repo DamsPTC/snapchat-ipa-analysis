@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Oma Snapkoodini";
+
+"Snapcode Desc" = "Tämä pienoisohjelma näyttää Snapkoodisi.";
+
+"camera" = "Kamera";
+
+"camera_desc" = "Avaa Snapchat-kamera.";
+
+"log_in" = "Kirjaudu sisään";
+
+"shortcut_to_a_friend" = "Napauta pienoisohjelmaa sen asettamisen jälkeen, niin voit valita kaverin tai ryhmän.";
+
+"pin_a_friend" = "Kiinnitä kaveri tai ryhmä";
+
+"birthdays" = "Syntymäpäivät";
+
+"see_upcoming_birthdays" = "Katso tulevat syntymäpäivät.";
+
+"no_upcoming_birthdays" = "Ei tulevia";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ %2$d päivän päästä";
+
+"user_has_birthday_in_days_plural" = "%1$@ %2$d päivän päästä";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d %3$d päivän päästä";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d %3$d päivän päästä";
+
+"Memories" = "Muistot";
+
+"Memories Desc" = "Esittelyssä Snappeja muistoistasi, kuten takaumia, matkoja, kertauksia ja paljon muuta!";
+
+"Friend Location Widget Desc" = "Kiinnitä kaveri tällä pienoisohjelmalla, niin näet kaverisi sijainnin vilkaisulla.";
+
+"map" = "Kartta";
+
+"now" = "nyt";
+
+"something_went_wrong" = "Jotain meni vikaan, avaa Snapchat";
+
+"long_press_to_pin" = "Kiinnitä kaveri muokkaamalla";
+
+"off_the_grid" = "Kadonnut kartalta";

@@ -1,0 +1,12 @@
+"alert_cancel" = "Annuler";
+"alert_location_permission_error_description" = "Veuillez accéder aux réglages d'iOS pour autoriser la localisation sur Snapchat \"Lorsque l'app est active\".";
+"alert_location_permission_error_title" = "Erreur de l'autorisation de localisation";
+"alert_ok" = "Ok";
+"alert_restart_description" = "L'application des fonctionnalités expérimentales nécessitera le redémarrage des Spectacles.\nCela peut prendre quelques minutes.";
+"alert_restart_restart_specs_button" = "Redémarrer les Spectacles";
+"alert_restart_title" = "Redémarrer les Spectacles ?";
+"alert_unknown_error_description" = "Nous n'avons pas pu mettre à jour les réglages.";
+"alert_unknown_error_title" = "Oups";
+"button_save" = "Enreg.";
+"local_knob_location_sharing_description" = "La localisation de votre appareil est partagée pendant une heure. Vous pouvez la désactiver pour mettre fin au partage de ces informations.";
+"local_knob_location_sharing_title" = "Localisation en arrière-plan";

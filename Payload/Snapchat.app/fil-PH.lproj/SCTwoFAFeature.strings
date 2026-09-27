@@ -1,0 +1,9 @@
+"connection_error" = "Error sa Koneksyon";
+"okay" = "Okay";
+"send_code_again" = "I-SEND ULIT ANG CODE";
+"twofa_login_code_verification_otp_to_sms_info" = "Padalhan na lang ako ng text";
+"twofa_login_code_verification_otp_to_sms_progress" = "Sine-send...";
+"twofa_login_code_verification_with_otp_explanation" = "Maaaring i-enter ang code na na-generate ng iyong authentication app para i-verify ang identity mo.";
+"twofa_login_recovery_code_used" = "Ginamit mo ang iyong recovery code para mag-log in. Dinisable namin ang two-factor authentication — pumunta sa Settings para i-re-enable 'to.";
+"twofa_new_device_verification_explanation" = "Paki-enter ang code na ipinadala namin sa %1$@ para i-verify ang identity mo.";
+"twofa_settings_recovery_code_used_title" = "Naka-disable ang Two-Factor Authentication";

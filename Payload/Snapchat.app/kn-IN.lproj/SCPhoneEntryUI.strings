@@ -1,0 +1,11 @@
+"country_code_field" = "ದೇಶದ ಕೋಡ್ ಸ್ಥಳ";
+"mobile_number_field" = "ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಕ್ಷೇತ್ರ";
+"phone_entry_invalid_country_code" = "🌎 ಅಮಾನ್ಯ ದೇಶದ ಕೋಡ್";
+"phone_entry_phone_placeholder" = "ಫೋನ್ ಸಂಖ್ಯೆ";
+"phone_entry_select_country_code" = "🌎 ದೇಶದ ಕೋಡ್ ಆಯ್ಕೆ ಮಾಡಿ";
+"register_country_picker_title" = "ದೇಶವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ";
+"register_phone_label" = "ಮೊಬೈಲ್ ಸಂಖ್ಯೆ";
+"send_sms_explanation" = "ನಾವು ಒಂದು SMS ಪರಿಶೀಲನಾ ಕೋಡ್ ಅನ್ನು ಕಳುಹಿಸುತ್ತೇವೆ.";
+"send_sms_explanation_here" = "[ಇಲ್ಲಿ](https://support.snapchat.com/article/snap-phone-number) ವಿವರಿಸಿರುವಂತೆ SMS ಪರಿಶೀಲನೆ ಕೋಡ್ ಕಳುಹಿಸಲು ನಾವು ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಬಳಸುತ್ತೇವೆ.";
+"send_sms_explanation_updates_and_here" = "ನಿಮಗೆ ಒಂದು SMS ಪರಿಶೀಲನೆ ಕೋಡ್, ಪ್ರಮುಖ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಕಳುಹಿಸಲು ಮತ್ತು [ಇಲ್ಲಿ](https://support.snapchat.com/article/snap-phone-number) ವಿವರಿಸಿರುವಂತೆ ನಾವು ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಬಳಸುತ್ತೇವೆ.";
+"send_sms_explanation_updates_here" = "[ಇಲ್ಲಿ](https://support.snapchat.com/article/snap-phone-number) ವಿವರಿಸಿರುವಂತೆ SMS ಪರಿಶೀಲನೆ ಕೋಡ್ ಮತ್ತು ಪ್ರಮುಖ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಕಳುಹಿಸಲು ನಾವು ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಬಳಸುತ್ತೇವೆ.";

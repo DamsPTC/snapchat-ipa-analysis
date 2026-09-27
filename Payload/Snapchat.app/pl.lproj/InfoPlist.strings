@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Pozwoli to Snapchatowi łączyć się z akcesoriami Bluetooth takimi jak Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Użyj kamery, by robić Snapy, prowadzić wideo czaty, dodawać znajomych za pomocą snapkodu itp.! Do niektórych nakładek może być potrzebna kamera TrueDepth firmy Apple. Więcej informacji znajdziesz w naszej polityce prywatności.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Lista Twoich kontaktów zostanie wgrana na serwery Snapchata, dzięki czemu łatwiej będzie odnajdywać znajomych i korzystać z aplikacji.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Pozwoli to Snapchatowi łączyć się z akcesoriami korzystającymi z Wi-Fi takimi jak Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Wybranie opcji „Zawsze zezwalaj” sprawia, że Snapchat aktualizuje Twoją lokalizację w tle, aby udostępniać lokalizację na żywo i usprawniać działanie Snapchata.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Wybranie opcji „Zawsze zezwalaj” sprawia, że Snapchat aktualizuje Twoją lokalizację w tle, aby udostępniać lokalizację na żywo i usprawniać działanie Snapchata.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat wykorzystuje te informacje, by dostosować sposób działania serwisu i umożliwić Ci odkrywanie filtrów, Stories oraz innych ciekawych rzeczy.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Użyj mikrofonu, by udźwiękowić swoje Snapy, czaty wideo itp.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Snapchat rejestruje pionowe lub poziome położenie urządzenia w chwili robienia Snapów, korzystania z nakładek, przeglądania zakładki Odkrywaj i oglądania reklam.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Udostępniaj zawartość Rolki z aparatu znajomym na Snapchacie.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Udostępniaj zawartość Rolki z aparatu znajomym na Snapchacie.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Wybranie opcji „Zezwól” sprawi, że Snap z czasem będzie wyświetlać mniej reklam, które się powtarzają lub są dla Ciebie nieistotne. Więcej informacji na temat śledzenia zawiera nasza Polityka prywatności.</string>
+</dict>
+</plist>

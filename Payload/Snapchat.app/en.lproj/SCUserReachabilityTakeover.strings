@@ -1,0 +1,7 @@
+"body" = "Are your email and phone number up to date?";
+"dismiss_button_with_details" = "Confirm";
+"dismiss_button_without_details" = "Done";
+"no_email_placeholder" = "Add your email";
+"no_phone_placeholder" = "Add your number";
+"title_with_details" = "Confirm Contact Details";
+"title_without_details" = "Add Contact Details";

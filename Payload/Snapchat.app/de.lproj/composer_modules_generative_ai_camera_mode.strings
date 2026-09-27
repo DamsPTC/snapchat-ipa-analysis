@@ -1,0 +1,11 @@
+"cancel" = "Abbrechen";
+"edit_and_share" = "Weiter";
+"generate_with_me" = "Mit mir generieren";
+"generate_with_me_tooltip" = "Generiere einen Snap mit deinem Bitmoji oder KI-Selfie";
+"generating" = "KI-Snap wird erstellt …";
+"loading_slow" = "Manche Bilder brauchen möglicherweise bis zu\n<b>20 Sekunden</b> zum Erstellen.";
+"no_results" = "Keine Ergebnisse";
+"no_results_description" = "Bilder, die Beleidigungen, Nacktheit, gefährliche Inhalte oder urheberrechtlich geschütztes Material enthalten, sind verboten.";
+"prompts_search_placeholder" = "Gib deine Idee hier ein …";
+"prompts_title" = "KI-Snaps";
+"result_title" = "KI-Snaps";

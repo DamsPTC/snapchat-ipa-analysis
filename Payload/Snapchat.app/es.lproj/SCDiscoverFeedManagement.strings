@@ -1,0 +1,12 @@
+"df_hidden" = "Historias ocultas";
+"df_manage_accounts_added_subtitle" = "Administra cuentas que sigues y notificaciones.";
+"df_manage_accounts_following" = "Administrar las cuentas que sigo";
+"df_manage_hidden_subtitle" = "Administra tus Historias ocultas aquí.";
+"df_manage_subscriptions" = "Administrar suscripciones y notificaciones";
+"df_manage_subscriptions_subtitle" = "Administra tus suscripciones y notificaciones.";
+"df_management_subscriptions_unsubscribe_confirmation_description" = "Si tocas a continuación se te eliminará a %1$@ de tu lista de suscripciones.";
+"df_management_subscriptions_unsubscribe_confirmation_title" = "¿Dar de baja de %1$@?";
+"df_un_hide" = "Mostrar";
+"df_unsubscribe_prompt" = "Te diste de baja";
+"df_unsubscribe_prompt_with_display_name" = "Te diste de baja de %1$@";
+"df_view_hidden" = "Ver Historias ocultas";

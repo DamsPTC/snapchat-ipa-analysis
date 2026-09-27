@@ -1,0 +1,8 @@
+"suggestion_error" = "Se produjo un error, vuelve a intentarlo más tarde";
+"username_invalid_begin" = "Los nombres de usuario deben empezar con una letra 🔠";
+"username_invalid_char" = "Los nombres de usuario no pueden incluir caracteres especiales, solo pueden tener caracteres del alfabeto latino, números y uno de los siguientes símbolos: -, _ o . 👌";
+"username_invalid_end" = "Los nombres de usuario deben terminar con una letra o un número 👆";
+"username_invalid_long" = "Los nombres de usuario no pueden tener más de 15 caracteres 📖";
+"username_invalid_separator" = "Los nombres de usuario solo pueden incluir uno de los siguiente símbolos e incluiste más de uno: -, _ o . ✌️";
+"username_invalid_short" = "Los nombres de usuario deben tener al menos 3 caracteres 📝";
+"username_taken" = "¡%1$@ ya está en uso!";

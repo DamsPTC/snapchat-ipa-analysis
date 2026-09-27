@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "請重新登入";
+"incorrect_user_error_body" = "發生錯誤";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "你的 Snap 超人氣 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "你上傳到「我們的故事」的 Snap 瀏覽次數已超過 %1$@ 次了！";
+
+"our_story_submission_view_milestone_generic_body" = "你上傳到「我們的故事」的 Snap 瀏覽次數非常高！";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "你的聚光燈 Snap 瀏覽次數已超過 %1$@ 次了！";
+
+"spotlight_submission_view_milestone_generic_body" = "你的聚光燈 Snap 瀏覽次數很多！";

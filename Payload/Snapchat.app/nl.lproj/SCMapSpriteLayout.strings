@@ -1,0 +1,16 @@
+"let_friend_see_my_location" = "Toon mijn locatie aan %1$@";
+"live_location_cant_reach" = "Kan %1$@ niet bereiken";
+"live_location_last_seen_here" = "%1$@ geleden voor het laatst gezien";
+"live_location_turn_on_notifications" = "Meldingen aanzetten om live te delen";
+"live_location_update_location_permissions" = "Je live locatie wordt niet geüpdatet";
+"location_accuracy_callout" = "Exacte locatie inschakelen";
+"map_and_others" = "en %1$@";
+"map_location_accuracy" = "binnen ~%1$@";
+"map_name_and_name" = "%1$@ en %2$@";
+"map_name_and_others" = "%1$@ en %2$lu anderen";
+"map_seen_timestamp_within_x_units" = "Gezien %1$@ - %2$@";
+"map_x_more" = "%1$lu meer";
+"sharing_live_location" = "Live locatie delen";
+"updating_live_location" = "Live locatie updaten...";
+"widget_callout_text_cluster" = "Bekijk de locatie van een vriend\n op je startscherm!";
+"widget_callout_text_friend" = "Bekijk de locatie van %1$@\n op je startscherm!";

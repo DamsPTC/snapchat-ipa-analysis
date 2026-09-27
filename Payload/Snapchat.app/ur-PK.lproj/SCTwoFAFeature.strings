@@ -1,0 +1,9 @@
+"connection_error" = "کنکشن کا نقص";
+"okay" = "ٹھیک ہے";
+"send_code_again" = "کوڈ دوبارہ بھیجیں";
+"twofa_login_code_verification_otp_to_sms_info" = "اس کی بجائے مجھے ایک SMS بھیجیں";
+"twofa_login_code_verification_otp_to_sms_progress" = "بھیج رہے ہیں۔۔۔";
+"twofa_login_code_verification_with_otp_explanation" = "براہِ مہربانی اپنی شناخت کی توثیقق کرنے کیلئے اپنی تصدیقی ایپ کی جانب سے تیار کردہ کوڈ درج کریں۔";
+"twofa_login_recovery_code_used" = "آپ نے لاگ ان کرنے کیلئے اپنا بحالی کا کوڈ استعمال کیا ہے۔ ہم نے دو عوامل والی توثیق کاری کو نااہل کر دیا ہے — اسے دوبارہ اہل بنانے کیلئے سیٹنگز پر جائیں۔";
+"twofa_new_device_verification_explanation" = "براہِ کرم وہ کوڈ درج کریں جو ہم نے آپ کی شناخت کی تصدیق کرنے کیلئے ⁦%1$@⁩ کو بھیجا ہے۔";
+"twofa_settings_recovery_code_used_title" = "دو عوامل والی توثیق کاری نااہل کردہ";

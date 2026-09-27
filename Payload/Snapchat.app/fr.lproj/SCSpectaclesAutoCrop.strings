@@ -1,0 +1,12 @@
+"apply_to_your_snap" = "Appliquer le recadrage automatique peut prendre quelques instants.";
+"auto_crop" = "Recadrage automatique";
+"auto_crop_applied_automatically_tooltip" = "Recadrage automatique appliqué";
+"auto_crop_apply_tooltip" = "Appuyez pour appliquer le recadrage automatique.";
+"auto_crop_intro_detail" = "Le recadrage automatique s'applique directement aux Snaps de votre Pixy lorsque vous les modifiez !";
+"auto_crop_intro_title" = "Découvrez le recadrage automatique !";
+"auto_crop_remove_tooltip" = "Appuyez pour supprimer le recadrage automatique.";
+"auto_crop_unavailable_message" = "Le recadrage automatique n'est pas disponible. Vérifiez votre connexion au réseau.";
+"crop_action_title" = "Recadrer";
+"crop_and_remove_effects_detail" = "En appuyant sur \"Recadrer\", toutes les modifications intelligentes de votre Pixy seront supprimées de votre Snap.";
+"crop_and_remove_effects_title" = "Recadrer et supprimer les effets de modification intelligente ?";
+"remove_from_your_snap" = "Supprimer le recadrage automatique peut prendre quelques instants.";

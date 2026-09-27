@@ -1,0 +1,7 @@
+"use_template_flow_error_primary_button_title" = "OK";
+"use_template_flow_error_title" = "Fehler";
+"use_template_flow_filling_in_error_message" = "Fehler beim Ausfüllen der Vorlage";
+"use_template_flow_get_template_error_message" = "Fehler beim Abrufen der Vorlage";
+"use_template_flow_memories_picker_title" = "Medien importieren";
+"use_template_flow_progress_bar_title" = "Medien werden importiert …";
+"use_template_flow_unsupported_template" = "Diese Vorlage wird von deiner App nicht unterstützt";

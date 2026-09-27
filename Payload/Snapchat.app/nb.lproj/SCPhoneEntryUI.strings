@@ -1,0 +1,11 @@
+"country_code_field" = "Felt for landskode";
+"mobile_number_field" = "Felt for mobilnummer";
+"phone_entry_invalid_country_code" = "🌎 Landskoden er ugyldig";
+"phone_entry_phone_placeholder" = "telefonnummer";
+"phone_entry_select_country_code" = "🌎 Velg landskode";
+"register_country_picker_title" = "Velg land";
+"register_phone_label" = "MOBILNUMMER";
+"send_sms_explanation" = "Vi vil sende deg en verifiseringskode på SMS.";
+"send_sms_explanation_here" = "Vi bruker telefonnummeret ditt til å sende deg en verifiseringskode på SMS og som beskrevet [her](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_and_here" = "Vi bruker telefonnummeret ditt til å sende deg en verifiseringskode og viktige oppdateringer på SMS og som beskrevet [her](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_here" = "Vi bruker telefonnummeret ditt til å sende deg en verifiseringskode og viktige oppdateringer på SMS som beskrevet [her](https://support.snapchat.com/article/snap-phone-number).";

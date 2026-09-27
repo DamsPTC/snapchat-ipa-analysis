@@ -1,0 +1,6 @@
+"cancel" = "Abbrechen";
+"clear_search_history_alert_confirm" = "Löschen";
+"clear_search_history_alert_message" = "Dadurch wird dein Suchverlauf gelöscht.";
+"clear_search_history_alert_title" = "Suchverlauf löschen?";
+"delete_search_history_request_failure_message" = "Suchverlauf konnte nicht gelöscht werden";
+"delete_search_history_request_success_message" = "Suchverlauf gelöscht!";

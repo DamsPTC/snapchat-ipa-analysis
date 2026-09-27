@@ -1,0 +1,8 @@
+"location_settings_title" = "Locatie-instellingen";
+"mute_location_alert_body" = "Je ziet de locatie van deze vriend niet in Snapchat. Je kunt de locatie altijd aanzetten via het profiel van deze vriend.";
+"mute_location_alert_cancel" = "Annuleren";
+"mute_location_alert_okay" = "Oké";
+"mute_location_alert_title" = "Weet je zeker dat je de locatie van %1$@ wilt uitzetten?";
+"mute_location_cell_title" = "Demp de locatie van %1$@";
+"mute_location_done_title" = "Klaar";
+"mute_location_failed" = "Kan instellingen voor locatie dempen niet bijwerken. Probeer het opnieuw.";

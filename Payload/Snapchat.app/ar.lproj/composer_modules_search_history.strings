@@ -1,0 +1,6 @@
+"cancel" = "إلغاء";
+"clear_search_history_alert_confirm" = "مسح";
+"clear_search_history_alert_message" = "سيُؤدي هذا إلى مسح سِجِل استفسارات البحث.";
+"clear_search_history_alert_title" = "هل تُريد مسح سِجِل البحث؟";
+"delete_search_history_request_failure_message" = "فشل حذف سِجِل البحث";
+"delete_search_history_request_success_message" = "تم مسح سِجِل البحث!";

@@ -1,0 +1,16 @@
+"chat_notification_update_error_message" = "فشل تحديث إشعار الدردشة. يرجى إعادة المحاولة!";
+"chat_profile_change_retention_hide_policy" = "إخفاء الدردشات...";
+"chat_profile_change_snap_viewing_policy_delete_snaps" = "حذف اللقطات...";
+"chat_profile_change_snap_viewing_policy_title_toggle" = "الاحتفاظ باللقطات في الدردشة";
+"chat_profile_change_snap_viewing_policy_toggle" = "ستبقى اللقطات في الدردشة لمدة 24 ساعة بعد عرضها";
+"chat_profile_setting_confirmation_title" = "تم حفظ إعدادات الدردشة.";
+"chat_profile_setting_keep_snaps_enabled" = "تم تمكين الاحتفاظ باللقطات في الدردشة";
+"pin_conversation_alert_message" = "يُمكنك تثبيت ⁦%1$d⁩ محادثة فقط في الوقت ذاته. حاول إلغاء تثبيت محادثاتك المُثبّتة!";
+"pin_conversation_alert_title" = "تعذّر تثبيت محادثة";
+"snapstreak_reminder" = "تذكير بمتابعة سلسلة اللقطات المتتالية";
+"snapstreak_reminder_confirmation_subtitle" = "تفعيل التذكير بمتابعة سلسلة اللقطات المتتالية";
+"snapstreak_reminder_notification_dialog_cancel" = "إلغاء";
+"snapstreak_reminder_notification_dialog_description" = "لاستخدام هذه الميزة، يجب أن يكون سناب شات قادرًا على إرسال إشعارات إليك";
+"snapstreak_reminder_notification_dialog_okay" = "حسنًا";
+"snapstreak_reminder_notification_dialog_title" = "هل تريد تفعيل الإشعارات؟";
+"snapstreak_reminder_subtitle" = "استقبل الإشعارات قبل ساعة واحدة من انتهاء سلسلة لقطاتك المتتالية";

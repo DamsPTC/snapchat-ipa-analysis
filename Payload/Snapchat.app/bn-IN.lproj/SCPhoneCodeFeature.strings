@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "আমরা আপনাকে %1$@ নম্বরে কল করবো।";
+"alt_send_code_by_sms" = "এসএমএস মারফৎ কোড পাঠান";
+"alt_send_code_by_sms_dialogue" = "আমরা আপনাকে %1$@ নম্বরে এসএমএস কোড পাঠাবো।";
+"error_occurred_message" = "একটি ত্রুটি ঘটেছে। অনুগ্রহ করে পরে আবার চেষ্টা করুন।";
+"ngo_email_instead" = "পরিবর্তে ইমেল ব্যবহার করুন";
+"ngo_phone_verification_description" = "আমরা %1$@-এ যে কোড পাঠিয়েছি সেটি লিখুন";
+"ngo_phone_verification_title" = "আপনার নম্বরটি নিশ্চিত করুন";
+"ngo_submit" = "জমা দিন";
+"ok" = "ঠিক আছে";
+"register_phone_verification_desc" = "আমরা %1$@-এ যে কোড পাঠিয়েছি সেটি লিখুন";
+"register_phone_verification_title" = "নিশ্চিতকরণ কোড লিখুন";
+"resend_code" = "আবার পাঠান";
+"skip_button" = "এড়ান";
+"verifying" = "যাচাই করুন হচ্ছে...";

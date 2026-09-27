@@ -1,0 +1,10 @@
+"privacy_settings_done" = "Fertig";
+"privacy_settings_item" = "Datenschutzeinstellungen";
+"privacy_settings_my_location" = "Mein Standort";
+"privacy_settings_my_story" = "Meine Story";
+"privacy_settings_subtitle_two_items" = "%1$@, %2$@";
+"privacy_settings_title" = "%1$@ kann … anschauen";
+"something_wrong_message" = "Etwas ist schiefgegangen.";
+"success" = "Geschafft!";
+"update_location_privacy_failed" = "Standorteinstellungen konnten nicht aktualisiert werden. Versuch's nochmal.";
+"update_story_privacy_failed" = "Story-Einstellungen konnten nicht aktualisiert werden. Versuch's nochmal.";

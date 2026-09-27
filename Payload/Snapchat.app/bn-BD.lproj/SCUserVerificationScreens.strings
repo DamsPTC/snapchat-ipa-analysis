@@ -1,0 +1,18 @@
+"finish" = "সম্পন্ন";
+"invalid_phone_number_suggestion_title" = "অকার্যকর ফোন নম্বর";
+"ngo_country_title" = "দেশ";
+"ngo_email_instead" = "পরিবর্তে ইমেইল ব্যবহার করুন";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "ইমেইল";
+"ngo_phone_instead" = "পরিবর্তে ফোন নম্বর ব্যবহার করুন";
+"ngo_phone_number_info" = "আমরা আপনাকে একটি SMS যাচাইকরণ কোড পাঠাব।";
+"ngo_phone_number_info_receive_messaging_by_channel" = "আমরা একটি এসএমএস যাচাইকরণ কোড পাঠাব। আপনার নম্বর লেখার মাধ্যমে আপনি এসএমএস বা অন্যান্য মেসেজের চ্যানেলের মাধ্যমে নিজের অ্যাকাউন্ট সম্পর্কে লেনদেন সংক্রান্ত মেসেজ পেতে সম্মত হচ্ছেন।";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "আমরা আপনাকে একটি যাচাইকরণ কোড পাঠাব। আপনার নম্বরটি লিখে, আপনি এসএমএস বা অন্যান্য মেসেজের চ্যানেলগুলির মাধ্যমে নিজের অ্যাকাউন্ট এবং আরো অনেক কিছু সম্পর্কে লেনদেন সংক্রান্ত মেসেজ পাবেন।";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "আমরা আপনাকে একটি যাচাইকরণ কোড পাঠাব। আপনার নম্বরটি লিখে, আপনি এসএমএস বা অন্য মেসেজের চ্যানেলের মাধ্যমে নিজের অ্যাকাউন্ট এবং আরো অনেক কিছু সম্পর্কে লেনদেন সংক্রান্ত মেসেজ পেতে সম্মত হচ্ছেন। Snap আপনার ফোন নম্বর কিভাবে ব্যবহার করে সে সম্পর্কে[আরো জানুন](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number)।";
+"ngo_phone_number_title" = "ফোন নম্বর";
+"ngo_phone_placeholder" = "ফোন নম্বর";
+"phone_suggestion_description" = "%1$@ কার্যকর ফোন নম্বর নয়। আপনি কি \n%2$@ বোঝাতে চাইছিলেন?";
+"register_email_button" = "অথবা ইমেইল দিয়ে সাইন আপ করুন";
+"register_email_error" = "অনুগ্রহ করে একটি কার্যকর ইমেইল ঠিকানা দিন।";
+"skip_button" = "টপকে যান";
+"yes_update" = "হ্যাঁ, আপডেট করুন";

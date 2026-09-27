@@ -1,0 +1,12 @@
+"favorites_tooltip_text" = "Tap to see Favorites";
+"item_one" = "%@ Item";
+"item_other" = "%@ Items";
+"my_shopping_bags" = "Shopping";
+"ok" = "Ok";
+"preferences_title" = "Preferences";
+"recently_viewed_title" = "Recents";
+"recently_viewed_tooltip_text" = "Tap to see Recents";
+"shopping_bag" = "Shopping Bag";
+"shopping_bag_subtitle_product_one" = "%@ product ready for checkout";
+"shopping_bag_subtitle_product_other" = "%@ products ready for checkout";
+"view_all" = "View All";

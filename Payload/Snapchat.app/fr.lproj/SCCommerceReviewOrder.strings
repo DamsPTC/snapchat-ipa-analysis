@@ -1,0 +1,14 @@
+"go_to_checkout" = "Passer au paiement";
+"item_one" = "%1$@ article";
+"item_other" = "%1$@ articles";
+"max_items_error_message" = "%1$@ articles maximum par produit !";
+"my_shopping_bags" = "Sac de shopping";
+"ok" = "Ok";
+"remove" = "Supprimer";
+"returns" = "Retours";
+"review_order" = "Vérifier la commande";
+"see_return_policy" = "Consulter la Politique de retour";
+"select_quantity" = "Sélectionner une quantité";
+"subtotal" = "Sous-total";
+"view_all" = "Voir tout";
+"web_checkout" = "Paiement sur le site web";

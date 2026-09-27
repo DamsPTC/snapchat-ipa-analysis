@@ -1,0 +1,5 @@
+"blitz_preprompt_contact_dialog_description" = "同步联系人后，可以添加联系人为好友、分享 Snap 和查看他们的故事！你的联系人和相关信息将发送到 Snapchat，用于提升你的使用体验，并方便你和他人找到好友。请阅读我们的[隐私政策](https://www.snap.com/privacy/privacy-policy/)，了解详细信息。";
+"blitz_preprompt_contact_dialog_title" = "查找好友";
+"blitz_preprompt_notification_dialog_description" = "你将能够在手机上看到你的好友发出的 Snap 和聊天信息。";
+"blitz_preprompt_notification_dialog_title" = "请开启通知";
+"dont_allow_button" = "不允许";

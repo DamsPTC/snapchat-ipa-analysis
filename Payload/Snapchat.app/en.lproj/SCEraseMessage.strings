@@ -1,0 +1,14 @@
+"cancel_button_prompt" = "Cancel";
+"delete_button_prompt" = "Delete";
+"delete_snap_dialog_title" = "Delete Snap?";
+"delete_snap_group_dialog_body" = "Everyone in the Group can see that you've deleted a Snap.";
+"delete_snap_individual_dialog_body" = "Friends can see that you've deleted a Snap.";
+"delete_snap_learn_more_header" = "What is Delete?";
+"erase_message_group_prompt" = "Everyone in the group can see that you've deleted something.";
+"erase_message_header_prompt" = "Delete Chat?";
+"erase_message_individual_prompt" = "Friends can see that you've deleted something.";
+"erase_message_learn_more" = "When you delete a message, we'll attempt to remove it from our servers and your friends' devices. This might not always work, like if someone has a bad internet connection or an old version of Snapchat.";
+"erase_message_learn_more_action" = "Learn More";
+"erase_message_learn_more_header" = "What is Delete Chat?";
+"erase_message_merlin_learn_more_addendum" = "%@\n\nThis will only delete the message you selected. To delete disappeared messages with My AI, go to Settings > Privacy Controls > Clear Data > Clear My AI Data.";
+"okay_button_prompt" = "Okay";

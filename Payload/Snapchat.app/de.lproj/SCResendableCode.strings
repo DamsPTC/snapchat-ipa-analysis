@@ -1,0 +1,3 @@
+"ngo_resend_code" = "Code erneut senden in %1$lu";
+"ngo_resend_code_button" = "Code erneut senden";
+"resend_wait" = "Warte bitte %1$@ Sek., bevor du den Code anforderst.";

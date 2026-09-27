@@ -1,0 +1,10 @@
+"save_as_2d" = "Save as 2D";
+"save_as_copy_3d_lens_depth_unavailable_body" = "Cannot download depth data needed to save a Stereo 3D Snap.";
+"save_as_copy_3d_lens_depth_unavailable_title" = "3D Save Failed";
+"save_as_copy_3d_lens_detail_prefix" = "You've applied a 3D Lens to this Snap!";
+"save_as_copy_detail_template" = "%@ A copy of this Snap will be saved on the Snaps tab with this effect permanently applied. You'll still have a copy of the original Snap, too.";
+"save_as_copy_magic_moment_detail_prefix" = "You've created a 3D Snap!";
+"save_as_copy_title" = "Save As Copy";
+"save_as_copy_world_lens_detail_prefix" = "You've applied a World Lens to this Snap!";
+"trim_applied_detail" = "You’ve applied a trim, saving will save the newly trimmed Snap as a copy.";
+"trim_applied_title" = "Trim Applied";

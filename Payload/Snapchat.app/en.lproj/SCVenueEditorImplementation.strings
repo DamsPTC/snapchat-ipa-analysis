@@ -1,0 +1,13 @@
+"confirm_error_dialog" = "Done";
+"photo_library_permission_dialog_cancel" = "Cancel";
+"photo_library_permission_dialog_enable" = "Enable";
+"photo_library_permission_dialog_subtitle" = "Add your Camera Roll to include photos of the Place.";
+"photo_library_permission_dialog_title" = "Enable Photos Access";
+"place_offensive" = "This is offensive or inappropriate";
+"place_permanently_closed" = "This place is permanently closed";
+"report_an_issue" = "Report an Issue";
+"report_successful" = "Report sent successfully! Thank you!";
+"report_unsuccessful" = "There was an issue sending the report. Please try again later!";
+"sending_report" = "Sending report...";
+"suggest_an_edit" = "Suggest an edit";
+"suggestion_received" = "Your suggestion has been received and will be published once approved!";

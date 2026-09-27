@@ -1,0 +1,13 @@
+"auth_add_contact_title" = "Ajouter des informations de contact";
+"auth_takeover_done" = "Terminé";
+"auth_takeover_update_email" = "Ajouter votre adresse e-mail";
+"auth_takeover_update_phone" = "Ajouter votre numéro de téléphone";
+"communication_channel_enrollment_confirmation_subtitle" = "Merci d'avoir ajouté vos coordonnées à votre compte.";
+"communication_channel_enrollment_initial_subtitle" = "Ajoutez votre adresse e-mail ou votre numéro de téléphone pour ne pas perdre l'accès à votre compte.";
+"communication_channel_enrollment_last_skip" = "Me le rappeler plus tard (1 rappel restant)";
+"communication_channel_enrollment_no_skips_left" = "Plus tard";
+"communication_channel_enrollment_skip" = "Me le rappeler plus tard";
+"communication_channel_enrollment_subtitle" = "Vous devrez ajouter vos coordonnées pour continuer à utiliser Snapchat.";
+"user_reachability_confirm_contact_title" = "Confirmer les informations de contact";
+"user_reachability_subtitle" = "Votre e-mail et votre numéro de téléphone sont-ils à jour ?";
+"user_reachability_takeover_confirmation" = "Confirmer";

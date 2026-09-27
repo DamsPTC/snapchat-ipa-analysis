@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Мой Snap-код";
+
+"Snapcode Desc" = "Этот виджет показывает ваш Snap-код";
+
+"camera" = "Камера";
+
+"camera_desc" = "Откройте камеру Snapchat.";
+
+"log_in" = "Войти";
+
+"shortcut_to_a_friend" = "Нажмите виджет после его размещения на экране, чтобы выбрать друга или группу.";
+
+"pin_a_friend" = "Закрепить друга или группу";
+
+"birthdays" = "Дни рождения";
+
+"see_upcoming_birthdays" = "Показать ближайшие дни рождения.";
+
+"no_upcoming_birthdays" = "Нет";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ через %2$d день";
+
+"user_has_birthday_in_days_plural" = "%1$@ через %2$d дн.";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d через %3$d день";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d через %3$d дн.";
+
+"Memories" = "Воспоминания";
+
+"Memories Desc" = "Избранные Snap из ваших Воспоминаний —  яркие моменты, поездки, итоги и многое другое!";
+
+"Friend Location Widget Desc" = "Закрепите друга с помощью этого виджета, чтобы увидеть его местоположение.";
+
+"map" = "Карта";
+
+"now" = "сейчас";
+
+"something_went_wrong" = "Что-то пошло не так. Откройте Snapchat";
+
+"long_press_to_pin" = "Зажмите, чтобы закрепить друга";
+
+"off_the_grid" = "Нет на карте";

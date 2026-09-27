@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Mã Snap Của Tôi";
+
+"Snapcode Desc" = "Tiện ích này hiển thị mã Snap của bạn";
+
+"camera" = "Camera";
+
+"camera_desc" = "Mở camera Snapchat.";
+
+"log_in" = "Đăng nhập";
+
+"shortcut_to_a_friend" = "Chạm vào tiện ích sau khi đặt để chọn bạn bè hoặc nhóm.";
+
+"pin_a_friend" = "Ghim Một Người Bạn Hoặc Nhóm";
+
+"birthdays" = "Sinh Nhật";
+
+"see_upcoming_birthdays" = "Xem sắp tới có sinh nhật ai.";
+
+"no_upcoming_birthdays" = "Sắp tới không có sinh nhật ai";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ sau %2$d ngày nữa";
+
+"user_has_birthday_in_days_plural" = "%1$@ sau %2$d ngày nữa";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d sau %3$d ngày";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d sau %3$d ngày";
+
+"Memories" = "Kỉ Niệm";
+
+"Memories Desc" = "Snap Nổi Bật từ Kỉ Niệm, bao gồm hồi ức, chuyến đi, phần nhìn lại, v.v.!";
+
+"Friend Location Widget Desc" = "Ghim một người bạn bằng tiện ích này để xem nhanh vị trí của bạn bè.";
+
+"map" = "Bản Đồ";
+
+"now" = "lúc này";
+
+"something_went_wrong" = "Có lỗi xảy ra, hãy mở Snapchat";
+
+"long_press_to_pin" = "Chỉnh sửa để ghim một người bạn";
+
+"off_the_grid" = "Không kết nối";

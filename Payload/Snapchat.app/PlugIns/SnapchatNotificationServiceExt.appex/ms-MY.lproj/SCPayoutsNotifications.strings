@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Bayaran Tumpuan Baharu!";
+"payouts_push_notification_gifting_title" = "Pembayaran Pemberian Hadiah Baharu!";
+"payouts_push_notification_title_spotlight_challenges" = "Pembayaran Cabaran Tumpuan Baharu!";
+"payouts_push_notification_title_story" = "Pembayaran Cerita Baharu!";
+"payouts_push_notification_title_lens_creator_fund" = "Program Pembayaran Ganjaran Pencipta Lensa Baharu!";
+"payouts_push_notification_title_ildg" = "Pembayaran Lensa Boleh Dibuka Kunci Baharu!";
+"payouts_push_notification_title_cashout_eligible" = "Ganjaran anda akan dikeluarkan secara automatik tidak lama lagi!";
+"payouts_push_notification_title_invalidate_eligible" = "Ganjaran anda akan Menjadi Tidak Sah Tidak Lama Lagi!";
+
+"payouts_push_notification_subtitle_onboarded" = "Tahniah! Semak Bayaran Saya dalam Profil sekarang untuk melihat pendapatan anda!";
+"payouts_push_notification_subtitle_not_onboarded" = "Anda telah mendapat wang daripada Tumpuan. Daftar masuk sekarang ke Profil untuk mendapatkan bayaran!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Anda telah mendapat Kristal daripada Cabaran Tumpuan. Daftar masuk sekarang ke Profil untuk mendapatkan bayaran!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Anda telah mendapat Kristal daripada Hadiah. Daftar masuk sekarang ke Profil untuk mendapatkan bayaran!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Anda telah mendapat Kristal daripada Cerita. Daftar masuk sekarang ke Profil untuk mendapatkan bayaran!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Anda telah mendapat Kristal daripada Program Ganjaran Pencipta Lensa. Daftar masuk sekarang ke Profil untuk mendapatkan bayaran!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Anda telah mendapat Kristal daripada Lensa Boleh dibuka kunci. Daftar masuk sekarang ke Profil untuk mendapatkan bayaran!";
+"payouts_push_notification_subtitle_cashout_eligible" = "Ganjaran Kristal anda akan dikeluarkan secara automatik pada %1$@ jika tiada tindakan diambil. Semak Kristal Saya di Profil untuk menyelesaikannya.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Ganjaran Kristal anda akan menjadi tidak sah pada %1$@ jika tiada tindakan diambil. Semak Kristal Saya di Profil untuk menyelesaikannya.";
+
+"payouts_state_title" = "Status Pembayaran Telah Dikemas Kini!";
+"payouts_state_subtitle" = "Status kelayakan Pembayaran anda telah dikemas kini. Semak Kristal Snap Saya di Profil untuk melihat status anda!";
+"gifting_opened_gift" = "%1$@ telah membuka hadiah anda!";
+"gifting_support_thanks" = "Terima kasih kerana menyokong mereka di Snapchat.";
+

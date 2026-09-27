@@ -1,0 +1,8 @@
+"enable_precise_location_dialog_subtitle" = "L'activation de %1$@ désactivera le mode Fantôme. %2$@";
+"enable_precise_location_dialog_title" = "Vous devez activer %1$@ dans les réglages iOS.";
+"enable_precise_location_instruction" = "2. Activez %1$@.";
+"learn_more" = "En savoir plus.";
+"no_thanks_button_title" = "Non merci";
+"open_settings_button_title" = "Ouvrir les réglages";
+"precise_location_option_name" = "la Position exacte";
+"select_location_instruction" = "1. Sélectionnez Service de localisation.";

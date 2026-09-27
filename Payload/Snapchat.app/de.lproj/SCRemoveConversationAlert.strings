@@ -1,0 +1,4 @@
+"remove_conversation_alert_body" = "Dadurch wird %1$@ aus deinem Feed entfernt und alle deine gespeicherten und gesendeten Nachrichten werden gelöscht.";
+"remove_conversation_alert_cancel_button" = "Abbrechen";
+"remove_conversation_alert_confirm_button" = "Löschen";
+"remove_conversation_alert_title" = "Konversation entfernen";

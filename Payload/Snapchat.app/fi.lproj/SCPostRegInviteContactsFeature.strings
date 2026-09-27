@@ -1,0 +1,3 @@
+"invite_sms_rate_limit_body" = "Voit lähettää enimmillään 10 kutsua tällä hetkellä.";
+"invite_sms_rate_limit_okay" = "OK";
+"invite_sms_rate_limit_title" = "Saavutit rajan.";

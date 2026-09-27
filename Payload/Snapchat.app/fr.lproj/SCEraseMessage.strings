@@ -1,0 +1,14 @@
+"cancel_button_prompt" = "Annuler";
+"delete_button_prompt" = "Supprimer";
+"delete_snap_dialog_title" = "Supprimer le Snap ?";
+"delete_snap_group_dialog_body" = "Tous les membres du groupe verront que vous avez supprimé un Snap.";
+"delete_snap_individual_dialog_body" = "Vos ami·e·s verront que vous avez supprimé un Snap.";
+"delete_snap_learn_more_header" = "Qu'est-ce que la suppression ?";
+"erase_message_group_prompt" = "Tous les membres du groupe pourront voir que vous avez supprimé quelque chose.";
+"erase_message_header_prompt" = "Supprimer le Chat ?";
+"erase_message_individual_prompt" = "Vos ami·e·s verront que vous avez supprimé quelque chose.";
+"erase_message_learn_more" = "Lorsque vous effacez un message, nous essayons de le supprimer de nos serveurs et des appareils de vos ami·e·s. Mais cela ne fonctionne pas toujours, par exemple lorsqu'un utilisateur dispose d'une mauvaise connexion à Internet ou d'une ancienne version de Snapchat.";
+"erase_message_learn_more_action" = "En savoir plus";
+"erase_message_learn_more_header" = "Qu'est-ce que la suppression d'un Chat ?";
+"erase_message_merlin_learn_more_addendum" = "%1$@\n\nSeuls les messages que vous avez sélectionnés seront supprimés. Pour supprimer les échanges avec My AI qui ont disparu, accédez à Réglages > Contrôles de confidentialité > Effacer les données > Effacer les données de My AI.";
+"okay_button_prompt" = "Ok";

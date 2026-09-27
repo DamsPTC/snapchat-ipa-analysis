@@ -1,0 +1,5 @@
+"captcha_error_loading_msg" = "Bilder konnten nicht geladen werden. Bitte überprüfe deine Internetverbindung und versuch´s nochmal.";
+"captcha_error_verifying_msg" = "Beim Versenden deiner Antwort ist ein Problem aufgetreten. Bitte überprüfe deine Internetverbindung und versuch´s nochmal.";
+"captcha_failure_verifying_msg" = "Du hast nicht alle Bilder gefunden";
+"register_captcha_title" = "Zeig uns, dass du kein Roboter bist.";
+"try_again" = "Versuchs nochmal";

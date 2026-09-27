@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Hylkää";
+
+"add_a_chat" = "Lisää chat...";
+
+"are_you_sure_you_want_to_abandon" = "Haluatko varmasti hylätä snappiteoksesi?";
+
+"best_friends_header" = "BF:t";
+
+"groups_header" = "Ryhmät";
+
+"friends_header" = "Kaverit";
+
+"send" = "Lähetä";
+
+"cancel" = "Peruuta";
+
+"cannot_add_more_snapchatters" = "Snapchattaajia ei voida enää lisätä!";
+
+
+"login_before_sharing_message" = "Kirjaudu Snapchattiin ennen jakamista.";
+
+"login_before_sharing_title" = "Kirjautuminen vaaditaan";
+
+"me_hint" = "(minä)";
+
+"noticed_new_acct_sharing_message" = "Väärä tili!";
+
+"noticed_new_acct_sharing_title" = "Oletko vaihtanut tiliä? Lähetä Snap kirjautumalla uudelleen sisään, tai aloita alusta.";
+
+"okay" = "OK";
+
+"open_before_sharing_message" = "Avaa Snapchat ennen jakamista.";
+
+"open_before_sharing_title" = "Avaa Snapchat";
+
+"problem_sharing_try_again" = "Jokin meni vikaan. Yritä uudelleen.";
+
+"recents_header" = "Viimeaikaiset";
+
+"search_text_view_hint" = "Etsi";
+
+"send_to" = "Lähetä käyttäjälle ...";
+
+"try_again" = "Yritä uudelleen";
+
+"video_too_long" = "Jaettujen videoiden täytyy olla alle 60 sekuntia pitkiä.";
+
+"video_too_long_with_maximum_duration_desc" = "Jaettujen videoiden täytyy olla alle %1$ld sekuntia pitkiä.";
+
+"stories_header" = "Tarinat";
+
+"my_story" = "Oma tarinani";

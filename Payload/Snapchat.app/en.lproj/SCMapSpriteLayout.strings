@@ -1,0 +1,16 @@
+"let_friend_see_my_location" = "Let %@ see my location";
+"live_location_cant_reach" = "Can't reach %@";
+"live_location_last_seen_here" = "Last seen here %@ ago";
+"live_location_turn_on_notifications" = "Turn on notifications to share Live";
+"live_location_update_location_permissions" = "Your Live Location is not updating";
+"location_accuracy_callout" = "Enable Precise Location";
+"map_and_others" = "& %@";
+"map_location_accuracy" = "within ~%@";
+"map_name_and_name" = "%@ & %@";
+"map_name_and_others" = "%@ & %lu more";
+"map_seen_timestamp_within_x_units" = "Seen %1$@ - %2$@";
+"map_x_more" = "%lu more";
+"sharing_live_location" = "Sharing Live Location";
+"updating_live_location" = "Updating Live Location...";
+"widget_callout_text_cluster" = "See a friend's location\non your home screen!";
+"widget_callout_text_friend" = "See %@'s location\non your home screen!";

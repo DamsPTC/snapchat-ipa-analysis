@@ -1,0 +1,18 @@
+"finish" = "Udfør";
+"invalid_phone_number_suggestion_title" = "Ugyldigt telefonnummer";
+"ngo_country_title" = "Land";
+"ngo_email_instead" = "Brug e-mail i stedet";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "E-mail";
+"ngo_phone_instead" = "Brug telefonnummer i stedet";
+"ngo_phone_number_info" = "Vi sender dig en bekræftelseskode via sms.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Vi sender dig en bekræftelseskode via sms. Når du indtaster dit nummer, accepterer du at modtage transaktionsmeddelelser vedrørende din konto via SMS eller en anden beskedtjeneste.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Vi sender dig en bekræftelseskode. Når du indtaster dit nummer, modtager du transaktionsmeddelelser vedrørende din konto via sms eller andre beskedtjenester m.m.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Vi sender dig en bekræftelseskode. Når du indtaster dit nummer, accepterer du at modtage transaktionsmeddelelser vedrørende din konto via sms eller en anden beskedtjeneste. [Få mere at vide](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) om, hvordan Snap bruger dit telefonnummer.";
+"ngo_phone_number_title" = "Telefonnummer";
+"ngo_phone_placeholder" = "Telefonnummer";
+"phone_suggestion_description" = "%1$@ er ikke et gyldigt telefonnummer. Mente du\n%2$@?";
+"register_email_button" = "Tilmeld dig med e-mail i stedet";
+"register_email_error" = "Indtast en gyldig e-mailadresse.";
+"skip_button" = "Spring over";
+"yes_update" = "Ja, opdater";

@@ -1,0 +1,9 @@
+"landing_context" = "यह लॉगिन कुछ सामान्य नहीं लग रहा है! अपने अकाउंट को सुरक्षित रखने के लिए, प्लीज़ इन विकल्पों में से किसी एक के माध्यम से अपना अकाउंट सत्यापित करें।";
+"landing_message_note" = "*मैसेज और डेटा दरें लागू हो सकती हैं।";
+"landing_options_radio_phone" = "टेक्स्ट मैसेज";
+"landing_title" = "संदिग्ध लॉगिन";
+"retry_message" = "कुछ गड़बड़ी आई। फिर से कोशिश करें।";
+"verification_description" = "वह कोड डालें जिसे हमने \n%1$@ पर भेजा था";
+"verification_title" = "सत्यापन कोड डालें";
+"verification_unable_to_verify" = "सत्यापन में कोई दिक्कत?";
+"verification_unable_to_verify_dialog" = "ओह नहीं! हम आपका अकाउंट सत्यापित नहीं कर पाए। सहायता के लिए प्लीज़ Snapchat सपोर्ट टीम से संपर्क करें।";

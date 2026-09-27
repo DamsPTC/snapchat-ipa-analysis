@@ -1,0 +1,13 @@
+"auth_add_contact_title" = "Voeg contactgegevens toe";
+"auth_takeover_done" = "Klaar";
+"auth_takeover_update_email" = "Je e-mailadres toevoegen";
+"auth_takeover_update_phone" = "Je telefoonnummer toevoegen";
+"communication_channel_enrollment_confirmation_subtitle" = "Bedankt voor het toevoegen van je contactgegevens aan je account.";
+"communication_channel_enrollment_initial_subtitle" = "Voeg je e-mailadres en telefoonnummer toe, zodat je de toegang tot je account niet verliest.";
+"communication_channel_enrollment_last_skip" = "Help me later herinneren (1 over)";
+"communication_channel_enrollment_no_skips_left" = "Later doen";
+"communication_channel_enrollment_skip" = "Help me later herinneren";
+"communication_channel_enrollment_subtitle" = "Je moet je contactgegevens toevoegen indien je Snapchat wilt blijven gebruiken.";
+"user_reachability_confirm_contact_title" = "Contactgegevens bevestigen";
+"user_reachability_subtitle" = "Zijn je e-mailadres en telefoonnummer up-to-date?";
+"user_reachability_takeover_confirmation" = "Bevestigen";

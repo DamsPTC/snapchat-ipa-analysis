@@ -1,0 +1,17 @@
+"calibration_cancel_alert_body" = "هل أنت متأكد من أنك تريد إيقاف المعايرة؟ إذا لم تكمل المعايرة، فربما لا يتمكن Pixy من متابعة مسارات الطيران المحددة مسبقًا بنفس درجة الدقة.";
+"calibration_cancel_alert_title" = "هل تريد إلغاء المعايرة؟";
+"calibration_done_tray_title" = "انتهيت تقريبًا. ستتم إعادة تشغيل جهاز Pixy لإكمال عملية المعايرة.";
+"calibration_error_alert_body" = "تعذّر على Pixy إكمال المعايرة. يُرجى إعادة محاولة المعايرة لاحقًا. من أجل تحقيق أفضل النتائج، تحقّق من اتصالك بالشبكة وثبّت Pixy في أثناء المعايرة.";
+"calibration_error_alert_title" = "تعذّرت المعايرة";
+"calibration_loading_screen_body" = "قد يستغرق هذا بضع دقائق";
+"calibration_loading_screen_title" = "جارٍ الإعداد للمعايرة";
+"calibration_page_title" = "معايرة Pixy";
+"calibration_success_tray_title" = "هذا كل شيء. بذلك تكون معايرة Pixy قد اكتملت.";
+"calibration_video_download_failure_alert_body" = "تعذّر بدء المعايرة. يُرجى التحقّق من اتصالك بالإنترنت والمحاولة مرة أخرى.";
+"calibration_video_download_failure_alert_title" = "تعذّر بدء المعايرة";
+"calibration_x_down_tray_title" = "اقلب Pixy وضعه على سطح مستوٍ مع جعل القرص مواجهًا لأسفل.";
+"calibration_x_up_tray_title" = "ضع Pixy على سطح مستوٍ مع جعل القرص مواجهًا لأعلى.";
+"calibration_y_down_tray_title" = "ثبّت جانب Pixy على سطح مستوٍ بحيث تكون الكاميرا مواجهة لك ويكون القرص على جانبك الأيسر.";
+"calibration_y_up_tray_title" = "ثبّت جانب Pixy على سطح مستوٍ بحيث تكون الكاميرا بعيدة عنك ويكون القرص على جانبك الأيسر.";
+"calibration_z_down_tray_title" = "ثبّت جانب Pixy على سطح مستوٍ بحيث تكون الكاميرا مواجهة لأعلى.";
+"calibration_z_up_tray_title" = "ثبّت جانب Pixy على سطح مستوٍ بحيث تكون الكاميرا مواجهة لأسفل.";

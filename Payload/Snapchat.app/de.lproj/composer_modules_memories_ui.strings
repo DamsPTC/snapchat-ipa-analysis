@@ -1,0 +1,7 @@
+"deselect_all" = "Auswahl aufheben";
+"okay" = "Okay";
+"segment_thumbnail_duration" = "$0 Sek.";
+"segment_thumbnail_duration_in_minutes" = "$0 Min.";
+"segment_thumbnail_duration_in_minutes_and_seconds" = "$0 Min. $1 Sek.";
+"select_all" = "Alle auswählen";
+"select_limit_items" = "Sorry, du kannst nur $0 Objekte auf einmal auswählen.";

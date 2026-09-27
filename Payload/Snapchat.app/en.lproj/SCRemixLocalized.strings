@@ -1,0 +1,12 @@
+"remix_add_to_my_story" = "Add to My Story";
+"remix_create_post" = "Create Post";
+"remix_error_record_more_additional_snaps" = "Record at least %.01f seconds.";
+"remix_error_stitch_minimum_duration" = "Select at least %.01f seconds of the remixed snap.";
+"remix_error_total_snap_duration" = "The total snap must be at least %.01f seconds.";
+"remix_explanation_text" = "Anyone mentioned in Story Snaps can Remix and Share";
+"remix_mention_privacy_prompt_description_no_toggle" = "Anyone you mention can use your Snap to create their own, we call this a Remix. %1$@\n\nEach Remix has its own lifespan, can be saved, and can be used by others to create additional Remixes.\n\nDeleting your Snap will not delete any existing Remix that contains content from your Snap.";
+"remix_mention_privacy_prompt_learn_more_link" = "Learn More";
+"remix_mention_privacy_prompt_title" = "Mentions Can Remix";
+"remix_promoted_cta_text" = "Remix and share";
+"remix_remix_to_my_story" = "Remix to My Story";
+"remix_text" = "Remix";

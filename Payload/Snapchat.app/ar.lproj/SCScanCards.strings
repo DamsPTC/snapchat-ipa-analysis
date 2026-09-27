@@ -1,0 +1,15 @@
+"cancel" = "إلغاء";
+"new" = "جديد";
+"okay" = "حسنًا";
+"open" = "فتح";
+"reporting_dialog_action_inappropriate" = "إنها غير ملائمة";
+"reporting_dialog_action_irrelevant" = "لا علاقة لها بشيء";
+"reporting_dialog_body" = "يساعد بلاغك في الحفاظ على أمان سناب شات ومجتمعنا.";
+"reporting_dialog_header" = "الإبلاغ عن هذه النتيجة";
+"scan_results" = "نتائج المسح الضوئي";
+"screenshop" = "تسوُّق المنتجات الظاهرة في لقطة الشاشة";
+"see_less" = "عرض محتوى أقل";
+"see_more" = "شاهد المزيد";
+"see_more_with_count" = "الاطلاع على المزيد (⁦%1$i⁩)";
+"unsupported_snapcode_alert_dialog_subtitle" = "يُرجى الضغط على زر المسح الضوئي على شريط التنقل الأساسي لإلغاء قفل رمز Snap.";
+"unsupported_snapcode_alert_dialog_title" = "عفوًا...\nانتقلت رموز Snap أسفل زر المسح الضوئي";

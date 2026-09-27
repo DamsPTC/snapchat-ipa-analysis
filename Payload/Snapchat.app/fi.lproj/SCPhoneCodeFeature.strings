@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "Soitamme sinulle numeroon %1$@.";
+"alt_send_code_by_sms" = "Lähetä koodi tekstiviestinä";
+"alt_send_code_by_sms_dialogue" = "Lähetämme sinulle tekstiviestikoodin numeroon %1$@.";
+"error_occurred_message" = "Tapahtui virhe. Yritä myöhemmin uudelleen.";
+"ngo_email_instead" = "Käytä sen sijaan sähköpostia";
+"ngo_phone_verification_description" = "Anna numeroon %1$@ lähetetty koodi";
+"ngo_phone_verification_title" = "Vahvista puhelinnumero";
+"ngo_submit" = "Lähetä";
+"ok" = "OK";
+"register_phone_verification_desc" = "Anna koodi, jonka lähetimme numeroon %1$@";
+"register_phone_verification_title" = "Syötä vahvistuskoodi";
+"resend_code" = "Lähetä uudelleen";
+"skip_button" = "Ohita";
+"verifying" = "Vahvistetaan...";

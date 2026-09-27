@@ -1,0 +1,7 @@
+"schedule_action_sheet_header" = "Schedule Story Post";
+"schedule_action_sheet_navigation_title" = "Schedule Post";
+"schedule_action_sheet_option_later" = "Select time and date...";
+"schedule_action_sheet_option_now" = "Post now";
+"schedule_remove_alert_accept" = "Remove Schedule";
+"schedule_remove_alert_text" = "Only Public Story Snaps can be scheduled. You can remove scheduling in order to add this Snap to another Story destination.";
+"schedule_remove_alert_title" = "Remove Scheduling To Add This Snap To Another Story?";

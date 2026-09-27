@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Mein Snapcode";
+
+"Snapcode Desc" = "Dieses Widget zeigt deinen Snapcode an";
+
+"camera" = "Kamera";
+
+"camera_desc" = "Öffne die Snapchat Kamera.";
+
+"log_in" = "Einloggen";
+
+"shortcut_to_a_friend" = "Tippe auf den Widget nach dem Platzieren, um einen Freund oder eine Gruppe auszuwählen.";
+
+"pin_a_friend" = "Einen Freund oder eine Gruppe anpinnen";
+
+"birthdays" = "Geburtstage";
+
+"see_upcoming_birthdays" = "Anstehende Geburtstage ansehen.";
+
+"no_upcoming_birthdays" = "Keine stehen an";
+
+"user_and_other_have_birthday" = "%1$@ + %2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ in %2$d Tag";
+
+"user_has_birthday_in_days_plural" = "%1$@ in %2$d Tagen";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ + %2$d in %3$d Tag";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ + %2$d in %3$d Tagen";
+
+"Memories" = "Memorys";
+
+"Memories Desc" = "Veröffentlichte Snaps in deinen Memorys, z. B. Flashbacks, Reisen und Rückblicke.";
+
+"Friend Location Widget Desc" = "Mit diesem Widget kannst du einen Freund pinnen, um kurz seinen Standort zu sehen.";
+
+"map" = "Karte";
+
+"now" = "jetzt";
+
+"something_went_wrong" = "Da ist was schiefgelaufen, bitte öffne Snapchat.";
+
+"long_press_to_pin" = "Bearbeiten, um einen Freund zu markieren";
+
+"off_the_grid" = "Untergetaucht";

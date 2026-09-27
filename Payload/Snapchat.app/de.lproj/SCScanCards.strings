@@ -1,0 +1,15 @@
+"cancel" = "Abbrechen";
+"new" = "NEU";
+"okay" = "Okay";
+"open" = "Öffnen";
+"reporting_dialog_action_inappropriate" = "Es ist unangemessen";
+"reporting_dialog_action_irrelevant" = "Es ist irrelevant";
+"reporting_dialog_body" = "Deine Meldung trägt dazu bei, dass Snapchat und unsere Community sicher bleiben.";
+"reporting_dialog_header" = "Dieses Ergebnis melden";
+"scan_results" = "Ergebnisse des Scans";
+"screenshop" = "Screenshop";
+"see_less" = "Weniger zeigen";
+"see_more" = "Mehr anzeigen";
+"see_more_with_count" = "Mehr anzeigen (%1$i)";
+"unsupported_snapcode_alert_dialog_subtitle" = "Drücke den Button „Scannen“ in der Hauptnavigationsleiste, um deinen Snapcode zu entsperren.";
+"unsupported_snapcode_alert_dialog_title" = "Hoppla …\nSnapcodes ist unter den Button „Scannen“ gerutscht";

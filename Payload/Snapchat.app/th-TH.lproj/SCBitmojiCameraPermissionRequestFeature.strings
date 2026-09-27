@@ -1,0 +1,9 @@
+"bitmoji_camera_permission_continue_button" = "สร้างโดยใช้กล้อง";
+"bitmoji_camera_permission_continue_button_new" = "ดำเนินการต่อ";
+"bitmoji_camera_permission_desc" = "แค่มองกล้องแล้วก็เลือกอวาตาร์ที่เหมือนคุณ";
+"bitmoji_camera_permission_pre_prompt_accept" = "ตกลง";
+"bitmoji_camera_permission_pre_prompt_deny" = "ไม่ใช่ตอนนี้";
+"bitmoji_camera_permission_pre_prompt_desc" = "อนุญาตให้เข้าถึงกล้อง และสร้าง Bitmoji ได้ในทันทีโดยการถ่ายเซลฟี่";
+"bitmoji_camera_permission_pre_prompt_title" = "เปิดใช้งานการเข้าถึงกล้อง";
+"bitmoji_camera_permission_skip_button" = "ข้าม";
+"bitmoji_camera_permission_title" = "สร้าง Bitmoji ของคุณ";

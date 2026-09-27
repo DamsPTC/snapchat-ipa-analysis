@@ -1,0 +1,15 @@
+"search_placeholder" = "Haku";
+"sig_action_bar_done" = "Valmis";
+"sig_action_bar_more" = "Lisää";
+"sig_header_dismiss_accessibility_label" = "Ohita";
+"sig_index_view_favorites_image_accessibility_label" = "Suosikit";
+"sig_index_view_groups_image_accessibility_label" = "Ryhmät";
+"sig_index_view_quick_adds_image_accessibility_label" = "Ehdotukset";
+"sig_index_view_recents_image_accessibility_label" = "Viimeaikaiset";
+"sig_index_view_snap_stars_image_accessibility_label" = "Snap-tähdet";
+"sig_select_bar_group" = "Ryhmä";
+"sig_send_to_button_accessibility_label" = "Lähetä";
+"toggle_off" = "Pois";
+"toggle_on" = "Päällä";
+"toggle_switch_hint" = "Tämän aktivointi kytkee valitsimen päälle tai pois päältä.";
+"toggle_switch_label" = "Valitsin päälle/pois";

@@ -1,0 +1,17 @@
+"calibration_cancel_alert_body" = "¿Confirmas que quieres cancelar la calibración? Si no finalizas la calibración, es posible que Pixy no pueda seguir los trayectos de vuelo predeterminados con tanta precisión.";
+"calibration_cancel_alert_title" = "¿Cancelar calibración?";
+"calibration_done_tray_title" = "¡Casi todo listo! Ahora, tu Pixy se reiniciará para finalizar la calibración.";
+"calibration_error_alert_body" = "Pixy no pudo completar la calibración. Vuelve a intentarlo más tarde. Para obtener mejores resultados, verifica tu conexión de red y mantén quieto el Pixy durante la calibración.";
+"calibration_error_alert_title" = "No se pudo calibrar";
+"calibration_loading_screen_body" = "Esto podría tardar unos minutos";
+"calibration_loading_screen_title" = "Preparando para calibrar";
+"calibration_page_title" = "Calibración de Pixy";
+"calibration_success_tray_title" = "¡Listo! Ahora tu Pixy está calibrado.";
+"calibration_video_download_failure_alert_body" = "No se pudo iniciar la calibración. Verifica tu conexión a Internet y vuelve a intentarlo.";
+"calibration_video_download_failure_alert_title" = "No se pudo iniciar la calibración";
+"calibration_x_down_tray_title" = "Voltea el Pixy y colócalo en una superficie plana con el dial hacia abajo.";
+"calibration_x_up_tray_title" = "Coloca el Pixy en una superficie plana con el dial hacia arriba.";
+"calibration_y_down_tray_title" = "Sostén un costado del Pixy sobre una superficie plana de modo que la cámara apunte hacia ti y el dial quede a la izquierda.";
+"calibration_y_up_tray_title" = "Sostén un costado del Pixy sobre una superficie plana de modo que la cámara no apunte hacia ti y el dial quede a la izquierda.";
+"calibration_z_down_tray_title" = "Sostén un costado del Pixy sobre una superficie plana de modo que la cámara quede hacia arriba.";
+"calibration_z_up_tray_title" = "Sostén un costado del Pixy sobre una superficie plana de modo que la cámara quede hacia abajo.";

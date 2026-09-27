@@ -1,0 +1,6 @@
+"cheerios_not_found_message" = "Vergewissere dich, dass deine Pixy in der Nähe und aufgeladen ist.";
+"cheerios_update_version" = "Pixy-Update %1$@";
+"my_cheerios" = "MEINE PIXY";
+"need_help_cheerios" = "Ich brauche Hilfe mit Pixy";
+"not_connected" = "Nicht verbunden";
+"update_settings_fail_body_cheerios" = "Deine Pixy-Einstellungen konnten nicht aktualisiert werden. Bitte versuchs später nochmal.";

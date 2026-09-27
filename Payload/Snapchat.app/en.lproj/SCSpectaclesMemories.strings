@@ -1,0 +1,2 @@
+"cheerios_delete_multiple_prompt" = "This selection contains Snap(s) imported from Pixy that are no longer on your device. Deleting them will also remove them from the Snaps saved in your Memories.";
+"cheerios_delete_single_prompt" = "This Snap was imported from Pixy and is no longer on your device. Deleting it will also remove it from the Snaps saved in your Memories.";

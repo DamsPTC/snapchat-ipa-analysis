@@ -1,0 +1,159 @@
+{
+  "identifier" : "AF3B9CF3",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "93CA2871",
+      "localizations" : [
+        {
+          "description" : "Add 9.99 to your balance",
+          "displayName" : "Add 9.99",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.snapchat.promote.999",
+      "referenceName" : "Snap Promote 9.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "320F9A85",
+      "localizations" : [
+        {
+          "description" : "Add 19.99 to your balance",
+          "displayName" : "Add 19.99",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.snapchat.promote.1999",
+      "referenceName" : "Snap Promote 19.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "24.99",
+      "familyShareable" : false,
+      "internalID" : "4B37EB12",
+      "localizations" : [
+        {
+          "description" : "Add 24.99 to your balance",
+          "displayName" : "Add 24.99",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.snapchat.promote.2499",
+      "referenceName" : "Snap Promote 24.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "4C7E6C6F",
+      "localizations" : [
+        {
+          "description" : "Add 49.99 to your balance",
+          "displayName" : "Add 49.99",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.snapchat.promote.4999",
+      "referenceName" : "Snap Promote 49.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "99.99",
+      "familyShareable" : false,
+      "internalID" : "ACDA98BA",
+      "localizations" : [
+        {
+          "description" : "Add 99.99 to your balance",
+          "displayName" : "Add 99.99",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.snapchat.promote.9999",
+      "referenceName" : "Snap Promote 99.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "249.99",
+      "familyShareable" : false,
+      "internalID" : "6A7736C0",
+      "localizations" : [
+        {
+          "description" : "Add 249.99 to your balance",
+          "displayName" : "Add 249.99",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.snapchat.promote.24999",
+      "referenceName" : "Snap Promote 249.99",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false,
+    "_billingIssuesEnabled" : false,
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

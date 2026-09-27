@@ -1,0 +1,10 @@
+"me" = "Yo";
+"save_story_tooltip_education" = "¡Se guardó tu Snap de Historia en el Chat! Mantén pulsado para eliminarlo.";
+"saved_participant_story_by_both" = "TÚ Y $0 GUARDARON UN SNAP DE LA HISTORIA DE $1 EN EL CHAT";
+"saved_participant_story_by_paticipant" = "$0 GUARDÓ UN SNAP DE LA HISTORIA DE $1 EN EL CHAT";
+"saved_participant_story_by_you" = "GUARDASTE UN SNAP DE LA HISTORIA DE $0 EN EL CHAT";
+"saved_your_story_by_both" = "TÚ Y $0 GUARDARON UN SNAP DE TU HISTORIA EN EL CHAT";
+"saved_your_story_by_participant" = "$0 GUARDÓ UN SNAP DE TU HISTORIA EN EL CHAT";
+"saved_your_story_by_you" = "GUARDASTE UN SNAP DE TU HISTORIA EN EL CHAT";
+"story_media_deleted" = "Se eliminó este Snap de Historia";
+"tap_to_load" = "Toca para cargar";

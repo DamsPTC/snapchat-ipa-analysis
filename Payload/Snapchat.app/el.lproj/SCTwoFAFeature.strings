@@ -1,0 +1,9 @@
+"connection_error" = "Σφάλμα Σύνδεσης";
+"okay" = "ΟΚ";
+"send_code_again" = "ΑΠΟΣΤΟΛΗ ΚΩΔΙΚΟΥ ΕΚ ΝΕΟΥ";
+"twofa_login_code_verification_otp_to_sms_info" = "Προτιμώ να λάβω SMS";
+"twofa_login_code_verification_otp_to_sms_progress" = "Αποστολή...";
+"twofa_login_code_verification_with_otp_explanation" = "Πληκτρολόγησε τον κωδικό που δημιουργήθηκε από το authentication app σου για να επαληθεύσεις την ταυτότητά σου.";
+"twofa_login_recovery_code_used" = "Χρησιμοποίησες τον κωδικό ανάκτησης για να πραγματοποιήσεις είσοδο. Η επαλήθευση σε 2 βήματα απενεργοποιήθηκε — πήγαινε στις Ρυθμίσεις για να την ενεργοποιήσεις εκ νέου.";
+"twofa_new_device_verification_explanation" = "Εισάγαγε τον κωδικό που στείλαμε στο %1$@ για να επαληθεύσεις την ταυτότητά σου.";
+"twofa_settings_recovery_code_used_title" = "Επαλήθευση σε 2 βήματα απενεργοποιημένη";

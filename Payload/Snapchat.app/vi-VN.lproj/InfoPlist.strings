@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Điều này sẽ cho phép Snapchat kết nối với các phụ kiện bluetooth như kính Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Dùng camera để chụp Snap, chơi với Ống Kính, và hơn thế nữa! Một vài Ống Kính có thể sử dụng tính năng camera TrueDepth của Apple. Đọc Chính Sách Bảo Mật của chúng tôi để biết thêm thông tin.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Danh bạ của bạn sẽ được tải lên máy chủ của Snapchat, nhờ đó bạn và tất cả mọi người có thể tìm bạn bè cũng như nâng cao trải nghiệm sử dụng.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Điều này sẽ cho phép Snapchat kết nối với các phụ kiện hỗ trợ Wi-Fi như kính Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Chọn "Luôn Cho Phép" sẽ cho phép Snapchat cập nhật thông tin vị trí của bạn trong nền để chia sẻ thông tin Vị Trí Trực Tiếp và cải thiện trải nghiệm của bạn.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Chọn "Luôn Cho Phép" sẽ cho phép Snapchat cập nhật thông tin vị trí của bạn trong nền để chia sẻ thông tin Vị Trí Trực Tiếp và cải thiện trải nghiệm của bạn.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat sử dụng tính năng này để tùy chỉnh trải nghiệm của bạn và cho phép bạn khám phá các bộ lọc, story xung quanh bạn và hơn thế nữa.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Sử dụng micrô của bạn để thu âm cho Snap, chat video và hơn thế nữa.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Snapchat ghi lại nếu thiết bị của bạn đặt dọc hoặc ngang khi bạn chụp Snap, sử dụng Ống Kính, đọc Khám Phá và xem quảng cáo.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Chia sẻ nội dung cuộn camera của bạn với bạn bè trên Snap.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Chia sẻ nội dung cuộn camera của bạn với bạn bè trên Snap.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Khi bạn chọn “Cho Phép”, Snap có thể sẽ dần giảm bớt số lượng quảng cáo không liên quan hoặc lặp lại. Hãy xem Chính Sách Bảo Mật của chúng tôi để biết thêm thông tin về tính năng Theo Dõi.</string>
+</dict>
+</plist>

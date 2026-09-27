@@ -1,0 +1,8 @@
+"minis_add_to_favorites_prompt_allow" = "Add to Favorites";
+"minis_add_to_favorites_prompt_allow_and_leave" = "Add to Favorites & Leave";
+"minis_add_to_favorites_prompt_deny" = "Leave";
+"minis_add_to_favorites_prompt_description" = "Add to your Favorites to come back easier next time.";
+"minis_add_to_favorites_prompt_error_notif" = "An error occurred. Please try again.";
+"minis_add_to_favorites_prompt_leave" = "Leave $0?";
+"minis_add_to_favorites_prompt_title" = "Add $0 to Favorites?";
+"minis_add_to_favorites_success_toast_text" = "Added to your Favorites";

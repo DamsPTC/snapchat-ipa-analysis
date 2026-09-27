@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "Les Snaps enregistrés par %1$@ n'ont pas été sauvegardés dans vos Souvenirs. Si vous vous connectez en tant que %2$@, ces Snaps seront perdus. Connectez-vous en tant que %3$@ pour terminer la sauvegarde.";
+"memories_pending_sync_alert_login_action" = "SE CONNECTER QUAND MÊME";
+"memories_pending_sync_alert_registration_action" = "S'INSCRIRE QUAND MÊME";
+"memories_pending_sync_alert_registration_body" = "Les Snaps enregistrés par %1$@ n'ont pas été sauvegardés dans vos Souvenirs. Si vous créez un deuxième compte, ces Snaps seront perdus. Connectez-vous en tant que %2$@ pour terminer la sauvegarde.";
+"memories_pending_sync_alert_title" = "Attendez une seconde !";

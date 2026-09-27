@@ -1,0 +1,3 @@
+"invite_send_fail" = "No se pudo enviar la invitación.";
+"invite_send_success" = "¡Invitación enviada!";
+"invite_sending" = "Enviando a contactos...";

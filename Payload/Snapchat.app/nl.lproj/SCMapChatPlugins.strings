@@ -1,0 +1,15 @@
+"friend_is_sharing_live_location" = "%1$@ deelt nu de live locatie";
+"friend_live_location_session_ended" = "DE LIVE LOCATIE VAN %1$@ WORDT NIET MEER GEDEELD";
+"friend_not_currently_on_map" = "%1$@ staat momenteel niet op de Kaart";
+"friends_live_location" = "Live locatie van %1$@";
+"generic_error_message" = "Deze locatie is niet meer beschikbaar";
+"let_friend_see_your_location" = "Laat %1$@ je locatie zien";
+"live_location_session_stopped" = "%1$@ DEELT GEEN LIVE LOCATIE MEER";
+"loc_shared_but_not_sharing_anymore" = "Je hebt je locatie gedeeld, maar dat doe je nu niet meer";
+"location_muted" = "Locatie uitgezet";
+"me" = "Ik";
+"my_live_location" = "Mijn live locatie";
+"session_expired" = "Sessie is beëindigd";
+"stop_sharing" = "Niet meer delen";
+"you" = "Jij";
+"your_live_location_session_ended" = "JE LIVE LOCATIE WORDT NIET MEER GEDEELD";

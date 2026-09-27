@@ -1,0 +1,5 @@
+"confirm_removal_dialog_body" = "سيعلم ⁦⁦%1$@⁩⁩ وأعضاء المجموعة الآخرون بعملية الإزالة من هذه المجموعة. وسيظل بإمكان \n\n⁦⁦⁦%1$@⁩⁩⁩ رؤية سجل المحادثة وأخذ لقطات شاشة.";
+"confirm_removal_dialog_cancel_button" = "إلغاء";
+"confirm_removal_dialog_confirm_button" = "إزالة";
+"confirm_removal_dialog_title" = "هل تريد إزالة ⁦⁦%1$@⁩⁩؟";
+"remove_action_sheet_cell_text" = "إزالة من المجموعة";

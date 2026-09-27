@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Ini akan membenarkan Snapchat untuk disambungkan ke aksesori bluetooth seperti Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Guna kamera anda untuk ambil Snap, main dengan Lensa dan banyak lagi! Sesetengah Lensa mungkin menggunakan kamera Apple TrueDepth. Lihat Dasar Privasi kami untuk maklumat lanjut.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Senarai kenalan anda akan dimuat naik ke pelayan Snapchat supaya anda dan yang lain boleh mencari rakan dan meningkatkan pengalaman anda.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Ini akan membenarkan Snapchat untuk disambungkan ke aksesori yang didayakan Wi-Fi seperti Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Memilih "Sentiasa Membenarkan" akan membenarkan Snapchat mengemas kini lokasi anda di latar belakang untuk berkongsi Lokasi Langsung dan meningkatkan pengalaman anda.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Memilih "Sentiasa Membenarkan" akan membenarkan Snapchat untuk mengemas kini lokasi anda di latar belakang untuk berkongsi Lokasi Langsung dan meningkatkan pengalaman anda.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat menggunakan ini untuk menyesuaikan pengalaman anda dan membolehkan anda menerokai penapis, cerita dan banyak lagi yang ada di sekeliling anda.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Gunakan mikrofon anda untuk merakam audio untuk Snap, sembang video dan lain-lain lagi.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Snapchat boleh merakam semasa anda ambil Snap, menggunakan Lensa, membaca Terokai dan menonton iklan dalam keadaan peranti anda menegak atau melintang.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Kongsikan kandungan gulungan kamera anda bersama rakan di Snap.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Kongsikan kandungan gulungan kamera anda bersama rakan di Snap.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Dengan memilih “Benarkan,” Snap boleh mengurangkan iklan yang anda rasa tidak relevan atau berulang dari semasa ke semasa. Lihat Dasar Privasi kami untuk maklumat lanjut berkenaan Penjejakan.</string>
+</dict>
+</plist>

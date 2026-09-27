@@ -1,0 +1,4 @@
+"error_title" = "3D Unavailable";
+"frame_error_body" = "3D Effects couldn't be enabled on this frame. It could be too dark, or too close or far from a subject. Try selecting another frame in this video.";
+"ok" = "Ok";
+"snap_error_body" = "3D Effects couldn't be enabled on this Snap. It could be too dark, or too close or far from a subject.";

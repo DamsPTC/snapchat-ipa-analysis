@@ -1,0 +1,9 @@
+"context_add_user" = "Añadir a %1$@";
+"context_remove_user" = "Eliminar a %1$@";
+"group_invite_link_cta_tooltip" = "¡Toca o desliza para unirte al Chat grupal!";
+"public_story_replies_disclaimer" = "%1$@ puede compartir tu respuesta en su Historia pública.";
+"question_sticker_story_reply_disclaimer" = "%1$@ puede compartir tu respuesta";
+"snap_pro_story_replies_dialog_description" = "Evaluaremos las respuestas a Historias para detectar spam y abuso. El destinatario también puede previsualizar y compartir tu respuesta en su Historia pública. Otros Snapchatters pueden ver tu nombre, Bitmoji y el texto de tu mensaje.";
+"snap_pro_story_replies_dialog_send" = "Enviar";
+"snap_pro_story_replies_dialog_title" = "¿Enviar respuesta a la Historia?";
+"snap_pro_story_replies_disclaimer" = "%1$@ puede previsualizar tu respuesta y compartirla en su Historia pública.";

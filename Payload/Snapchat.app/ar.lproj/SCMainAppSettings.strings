@@ -1,0 +1,15 @@
+"contact_delete_all_button" = "حذف جميع بيانات جهات الاتصال";
+"contact_deletion_cell_title" = "جهات الاتصال";
+"contact_deletion_page_header" = "عرض جهات الاتصال";
+"contact_deletion_show_button" = "عرض جهات الاتصال";
+"contact_deletion_sync_toggle" = "مزامنة جهات الاتصال";
+"contact_sync_page_header" = "إدارة جهات الاتصال";
+"delete_contacts_alert_header" = "هل تُريد حذف بيانات جهات الاتصال؟";
+"delete_contacts_alert_no" = "إلغاء";
+"delete_contacts_alert_sub_header" = "عند اختيار تأكيد، فإنك ستحذف جميع جهات الاتصال ولن تستطيع مزامنة جهات الاتصال مع سناب شات. هل أنت متأكد؟";
+"delete_contacts_alert_yes" = "تأكيد";
+"stop_sync_contacts_alert_header" = "هل تُريد إيقاف مزامنة جهات الاتصال؟";
+"stop_sync_contacts_alert_no" = "إلغاء";
+"stop_sync_contacts_alert_sub_header" = "قد يتسبّب تعطيل مزامنة جهات الاتصال في صعوبة العثور على أصدقاء جدد على سناب شات. في حال تعطيل مزامنة جهات الاتصال، لن نُحمّل جهات اتصال جديدة من دفتر عناوينك إلى خوادمنا. وسنستمر في استخدام جهات الاتصال التي حمّلتها بالفعل لمساعدتك على البحث عن أصدقاء وأكثر من ذلك.";
+"stop_sync_contacts_alert_yes" = "تأكيد";
+"view_contacts_with_meta_header" = "هذه هي جهات الاتصال والمعلومات ذات الصلة التي حمّلناها من جهازك. [يمكنك التعرّف على مزيد من المعلومات⁦](https://help.snapchat.com/hc/articles/7012328615828?utm_source=sc&utm_medium=lm&utm_campaign=contacts)⁩ عن البيانات التي نُخزنها من دفتر جهات الاتصال الخاص بك.";

@@ -1,0 +1,9 @@
+"landing_context" = "Parang 'di 'to ang usual na login mo! Para ma-secure ang account mo, maaaring i-verify ang iyong account sa pamamagitan ng sumusunod na mga pagpipilian.";
+"landing_message_note" = "*Message and data rates may apply.";
+"landing_options_radio_phone" = "Text Message";
+"landing_title" = "Suspicious na Login";
+"retry_message" = "Nagkaroon ng problema. Pakisubukan ulit.";
+"verification_description" = "I-enter ang code na pinadala namin sa\n%1$@";
+"verification_title" = "I-enter ang Verification Code";
+"verification_unable_to_verify" = "Nagkaproblema sa pag-verify?";
+"verification_unable_to_verify_dialog" = "Oh no! 'Di namin ma-verify ang account mo. Maaaring kontakin ang Snapchat Support para matulungan ka namin.";

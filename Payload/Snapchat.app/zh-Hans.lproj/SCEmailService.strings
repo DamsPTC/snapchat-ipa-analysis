@@ -1,0 +1,2 @@
+"generic_error" = "出错了，请稍后重试！";
+"update_email_failed_with_code" = "无法更新电子邮件。请重试。\n支持代码：%1$02d";

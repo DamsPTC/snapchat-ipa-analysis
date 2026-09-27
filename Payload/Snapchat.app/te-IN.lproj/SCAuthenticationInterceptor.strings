@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "%1$@తో సేవ్ చేయబడిన Snapలు మెమరీలకు బ్యాకింగ్ అప్ అవ్వడం పూర్తికాలేదు. మీరు %2$@గా లాగిన్ అయితే, ఆ Snapలు పోతాయి. బ్యాకప్‌ని పూర్తి చేయడానికి %3$@ గా మీరు తిరిగి లాగిన్ అవ్వండి.";
+"memories_pending_sync_alert_login_action" = "ఎలాగైనా లాగ్ ఇన్ చేయండి";
+"memories_pending_sync_alert_registration_action" = "ఎలాగైనా సైన్ అప్ అవ్వండి";
+"memories_pending_sync_alert_registration_body" = "%1$@తో సేవ్ చేయబడిన Snapలు మెమరీలకు బ్యాకింగ్ అప్ అవ్వడం పూర్తికాలేదు. మీరు ఒక క్రొత్త ఎకౌంటు‌కి సైన్ అప్ అయితే, ఆ Snapలు పోతాయి. ఆ బ్యాకప్‌ని పూర్తి చేయడానికి %2$@గా తిరిగి లాగిన్ అవ్వండి.";
+"memories_pending_sync_alert_title" = "ఒక సెకను ఆగు!";

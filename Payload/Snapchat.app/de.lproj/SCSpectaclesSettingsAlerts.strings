@@ -1,0 +1,15 @@
+"ota_failed_charger_not_connected_body" = "Bitte schließe deine Spectacles vor dem Update an.";
+"ota_failed_charger_not_connected_title" = "Ladegerät erforderlich";
+"ota_failed_low_battery_body" = "Lade deine Spectacles auf mindestens 40 % auf und versuch’s dann nochmal.";
+"ota_failed_low_battery_title_format" = "Akku schwach (%1$@ %%)";
+"ota_failed_title" = "Update fehlgeschlagen";
+"ota_failed_too_cold_body" = "Deine Spectacles ist für ein Update zu kalt ❄️. Wärme sie auf und versuch’s nochmal.";
+"ota_failed_too_hot_body" = "Deine Spectacles ist für ein Update zu heiß 🔥. Kühle sie etwas ab und versuch’s nochmal.";
+"ota_low_disk_space_body" = "Sieht so aus, als hättest du fast keinen Speicher mehr. Lösche nicht benutzte Apps, Musik oder Fotos, um Platz zu schaffen!";
+"ota_low_disk_space_title" = "Update kann nicht heruntergeladen werden";
+"ota_unlock_body" = "Nach dem Neustart musst du deinen Passcode eingeben. Bitte gib ihn auf deiner Spectacles ein und versuch’s nochmal.";
+"ota_unlock_title" = "Spectacles entsperren";
+"ota_update_required_cancel_title" = "Vielleicht später";
+"ota_update_required_title" = "Update erforderlich";
+"update_error_body" = "Deine Spectacles-Einstellungen konnten nicht aktualisiert werden. Bitte versuch’s nochmal.";
+"update_error_title" = "Etwas ist schiefgelaufen";

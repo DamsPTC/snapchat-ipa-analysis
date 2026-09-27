@@ -1,0 +1,11 @@
+"call_again" = "Call Again";
+"call_back" = "Call Back";
+"dnd_reason_cta_ios" = "Do Not Disturb Settings";
+"dnd_reason_ios" = "while in Do Not Disturb";
+"dweb_upsell" = "Try Web";
+"elapsed_time_with_reason" = "$0 · $1";
+"missed_call" = "Missed Call";
+"missed_calls" = "$0 Missed Calls";
+"num_of_missed_calls" = "x$0";
+"video_call" = "Video Call";
+"voice_call" = "Voice Call";

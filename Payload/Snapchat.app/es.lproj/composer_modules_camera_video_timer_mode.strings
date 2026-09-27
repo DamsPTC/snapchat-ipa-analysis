@@ -1,0 +1,7 @@
+"cancel_button" = "Cancelar";
+"confirm_button" = "Configurar temporizador";
+"dialog_description" = "Configura la duración de tu grabación";
+"dialog_title" = "Temporizador de video";
+"duration_text_in_minutes" = "$0 min";
+"duration_text_in_minutes_and_seconds" = "$0 min $1 s";
+"time_unit_seconds" = "s";

@@ -1,0 +1,4 @@
+"delete_error_message" = "Fehler beim Löschen des Scanverlaufs. Versuch’s später nochmal.";
+"delete_success_message" = "Scanverlauf wurde gelöscht!";
+"done" = "Fertig";
+"error_message" = "Fehler beim Abruf des Scanverlaufs. Versuchs später nochmal.";

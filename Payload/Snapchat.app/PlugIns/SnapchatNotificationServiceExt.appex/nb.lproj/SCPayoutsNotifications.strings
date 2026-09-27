@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Ny Spotlight-utbetaling!";
+"payouts_push_notification_gifting_title" = "Ny gaveutbetaling!";
+"payouts_push_notification_title_spotlight_challenges" = "Ny utbetaling for Spotlight-utfordring!";
+"payouts_push_notification_title_story" = "Ny Stories-utbetaling!";
+"payouts_push_notification_title_lens_creator_fund" = "Ny utbetaling fra belønningsprogrammet for Linse-kreatører!";
+"payouts_push_notification_title_ildg" = "Ny utbetaling for opplåsbare Linser!";
+"payouts_push_notification_title_cashout_eligible" = "Belønningene dine utbetales automatisk snart!";
+"payouts_push_notification_title_invalidate_eligible" = "Belønningene dine blir snart ugyldige!";
+
+"payouts_push_notification_subtitle_onboarded" = "Gratulerer! Sjekk Mine utbetalinger i profilen for å se det du har tjent!";
+"payouts_push_notification_subtitle_not_onboarded" = "Du har tjent penger fra Spotlight! Gå til profilen din for å få betalt!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Du har fått krystaller fra Spotlight-utfordringer. Gå til profilen din for å få betalt.";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Du har fått krystaller fra gaver. Gå til profilen din for å få betalt.";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Du har fått krystaller fra Stories. Gå til profilen din for å få betalt.";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Du har fått krystaller fra belønningsprogrammet for Linse-kreatører. Gå til profilen din for å få betalt.";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Du har fått krystaller fra opplåsbare Linser. Gå til profilen din for å få betalt.";
+"payouts_push_notification_subtitle_cashout_eligible" = "De opptjente krystallene dine utbetales automatisk %1$@ hvis du ikke gjør noe. Sjekk Mine krystaller i profilen din for å løse dette.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "De opptjente krystallene dine blir ugyldige %1$@ hvis du ikke gjør noe. Sjekk Mine krystaller i profilen din for å løse dette.";
+
+"payouts_state_title" = "Utbetalingsstatus er oppdatert.";
+"payouts_state_subtitle" = "Kvalifiseringsstatusen din for utbetalinger er oppdatert. Sjekk Snap-krystallene dine i profilen for å se statusen.";
+"gifting_opened_gift" = "%1$@ åpnet gaven din!";
+"gifting_support_thanks" = "Takk for at du gir din støtte på Snapchat.";
+

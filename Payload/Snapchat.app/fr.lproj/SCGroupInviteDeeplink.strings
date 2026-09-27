@@ -1,0 +1,8 @@
+"group_invite_accept_link_joining_group" = "En train de rejoindre le groupe…";
+"group_invite_cannot_join_group" = "Impossible de rejoindre le groupe";
+"group_invite_confirm_dialog_cancel_button" = "Annuler";
+"group_invite_confirm_dialog_description" = "Toute personne disposant de ce lien peut rejoindre le groupe. Assurez-vous que vous pouvez faire confiance à la personne qui vous l'a envoyé.";
+"group_invite_confirm_dialog_header" = "Rejoindre le groupe ?";
+"group_invite_confirm_dialog_ok_button" = "Rejoindre le groupe";
+"group_invite_creator_not_participant" = "Le Snapchatter qui a partagé %1$@ ne fait plus partie du groupe.";
+"group_invite_link" = "ce lien";

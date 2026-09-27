@@ -1,0 +1,4 @@
+"studio_force_unpair_confirm" = "Les données de connexion de Lens Studio ont été effacées.";
+"studio_force_unpair_status_desc" = "La réinitialisation vous déconnectera de Lens Studio. Toutes les Lenses appliquées seront également retirées de votre carrousel.";
+"studio_force_unpair_status_title" = "Réinitialisation du statut de connexion";
+"studio_settings_tap_to_force_unpair" = "Appuyer";

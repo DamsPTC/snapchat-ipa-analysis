@@ -1,0 +1,4 @@
+"lens_favorites_notifications_error" = "Une erreur s'est produite. Veuillez réessayer.";
+"lens_favorites_notifications_favorited_lens" = "Lens ajoutée aux Favoris !";
+"lens_favorites_notifications_limit_exceeded" = "Limite de Favoris atteinte (%1$@)";
+"lens_favorites_notifications_unfavorited_lens" = "Lens supprimée des Favoris";

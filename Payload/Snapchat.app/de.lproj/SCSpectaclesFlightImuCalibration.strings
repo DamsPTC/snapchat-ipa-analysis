@@ -1,0 +1,17 @@
+"calibration_cancel_alert_body" = "Möchtest du die Kalibrierung wirklich beenden? Ohne Kalibrierung kann Pixy festgelegten Flugwegen eventuell nicht präzise folgen.";
+"calibration_cancel_alert_title" = "Kalibrierung abbrechen?";
+"calibration_done_tray_title" = "Fast geschafft. Deine Pixy wird jetzt neu gestartet, um die Kalibrierung abzuschließen.";
+"calibration_error_alert_body" = "Die Kalibrierung von Pixy ist fehlgeschlagen. Versuchs später nochmal. Stelle dabei sicher, dass eine Netzwerkverbindung besteht, und halte Pixy während der Kalibrierung still.";
+"calibration_error_alert_title" = "Kalibrierung fehlgeschlagen";
+"calibration_loading_screen_body" = "Das kann ein paar Minuten dauern";
+"calibration_loading_screen_title" = "Kalibrierung wird vorbereitet";
+"calibration_page_title" = "Pixy-Kalibrierung";
+"calibration_success_tray_title" = "Das wars! Pixy ist jetzt kalibriert.";
+"calibration_video_download_failure_alert_body" = "Kalibrierung konnte nicht gestartet werden. Überprüfe deine Internetverbindung und versuchs nochmal.";
+"calibration_video_download_failure_alert_title" = "Kalibrierung konnte nicht gestartet werden";
+"calibration_x_down_tray_title" = "Drehe Pixy um und platziere sie auf einer ebenen Fläche mit dem Knopf nach unten.";
+"calibration_x_up_tray_title" = "Platziere Pixy auf einer ebenen Fläche mit dem Knopf nach oben.";
+"calibration_y_down_tray_title" = "Halte Pixy seitlich auf einer ebenen Fläche, sodass die Kamera zu dir zeigt und sich der Knopf zu deiner Linken befindet.";
+"calibration_y_up_tray_title" = "Halte Pixy seitlich auf einer ebenen Fläche, sodass die Kamera von dir weg zeigt und sich der Knopf zu deiner Linken befindet.";
+"calibration_z_down_tray_title" = "Halte Pixy seitlich auf einer ebenen Fläche, sodass die Kamera nach oben zeigt.";
+"calibration_z_up_tray_title" = "Halte Pixy seitlich auf einer ebenen Fläche, sodass die Kamera nach unten zeigt.";

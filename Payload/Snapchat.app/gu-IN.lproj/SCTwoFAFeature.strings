@@ -1,0 +1,9 @@
+"connection_error" = "કનેક્શનમાં ત્રુટિ";
+"okay" = "ઓકે";
+"send_code_again" = "કોડ ફરીથી મોકલો";
+"twofa_login_code_verification_otp_to_sms_info" = "એને બદલે મને SMS મોકલો";
+"twofa_login_code_verification_otp_to_sms_progress" = "મોકલી રહ્યા છીએ...";
+"twofa_login_code_verification_with_otp_explanation" = "તમારી ઓળખની ખાતરી કરવા માટે કૃપા કરીને તમારી પ્રમાણીકરણ ઍપ દ્વારા બનાવવામાં આવેલ કોડ દાખલ કરો.";
+"twofa_login_recovery_code_used" = "તમે લૉગ ઇન કરવા માટે પોતાના રિકવરી કોડનો ઉપોગ કર્યો છે. અમે બીજી વાર ખાતરી કરોને નિષ્ક્રિય કર્યું છે — તેને ફરીથી સક્રિય કરવા માટે સેટિંગ્સમાં જાઓ.";
+"twofa_new_device_verification_explanation" = "તમારી ઓળખની ખાતરી કરવા માટે કૃપા કરીને અમે %1$@ પર મોકલેલો કોડ દાખલ કરો.";
+"twofa_settings_recovery_code_used_title" = "બીજી વાર ખાતરી કરો નિષ્ક્રિય કરવામાં આવ્યું";

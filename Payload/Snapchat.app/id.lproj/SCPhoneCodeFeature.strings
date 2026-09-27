@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "Kami akan menelepon nomor %1$@.";
+"alt_send_code_by_sms" = "Kirim kode melalui SMS";
+"alt_send_code_by_sms_dialogue" = "Kami akan mengirimkan kode SMS pada %1$@.";
+"error_occurred_message" = "Terjadi kesalahan. Coba lagi nanti.";
+"ngo_email_instead" = "Gunakan email saja";
+"ngo_phone_verification_description" = "Masukkan kode yang dikirim ke %1$@";
+"ngo_phone_verification_title" = "Konfirmasikan nomormu";
+"ngo_submit" = "Kirim";
+"ok" = "Oke";
+"register_phone_verification_desc" = "Masukkan kode yang kami kirim ke %1$@";
+"register_phone_verification_title" = "Masukkan Kode Konfirmasi";
+"resend_code" = "Kirim Ulang";
+"skip_button" = "Lewati";
+"verifying" = "Memverifikasi...";

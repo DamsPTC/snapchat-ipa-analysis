@@ -1,0 +1,16 @@
+"studio_menu_title" = "Lens Studio";
+"studio_pair_accept" = "ربط";
+"studio_pair_connecting" = "جارٍ الاقتران...";
+"studio_pair_connection_failed" = "تعذر الاقتران";
+"studio_pair_dismiss" = "ليس الآن";
+"studio_pair_error_text" = "يُرجى إعادة المحاولة أو الاتصال بالدعم.";
+"studio_pair_error_title" = "تعذّر الربط بـ Lens Studio";
+"studio_pair_success_toast" = "تم الاقتران بنجاح.";
+"studio_pair_title" = "هل تُريد الاقتران بـ Lens Studio؟";
+"studio_unpair_accept" = "إلغاء الربط";
+"studio_unpair_confirm" = "هل أنت متأكد أنك تُريد إلغاء الاقتران مع Lens Studio ؟";
+"studio_unpair_error" = "خطأ في إلغاء اقتران Lens Studio";
+"studio_update_required_text" = "التحديث إلى آخر إصدار من سناب شات";
+"studio_update_required_title" = "يلزم التحديث";
+"studio_update_snapchat_title" = "يُرجى تحديث سناب شات لاقتران هذا الجهاز!";
+"studio_version_unsupported_title" = "عفوا! هذه النسخة من سناب شات غير مدعومة.";

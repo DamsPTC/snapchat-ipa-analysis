@@ -1,0 +1,9 @@
+"attribute_search_error" = "Ocurrió un error al buscar atributos.";
+"attribute_text" = "$0  $1";
+"close" = "Cerrar";
+"edit_place_attributes" = "¡Etiqueta este lugar!";
+"edit_place_attributes_subtitle" = "Brinda diferentes detalles sobre este lugar.";
+"no_results" = "Sin resultados.";
+"searching" = "Buscando";
+"submit" = "Enviar";
+"submit_error" = "No se pudieron enviar las modificaciones de los atributos. Vuelve a intentarlo.";

@@ -1,0 +1,13 @@
+"cant_add_teamsnapchat_to_group_alert_description" = "لا يمكن إضافة فريق سناب شات إلى المجموعة.";
+"cant_add_to_group_alert_descripton_one" = "لم تتم إضافتك كصديق بواسطة ⁦%1$@⁩ بعد.";
+"cant_add_to_group_alert_descripton_three" = "لم يقم ⁦%1$@⁩ و⁦%2$@⁩ و⁦%3$@⁩ بإضافتك كصديق بعد!";
+"cant_add_to_group_alert_descripton_three_plus" = "لم تتم إضافتك كصديق بواسطة ⁦%1$@⁩ و⁦%2$@⁩ و⁦%3$@⁩ وآخرين.";
+"cant_add_to_group_alert_descripton_two" = "لم يقم ⁦%1$@⁩ و⁦%2$@⁩ بإضافتك كصديق بعد!";
+"cant_add_to_group_non_user_alert_descripton_one" = "لا يمكن إضافة ⁦%1$@⁩ إلى مجموعة";
+"cant_add_to_group_non_user_alert_descripton_two" = "لا يمكن إضافة ⁦%1$@⁩ و⁦%2$@⁩ إلى مجموعة";
+"cant_add_to_group_non_user_alert_title_one" = "تتعذّر إضافة ⁦%1$@⁩";
+"cant_add_to_group_non_user_alert_title_two" = "تتعذّر إضافة ⁦%1$@⁩ و⁦%2$@⁩";
+"filter_nonmutual_friend_alert_description_one" = "لقد اخترت ⁦%1$@⁩ وهو ليس صديقك على سناب شات.\n \n ستتم إضافة أصدقائك فقط إلى المجموعة.";
+"filter_nonmutual_friend_alert_description_three" = "لقد اخترت ⁦%1$@⁩ و⁦%2$@⁩ و⁦%3$@⁩ وهم ليسوا أصدقاءك على سناب شات.\n \n ستتم إضافة أصدقائك فقط إلى المجموعة.";
+"filter_nonmutual_friend_alert_description_three_plus" = "لقد اخترت ⁦%1$@⁩ و⁦%2$@⁩ و⁦%3$@⁩ آخرين وهم ليسوا أصدقاءك على سناب شات.\n \n ستتم إضافة أصدقائك فقط إلى المجموعة.";
+"filter_nonmutual_friend_alert_description_two" = "لقد اخترت ⁦%1$@⁩ و⁦%2$@⁩ وهما ليسا صديقيك على سناب شات.\n \n ستتم إضافة أصدقائك فقط إلى المجموعة.";

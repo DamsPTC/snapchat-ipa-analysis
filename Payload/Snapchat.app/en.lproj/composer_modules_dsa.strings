@@ -1,0 +1,12 @@
+"confirmation_dialog_cancel_button" = "Cancel";
+"confirmation_dialog_description" = "You will still see content, but it will be more random and less relevant to your interests.";
+"confirmation_dialog_disable_button" = "Disable";
+"confirmation_dialog_title" = "Disable Personalized Content?";
+"dsa_about_organic_content_description_first_paragraph" = "At Snap, we want to empower you to learn about the world and have fun with other Snapchatters. We help you do so by showing you content that is relevant to you, as well as breaking news or other hidden gems we think you may enjoy.  No two people are the same, so we use some of your information to tailor your Snapchat experience especially for you! For example, we personalize the content you see — so if you show interest in sports, you might see more sports-related content.\n\n";
+"dsa_about_organic_content_description_second_paragraph" = "You can update information like Birthday, Lifestyle & Interests, and European Union Controls in <tap-link>Snapchat Settings</tap-link>.";
+"dsa_about_organic_content_title" = "About Content";
+"explainer_subtext" = "These settings only apply to users living in the European Union.";
+"explainer_text" = "No two people are the same, so that’s why we personalize and rank content, including Discover, Spotlight, and advertisements. For example, if you watch a lot of sports content, and indicate that you don’t like hair and makeup tips, the app may personalize content by prioritizing sports and skipping those makeup tips. If this setting is disabled and you live in the European Union, we will show less personalized content and instead rely on essentials, like the language you have set on your phone, your age, and your state/province. You will still see content, but it will be more random and less relevant to your interests. There may be some delay before the content experience changes.";
+"explainer_title" = "Show Personalized Content";
+"header_title" = "European Union Controls";
+"learn_more" = "Learn More";

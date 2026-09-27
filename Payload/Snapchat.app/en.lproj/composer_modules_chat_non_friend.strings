@@ -1,0 +1,13 @@
+"onboarding_open_chat" = "Open Chat";
+"onboarding_prompt_body" = "You can chat with $0 because you have their phone number in your contacts. \n\n You can block $0 or change your contact settings at any time to avoid receiving messages from your contacts in the future. \n\n If you chat with $0, they may be able to determine that you have their phone number in your contact book.";
+"onboarding_prompt_body_with_unread_message" = "You received this message from $0 because you have their phone number in your contacts. \n\n You can block $0 or change your contact settings at any time to avoid receiving these messages in the future. \n\n If you open this message, $0 may be able to determine that you have their phone number in your contact book.";
+"onboarding_prompt_minor_aged_up" = "You can chat with $0 because you have your Contact Me settings set to \"Everyone.\" \n\n You can block $0 or change your settings at any time to avoid receiving messages from them in the future.";
+"onboarding_prompt_welcome_title" = "Chat with $0";
+"onboarding_settings" = "Settings";
+"recipient_prompt_body_added" = "You're not yet friends with $0, but they can send you messages based on your Contact Me settings.";
+"recipient_prompt_body_adding" = "$0 has not added you as a friend yet. They won't be able to see your messages until they do.";
+"recipient_prompt_body_in_my_contacts" = "$0 is not your Snapchat friend, but showed up because they are in your Contact Book.";
+"recipient_prompt_body_low_mutual_friends" = "You and $0 don't have many mutual friends – do you know them? Check before you start chatting.";
+"recipient_prompt_button_dismiss" = "Okay";
+"recipient_prompt_button_report_or_block" = "Report or Block";
+"recipient_prompt_button_settings" = "Settings";

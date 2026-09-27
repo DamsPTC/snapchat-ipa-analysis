@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Dadurch kann Snapchat eine Bluetooth-Verbindung zu Zubehör wie Spectacles herstellen.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Verwende deine Kamera, um Snaps zu machen, mit Linsen zu spielen und vieles mehr! Einige Linsen verwenden eventuell die TrueDepth-Kamera von Apple. Mehr Infos dazu findest du in unseren Datenschutzbestimmungen.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Deine Kontakte werden auf die Server von Snapchat hochgeladen, um dir und auch anderen zu helfen, Freunde ausfindig zu machen, und um Snapchat noch cooler zu machen.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Dadurch kann Snapchat eine WLAN-Verbindung zu Zubehör wie Spectacles herstellen.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Wenn du „Immer zulassen“ auswählst, kann Snapchat deinen Standort im Hintergrund aktualisieren. Das ermöglicht das Teilen deines Live-Standorts und verbessert deine Nutzererfahrung.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Wenn du „Immer zulassen“ auswählst, kann Snapchat deinen Standort im Hintergrund aktualisieren. Das ermöglicht das Teilen deines Live-Standorts und verbessert deine Nutzererfahrung.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat nutzt diese Informationen, um deine Benutzererfahrung zu individualisieren, damit du Filter, Storys und mehr um dich herum entdecken kannst.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Verwende dein Mikrofon für den Ton bei Snaps, im Video-Chat und bei anderen Features.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Snapchat merkt sich, ob du das Handy hochkant oder waagerecht hältst, wenn du Snaps machst, Linsen verwendest, in der Entdecken-Ansicht stöberst oder Anzeigen anschaust.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Teile Inhalte aus deinen Aufnahmen mit Freunden auf Snap.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Teile Inhalte aus deinen Aufnahmen mit Freunden auf Snap.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Wenn du „Allow“ (Erlauben) auswählst, zeigt Snap ggf. seltener Anzeigen an, die dich nicht interessieren, oder die du schon häufig gesehen hast. Weitere Informationen zu Tracking findest du in unseren Datenschutzbestimmungen.</string>
+</dict>
+</plist>

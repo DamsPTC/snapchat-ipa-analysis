@@ -1,0 +1,11 @@
+"following_count_billions_short" = "يتابعه $0 بليون ";
+"following_count_millions_short" = "يتابعه $0 مليون";
+"following_count_one" = "يتابعه 1";
+"following_count_plural" = "يتابعه $0";
+"following_count_thousands_short" = "يتابعه $0 ألف";
+"following_count_thousands_string_short" = "يتابعه $0 ألف";
+"subscribed_count_billions_short" = "$0 مليار مُشترك";
+"subscribed_count_millions_short" = "$0 مليون مُشترك";
+"subscribed_count_one" = "مشترك واحد";
+"subscribed_count_plural" = "$0 مُشترك";
+"subscribed_count_thousands_short" = "$0 ألف مُشترك";

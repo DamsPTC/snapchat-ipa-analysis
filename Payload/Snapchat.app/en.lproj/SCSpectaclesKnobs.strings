@@ -1,0 +1,12 @@
+"alert_cancel" = "Cancel";
+"alert_location_permission_error_description" = "Please navigate to iOS Settings and change Snapchat's location permission to 'While Using the App'";
+"alert_location_permission_error_title" = "Location Permission Error";
+"alert_ok" = "Ok";
+"alert_restart_description" = "Applying Experimental Features will require Spectacles to restart.\nThis may take a few minutes.";
+"alert_restart_restart_specs_button" = "Restart Specs";
+"alert_restart_title" = "Restart Specs?";
+"alert_unknown_error_description" = "Could not update setting";
+"alert_unknown_error_title" = "Oops";
+"button_save" = "Save";
+"local_knob_location_sharing_description" = "Share your phone's location for 1 hour. Toggle off to stop location collection.";
+"local_knob_location_sharing_title" = "Background Location";

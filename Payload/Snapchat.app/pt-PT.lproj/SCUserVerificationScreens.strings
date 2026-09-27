@@ -1,0 +1,18 @@
+"finish" = "Concluir";
+"invalid_phone_number_suggestion_title" = "Número de telemóvel inválido";
+"ngo_country_title" = "País";
+"ngo_email_instead" = "Utilizar antes o e-mail";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "E-mail";
+"ngo_phone_instead" = "Utilizar número de telemóvel";
+"ngo_phone_number_info" = "Vamos enviar um código de confirmação por SMS.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Vamos enviar um código de confirmação por SMS. Ao introduzires o teu número, concordas em receber mensagens transacionais por SMS ou outro serviço de mensagens sobre a tua conta.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Vamos enviar-te um código de confirmação. Ao introduzires o teu número, vais receber mensagens transacionais por SMS ou outros serviços de mensagens sobre a tua conta, por exemplo.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Vamos enviar-te um código de confirmação. Ao introduzires o teu número, concordas em receber mensagens transacionais por SMS ou outro serviço de mensagens sobre a tua conta. [Sabe mais](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) sobre a forma como a Snap utiliza o teu número de telemóvel.";
+"ngo_phone_number_title" = "Número de telemóvel";
+"ngo_phone_placeholder" = "Número de telemóvel";
+"phone_suggestion_description" = "%1$@ não é um número de telemóvel válido. Querias dizer \n%2$@?";
+"register_email_button" = "Prefiro registar-me com o e-mail";
+"register_email_error" = "Introduz um endereço de e-mail válido.";
+"skip_button" = "Saltar";
+"yes_update" = "Sim, atualizar";

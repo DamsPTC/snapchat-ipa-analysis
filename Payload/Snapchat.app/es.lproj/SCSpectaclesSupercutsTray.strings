@@ -1,0 +1,10 @@
+"apply_effect" = "Aplicar";
+"bounce" = "Hacer rebotar";
+"effect_min_duration_message" = "Se requiere un mínimo de %1$@ segundos para este efecto";
+"hyperspeed" = "Hipervelocidad";
+"incompatible_edits_alert_detail" = "Al tocar \"Aplicar\", se eliminará cualquier modificación basada en el tiempo que se haya hecho en tu Snap (incluidos ciertos Lentes). ¿Continuar?";
+"incompatible_edits_alert_title" = "¿Aplicar efecto y eliminar modificaciones basadas en el tiempo?";
+"jump_cut" = "Corte de salto";
+"no_effect" = "Sin efectos";
+"orbit_3d" = "Órbita 3D";
+"zoom_in" = "Zoom";

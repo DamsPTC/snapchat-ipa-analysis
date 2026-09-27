@@ -1,0 +1,16 @@
+"studio_menu_title" = "Lens Studio";
+"studio_pair_accept" = "Koppeln";
+"studio_pair_connecting" = "Kopplungsvorgang läuft ...";
+"studio_pair_connection_failed" = "Kopplung nicht möglich";
+"studio_pair_dismiss" = "NICHT JETZT";
+"studio_pair_error_text" = "Versuchs nochmal oder wende dich an den Support.";
+"studio_pair_error_title" = "Koppeln mit Lens Studio nicht möglich";
+"studio_pair_success_toast" = "Erfolgreich gekoppelt.";
+"studio_pair_title" = "Mit Lens Studio koppeln?";
+"studio_unpair_accept" = "Entkoppeln";
+"studio_unpair_confirm" = "Bist du sicher, dass du das Lens Studio entkoppeln willst?";
+"studio_unpair_error" = "Fehler beim Entkoppeln vom Lens Studio";
+"studio_update_required_text" = "Update auf die neueste Snapchat Version";
+"studio_update_required_title" = "Update erforderlich";
+"studio_update_snapchat_title" = "Du musst Snapchat aktualisieren, um dein Gerät koppeln zu können!";
+"studio_version_unsupported_title" = "Ups! Diese Version von Snapchat wird nicht unterstützt.";

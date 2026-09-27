@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "Logg inn igjen";
+"incorrect_user_error_body" = "Noe gikk galt";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Snappen din er helt rå 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "Snappen du sendte inn til vår Story er sett mer enn %1$@ ganger!";
+
+"our_story_submission_view_milestone_generic_body" = "Snappen du sendte inn til vår Story er sett så mange ganger!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "Spotlight-snappen din har blitt sett over %1$@ ganger!";
+
+"spotlight_submission_view_milestone_generic_body" = "Spotlight-snappen din har blitt sett mange ganger!";

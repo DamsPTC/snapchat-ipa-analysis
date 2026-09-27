@@ -1,0 +1,13 @@
+"cant_add_teamsnapchat_to_group_alert_description" = "Team Snapchat cannot be added to a Group!";
+"cant_add_to_group_alert_descripton_one" = "%@ hasn't added you as a friend yet!";
+"cant_add_to_group_alert_descripton_three" = "%@, %@, and %@ haven't added you as a friend yet!";
+"cant_add_to_group_alert_descripton_three_plus" = "%@, %@, and %@ others haven't added you as a friend yet!";
+"cant_add_to_group_alert_descripton_two" = "%@ and %@ haven't added you as a friend yet!";
+"cant_add_to_group_non_user_alert_descripton_one" = "%@ can't be added to a group";
+"cant_add_to_group_non_user_alert_descripton_two" = "%@ and %@ can't be added to a group";
+"cant_add_to_group_non_user_alert_title_one" = "Unable to Add %@";
+"cant_add_to_group_non_user_alert_title_two" = "Unable to Add %@ and %@";
+"filter_nonmutual_friend_alert_description_one" = "You've selected %@ who isn't your friend on Snapchat.\n \n Only your friends will be added to the group.";
+"filter_nonmutual_friend_alert_description_three" = "You've selected %@, %@, and %@ who aren't your friends on Snapchat.\n \n Only your friends will be added to the group.";
+"filter_nonmutual_friend_alert_description_three_plus" = "You've selected %@, %@, and %@ others who aren't your friends on Snapchat.\n \n Only your friends will be added to the group.";
+"filter_nonmutual_friend_alert_description_two" = "You've selected %@ and %@ who aren't your friends on Snapchat.\n \n Only your friends will be added to the group.";

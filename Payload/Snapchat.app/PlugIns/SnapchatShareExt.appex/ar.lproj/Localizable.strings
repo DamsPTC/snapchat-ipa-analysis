@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "ترك";
+
+"add_a_chat" = "إضافة دردشة...";
+
+"are_you_sure_you_want_to_abandon" = "هل أنت متأكد أنك تريد ترك Snapsterpiece؟";
+
+"best_friends_header" = "أعزّ الأصدقاء";
+
+"groups_header" = "المجموعات";
+
+"friends_header" = "الأصدقاء";
+
+"send" = "أرسل";
+
+"cancel" = "إلغاء";
+
+"cannot_add_more_snapchatters" = "للأسف لا نستطيع أن نضيف مُستخدمي سناب شات آخرين.";
+
+
+"login_before_sharing_message" = "يرجى تسجيل الدخول إلى سناب شات قبل المشاركة.";
+
+"login_before_sharing_title" = "تسجيل الدخول مطلوب";
+
+"me_hint" = "(أنا)";
+
+"noticed_new_acct_sharing_message" = "حساب خاطئ!";
+
+"noticed_new_acct_sharing_title" = "يبدو أنك بدّلت الحسابات. أعد تسجيل الدخول لإرسال Snap الخاص بك، أو أعد المشاركة من جديد.";
+
+"okay" = "حسنًا";
+
+"open_before_sharing_message" = "يرجى فتح سناب شات قبل المشاركة.";
+
+"open_before_sharing_title" = "افتح سناب شات";
+
+"problem_sharing_try_again" = "حدث خطأ ما، يُرجى إعادة المحاولة.";
+
+"recents_header" = "المُضافة حديثًا";
+
+"search_text_view_hint" = "بحث";
+
+"send_to" = "أرسل إلى...";
+
+"try_again" = "حاول مرة ثانية";
+
+"video_too_long" = "يجب أن تكون مدة مقاطع الفيديو أقل من 60 ثانيةً لتتم مشاركتها.";
+
+"video_too_long_with_maximum_duration_desc" = "يجب ألا تتجاوز مدة الفيديوهات ⁦%1$ld⁩ من الثواني لتتم مشاركتها.";
+
+"stories_header" = "القصص";
+
+"my_story" = "قصتي";

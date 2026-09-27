@@ -1,0 +1,8 @@
+"minis_add_to_favorites_prompt_allow" = "Zu Favoriten hinzufügen";
+"minis_add_to_favorites_prompt_allow_and_leave" = "Zu Favoriten hinzufügen und verlassen";
+"minis_add_to_favorites_prompt_deny" = "Verlassen";
+"minis_add_to_favorites_prompt_description" = "Zu Favoriten hinzufügen für eine einfachere Anmeldung beim nächsten Mal.";
+"minis_add_to_favorites_prompt_error_notif" = "Es gibt ein Problem. Versuch's später nochmal.";
+"minis_add_to_favorites_prompt_leave" = "$0 verlassen?";
+"minis_add_to_favorites_prompt_title" = "$0 Favoriten hinzufügen?";
+"minis_add_to_favorites_success_toast_text" = "Zu deinen Favoriten hinzugefügt";

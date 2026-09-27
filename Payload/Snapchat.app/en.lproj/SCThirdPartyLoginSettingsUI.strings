@@ -1,0 +1,9 @@
+"amazon" = "Amazon";
+"available_to_link" = "Available to Link";
+"link" = "Link";
+"linked_accounts" = "Linked Accounts";
+"third_party_accounts" = "Third-Party Accounts";
+"third_party_accounts_intro" = "You can link accounts from other websites to make buying on Snapchat easier for you.";
+"unlink" = "Unlink";
+"unlink_confirmation_text" = "Unlinking will make it more difficult to buy products you see in ads.";
+"unlink_confirmation_title" = "Unlink %@ Account?";

@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "Zadzwonimy na numer %1$@.";
+"alt_send_code_by_sms" = "Wyślij kod SMS-em";
+"alt_send_code_by_sms_dialogue" = "Wyślemy SMS z kodem na numer %1$@.";
+"error_occurred_message" = "Wystąpił błąd. Spróbuj ponownie później.";
+"ngo_email_instead" = "Użyj jednak adresu e-mail";
+"ngo_phone_verification_description" = "Wprowadź kod wysłany na %1$@";
+"ngo_phone_verification_title" = "Potwierdź swój numer";
+"ngo_submit" = "Prześlij";
+"ok" = "OK";
+"register_phone_verification_desc" = "Wprowadź kod wysłany na %1$@";
+"register_phone_verification_title" = "Wprowadź kod weryfikacyjny";
+"resend_code" = "Wyślij ponownie";
+"skip_button" = "Pomiń";
+"verifying" = "Weryfikowanie...";

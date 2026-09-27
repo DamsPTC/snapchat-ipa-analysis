@@ -1,0 +1,11 @@
+"cancel" = "Cancelar";
+"edit_and_share" = "Siguiente";
+"generate_with_me" = "Generar conmigo";
+"generate_with_me_tooltip" = "¡Prueba generar con tu Bitmoji o selfie de IA!";
+"generating" = "Generando tu Snap con IA…";
+"loading_slow" = "Algunas imágenes pueden demorar hasta\n<b>20 segundos</b> en generarse";
+"no_results" = "Sin resultados";
+"no_results_description" = "Se prohíben las imágenes con obscenidades, desnudos, contenido dañino o material protegido por derechos de autor.";
+"prompts_search_placeholder" = "Comienza a escribir tu idea aquí…";
+"prompts_title" = "Snaps con IA";
+"result_title" = "Snaps con IA";

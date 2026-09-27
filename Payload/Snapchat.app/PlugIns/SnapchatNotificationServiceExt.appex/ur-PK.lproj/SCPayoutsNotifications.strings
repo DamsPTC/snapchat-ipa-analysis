@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "نیا Spotlight پے آؤٹ!";
+"payouts_push_notification_gifting_title" = "نیا گفٹ پے آؤٹ!";
+"payouts_push_notification_title_spotlight_challenges" = "نیا Spotlight چیلنج پے آؤٹ!";
+"payouts_push_notification_title_story" = "نئی کہانیوں کا پے آؤٹ!";
+"payouts_push_notification_title_lens_creator_fund" = "لینز کے تخلیق کار کے انعامات پروگرام کا نیا پے آؤٹ!";
+"payouts_push_notification_title_ildg" = "قابل ان لاک لینز کا نیا پے آؤٹ!";
+"payouts_push_notification_title_cashout_eligible" = "آپ کے انعامات جلد خود بخود کیش آؤٹ ہو جائیں گے!";
+"payouts_push_notification_title_invalidate_eligible" = "آپ کے انعامات جلد کالعدم ہونے والے ہیں!";
+
+"payouts_push_notification_subtitle_onboarded" = "مبارک ہو! اپنی کمائیاں دیکھنے کیلئے ابھی پروفائل میں میرے پے آؤٹس دیکھیں!";
+"payouts_push_notification_subtitle_not_onboarded" = "آپ نے Spotlight سے پیسے کمائے ہیں۔ ادائیگی وصول کرنے کیلئے ابھی پروفائل میں آن بورڈ ہوں!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "آپ نے Spotlight چیلنجز سے کرسٹلز حاصل کیے ہیں۔ ادائیگی وصول کرنے کیلئے ابھی پروفائل میں آن بورڈ ہوں!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "آپ نے گفٹس سے کرسٹلز حاصل کیے ہیں۔ ادائیگی وصول کرنے کیلئے ابھی پروفائل میں آن بورڈ ہوں!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "آپ کو کہانیوں سے کرسٹلز ملے ہیں۔ ادائیگی حاصل کرنے کیلئے ابھی پروفائل میں جا کر آن بورڈ ہوں!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "آپ کو لینز کے تخلیق کار کے انعامات پروگرام سے کرسٹلز ملے ہیں۔ ادائیگی حاصل کرنے کیلئے پروفائل میں ابھی آن بورڈ کریں!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "آپ کو قابل ان لاک لینز سے کرسٹلز ملے ہیں۔ ادائیگی حاصل کرنے کیلئے ابھی پروفائل میں جا کر آن بورڈ ہوں!";
+"payouts_push_notification_subtitle_cashout_eligible" = "اگر کوئی کارروائی نہ کی گئی تو آپ کے کرسٹل انعامات ⁦%1$@⁩ کو خود بخود کیش آؤٹ ہو جائیں گے۔ اسے حل کرنے کیلئے پروفائل میں 'میرے کرسٹلز' چیک کریں۔";
+"payouts_push_notification_subtitle_invalidate_eligible" = "اگر کوئی کارروائی نہ کی گئی تو آپ کے کرسٹل انعامات ⁦%1$@⁩ کو کالعدم ہو جائیں گے۔ اسے حل کرنے کیلئے پروفائل میں 'میرے کرسٹلز' چیک کریں۔";
+
+"payouts_state_title" = "پے آؤٹس کا اسٹیٹس اپ ڈیٹ ہوگیا!";
+"payouts_state_subtitle" = "آپ کے پے آؤٹس کی اہلیت کا اسٹیٹس اپ ڈیٹ ہوگیا ہے۔ اپنا اسٹیٹس دیکھنے کیلئے پروفائل میں میرے Snap کرسٹلز چیک کریں!";
+"gifting_opened_gift" = "⁦%1$@⁩ نے آپ کا گفٹ کھول لیا ہے!";
+"gifting_support_thanks" = "Snapchat پر انہیں سپورٹ کرنے کا شکریہ۔";
+

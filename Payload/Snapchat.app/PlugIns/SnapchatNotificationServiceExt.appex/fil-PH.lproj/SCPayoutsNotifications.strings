@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Bagong Spotlight Payout!";
+"payouts_push_notification_gifting_title" = "Bagong Gifting Payout!";
+"payouts_push_notification_title_spotlight_challenges" = "Bagong Spotlight Challenge Payout!";
+"payouts_push_notification_title_story" = "Payout ng Bagong Stories!";
+"payouts_push_notification_title_lens_creator_fund" = "Bagong Lens Creator Rewards Program Payout!";
+"payouts_push_notification_title_ildg" = "Bagong Lens Unlockables Payout!";
+"payouts_push_notification_title_cashout_eligible" = "Malapit nang awtomatikong ma-cash out ang Awards mo!";
+"payouts_push_notification_title_invalidate_eligible" = "Malapit nang Ma-invalidate ang Awards mo!";
+
+"payouts_push_notification_subtitle_onboarded" = "Congratulations! Tingnan ang Payouts Ko sa Profile ngayon para makita ang kita mo!";
+"payouts_push_notification_subtitle_not_onboarded" = "Kumita ka ng pera sa Spotlight. Mag-onboard ngayon sa Profile para mabayaran ka!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Nakakuha ka ng Crystals mula sa Spotlight Challenges. Mag-onboard ngayon sa Profile para mabayaran ka!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Nakakuha ka ng Crystals mula sa Gifts. Mag-onboard ngayon sa Profile para mabayaran ka!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Nakakuha ka ng Crystals mula sa Stories. Mag-onboard ngayon sa Profile para mabayaran!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Nakakuha ka ng Crystals mula sa Lens Creator Rewards Program. Mag-onboard ngayon sa Profile para mabayaran!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Nakakuha ka ng Crystals mula sa Lens Unlockables. Mag-onboard ngayon sa Profile para mabayaran!";
+"payouts_push_notification_subtitle_cashout_eligible" = "Malapit nang awtomatikong ma-cash out ang Crystal Awards mo sa %1$@ kung walang gagawing aksyon. Tingnan ang Crystals Ko sa Profile para ayusin.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Malapit nang Ma-invalidate ang Crystal Awards mo sa %1$@ kung walang gagawing aksyon. Tingnan ang Crystals Ko sa Profile para ayusin.";
+
+"payouts_state_title" = "Na-update ang Status ng Payouts!";
+"payouts_state_subtitle" = "Na-update na ang eligibility status ng Payouts mo. Tingnan ang Snap Crystals Ko sa Profile para makita ang status mo!";
+"gifting_opened_gift" = "Binuksan ni %1$@ ang iyong gift!";
+"gifting_support_thanks" = "Salamat sa pagsuporta sa kanila sa Snapchat.";
+

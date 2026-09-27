@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "คุณต้องอยู่ระหว่างการโทรจึงจะสามารถแบ่งปันหน้าจอได้";
+"screen_capture_error_generic" = "มีบางอย่างผิดพลาด: โปรดลองแบ่งปันหน้าจออีกครั้ง";
+"screen_capture_not_enabled" = "มีบางอย่างผิดพลาด";

@@ -1,0 +1,6 @@
+"sms_invite_auto_friend_request_description" = "سيرسل لك سناب شات دعوة صداقة عبر رسالة نصية قصيرة:";
+"sms_invite_section_description" = "سيرسل لك سناب شات الدعوات المطلوبة عبر الرسائل النصية القصيرة إلى جهات اتصالك";
+"via_phone" = "عبر - $0";
+"via_sms_phone" = "عبر رسالة نصية قصيرة: $0";
+"whatsapp_invite_description" = "سيرسل لك سناب شات دعوة عبر رسالة نصية قصيرة أو WhatsApp.";
+"whatsapp_invite_description_with_auto_friend_request" = "سيرسل لك سناب شات دعوة صداقة عبر رسالة نصية قصيرة أو WhatsApp.";

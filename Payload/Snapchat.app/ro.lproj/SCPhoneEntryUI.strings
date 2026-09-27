@@ -1,0 +1,11 @@
+"country_code_field" = "Câmp pentru codul de țară";
+"mobile_number_field" = "Câmp număr telefon mobil";
+"phone_entry_invalid_country_code" = "🌎 Prefixul țării este nevalid";
+"phone_entry_phone_placeholder" = "număr de telefon";
+"phone_entry_select_country_code" = "🌎 Selectează prefixul țării";
+"register_country_picker_title" = "Selectează țara";
+"register_phone_label" = "NUMĂR DE TELEFON MOBIL";
+"send_sms_explanation" = "Îți vom trimite un cod de verificare prin SMS.";
+"send_sms_explanation_here" = "Îți vom folosi numărul de telefon pentru a-ți trimite un cod de verificare prin SMS și conform descrierii de [la acest link](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_and_here" = "Îți vom folosi numărul de telefon pentru a-ți trimite un cod de verificare prin SMS, actualizări importante și conform descrierii de [la acest link](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_here" = "Îți vom folosi numărul de telefon pentru a-ți trimite un cod de verificare prin SMS și actualizări importante, conform descrierii de [la acest link](https://support.snapchat.com/article/snap-phone-number).";

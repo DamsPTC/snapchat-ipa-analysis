@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Bạn chỉ có thể chia sẻ màn hình khi đang trong cuộc gọi.";
+"screen_capture_error_generic" = "Có gì đó sai sai: vui lòng thử chia sẻ màn hình lại.";
+"screen_capture_not_enabled" = "Có gì đó sai sai.";

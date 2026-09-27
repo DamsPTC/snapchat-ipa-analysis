@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Verlaten";
+
+"add_a_chat" = "Voeg een chat toe…";
+
+"are_you_sure_you_want_to_abandon" = "Weet je zeker dat je je kunstwerk wilt verlaten?";
+
+"best_friends_header" = "Beste vrienden";
+
+"groups_header" = "Groepen";
+
+"friends_header" = "Vrienden";
+
+"send" = "Verstuur";
+
+"cancel" = "Annuleren";
+
+"cannot_add_more_snapchatters" = "Kan niet meer Snapchatters toevoegen.";
+
+
+"login_before_sharing_message" = "Log in op Snapchat voordat je gaat delen.";
+
+"login_before_sharing_title" = "Inloggen verplicht";
+
+"me_hint" = "(ik)";
+
+"noticed_new_acct_sharing_message" = "Verkeerde account!";
+
+"noticed_new_acct_sharing_title" = "Zo te zien ben je van account gewisseld. Log opnieuw in om je snap te versturen, of probeer opnieuw te delen.";
+
+"okay" = "Oké";
+
+"open_before_sharing_message" = "Open Snapchat voordat je gaat delen.";
+
+"open_before_sharing_title" = "Open Snapchat";
+
+"problem_sharing_try_again" = "Er is iets misgegaan. Probeer het opnieuw.";
+
+"recents_header" = "Recente";
+
+"search_text_view_hint" = "Zoeken";
+
+"send_to" = "Versturen Naar...";
+
+"try_again" = "Opnieuw Proberen";
+
+"video_too_long" = "Video's moeten korter dan 60 seconden zijn om te delen.";
+
+"video_too_long_with_maximum_duration_desc" = "Video's moeten korter dan %1$ld seconden zijn om te delen.";
+
+"stories_header" = "Verhalen";
+
+"my_story" = "Mijn Verhaal";

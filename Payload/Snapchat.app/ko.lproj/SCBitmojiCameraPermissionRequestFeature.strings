@@ -1,0 +1,9 @@
+"bitmoji_camera_permission_continue_button" = "카메라를 사용해서 만들기";
+"bitmoji_camera_permission_continue_button_new" = "계속";
+"bitmoji_camera_permission_desc" = "카메라를 사용해서 나와 닮은 아바타를 순식간에 만들기";
+"bitmoji_camera_permission_pre_prompt_accept" = "확인";
+"bitmoji_camera_permission_pre_prompt_deny" = "나중에";
+"bitmoji_camera_permission_pre_prompt_desc" = "카메라 접근을 허용하고 셀피로 Bitmoji를 순식간에 만들기";
+"bitmoji_camera_permission_pre_prompt_title" = "카메라 접근 허용";
+"bitmoji_camera_permission_skip_button" = "건너뛰기";
+"bitmoji_camera_permission_title" = "내 Bitmoji 만들기";

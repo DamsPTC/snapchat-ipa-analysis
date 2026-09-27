@@ -1,0 +1,18 @@
+"finish" = "Finish";
+"invalid_phone_number_suggestion_title" = "Invalid Phone Number";
+"ngo_country_title" = "Country";
+"ngo_email_instead" = "Use email instead";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "Email";
+"ngo_phone_instead" = "Use phone number instead";
+"ngo_phone_number_info" = "We'll send an SMS verification code.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "We'll send an SMS verification code. By entering your number, you agree to receive transactional messaging by SMS or other message channel about your account.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "We'll send you a verification code. By entering your number, you will receive transactional messaging by SMS or other message channels about your account, and more.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "We’ll send you a verification code. By entering your number, you agree to receive transactional messaging by SMS or other message channel about your account. [Learn more](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) about how Snap uses your phone number.";
+"ngo_phone_number_title" = "Phone Number";
+"ngo_phone_placeholder" = "Phone number";
+"phone_suggestion_description" = "%1$@ isn't a valid phone number. Did you mean\n%2$@?";
+"register_email_button" = "Sign up with email instead";
+"register_email_error" = "Please enter a valid email address.";
+"skip_button" = "Skip";
+"yes_update" = "Yes, update";

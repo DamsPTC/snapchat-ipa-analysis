@@ -1,0 +1,18 @@
+"finish" = "Valmis";
+"invalid_phone_number_suggestion_title" = "Virheellinen puhelinnumero";
+"ngo_country_title" = "Maa";
+"ngo_email_instead" = "Käytä sen sijaan sähköpostia";
+"ngo_email_placeholder" = "sinä@sähköposti.fi";
+"ngo_email_title" = "Sähköposti";
+"ngo_phone_instead" = "Käytä sen sijaan puhelinnumeroa";
+"ngo_phone_number_info" = "Lähetämme vahvistuskoodin tekstiviestillä.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Lähetämme vahvistuskoodin tekstiviestillä. Antamalla numerosi hyväksyt tilisi tapahtumiin liittyvien viestien vastaanottamisen tekstiviestitse tai muun viestintäkanavan kautta.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Lähetämme sinulle vahvistuskoodin. Antamalla numerosi saat tilisi tapahtumiin liittyviä viestejä sekä muita viestejä tekstiviestitse tai muun viestintäkanavan kautta.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Lähetämme sinulle vahvistuskoodin. Antamalla numerosi hyväksyt tilisi tapahtumiin liittyvien viestien vastaanottamisen tekstiviestitse tai muun viestintäkanavan kautta. [Lue lisää](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) siitä, miten Snap Inc. käyttää puhelinnumeroasi.";
+"ngo_phone_number_title" = "Puhelinnumero";
+"ngo_phone_placeholder" = "Puhelinnumero";
+"phone_suggestion_description" = "%1$@ ei ole kelvollinen puhelinnumero. Tarkoititko\n%2$@?";
+"register_email_button" = "Kirjaudu sähköpostiosoitteella";
+"register_email_error" = "Anna toimiva sähköpostiosoite.";
+"skip_button" = "Ohita";
+"yes_update" = "Kyllä, päivitä";

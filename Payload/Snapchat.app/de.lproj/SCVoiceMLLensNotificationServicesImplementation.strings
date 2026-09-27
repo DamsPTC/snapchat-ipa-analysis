@@ -1,0 +1,3 @@
+"sys_command_error_cannot_favorite_unpublished_lens" = "Bitte verwende die Favoritenfunktion erst, nachdem du die Linse eingereicht hast.";
+"sys_command_error_cannot_share_unpublished_lens" = "Bitte verwende die Funktion „Mit einem Freund teilen“ erst, nachdem du die Linse eingereicht hast.";
+"sys_command_error_lens_already_favorite" = "Linse wurde bereits zu Favoriten hinzugefügt";

@@ -1,0 +1,3 @@
+"try_again_message" = "Veuillez réessayer.";
+"twofa_login_mobile_change_disabled_msg" = "Vous avez changé de numéro de téléphone. Nous avons désactivé l'authentification à deux facteurs. Vous pouvez la réactiver dans les Réglages.";
+"twofa_login_mobile_change_disabled_title" = "Authentification à deux facteurs désactivée";

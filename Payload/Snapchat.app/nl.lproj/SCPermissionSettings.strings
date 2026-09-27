@@ -1,0 +1,4 @@
+"share_intents_permission_alert_text" = "Een deel van je gegevens wordt gedeeld met iOS om snelkoppelingen voor te stellen, bij het sturen van een bericht, bij het ontvangen van een bericht of bij het bellen: de schermnaam, Bitmoji en gebruikers-ID van de ontvanger.";
+"share_intents_permission_desc" = "Geef iOS toestemming om snelkoppelingen voor te stellen, zoals het versturen van een bericht. Snelkoppelingen kunnen zichtbaar zijn in iOS-zoekopdrachten, bij het delen vanuit andere apps of bij het beheren van meldingen. Wanneer deze optie is ingeschakeld, worden sommige van je gegevens gedeeld met iOS.";
+"share_intents_permission_learn_more" = "Meer informatie";
+"share_intents_permission_title" = "iOS-snelkoppelingen";

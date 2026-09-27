@@ -1,0 +1,11 @@
+"country_code_field" = "ช่องรหัสประเทศ";
+"mobile_number_field" = "ช่องเบอร์มือถือ";
+"phone_entry_invalid_country_code" = "🌎 รหัสประเทศไม่ถูกต้อง";
+"phone_entry_phone_placeholder" = "หมายเลขโทรศัพท์";
+"phone_entry_select_country_code" = "🌎 เลือกรหัสประเทศ";
+"register_country_picker_title" = "เลือกประเทศ";
+"register_phone_label" = "เบอร์มือถือ";
+"send_sms_explanation" = "เราจะส่งรหัสตรวจสอบยืนยันทาง SMS ให้คุณ";
+"send_sms_explanation_here" = "เราจะใช้หมายเลขโทรศัพท์ของคุณเพื่อส่งรหัสตรวจสอบยืนยันทาง SMS ให้คุณตามที่ระบุไว้ [ที่นี่](https://support.snapchat.com/article/snap-phone-number)";
+"send_sms_explanation_updates_and_here" = "เราจะใช้หมายเลขโทรศัพท์ของคุณเพื่อส่งรหัสตรวจสอบยืนยันทาง SMS และการอัปเดตที่สำคัญให้คุณ ตลอดจนตามที่ระบุไว้ [ที่นี่](https://support.snapchat.com/article/snap-phone-number)";
+"send_sms_explanation_updates_here" = "เราจะใช้หมายเลขโทรศัพท์ของคุณเพื่อส่งรหัสตรวจสอบยืนยันทาง SMS และการอัปเดตที่สำคัญให้คุณตามที่ระบุไว้ [ที่นี่](https://support.snapchat.com/article/snap-phone-number)";

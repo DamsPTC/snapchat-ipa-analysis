@@ -1,0 +1,13 @@
+"friend" = "1 vriend";
+"friends" = "%1$@ vrienden";
+"live_location_entering_ghost_mode_warning_subtitle" = "De Onzichtbare modus is ingeschakeld maar %1$@ kan nog steeds je live locatie zien. Tik onderaan op 'Mijn live locatie verbergen' om het delen te stoppen.";
+"live_location_entering_ghost_mode_warning_title" = "Je deelt nog steeds je live locatie";
+"live_location_exit_ghost_mode_subtitle" = "Je verbergt je live locatie niet meer en deelt deze met de vrienden die je hebt geselecteerd.";
+"live_location_exit_ghost_mode_title" = "Onzichtbare modus afsluiten?";
+"live_location_pausing_alert_OK" = "Oké";
+"live_location_pausing_alert_body_all_friends" = "Je live locatie is verborgen maar al je vrienden kunnen nog steeds je laatste actieve locatie zien. \n\n Dit kun je aanpassen in de Locatie-instellingen.";
+"live_location_pausing_alert_body_plural" = "Je live locatie is verborgen maar %1$@ vrienden kunnen nog steeds je laatste actieve locatie zien. \n\n Dit kun je aanpassen in de Locatie-instellingen.";
+"live_location_pausing_alert_body_singular" = "Je live locatie is verborgen maar 1 vriend kan nog steeds je laatste actieve locatie zien. \n\n Dit kun je aanpassen in de Locatie-instellingen.";
+"live_location_pausing_alert_title" = "Je deelt nog steeds je laatste actieve locatie";
+"live_location_resuming_alert_body" = "Live delen met %1$@ en live sessies hervatten?";
+"live_location_resuming_alert_subtitle" = "Je verbergt je live locatie niet meer en deelt deze met %1$@ en alle anderen die je eerder hebt geselecteerd.";

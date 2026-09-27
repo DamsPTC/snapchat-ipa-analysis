@@ -1,0 +1,12 @@
+"alert_cancel" = "إلغاء";
+"alert_location_permission_error_description" = "يرجى الانتقال إلى إعدادات iOS وتغيير إذن موقع سناب شات إلى \"في أثناء استخدام التطبيق\"";
+"alert_location_permission_error_title" = "خطأ إذن الموقع";
+"alert_ok" = "موافق";
+"alert_restart_description" = "سوف يتطلب تطبيق الميزات التجريبية إعادة تشغيل نظارة Spectacles.\n قد يستغرق هذا بضع دقائق.";
+"alert_restart_restart_specs_button" = "إعادة تشغيل نظارة Spectacles";
+"alert_restart_title" = "هل تريد إعادة تشغيل نظارة Spectacles؟";
+"alert_unknown_error_description" = "تعذّر تحديث الإعدادات";
+"alert_unknown_error_title" = "عذرًا";
+"button_save" = "حفظ";
+"local_knob_location_sharing_description" = "شارك موقع هاتفك لمدة ساعة واحدة. أطفئه لإيقاف التعرف على الموقع.";
+"local_knob_location_sharing_title" = "موقع الخلفية";

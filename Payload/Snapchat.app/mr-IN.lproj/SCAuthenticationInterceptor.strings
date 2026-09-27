@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "%1$@ ने सेव्ह केलेल्या Snaps चे मेमरीझ बॅकअप पूर्ण होऊ शकले नाही. जर तुम्ही %2$@ म्हणून लॉग इन केल्यास, ते Snaps गमावले जाईल. बॅकअप समाप्त करण्यासाठी %3$@ म्हणून परत लॉगिन करा.";
+"memories_pending_sync_alert_login_action" = "तरीही लॉग इन करा";
+"memories_pending_sync_alert_registration_action" = "तरीही साइन अप करा";
+"memories_pending_sync_alert_registration_body" = "%1$@ ने सेव्ह केलेल्या Snaps चे मेमरीझ बॅकअप पूर्ण होऊ शकले नाही. जर तुम्ही नवीन खात्यासाठी साइन अप केले तर ते Snaps गमावले जातील. बॅक अप समाप्त करण्यासाठी %2$@ म्हणून परत लॉगिन करा.";
+"memories_pending_sync_alert_title" = "एक सेकंद थांबा!";

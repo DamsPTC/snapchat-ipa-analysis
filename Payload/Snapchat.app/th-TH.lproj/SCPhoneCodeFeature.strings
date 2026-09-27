@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "เราจะโทรหาคุณที่ %1$@";
+"alt_send_code_by_sms" = "ส่งรหัสผ่านทาง SMS";
+"alt_send_code_by_sms_dialogue" = "เราจะส่งรหัส SMS ให้คุณที่ %1$@";
+"error_occurred_message" = "เกิดข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง";
+"ngo_email_instead" = "ใช้อีเมลแทน";
+"ngo_phone_verification_description" = "ใส่รหัสที่ส่งไปยัง %1$@";
+"ngo_phone_verification_title" = "ยืนยันหมายเลขของคุณ";
+"ngo_submit" = "ส่ง";
+"ok" = "ตกลง";
+"register_phone_verification_desc" = "ป้อนรหัสที่เราส่งไปยัง %1$@";
+"register_phone_verification_title" = "ป้อนรหัสยืนยัน";
+"resend_code" = "ส่งใหม่";
+"skip_button" = "ข้าม";
+"verifying" = "กำลังยืนยัน...";

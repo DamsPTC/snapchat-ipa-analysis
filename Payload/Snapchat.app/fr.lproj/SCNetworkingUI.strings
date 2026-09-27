@@ -1,0 +1,5 @@
+"check_connection_message" = "Veuillez vérifier votre connexion et réessayer.";
+"could_not_refresh" = "Impossible d'actualiser. Veuillez réessayer.";
+"could_not_refresh_app_initiated" = "Impossible d'actualiser";
+"no_internet_connection" = "Pas de connexion Internet.";
+"send_failed" = "L'envoi a échoué. Veuillez réessayer.";

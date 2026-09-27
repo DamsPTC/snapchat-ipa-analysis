@@ -1,0 +1,9 @@
+"attribute_search_error" = "Erreur lors de la recherche d'attributs";
+"attribute_text" = "$0  $1";
+"close" = "Fermer";
+"edit_place_attributes" = "Identifier cet endroit !";
+"edit_place_attributes_subtitle" = "Suggérez d'autres informations sur ce lieu.";
+"no_results" = "Aucun résultat";
+"searching" = "Recherche en cours";
+"submit" = "Envoyer";
+"submit_error" = "Impossible d'envoyer les modifications d'attributs. Veuillez réessayer.";

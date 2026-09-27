@@ -1,0 +1,10 @@
+"apply_effect" = "Valider";
+"bounce" = "Rebond";
+"effect_min_duration_message" = "Cet effet nécessite un délai minimal de %1$@ secondes.";
+"hyperspeed" = "Accéléré";
+"incompatible_edits_alert_detail" = "En appuyant sur \"Valider\", toutes les modifications temporelles déjà présentes sur le Snap (y compris certaines Lenses) seront supprimées. Voulez-vous continuer ?";
+"incompatible_edits_alert_title" = "Appliquer l'effet et supprimer les modifications temporelles ?";
+"jump_cut" = "Jump cut";
+"no_effect" = "Aucun effet";
+"orbit_3d" = "Orbite 3D";
+"zoom_in" = "Zoom avant";

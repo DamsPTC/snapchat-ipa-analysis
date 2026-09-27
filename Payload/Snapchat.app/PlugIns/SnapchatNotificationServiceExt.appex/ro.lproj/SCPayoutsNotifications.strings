@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Plată nouă Spotlight!";
+"payouts_push_notification_gifting_title" = "Nouă plată cu cadouri!";
+"payouts_push_notification_title_spotlight_challenges" = "Plată nouă Provocare Spotlight!";
+"payouts_push_notification_title_story" = "Nouă plată pentru Povești!";
+"payouts_push_notification_title_lens_creator_fund" = "Plată nouă aferentă Programului de recompense pentru creatorii de Lentile!";
+"payouts_push_notification_title_ildg" = "Plată nouă pentru Lentile care se pot debloca!";
+"payouts_push_notification_title_cashout_eligible" = "Premiile tale vor fi plătite automat în curând!";
+"payouts_push_notification_title_invalidate_eligible" = "În curând, premiile tale vor deveni nevalide!";
+
+"payouts_push_notification_subtitle_onboarded" = "Felicitări! Verifică My Payouts în Profil acum pentru a vedea câștigurile!";
+"payouts_push_notification_subtitle_not_onboarded" = "Ai câștigat bani din Spotlight. Intră acum în Profil pentru a primi plata!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Ai primit Cristale de la Provocări Spotlight. Intră acum în Profil pentru a primi plata!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Ai primit Cristale din Cadouri. Intră acum în Profil pentru a primi plata!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Ai primit Cristale din Povești. Intră acum în Profil pentru a primi plata!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Ai primit Cristale în urma Programului de recompense pentru creatorii de Lentile. Intră acum în Profil pentru a primi plata!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Ai primit Cristale pentru Lentile care se pot debloca. Intră acum în Profil pentru a primi plata!";
+"payouts_push_notification_subtitle_cashout_eligible" = "Premiile tale în Cristale vor fi plătite automat pe %1$@ dacă nu faci nicio acțiune. Verifică secțiunea Cristalele mele din Profil pentru a rezolva.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Premiile tale în Cristale vor deveni nevalide pe %1$@ dacă nu faci nicio acțiune. Verifică secțiunea Cristalele mele din Profil pentru a rezolva.";
+
+"payouts_state_title" = "Starea plăților a fost actualizată!";
+"payouts_state_subtitle" = "Starea eligibilității tale pentru plăți a fost actualizată. Verifică Cristalele Snap în Profil pentru a o vedea!";
+"gifting_opened_gift" = "%1$@ a deschis cadoul de la tine!";
+"gifting_support_thanks" = "Îți mulțumim pentru susținerea pe care i-ai oferit-o pe Snapchat.";
+

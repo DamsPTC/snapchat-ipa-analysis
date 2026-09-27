@@ -1,0 +1,17 @@
+"done" = "Fertig";
+"group_invite_link_create_request_failed" = "Link für die Gruppeneinladung konnte nicht kopiert werden. Versuch’s nochmal!";
+"group_invite_link_create_request_sent" = "Link für die Gruppeneinladung wird kopiert ...";
+"group_invite_link_deep_link_copy_named_group" = "Du wurdest eingeladen, der Gruppe „%1$@“ in Snapchat beizutreten. Tippe auf den Link, um beizutreten! %2$@";
+"group_invite_link_deep_link_copy_unnamed_group" = "Du wurdest eingeladen, einer Gruppe in Snapchat beizutreten. Tippe auf den Link, um beizutreten! %1$@";
+"group_invite_link_delete_request_failed" = "Link für die Gruppeneinladung konnte nicht gelöscht werden. Versuch’s nochmal!";
+"group_invite_link_delete_request_sent" = "Link für die Gruppeneinladung wird gelöscht ...";
+"group_invite_link_delete_request_succeeded" = "Link für die Gruppeneinladung wurde gelöscht!";
+"max_group_size_description" = "Pro Gruppe sind höchstens %1$@ Snapchatter möglich.";
+"max_group_size_title" = "Gruppe voll!";
+"new_all_caps" = "NEU";
+"new_group" = "Neue Gruppe";
+"new_group_create_group_link" = "Via Link in Gruppe einladen";
+"new_group_delete_group_links_action_menu_title" = "Links löschen";
+"new_group_group_name_required_description" = "Bevor du Einladungen an deine Freunde verschickst, gib deiner Gruppe bitte einen Namen.";
+"new_group_group_name_required_header" = "Gib der Gruppe einen Namen!";
+"okay" = "Okay";

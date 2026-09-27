@@ -1,0 +1,12 @@
+"cancel" = "إلغاء";
+"clear" = "مسح";
+"clear_location_history" = "مسح المواقع الرئيسية";
+"clear_location_history_alert_message" = "سيؤدي هذا إلى إعادة ضبط قائمة الأماكن التي تزورها أكثر، والتي نستخدمها لخريطة Actionmoji وأكثر من ذلك.";
+"clear_location_history_alert_title" = "هل تريد مسح المواقع الرئيسية؟";
+"clear_location_history_request_failure_message" = "تعذر مسح المواقع الرئيسية";
+"clear_location_history_request_success_message" = "تم مسح المواقع الرئيسية!";
+"clear_location_history_v2_subtext" = "امسح سجل مواقعك، بما في ذلك تحديثات السفر وبعض الأماكن التي زرتها أثناء تشغيل الموقع، ولا يشمل ذلك الأماكن التي أشرت إليها في اللقطات.";
+"clear_location_history_v2_title" = "مسح سجل الموقع";
+"display_public_friend_favorites" = "لا تظهر أماكني المفضلة للأصدقاء. ستظل قادرًا على رؤية أماكن أصدقائك المفضلة.";
+"places" = "الأماكن";
+"recommend_to_friends" = "استخدم الأماكن التي أشرتُ إليها في منشورات قصتي أو أضفتها إلى مفضلاتي، للتوصية بأماكن للأصدقاء";

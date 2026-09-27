@@ -1,0 +1,7 @@
+"deselect_all" = "Anular todo";
+"okay" = "Aceptar";
+"segment_thumbnail_duration" = "$0 s";
+"segment_thumbnail_duration_in_minutes" = "$0 min";
+"segment_thumbnail_duration_in_minutes_and_seconds" = "$0 min $1 s";
+"select_all" = "Seleccionar todo";
+"select_limit_items" = "Lo sentimos, solo se pueden seleccionar $0 elementos a la vez.";

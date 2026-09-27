@@ -1,0 +1,50 @@
+/* l10nsvc:sourcefile */
+/*
+ *
+ */
+
+"My Snapcode" = "My Snapcode";
+
+"Snapcode Desc" = "This widget displays your snapcode";
+
+"camera" = "Camera";
+
+"camera_desc" = "Open the Snapchat camera.";
+
+"log_in" = "Log in";
+
+"shortcut_to_a_friend" = "Tap the widget after placing it to select a friend or group.";
+
+"pin_a_friend" = "Pin a Friend or Group";
+
+"birthdays" = "Birthdays";
+
+"see_upcoming_birthdays" = "See upcoming birthdays.";
+
+"no_upcoming_birthdays" = "No upcoming";
+
+"user_and_other_have_birthday" = "%@ +%d";
+
+"user_has_birthday_in_days_singular" = "%@ in %d day";
+
+"user_has_birthday_in_days_plural" = "%@ in %d days";
+
+"user_and_other_have_birthday_in_days_singular" = "%@ +%d in %d day";
+
+"user_and_other_have_birthday_in_days_plural" = "%@ +%d in %d days";
+
+"Memories" = "Memories";
+
+"Memories Desc" = "Featured Snaps from your Memories including flashbacks, trips, recaps and more!";
+
+"Friend Location Widget Desc" = "Pin a friend with this widget to glance at the location of your friend.";
+
+"map" = "Map";
+
+"now" = "now";
+
+"something_went_wrong" = "Something went wrong, please open Snapchat";
+
+"long_press_to_pin" = "Edit to pin a friend";
+
+"off_the_grid" = "Off the grid";

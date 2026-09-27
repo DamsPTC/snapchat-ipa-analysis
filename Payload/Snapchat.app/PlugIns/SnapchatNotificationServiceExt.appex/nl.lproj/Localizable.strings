@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "Log opnieuw in";
+"incorrect_user_error_body" = "Er is iets misgegaan";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Jouw Snap is op dreef 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "Je Snap bij Ons Verhaal is de afgelopen tijd meer dan %1$@ keer bekeken!";
+
+"our_story_submission_view_milestone_generic_body" = "Je Snap bij Ons Verhaal is zo vaak bekeken!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "Je Snap in Spotlight is meer dan %1$@ keer bekeken!";
+
+"spotlight_submission_view_milestone_generic_body" = "Je Snap in Spotlight is zo vaak bekeken!";

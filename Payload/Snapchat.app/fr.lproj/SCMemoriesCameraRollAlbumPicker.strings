@@ -1,0 +1,5 @@
+"album_count_plural" = "%1$@ fichiers";
+"album_count_single" = "%1$@ fichier";
+"album_picker_header" = "Albums de la Pellicule";
+"album_picker_section_header" = "Mes albums";
+"album_pill_title" = "%1$@ (%2$@)";

@@ -1,0 +1,9 @@
+"spotlight_comments_approval_description" = "Comments you get to your Snaps are shown publicly after approval. Choose how you want to have them approved";
+"spotlight_comments_approval_everyone" = "Auto-Approve Everyone";
+"spotlight_comments_approval_everyone_description" = "All comments are auto-approved by default";
+"spotlight_comments_approval_friends" = "Auto-Approve My Friends";
+"spotlight_comments_approval_friends_description" = "Comments from your Friends are auto-approved";
+"spotlight_comments_approval_no_one" = "Manually Approve";
+"spotlight_comments_approval_no_one_description" = "All comments need to be approved by you";
+"spotlight_comments_description" = "Set up auto-approval for comments from certain groups of people you trust";
+"spotlight_comments_settings" = "Comments Settings";

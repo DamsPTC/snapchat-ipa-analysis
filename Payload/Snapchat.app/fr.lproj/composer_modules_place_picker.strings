@@ -1,0 +1,8 @@
+"errorText" = "Il semblerait qu'un problème est survenu lors du chargement !";
+"formattedAddressAndLocation" = "$0 · $1";
+"loading" = "Chargement des lieux…";
+"noPlacesFound" = "Aucun lieu trouvé !";
+"places" = "Lieux";
+"retry" = "Réessayer";
+"search" = "Rechercher";
+"suggestAPlace" = "Suggérer un lieu";

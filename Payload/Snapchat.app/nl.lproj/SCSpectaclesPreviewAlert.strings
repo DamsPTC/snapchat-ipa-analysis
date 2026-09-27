@@ -1,0 +1,10 @@
+"save_as_2d" = "Sla op als 2D";
+"save_as_copy_3d_lens_depth_unavailable_body" = "Kan de nodige dieptegegevens niet downloaden om een Stereo 3D Snap op te slaan.";
+"save_as_copy_3d_lens_depth_unavailable_title" = "Opslaan als 3D mislukt";
+"save_as_copy_3d_lens_detail_prefix" = "Je hebt een 3D-lens gebruikt voor deze Snap!";
+"save_as_copy_detail_template" = "%1$@ Er wordt een kopie van deze Snap opgeslagen op de tab Snaps waarop dit effect permanent is toegepast. Je behoudt ook een kopie van de oorspronkelijke Snap.";
+"save_as_copy_magic_moment_detail_prefix" = "Je hebt een 3D-Snap gemaakt!";
+"save_as_copy_title" = "Sla op als kopie";
+"save_as_copy_world_lens_detail_prefix" = "Je hebt een Wereldlens gebruikt voor deze Snap!";
+"trim_applied_detail" = "Je hebt een Snap bijgesneden. De nieuwe Snap wordt nu als kopie opgeslagen.";
+"trim_applied_title" = "Bijgesneden";

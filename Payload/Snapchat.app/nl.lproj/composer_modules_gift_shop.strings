@@ -1,0 +1,17 @@
+"add_a_reply" = "Reactie toevoegen...";
+"cancel" = "Annuleren";
+"fake_subtitle" = "Model Rox ziet dat je een cadeau hebt gestuurd en kan reageren of het cadeau in een Openbaar Verhaal delen.";
+"fake_title" = "Kies welk cadeau je wilt sturen";
+"gift_shop_error_button_text" = "Annuleren";
+"gift_shop_error_description" = "Zo te zien werkte dat niet. Controleer je gegevens en probeer het opnieuw.";
+"gift_shop_error_title" = "Oeps!";
+"gift_shop_nux_body" = "Je kunt nu laten zien hoe leuk je je favoriete makers vindt door met cadeaus te reageren op hun Verhaal. Hierdoor wordt het waarschijnlijker dat ze erop reageren en het delen!";
+"gift_shop_nux_button_text" = "Cadeaus bekijken";
+"gift_shop_nux_title" = "Nieuw: cadeaus geven voor Verhalen";
+"insufficient_token_shop_page_subtitle" = "Kies hoeveel munten je wilt toevoegen.";
+"insufficient_token_shop_page_title" = "Je hebt nog $0 munten nodig";
+"no_enough_token_content" = "O nee, je hebt niet genoeg munten! Koop er meer in de muntenwinkel.";
+"no_enough_token_title" = "Meer Snap-munten nodig";
+"pick_a_gift" = "Kies een cadeau";
+"send_gift" = "Cadeau sturen";
+"send_gift_and_reply" = "Cadeau sturen en reageren";

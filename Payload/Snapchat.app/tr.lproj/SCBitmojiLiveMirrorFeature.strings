@@ -1,0 +1,17 @@
+"bitmoji_live_mirror_exit_dialog_cancel_button" = "İptal Et";
+"bitmoji_live_mirror_exit_dialog_exit_button" = "Çık";
+"bitmoji_live_mirror_exit_dialog_text" = "Şimdi çıkarsan Avatarın kaydedilmeyecek.";
+"bitmoji_live_mirror_exit_dialog_title" = "Kaydetmeden çıkılsın mı?";
+"bitmoji_live_mirror_interstitial_body_v2" = "Profilim kısmından dilediğin zaman kıyafetleri özelleştirebilir ve Bitmoji avatarını düzenleyebilirsin.";
+"bitmoji_live_mirror_interstitial_body_v3" = "Profilim kısmından dilediğin zaman Bitmoji avatarını giydirebilir ve düzenleyebilirsin.";
+"bitmoji_live_mirror_interstitial_choose_body_button_1_v1" = "İyi Görünüyor!";
+"bitmoji_live_mirror_interstitial_done_button_1_v2" = "Tamamlandı";
+"bitmoji_live_mirror_interstitial_done_button_3_v3" = "Tamamlandı";
+"bitmoji_live_mirror_interstitial_edit_facial_avatar_caption_v2" = "Düzenleme Yap";
+"bitmoji_live_mirror_interstitial_edit_facial_button_1_v3" = "Avatarı Düzenle";
+"bitmoji_live_mirror_interstitial_edit_facial_button_2_v1" = "Düzenleme Yap";
+"bitmoji_live_mirror_interstitial_select_outfit_button_2_v3" = "Kıyafet Seç";
+"bitmoji_live_mirror_interstitial_title_v1" = "Saçından ve yüz özelliklerinden memnun musun?";
+"bitmoji_live_mirror_interstitial_title_v2" = "Avatarın Hazır!";
+"bitmoji_live_mirror_interstitial_title_v3" = "Avatarın Hazır!";
+"server_error_try_again" = "Sunucu hatası. Tekrar dene.";

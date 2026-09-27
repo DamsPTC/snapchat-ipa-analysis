@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Questo permetterà a Snapchat di collegarsi ad accessori Bluetooth come gli Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Usa la fotocamera per creare Snap, interagire con le Lenti e molto altro! Alcune Lenti potrebbero utilizzare la tecnologia TrueDepth Apple. Consulta la nostra Informativa sulla Privacy per maggiori informazioni.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>I tuoi contatti verranno caricati nei server di Snapchat per consentire a te e ad altre persone di trovare amici e per migliorare la vostra esperienza.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Questo permetterà a Snapchat di collegarsi ad accessori dotati di connessione Wi-Fi come gli Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Scegliendo "Consenti sempre", permetti a Snapchat di aggiornare la tua posizione in background per condividere la posizione live e migliorare la tua esperienza.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Scegliendo "Consenti sempre", permetti a Snapchat di aggiornare la tua posizione in background per condividere la posizione live e migliorare la tua esperienza.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat utilizza questa funzione per personalizzare la tua esperienza e consentirti di scoprire i Filtri, le Storie e molto altro intorno a te.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Utilizza il microfono per registrare audio su Snap, videochiamare e molto altro.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Snapchat registra se il tuo dispositivo è in posizione verticale oppure orizzontale quando scatti uno Snap, usi le Lenti, leggi Scopri e guardi gli annunci.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Condividi con gli amici su Snapchat i contenuti del tuo rullino.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Condividi con gli amici su Snapchat i contenuti del tuo rullino.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Selezionando "Consenti", permetti a Snap Inc. di ridurre nel tempo il numero di annunci non pertinenti o ripetitivi. Consulta la nostra Informativa sulla Privacy per maggiori informazioni sul monitoraggio.</string>
+</dict>
+</plist>

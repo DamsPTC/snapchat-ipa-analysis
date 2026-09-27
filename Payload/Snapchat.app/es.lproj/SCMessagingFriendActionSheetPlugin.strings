@@ -1,0 +1,16 @@
+"chat_notification_update_error_message" = "No se pudo actualizar la notificación de chats. ¡Vuelve a intentarlo!";
+"chat_profile_change_retention_hide_policy" = "Ocultar Chats...";
+"chat_profile_change_snap_viewing_policy_delete_snaps" = "Eliminar Snaps…";
+"chat_profile_change_snap_viewing_policy_title_toggle" = "Conservar Snaps en el Chat";
+"chat_profile_change_snap_viewing_policy_toggle" = "Los Snaps permanecerán en el Chat durante 24 horas después de su visualización";
+"chat_profile_setting_confirmation_title" = "¡Ajustes del chat guardados!";
+"chat_profile_setting_keep_snaps_enabled" = "Conservar Snaps en el chat activado";
+"pin_conversation_alert_message" = "Solo se pueden fijar %1$d conversaciones a la vez. ¡Intenta dejar de fijar alguna de las que ya tienes!";
+"pin_conversation_alert_title" = "No se puede fijar la conversación";
+"snapstreak_reminder" = "Recordatorio sobre rachas";
+"snapstreak_reminder_confirmation_subtitle" = "Recordatorio sobre rachas activado";
+"snapstreak_reminder_notification_dialog_cancel" = "Cancelar";
+"snapstreak_reminder_notification_dialog_description" = "Para utilizar esta función, Snapchat debe poder enviarte notificaciones";
+"snapstreak_reminder_notification_dialog_okay" = "OK";
+"snapstreak_reminder_notification_dialog_title" = "¿Activar notificaciones?";
+"snapstreak_reminder_subtitle" = "Recibe una notificación una hora antes de que finalice tu racha";

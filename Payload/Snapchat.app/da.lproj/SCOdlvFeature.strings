@@ -1,0 +1,9 @@
+"landing_context" = "Dette login virker ikke typisk for dig! Beskyt din konto ved at bekræfte din konto på en af disse måder.";
+"landing_message_note" = "*Besked og data kan koste ekstra.";
+"landing_options_radio_phone" = "Sms";
+"landing_title" = "Mistænkeligt login";
+"retry_message" = "Der gik noget galt. Prøv igen.";
+"verification_description" = "Indtast den kode, vi sendte til \n%1$@";
+"verification_title" = "Angiv bekræftelseskode";
+"verification_unable_to_verify" = "Har du problemer med at bekræfte din konto?";
+"verification_unable_to_verify_dialog" = "Åh nej! Vi kunne ikke bekræfte din konto. Kontakt Snapchat Support for at få hjælp.";

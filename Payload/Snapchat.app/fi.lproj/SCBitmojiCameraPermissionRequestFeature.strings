@@ -1,0 +1,9 @@
+"bitmoji_camera_permission_continue_button" = "Luo kameran avulla";
+"bitmoji_camera_permission_continue_button_new" = "Jatka";
+"bitmoji_camera_permission_desc" = "Luo sinulta näyttävä avatar hetkessä kamerasi avulla";
+"bitmoji_camera_permission_pre_prompt_accept" = "OK";
+"bitmoji_camera_permission_pre_prompt_deny" = "Ei nyt";
+"bitmoji_camera_permission_pre_prompt_desc" = "Salli kameran käyttö, niin voit luoda bitmojeja hetkessä selfieitä ottamalla";
+"bitmoji_camera_permission_pre_prompt_title" = "Salli kameran käyttö";
+"bitmoji_camera_permission_skip_button" = "Ohita";
+"bitmoji_camera_permission_title" = "Luo oma Bitmoji";

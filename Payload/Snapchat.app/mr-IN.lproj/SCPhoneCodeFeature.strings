@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "आम्ही तुम्हाला %1$@ येथे कॉल करू.";
+"alt_send_code_by_sms" = "एसएमएस द्वारे कोड पाठवा";
+"alt_send_code_by_sms_dialogue" = "आम्ही तुम्हाला %1$@ येथे एसएमएस कोड पाठवू.";
+"error_occurred_message" = "एक त्रुटी आली. कृपया नंतर पुन्हा प्रयत्न करा.";
+"ngo_email_instead" = "त्याऐवजी ईमेल वापरा";
+"ngo_phone_verification_description" = "%1$@ यावर पाठवलेला कोड प्रविष्ट करा";
+"ngo_phone_verification_title" = "तुमच्या नंबरची पुष्टी करा";
+"ngo_submit" = "सादर करा";
+"ok" = "ओके";
+"register_phone_verification_desc" = "आम्ही %1$@ येथे पाठवलेले कोड प्रविष्ट करा";
+"register_phone_verification_title" = "पुष्टीकरण कोड प्रविष्ट करा";
+"resend_code" = "पुन्हा पाठवा";
+"skip_button" = "स्किप करा";
+"verifying" = "सत्यापित होत आहे ...";

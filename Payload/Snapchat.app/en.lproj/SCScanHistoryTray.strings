@@ -1,0 +1,4 @@
+"delete_error_message" = "An error occurred while deleting Scan History. Please try again later.";
+"delete_success_message" = "Successfully deleted Scan History!";
+"done" = "Done";
+"error_message" = "An error occurred while getting your Scan History. Please try again later.";

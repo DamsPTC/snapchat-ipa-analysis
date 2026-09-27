@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "Backuppen i Minder af Snaps gemt af %1$@ er ikke færdig. Hvis du forsøger at logge ind som %2$@, vil disse Snaps gå tabt. Log ind igen som %3$@ for at afslutte backuppen.";
+"memories_pending_sync_alert_login_action" = "LOG IND ALLIGEVEL";
+"memories_pending_sync_alert_registration_action" = "OPRET PROFIL ALLIGEVEL";
+"memories_pending_sync_alert_registration_body" = "Vi er ikke færdige med at lave en backup i Minder af Snaps gemt af %1$@. Hvis du opretter en ny konto, går de Snaps tabt. Log ind igen som %2$@ for at afslutte backuppen.";
+"memories_pending_sync_alert_title" = "Vent lige et øjeblik!";

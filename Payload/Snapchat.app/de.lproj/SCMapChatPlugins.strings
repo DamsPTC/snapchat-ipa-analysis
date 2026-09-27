@@ -1,0 +1,15 @@
+"friend_is_sharing_live_location" = "%1$@ teilt den Live-Standort";
+"friend_live_location_session_ended" = "LIVE-STANDORTFREIGABE VON %1$@ BEENDET";
+"friend_not_currently_on_map" = "%1$@ ist momentan nicht auf der Karte";
+"friends_live_location" = "Live-Standort von %1$@";
+"generic_error_message" = "Dieser Standort ist nicht mehr verfügbar";
+"let_friend_see_your_location" = "Lass %1$@ deinen Standort sehen";
+"live_location_session_stopped" = "LIVE-STANDORT VON %1$@ WIRD NICHT MEHR GETEILT";
+"loc_shared_but_not_sharing_anymore" = "Du hast deinen Standort geteilt, teilst ihn jetzt aber nicht mehr";
+"location_muted" = "Standort ausgeblendet";
+"me" = "Ich";
+"my_live_location" = "Mein Live-Standort";
+"session_expired" = "Sitzung beendet";
+"stop_sharing" = "Freigabe stoppen";
+"you" = "Du";
+"your_live_location_session_ended" = "DEINE LIVE-STANDORTFREIGABE WURDE BEENDET";

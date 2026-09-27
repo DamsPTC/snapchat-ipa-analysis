@@ -1,0 +1,10 @@
+"save_as_2d" = "الحفظ بتنسيق ثنائي الأبعاد";
+"save_as_copy_3d_lens_depth_unavailable_body" = "يتعذّر تنزيل بيانات العمق اللازمة لحفظ Snap ستيريو ثلاثي الأبعاد.";
+"save_as_copy_3d_lens_depth_unavailable_title" = "تعذّر الحفظ بتنسيق ثلاثي الأبعاد";
+"save_as_copy_3d_lens_detail_prefix" = "لقد استخدمت العدسة ثلاثية الأبعاد مع Snap هذا!";
+"save_as_copy_detail_template" = "⁦%1$@⁩ سيتم حفظ نسخة من هذه Snap في علامة تبويب اللقطات مع تطبيق هذا التأثير عليه بشكل دائم. لا تزال لديك نسخة من Snap الأصلية أيضًا.";
+"save_as_copy_magic_moment_detail_prefix" = "لقد أنشأت Snap ثلاثي الأبعاد!";
+"save_as_copy_title" = "الحفظ كنسخة";
+"save_as_copy_world_lens_detail_prefix" = "لقد استخدمت عدسة world lens مع لقطة Snap هذه!";
+"trim_applied_detail" = "لقد أجريت تعديلاً، وسيؤدي الحفظ إلى حفظ Snap المُعدل حديثًا كنسخة.";
+"trim_applied_title" = "تم التعديل";

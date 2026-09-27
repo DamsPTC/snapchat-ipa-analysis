@@ -1,0 +1,4 @@
+"generic_error_occur_title" = "An error occured";
+"generic_error_try_again_description" = "An unexpected error occured, try again";
+"snap_share_status_invalid_description" = "This snap is no longer available";
+"snap_share_status_invalid_title" = "Snap Not Available";

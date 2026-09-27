@@ -1,0 +1,15 @@
+"search_placeholder" = "Buscar";
+"sig_action_bar_done" = "Listo";
+"sig_action_bar_more" = "Más";
+"sig_header_dismiss_accessibility_label" = "Ignorar";
+"sig_index_view_favorites_image_accessibility_label" = "Favoritos";
+"sig_index_view_groups_image_accessibility_label" = "Grupos";
+"sig_index_view_quick_adds_image_accessibility_label" = "Añadido fácil";
+"sig_index_view_recents_image_accessibility_label" = "Recientes";
+"sig_index_view_snap_stars_image_accessibility_label" = "Estrellas Snap";
+"sig_select_bar_group" = "Grupo";
+"sig_send_to_button_accessibility_label" = "Enviar";
+"toggle_off" = "Desactivado";
+"toggle_on" = "Activado";
+"toggle_switch_hint" = "Al tocarlo, el botón pasará de activado a desactivado y viceversa";
+"toggle_switch_label" = "Botón para activar/desactivar";

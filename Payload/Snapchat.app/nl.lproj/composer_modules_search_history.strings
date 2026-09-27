@@ -1,0 +1,6 @@
+"cancel" = "Annuleren";
+"clear_search_history_alert_confirm" = "Wissen";
+"clear_search_history_alert_message" = "Hiermee wordt je zoekgeschiedenis gewist.";
+"clear_search_history_alert_title" = "Zoekgeschiedenis wissen?";
+"delete_search_history_request_failure_message" = "Zoekgeschiedenis wissen is mislukt";
+"delete_search_history_request_success_message" = "Zoekgeschiedenis gewist!";

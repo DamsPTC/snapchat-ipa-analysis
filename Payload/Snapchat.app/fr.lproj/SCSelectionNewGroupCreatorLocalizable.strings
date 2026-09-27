@@ -1,0 +1,13 @@
+"cant_add_teamsnapchat_to_group_alert_description" = "Vous ne pouvez pas ajouter la Team Snapchat à un groupe !";
+"cant_add_to_group_alert_descripton_one" = "%1$@ ne vous a pas encore ajouté·e comme ami·e !";
+"cant_add_to_group_alert_descripton_three" = "%1$@, %2$@ et %3$@ ne vous ont pas encore ajouté·e comme ami·e !";
+"cant_add_to_group_alert_descripton_three_plus" = "%1$@, %2$@ et %3$@ autres ne vous ont pas encore ajouté·e comme ami·e !";
+"cant_add_to_group_alert_descripton_two" = "%1$@ et %2$@ ne vous ont pas encore ajouté·e comme ami·e !";
+"cant_add_to_group_non_user_alert_descripton_one" = "Vous ne pouvez pas ajouter %1$@ à un groupe.";
+"cant_add_to_group_non_user_alert_descripton_two" = "Vous ne pouvez pas ajouter %1$@ et %2$@ à un groupe.";
+"cant_add_to_group_non_user_alert_title_one" = "Impossible d'ajouter %1$@";
+"cant_add_to_group_non_user_alert_title_two" = "Impossible d'ajouter %1$@ et %2$@";
+"filter_nonmutual_friend_alert_description_one" = "Vous avez sélectionné %1$@ avec qui vous n'êtes pas ami·e sur Snapchat.\n \n Seul·e·s vos ami·e·s seront ajouté·e·s au groupe.";
+"filter_nonmutual_friend_alert_description_three" = "Vous avez sélectionné %1$@, %2$@ et %3$@ avec qui vous n'êtes pas ami·e sur Snapchat.\n \n Seul·e·s vos ami·e·s seront ajouté·e·s au groupe.";
+"filter_nonmutual_friend_alert_description_three_plus" = "Vous avez sélectionné %1$@, %2$@ et %3$@ autres avec qui vous n'êtes pas ami·e sur Snapchat.\n \n Seul·e·s vos ami·e·s seront ajouté·e·s au groupe.";
+"filter_nonmutual_friend_alert_description_two" = "Vous avez sélectionné %1$@ et %2$@ avec qui vous n'êtes pas ami·e sur Snapchat.\n \n Seul·e·s vos ami·e·s seront ajouté·e·s au groupe.";

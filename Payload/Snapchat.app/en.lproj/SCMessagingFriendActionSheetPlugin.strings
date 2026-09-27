@@ -1,0 +1,16 @@
+"chat_notification_update_error_message" = "Failed to update chat notification. Please try again!";
+"chat_profile_change_retention_hide_policy" = "Hide Chats...";
+"chat_profile_change_snap_viewing_policy_delete_snaps" = "Delete Snaps...";
+"chat_profile_change_snap_viewing_policy_title_toggle" = "Keep Snaps in Chat";
+"chat_profile_change_snap_viewing_policy_toggle" = "Snaps will stay in the Chat for 24 hours after being viewed";
+"chat_profile_setting_confirmation_title" = "Chat Settings Saved!";
+"chat_profile_setting_keep_snaps_enabled" = "Keep Snaps in Chat enabled";
+"pin_conversation_alert_message" = "You can only have %d conversations pinned at the same time. Try unpinning one of your pinned conversations!";
+"pin_conversation_alert_title" = "Can't Pin Conversation";
+"snapstreak_reminder" = "Snapstreak Reminder";
+"snapstreak_reminder_confirmation_subtitle" = "Snapstreak Reminder enabled";
+"snapstreak_reminder_notification_dialog_cancel" = "Cancel";
+"snapstreak_reminder_notification_dialog_description" = "To use this feature, Snapchat needs to be able to send you notifications";
+"snapstreak_reminder_notification_dialog_okay" = "Okay";
+"snapstreak_reminder_notification_dialog_title" = "Enable Notifications?";
+"snapstreak_reminder_subtitle" = "Get notified 1 hour before your Streak ends";

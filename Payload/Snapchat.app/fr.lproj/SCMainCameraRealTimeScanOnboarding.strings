@@ -1,0 +1,7 @@
+"realtime_snapcode_scan_onboarding_dialog_accept" = "Ok";
+"realtime_snapcode_scan_onboarding_dialog_description" = "Snapchat peut maintenant détecter la présence de Snapcodes dans le champ de votre appareil photo !\n\nIl vous suffit de pointer votre appareil photo sur un Snapcode et d'appuyer sur la notification pour le scanner et ouvrir l'expérience.\n\nVous pouvez modifier ces autorisations dans les Réglages.";
+"realtime_snapcode_scan_onboarding_dialog_title" = "Snapcodes en temps réel";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_accept" = "J'ai compris.";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_description" = "Appuyez longuement sur l'écran de l'appareil photo ou appuyez sur le bouton Scanner pour scanner vos animaux, vos plantes, vos produits, vos codes et bien plus encore !\n\nLe Scanner peut également détecter la présence de Snapcodes dans votre appareil photo ! Il vous suffit de pointer votre appareil photo sur un Snapcode et d'appuyer sur la notification pour le scanner et ouvrir l'expérience. Vous pouvez modifier ces autorisations dans les Réglages.\n\nCette fonctionnalité envoie votre scan aux serveurs de Snap Inc. et, parfois, à des partenaires, tels que Shazam. Les résultats proviennent des partenaires, de Snapchat et d'Internet. Vous pouvez parcourir et supprimer vos résultats dans l'historique de vos scans ou dans les Réglages.";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_learn_more" = "En savoir plus";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_title" = "Découvrez le Scanner !";

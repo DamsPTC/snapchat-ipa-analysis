@@ -1,0 +1,13 @@
+"connect_wallet_description" = "Exhibez votre Lens de collection ! Associez simplement votre portefeuille cryptographique à votre compte Snapchat : votre nom d'utilisateur sera alors visible publiquement sur la Lens et ailleurs sur Snapchat. Vous pouvez toujours dissocier votre portefeuille dans les Réglages sous \"Portefeuilles associés\".";
+"connect_wallet_ftx_disclosure" = "FTX n'est pas actuellement disponible dans certaines juridictions, notamment à New York.";
+"connect_wallet_learn_more" = "En savoir plus";
+"connect_wallet_legal_disclosure" = "En connectant votre portefeuille, vous acceptez les %1$@.";
+"connect_wallet_terms_of_use" = "Conditions d’utilisation des objets de collection numériques";
+"connect_wallet_title" = "Connecter votre portefeuille";
+"result_failure_body" = "Vérifiez vos identifiants et assurez-vous que vous êtes connecté(e) à Internet.";
+"result_failure_not_available" = "Cette fonctionnalité n'est pas disponible pour le moment.";
+"result_failure_title" = "Échec de connexion";
+"result_success_body" = "Votre portefeuille est maintenant connecté !";
+"result_success_no_collection_body" = "Vous n'avez pas collecté ce NFT, mais vous pouvez toujours utiliser cette Lens. Si vous avez récemment acheté le NFT associé à cette Lens, veuillez patienter jusqu'à 5 minutes le temps de procéder à la vérification.";
+"result_success_no_collection_title" = "Portefeuille connecté à la Lens !";
+"result_success_title" = "Connexion réussie";

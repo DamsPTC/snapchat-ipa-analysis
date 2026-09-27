@@ -1,0 +1,8 @@
+"minis_add_to_favorites_prompt_allow" = "Aan favorieten toevoegen";
+"minis_add_to_favorites_prompt_allow_and_leave" = "Toevoegen aan favorieten en verlaten";
+"minis_add_to_favorites_prompt_deny" = "Verlaten";
+"minis_add_to_favorites_prompt_description" = "Voeg dit toe aan je favorieten zodat je het de volgende keer makkelijker kunt terugvinden.";
+"minis_add_to_favorites_prompt_error_notif" = "Er is een fout opgetreden. Probeer het opnieuw.";
+"minis_add_to_favorites_prompt_leave" = "$0 verlaten?";
+"minis_add_to_favorites_prompt_title" = "$0 toevoegen aan favorieten?";
+"minis_add_to_favorites_success_toast_text" = "Toegevoegd aan je Favorieten";

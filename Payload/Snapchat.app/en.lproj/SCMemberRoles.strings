@@ -1,0 +1,10 @@
+"spotlight_member_roles_alert_cancel" = "Cancel";
+"spotlight_member_roles_alert_message" = "Your Spotlight Snaps will be visible to anyone on Snapchat or other services and must follow our %1$@ (including for %2$@).\n\n\nOther Snapchatters may use your Spotlight Snaps (including audio and video) to create new Snaps or other public content and we may use your content in Discover, marketing, or other ways. You can always go to Profile to delete Snaps.\n\n\nTap Accept if you agree to the %3$@ and have read the %4$@. If you’re submitting Snaps on behalf of someone else, then by tapping Accept, you accept the Terms on their behalf and represent that you’re authorized to do so.";
+"spotlight_member_roles_alert_okay" = "Accept";
+"spotlight_member_roles_alert_placeholder_1" = "Guidelines";
+"spotlight_member_roles_alert_placeholder_2" = "Music";
+"spotlight_member_roles_alert_placeholder_3" = "Spotlight Terms";
+"spotlight_member_roles_alert_placeholder_4" = "Privacy Policy";
+"spotlight_member_roles_alert_title" = "Spotlight";
+"spotlight_my_account" = "My account";
+"spotlight_submit_as" = "Submit to Spotlight as...";

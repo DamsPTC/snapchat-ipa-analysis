@@ -1,0 +1,3 @@
+"ngo_resend_code" = "%1$lu 后重新发送验证码";
+"ngo_resend_code_button" = "重新发送验证码";
+"resend_wait" = "请等待 %1$@ 秒再申请验证码。";

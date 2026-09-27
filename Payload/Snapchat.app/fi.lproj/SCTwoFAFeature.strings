@@ -1,0 +1,9 @@
+"connection_error" = "Yhteysvirhe";
+"okay" = "OK";
+"send_code_again" = "LÄHETÄ KOODI UUDELLEEN";
+"twofa_login_code_verification_otp_to_sms_info" = "Lähetä koodi tekstiviestillä";
+"twofa_login_code_verification_otp_to_sms_progress" = "Lähetetään...";
+"twofa_login_code_verification_with_otp_explanation" = "Anna autentikointisovelluksesi luoma koodi, niin voit vahvistaa henkilöllisyytesi.";
+"twofa_login_recovery_code_used" = "Käytit palautuskoodia kirjautumiseen. Olemme laittaneet kaksivaiheisen autentikoinnin pois päältä — käy asetuksissa laittamassa se uudelleen päälle.";
+"twofa_new_device_verification_explanation" = "Anna numeroon %1$@ lähettämämme koodi, niin voit vahvistaa henkilöllisyytesi.";
+"twofa_settings_recovery_code_used_title" = "Kaksivaiheinen autentikointi kytketty pois";

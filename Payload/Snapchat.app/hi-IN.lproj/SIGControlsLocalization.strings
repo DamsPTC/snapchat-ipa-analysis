@@ -1,0 +1,15 @@
+"search_placeholder" = "खोजें";
+"sig_action_bar_done" = "हो गया";
+"sig_action_bar_more" = "अधिक";
+"sig_header_dismiss_accessibility_label" = "खारिज करें";
+"sig_index_view_favorites_image_accessibility_label" = "पसंदीदा";
+"sig_index_view_groups_image_accessibility_label" = "ग्रुप";
+"sig_index_view_quick_adds_image_accessibility_label" = "झटपट जोड़ना";
+"sig_index_view_recents_image_accessibility_label" = "हालिया";
+"sig_index_view_snap_stars_image_accessibility_label" = "Snap स्टार्स";
+"sig_select_bar_group" = "ग्रुप";
+"sig_send_to_button_accessibility_label" = "भेजें";
+"toggle_off" = "ऑफ़";
+"toggle_on" = "ऑन";
+"toggle_switch_hint" = "इसे चालू करने से स्विच ऑन से ऑफ़ पर और ऑफ़ से ऑन पर हो जाएगा";
+"toggle_switch_label" = "टॉगल स्विच";

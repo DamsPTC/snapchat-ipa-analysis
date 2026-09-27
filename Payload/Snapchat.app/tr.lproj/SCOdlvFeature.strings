@@ -1,0 +1,9 @@
+"landing_context" = "Bu oturum açma girişimi olağan dışı görünüyor! Hesabını güvende tutmak için, lütfen aşağıdaki seçeneklerden birini kullanarak hesabını doğrula.";
+"landing_message_note" = "*SMS ve veri bağlantısı ücretli olabilir.";
+"landing_options_radio_phone" = "Cep Telefonu Mesajı";
+"landing_title" = "Şüpheli Oturum Açma İşlemi";
+"retry_message" = "Bir sorun oluştu. Lütfen tekrar dene.";
+"verification_description" = "\n%1$@numaralı telefona gönderdiğimiz kodu gir";
+"verification_title" = "Doğrulama Kodunu Gir";
+"verification_unable_to_verify" = "Doğrulamada sorun mu yaşıyorsun?";
+"verification_unable_to_verify_dialog" = "Hay aksi! Hesabını doğrulayamadık. Yardım için lütfen Snapchat Destek ile iletişime geç.";

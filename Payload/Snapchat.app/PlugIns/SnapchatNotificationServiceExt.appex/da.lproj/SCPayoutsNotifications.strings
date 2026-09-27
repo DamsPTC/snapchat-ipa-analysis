@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Ny Spotlight-udbetaling!";
+"payouts_push_notification_gifting_title" = "Ny gaveudbetaling!";
+"payouts_push_notification_title_spotlight_challenges" = "Ny udbetaling for Spotlight-udfordring!";
+"payouts_push_notification_title_story" = "Ny Historier-udbetaling!";
+"payouts_push_notification_title_lens_creator_fund" = "Ny udbetaling til belønningsprogram for Linseskaber!";
+"payouts_push_notification_title_ildg" = "Ny udbetaling for Linser, der kan låses op!";
+"payouts_push_notification_title_cashout_eligible" = "Dine præmier udbetales snart automatisk!";
+"payouts_push_notification_title_invalidate_eligible" = "Dine præmier udløber snart!";
+
+"payouts_push_notification_subtitle_onboarded" = "Tillykke! Se din indtjening i Mine udbetalinger under Profil!";
+"payouts_push_notification_subtitle_not_onboarded" = "Du har tjent penge på Spotlight. Deltag nu i Profil for at blive betalt!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Du har optjent Krystaller på Spotlight-udfordringer. Bliv onboardet nu under Profil for at blive betalt!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Du har optjent Krystaller på Gaver. Bliv onboardet nu under Profil for at blive betalt!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Du har optjent Krystaller fra Historier. Bliv onboardet nu under Profil for at blive betalt!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Du har optjent Krystaller på belønningsprogram til Linseskaber. Bliv onboardet nu under Profil for at blive betalt!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Du har optjent Krystaller på Linser, der kan låses op. Bliv onboardet nu under Profil for at blive betalt!";
+"payouts_push_notification_subtitle_cashout_eligible" = "Dine Krystalpræmier udbetales automatisk den %1$@, hvis du ikke foretager dig noget. Se Mine Krystaller under Profil for at løse problemet.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Dine Krystalpræmier udløber den %1$@, hvis du ikke foretager dig noget. Se Mine Krystaller under Profil for at løse problemet.";
+
+"payouts_state_title" = "Udbetalingsstatus opdateret!";
+"payouts_state_subtitle" = "Din udbetalingsberettigelse er blevet opdateret. Du kan nu se din status i Mine Snap-Krystaller under Profil!";
+"gifting_opened_gift" = "%1$@ åbnede din gave!";
+"gifting_support_thanks" = "Tak, fordi du støtter vedkommende på Snapchat.";
+

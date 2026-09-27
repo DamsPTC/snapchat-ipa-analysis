@@ -1,0 +1,18 @@
+"finish" = "完成";
+"invalid_phone_number_suggestion_title" = "电话号码无效";
+"ngo_country_title" = "国家/地区";
+"ngo_email_instead" = "改用电子邮件";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "电子邮件";
+"ngo_phone_instead" = "改用电话号码";
+"ngo_phone_number_info" = "我们将通过短信发送验证码。";
+"ngo_phone_number_info_receive_messaging_by_channel" = "我们将通过短信发送验证码。输入号码，即表示你同意通过短信或其他消息渠道接收有关你帐户的通知消息。";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "我们将发送验证码给你。输入号码后，你将通过短信或其他消息渠道接收到有关你帐户及其他内容的通知消息。";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "我们将发送验证码给你。输入号码，即表示你同意通过短信或其他消息渠道接收有关你帐户的通知消息。[了解更多](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number)有关 Snap 如何使用你的电话号码的信息。";
+"ngo_phone_number_title" = "电话号码";
+"ngo_phone_placeholder" = "电话号码";
+"phone_suggestion_description" = "%1$@ 不是有效的电话号码。你是指\n%2$@吗？";
+"register_email_button" = "使用电子邮件地址注册";
+"register_email_error" = "请输入有效的电子邮件地址。";
+"skip_button" = "跳过";
+"yes_update" = "是的，更新";

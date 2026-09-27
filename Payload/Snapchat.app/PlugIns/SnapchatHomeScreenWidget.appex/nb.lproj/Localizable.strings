@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Min Snapkode";
+
+"Snapcode Desc" = "Denne modulen viser snapkoden din";
+
+"camera" = "Kamera";
+
+"camera_desc" = "Åpne Snapchat Camera.";
+
+"log_in" = "Logg inn";
+
+"shortcut_to_a_friend" = "Trykk på widgeten etter at du har plassert den, for å velge en venn eller en gruppe.";
+
+"pin_a_friend" = "Fest en venn eller gruppe";
+
+"birthdays" = "Bursdager";
+
+"see_upcoming_birthdays" = "Vis kommende bursdager.";
+
+"no_upcoming_birthdays" = "Ingen kommende bursdager";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ om %2$d dag";
+
+"user_has_birthday_in_days_plural" = "%1$@ om %2$d dager";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d om %3$d dag";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d om %3$d dager";
+
+"Memories" = "Minner";
+
+"Memories Desc" = "Aktuelle Snapper fra dine Minner, inkludert tilbakeblikk, turer, oppsummeringer med mer!";
+
+"Friend Location Widget Desc" = "Fest en venn med denne widgeten for lett tilgang til posisjonen til vennen din.";
+
+"map" = "Kart";
+
+"now" = "nå";
+
+"something_went_wrong" = "Noe gikk galt. Åpne Snapchat";
+
+"long_press_to_pin" = "Rediger for å feste en venn";
+
+"off_the_grid" = "Ikke på nettet";

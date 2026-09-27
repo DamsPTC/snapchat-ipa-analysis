@@ -1,0 +1,7 @@
+"schedule_action_sheet_header" = "Programmer une Story";
+"schedule_action_sheet_navigation_title" = "Programmer une publication";
+"schedule_action_sheet_option_later" = "Choisir une heure et une date…";
+"schedule_action_sheet_option_now" = "Publier maintenant";
+"schedule_remove_alert_accept" = "Supprimer la programmation";
+"schedule_remove_alert_text" = "Seuls les Snaps de Stories publiques peuvent être programmés. Vous pouvez supprimer la programmation afin d'ajouter ce Snap à une autre Story.";
+"schedule_remove_alert_title" = "Supprimer la programmation pour ajouter ce Snap à une autre Story ?";

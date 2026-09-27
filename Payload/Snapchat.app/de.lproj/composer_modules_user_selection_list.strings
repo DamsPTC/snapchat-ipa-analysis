@@ -1,0 +1,9 @@
+"group_participants_one" = "$0";
+"group_participants_three" = "$0, $1 und $2";
+"group_participants_three_plus" = "$0, $1 und $2 weitere";
+"group_participants_two" = "$0 und $1";
+"in_my_contacts" = "In meinen Kontakten";
+"section_best_friends" = "Beste Freunde";
+"section_groups" = "Gruppen";
+"section_recents" = "Neueste";
+"section_search_default" = "Freunde und Gruppen";

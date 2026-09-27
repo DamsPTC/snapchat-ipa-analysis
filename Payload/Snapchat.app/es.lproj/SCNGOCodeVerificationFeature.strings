@@ -1,0 +1,7 @@
+"description" = "Ingresa el código que enviamos a %1$@";
+"ok" = "Ok";
+"resend_button" = "Volver a enviar código";
+"resend_description" = "Volver a enviar código en %1$lu";
+"submit" = "Enviar";
+"title_email" = "Confirma tu email";
+"title_phone" = "Confirma tu número de teléfono";

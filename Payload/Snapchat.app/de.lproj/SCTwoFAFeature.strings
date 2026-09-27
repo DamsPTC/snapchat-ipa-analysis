@@ -1,0 +1,9 @@
+"connection_error" = "Verbindungsfehler";
+"okay" = "Okay";
+"send_code_again" = "CODE NOCHMAL SENDEN";
+"twofa_login_code_verification_otp_to_sms_info" = "Schreib mir lieber eine SMS";
+"twofa_login_code_verification_otp_to_sms_progress" = "Senden...";
+"twofa_login_code_verification_with_otp_explanation" = "Gib den Code ein, den du mit deiner Authentifizierungs-App generiert hast, um deine Identität zu bestätigen.";
+"twofa_login_recovery_code_used" = "Du hast deinen Wiederherstellungscode verwendet, um dich einzuloggen. Wir haben die 2-Faktoren-Bestätigung deaktiviert – gehe in deine Einstellungen, um sie wieder zu aktivieren.";
+"twofa_new_device_verification_explanation" = "Bitte gib unten den Code ein, den wir an %1$@ geschickt haben, um deine Identität zu bestätigen.";
+"twofa_settings_recovery_code_used_title" = "2-Faktoren-Bestätigung deaktiviert";

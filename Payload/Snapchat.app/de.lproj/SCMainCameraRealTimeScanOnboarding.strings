@@ -1,0 +1,7 @@
+"realtime_snapcode_scan_onboarding_dialog_accept" = "Okay";
+"realtime_snapcode_scan_onboarding_dialog_description" = "Snapchat kann jetzt Snapcodes auf deinem Kamerabildschirm erkennen!\n\nRichte deine Kamera einfach auf einen Snapcode, tippe auf die Benachrichtigung zum Scannen und öffne den Link.\n\n Du kannst diese Berechtigungen in den Einstellungen ändern.";
+"realtime_snapcode_scan_onboarding_dialog_title" = "Echtzeit-Snapcodes";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_accept" = "Verstanden";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_description" = "Halte den Kamerabildschirm gedrückt oder tippe auf den Button „Scannen“, um dein Haustier, Pflanzen, Produkte, Codes und vieles mehr zu scannen!\n\nScan kann jetzt auch Snapcodes auf deinem Kamerabildschirm erkennen! Richte deine Kamera einfach auf einen Snapcode, tippe auf die Benachrichtigung zum Scannen und öffne den Link. Du kannst diese Berechtigungen in den Einstellungen ändern.\n\nDeine Scans werden an Snap Server und in manchen Fällen auch an Partner wie Shazam gesendet. Ergebnisse stammen von Partnern, Snapchat und aus dem Internet. Du kannst deine Scanergebnisse unter „Scanverlauf“ oder in den Einstellungen einsehen und löschen.";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_learn_more" = "Mehr erfahren";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_title" = "Jetzt neu: Scan!";

@@ -1,0 +1,9 @@
+"connection_error" = "Lỗi Kết Nối";
+"okay" = "Được";
+"send_code_again" = "GỬI LẠI MÃ";
+"twofa_login_code_verification_otp_to_sms_info" = "Gửi tin SMS cho tôi";
+"twofa_login_code_verification_otp_to_sms_progress" = "Đang Gửi…";
+"twofa_login_code_verification_with_otp_explanation" = "Vui lòng nhập mã do ứng dụng xác thực của bạn tạo để xác thực danh tính của bạn.";
+"twofa_login_recovery_code_used" = "Bạn đã sử dụng mã khôi phục của mình để đăng nhập. Chúng tôi đã tắt hóa xác thực hai lớp - đi tới Cài Đặt để bật lại.";
+"twofa_new_device_verification_explanation" = "Vui lòng nhập mã chúng tôi đã gửi đến %1$@ để xác thực danh tính của bạn.";
+"twofa_settings_recovery_code_used_title" = "Đã Tắt Xác Thực Hai Lớp";

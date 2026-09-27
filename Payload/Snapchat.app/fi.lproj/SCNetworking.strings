@@ -1,0 +1,3 @@
+"check_connection_message" = "Tarkista yhteys ja yritä uudelleen.";
+"connect_failed_title" = "Yhteyttä ei voitu muodostaa";
+"server_error_try_again" = "Jokin meni vikaan. Yritä myöhemmin uudelleen!";

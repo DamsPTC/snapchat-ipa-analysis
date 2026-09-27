@@ -1,0 +1,9 @@
+"group_participants_one" = "$0";
+"group_participants_three" = "$0, $1 en $2";
+"group_participants_three_plus" = "$0, $1 en $2 anderen";
+"group_participants_two" = "$0 en $1";
+"in_my_contacts" = "In mijn contacten";
+"section_best_friends" = "Beste vrienden";
+"section_groups" = "Groepen";
+"section_recents" = "Recent";
+"section_search_default" = "Vrienden en groepen";

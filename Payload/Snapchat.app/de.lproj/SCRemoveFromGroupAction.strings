@@ -1,0 +1,5 @@
+"confirm_removal_dialog_body" = "⁦%1$@⁩ und andere Gruppenmitglieder erfahren, dass du die Person aus der Gruppe entfernt hast. \n\n⁦%1$@⁩ kann den Chatverlauf trotzdem sehen und Screenshots davon machen.";
+"confirm_removal_dialog_cancel_button" = "Abbrechen";
+"confirm_removal_dialog_confirm_button" = "Löschen";
+"confirm_removal_dialog_title" = "⁦%1$@⁩ entfernen?";
+"remove_action_sheet_cell_text" = "Aus der Gruppe entfernen";

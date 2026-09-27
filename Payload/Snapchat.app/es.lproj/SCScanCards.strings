@@ -1,0 +1,15 @@
+"cancel" = "Cancelar";
+"new" = "NUEVO";
+"okay" = "Ok";
+"open" = "Abrir";
+"reporting_dialog_action_inappropriate" = "Es inapropiado";
+"reporting_dialog_action_irrelevant" = "Es irrelevante";
+"reporting_dialog_body" = "Tu denuncia ayuda a mantener la seguridad de Snapchat y de nuestra comunidad.";
+"reporting_dialog_header" = "Denunciar este resultado";
+"scan_results" = "Resultados de Escanear";
+"screenshop" = "Screenshop";
+"see_less" = "Ver menos";
+"see_more" = "Ver más";
+"see_more_with_count" = "Ver más (%1$i)";
+"unsupported_snapcode_alert_dialog_subtitle" = "Presiona el botón de escaneo en la barra de navegación principal para desbloquear tu Snapcódigo.";
+"unsupported_snapcode_alert_dialog_title" = "Uy...\nLos Snapcódigos se mudaron debajo del botón de Escaneo";

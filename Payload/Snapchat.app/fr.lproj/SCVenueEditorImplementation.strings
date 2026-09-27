@@ -1,0 +1,13 @@
+"confirm_error_dialog" = "Terminé";
+"photo_library_permission_dialog_cancel" = "Annuler";
+"photo_library_permission_dialog_enable" = "Activer";
+"photo_library_permission_dialog_subtitle" = "Autorisez l'accès à vos photos pour inclure des photos du lieu.";
+"photo_library_permission_dialog_title" = "Autoriser l'accès aux photos";
+"place_offensive" = "Ceci est offensant ou inapproprié.";
+"place_permanently_closed" = "Cet endroit est définitivement fermé.";
+"report_an_issue" = "Signaler un problème";
+"report_successful" = "Signalement envoyé ! Merci !";
+"report_unsuccessful" = "Un problème est survenu lors de l'envoi du signalement. Veuillez réessayer plus tard.";
+"sending_report" = "Envoi du signalement…";
+"suggest_an_edit" = "Proposer une modification";
+"suggestion_received" = "Votre suggestion a été reçue et sera publiée dès qu'elle aura été approuvée !";

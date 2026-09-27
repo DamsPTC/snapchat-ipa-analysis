@@ -1,0 +1,11 @@
+"country_code_field" = "நாட்டுக் குறியீட்டுத் தகவல்";
+"mobile_number_field" = "மொபைல் எண் புலம்";
+"phone_entry_invalid_country_code" = "🌎 நாட்டின் குறியீடு தவறாக உள்ளது";
+"phone_entry_phone_placeholder" = "ஃபோன் எண்";
+"phone_entry_select_country_code" = "🌎 நாட்டின் குறியீட்டைத் தேர்ந்தெடுக்கவும்";
+"register_country_picker_title" = "நாட்டைத் தேர்ந்தெடுங்கள்";
+"register_phone_label" = "மொபைல் எண்";
+"send_sms_explanation" = "உங்களுக்கு குறுஞ்செய்தி மூலம் ஒரு சரிபார்ப்புக் குறியீட்டை அனுப்புவோம்.";
+"send_sms_explanation_here" = "உங்களுக்கு SMS உறுதிப்படுத்தல் குறியீட்டை அனுப்புவதற்கும், [இங்கு](https://support.snapchat.com/article/snap-phone-number) விவரிக்கப்பட்டுள்ளபடியும் உங்கள் ஃபோன் எண்ணைப் பயன்படுத்துவோம்.";
+"send_sms_explanation_updates_and_here" = "[இங்கு](https://support.snapchat.com/article/snap-phone-number) விவரிக்கப்பட்டுள்ளபடி, உங்களுக்கு SMS உறுதிப்படுத்தல் குறியீட்டையும், முக்கியமான மேம்பாடுகளையும் அனுப்புவதற்கு உங்களுடைய ஃபோன் எண்ணைப் பயன்படுத்துவோம்.";
+"send_sms_explanation_updates_here" = "[இங்கு](https://support.snapchat.com/article/snap-phone-number) விவரிக்கப்பட்டுள்ளபடி, உங்களுக்கு SMS உறுதிப்படுத்தல் குறியீட்டையும், முக்கியமான மேம்பாடுகளையும் அனுப்புவதற்கு உங்கள் ஃபோன் எண்ணைப் பயன்படுத்துவோம்.";

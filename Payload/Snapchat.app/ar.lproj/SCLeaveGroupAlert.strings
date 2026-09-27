@@ -1,0 +1,4 @@
+"chatv3_leave_group_alert_description" = "سَتُؤدّي مغادرة هذه المجموعة إلى إزالتك من قصتها. سَيتم مسح اللقطات والدردشات وسَتتم استعادة جميع القلادات التي أخفيتها.";
+"chatv3_leave_group_alert_fail_message" = "لا يمكنك مغادرة المجموعة في الوقت الحالي.";
+"chatv3_leave_group_alert_leave_button" = "مغادرة";
+"chatv3_leave_group_alert_title" = "مغادرة المجموعة؟";

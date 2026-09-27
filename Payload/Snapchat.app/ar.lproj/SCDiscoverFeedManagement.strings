@@ -1,0 +1,12 @@
+"df_hidden" = "القصص المخفية";
+"df_manage_accounts_added_subtitle" = "إدارة الحسابات المتابَعة والإشعارات.";
+"df_manage_accounts_following" = "إدارة الحسابات التي أتابعها";
+"df_manage_hidden_subtitle" = "إدارة قصصك المخفية هنا.";
+"df_manage_subscriptions" = "إدارة الاشتراكات والإشعارات.";
+"df_manage_subscriptions_subtitle" = "إدارة اشتراكاتك وإشعاراتك.";
+"df_management_subscriptions_unsubscribe_confirmation_description" = "يؤدي اللمس أدناه إلى إزالة ⁦%1$@⁩ من قائمة اشتراكاتك.";
+"df_management_subscriptions_unsubscribe_confirmation_title" = "إلغاء الاشتراك من ⁦%1$@⁩؟";
+"df_un_hide" = "إظهار";
+"df_unsubscribe_prompt" = "أنت غير مُشترك";
+"df_unsubscribe_prompt_with_display_name" = "تم إلغاء اشتراكك من ⁦%1$@⁩";
+"df_view_hidden" = "عرض القصص المخفية";

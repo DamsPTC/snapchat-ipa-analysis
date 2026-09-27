@@ -1,0 +1,16 @@
+"chat_notification_update_error_message" = "Updaten van chatmelding is mislukt. Probeer het opnieuw.";
+"chat_profile_change_retention_hide_policy" = "Chats verbergen...";
+"chat_profile_change_snap_viewing_policy_delete_snaps" = "Snaps verwijderen...";
+"chat_profile_change_snap_viewing_policy_title_toggle" = "Snaps in Chat behouden";
+"chat_profile_change_snap_viewing_policy_toggle" = "Snaps blijven 24 uur in de chat staan nadat ze zijn bekeken.";
+"chat_profile_setting_confirmation_title" = "Chat-instellingen opgeslagen.";
+"chat_profile_setting_keep_snaps_enabled" = "Snaps in Chat behouden is ingeschakeld";
+"pin_conversation_alert_message" = "Je kunt maar %1$d gesprekken tegelijk vastzetten. Maak één van je vastgezette gesprekken los.";
+"pin_conversation_alert_title" = "Kan gesprek niet vastzetten";
+"snapstreak_reminder" = "Herinnering voor Snapreeks";
+"snapstreak_reminder_confirmation_subtitle" = "Herinnering voor Snapreeks ingeschakeld";
+"snapstreak_reminder_notification_dialog_cancel" = "Annuleren";
+"snapstreak_reminder_notification_dialog_description" = "Voor deze functie moet Snapchat je meldingen kunnen sturen";
+"snapstreak_reminder_notification_dialog_okay" = "Oké";
+"snapstreak_reminder_notification_dialog_title" = "Meldingen aanzetten?";
+"snapstreak_reminder_subtitle" = "Ontvang een melding 1 uur voordat een Snapreeks afloopt";

@@ -1,0 +1,17 @@
+"done" = "Done";
+"group_invite_link_create_request_failed" = "Could not copy Group invite link. Please try again.";
+"group_invite_link_create_request_sent" = "Copying Group invite link...";
+"group_invite_link_deep_link_copy_named_group" = "You've been invited to join the group \"%@\" on Snapchat. Tap the link to join! %@";
+"group_invite_link_deep_link_copy_unnamed_group" = "You've been invited to join a group on Snapchat. Tap the link to join! %@";
+"group_invite_link_delete_request_failed" = "Could not cancel Group invite link. Please try again.";
+"group_invite_link_delete_request_sent" = "Cancelling the Group invite link...";
+"group_invite_link_delete_request_succeeded" = "Group invite link has been cancelled!";
+"max_group_size_description" = "Groups can only include %@ Snapchatters.";
+"max_group_size_title" = "Full House!";
+"new_all_caps" = "NEW";
+"new_group" = "New Group";
+"new_group_create_group_link" = "Invite to Group via Link";
+"new_group_delete_group_links_action_menu_title" = "Cancel Links";
+"new_group_group_name_required_description" = "Before sending out invites to friends, please give your Group a name.";
+"new_group_group_name_required_header" = "Name your Group!";
+"okay" = "Okay";

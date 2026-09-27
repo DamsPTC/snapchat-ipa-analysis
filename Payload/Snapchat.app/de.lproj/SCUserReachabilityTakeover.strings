@@ -1,0 +1,7 @@
+"body" = "Sind deine Email-Adresse und Handynummer aktuell?";
+"dismiss_button_with_details" = "Bestätigen";
+"dismiss_button_without_details" = "Fertig";
+"no_email_placeholder" = "Email hinzufügen";
+"no_phone_placeholder" = "Nummer hinzufügen";
+"title_with_details" = "Kontaktdaten bestätigen";
+"title_without_details" = "Kontaktdaten hinzufügen";

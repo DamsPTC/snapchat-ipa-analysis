@@ -1,0 +1,8 @@
+"suggestion_error" = "Nagkaroon ng problema, pakisubukan ulit mamaya";
+"username_invalid_begin" = "Kailangang nagsisimula sa isang letter ang usernames 🔠";
+"username_invalid_char" = "Ang pwede lang sa usernames ay latin letters, numbers, at isa sa -, _, o . pero 'di pwede ang special characters! 👌";
+"username_invalid_end" = "Nagtatapos dapat sa isang letter o number ang mga username";
+"username_invalid_long" = "'Di dapat lumampas nang 15 characters ang usernames 📖";
+"username_invalid_separator" = "Hanggang isang -, _, o . lang ang pwede sa usernames. Masyadong marami na ang sa 'yo ✌";
+"username_invalid_short" = "Kailangang hindi bababa sa 3 character ang mga username 📝";
+"username_taken" = "Taken na ang %1$@!";

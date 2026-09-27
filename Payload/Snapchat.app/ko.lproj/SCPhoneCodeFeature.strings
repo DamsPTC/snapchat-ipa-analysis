@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "%1$@번으로 전화 드리겠습니다.";
+"alt_send_code_by_sms" = "SMS로 코드 전송";
+"alt_send_code_by_sms_dialogue" = "%1$@번으로 SMS 코드를 전송하겠습니다.";
+"error_occurred_message" = "오류가 발생했습니다. 나중에 다시 시도해 주세요.";
+"ngo_email_instead" = "이메일을 대신 사용하기";
+"ngo_phone_verification_description" = "%1$@번으로 전송된 코드를 입력하세요.";
+"ngo_phone_verification_title" = "번호 확인";
+"ngo_submit" = "제출";
+"ok" = "확인";
+"register_phone_verification_desc" = "%1$@번으로 받은 코드를 입력하세요.";
+"register_phone_verification_title" = "확인 코드 입력";
+"resend_code" = "다시 전송";
+"skip_button" = "건너뛰기";
+"verifying" = "인증 중...";

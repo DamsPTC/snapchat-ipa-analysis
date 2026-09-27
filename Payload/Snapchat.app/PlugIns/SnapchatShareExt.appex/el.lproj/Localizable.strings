@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Εγκατάλειψη";
+
+"add_a_chat" = "Προσθήκη μηνύματος...";
+
+"are_you_sure_you_want_to_abandon" = "Είσαι βέβαιος ότι θέλεις να εγκαταλείψεις το Snapστούργημά σου;";
+
+"best_friends_header" = "ΚΟΛΛΗΤΟΙ";
+
+"groups_header" = "Γκρουπ";
+
+"friends_header" = "Φίλοι";
+
+"send" = "Αποστολή";
+
+"cancel" = "ΑΚΥΡΟ";
+
+"cannot_add_more_snapchatters" = "Δεν είναι δυνατή η προσθήκη περισσότερων Snapchatter!";
+
+
+"login_before_sharing_message" = "Πραγματοποίησες είσοδο στο Snapchat πριν από την κοινή χρήση.";
+
+"login_before_sharing_title" = "Απαιτείται είσοδος";
+
+"me_hint" = "(εγώ)";
+
+"noticed_new_acct_sharing_message" = "Λανθασμένος λογαριασμός!";
+
+"noticed_new_acct_sharing_title" = "Φαίνεται ότι άλλαξες λογαριασμούς. Συνδέσου ξανά για να στείλεις το snap σου ή ξεκίνησε από την αρχή.";
+
+"okay" = "ΟΚ";
+
+"open_before_sharing_message" = "Άνοιξε το Snapchat πριν από την κοινή χρήση.";
+
+"open_before_sharing_title" = "Άνοιγμα του Snapchat";
+
+"problem_sharing_try_again" = "Κάτι πήγε στραβά, προσπάθησε ξανά.";
+
+"recents_header" = "Πρόσφατα";
+
+"search_text_view_hint" = "Αναζήτηση";
+
+"send_to" = "Αποστολή σε...";
+
+"try_again" = "Προσπάθησε ξανά";
+
+"video_too_long" = "Για κοινή χρήση, ένα βίντεο πρέπει να είναι μικρότερο από 60 δευτερόλεπτα.";
+
+"video_too_long_with_maximum_duration_desc" = "Για κοινή χρήση, ένα βίντεο πρέπει να είναι μικρότερο από %1$ld δευτερόλεπτα.";
+
+"stories_header" = "Ιστορίες";
+
+"my_story" = "Η Ιστορία μου";

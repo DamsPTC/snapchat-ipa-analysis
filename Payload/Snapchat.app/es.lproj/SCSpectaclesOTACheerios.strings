@@ -1,0 +1,11 @@
+"cheerios_up_to_date_version" = "Tu Pixy está al día\n%1$@";
+"cheerios_update_complete_title" = "¡Se actualizó Pixy!";
+"cheerios_update_failed_title" = "Error al actualizar Pixy";
+"ota_update_available" = "Hay una actualización de software disponible. Toca para actualizar ahora.";
+"ota_update_charger_cheerios" = "Conecta tu Pixy antes de actualizar.";
+"ota_update_fail_cheerios" = "Hubo un problema al actualizar Pixy. Vuelve a intentarlo.";
+"ota_update_low_battery_cheerios" = "Carga tu Pixy al menos hasta el 40 % y, luego, vuelve a intentar actualizar.";
+"ota_update_required_cheerios" = "Actualiza tu Pixy antes de importar Snaps.";
+"ota_update_too_cold_cheerios" = "Tu Pixy está muy frío para actualizarse ❄️. Deja que se caliente un poco antes de volver a intentarlo.";
+"ota_update_too_hot_cheerios" = "Tu Pixy está muy caliente para actualizarse 🔥. Deja que se enfríe un poco antes de volver a intentarlo.";
+"update_version_detail" = "Versión %1$@";

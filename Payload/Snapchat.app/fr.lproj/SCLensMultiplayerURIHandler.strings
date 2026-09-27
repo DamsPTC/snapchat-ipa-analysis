@@ -1,0 +1,3 @@
+"lens_connected_lens_developer_invite_must_have_lens_pushed" = "L'utilisateur doit disposer de la Lens sur son appareil.";
+"lens_connected_lens_developer_invite_request_failed" = "La demande a échoué. Réessayez ou activez \"Join Instantly\" (Rejoindre instantanément) dans Lens Studio pour désactiver l'invitation et rejoindre directement la session multi-joueurs.";
+"lens_connected_lens_notify_recording" = "enregistrement de %1$@";

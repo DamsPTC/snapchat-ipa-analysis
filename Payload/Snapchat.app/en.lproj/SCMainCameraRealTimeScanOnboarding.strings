@@ -1,0 +1,7 @@
+"realtime_snapcode_scan_onboarding_dialog_accept" = "Okay";
+"realtime_snapcode_scan_onboarding_dialog_description" = "Snapchat can now detect when there are Snapcodes in your Camera!\n\nJust point your Camera at a Snapcode and tap the notification to Scan and open the experience.\n\n You can change these permissions in Settings.";
+"realtime_snapcode_scan_onboarding_dialog_title" = "Real Time Snapcodes";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_accept" = "Got It";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_description" = "Press and hold on the Camera screen or tap the Scan button to Scan your pets, plants, products, codes and more!\n\nScan can also detect when there are Snapcodes in your Camera! Just point your Camera at a Snapcode and tap the notification to Scan and open the experience.You can change these permissions in Settings.\n\nScan works by sending your Scan to Snap servers and, for some features, to partners, like Shazam. Results are sourced from partners, Snapchat and the internet. You can explore and delete your results in Scan History or in Settings.";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_learn_more" = "Learn More";
+"scan_and_realtime_snapcode_scan_onboarding_dialog_title" = "Introducing Scan!";

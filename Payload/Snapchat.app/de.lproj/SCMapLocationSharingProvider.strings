@@ -1,0 +1,13 @@
+"friend" = "1 Freund";
+"friends" = "%1$@ Freunde";
+"live_location_entering_ghost_mode_warning_subtitle" = "Du bist im Geistmodus, aber %1$@ kann deinen Live-Standort weiterhin sehen. Wenn du das nicht möchtest, tippe unten auf „Meinen Live-Standort ausblenden“.";
+"live_location_entering_ghost_mode_warning_title" = "Dein Live-Standort wird weiterhin geteilt.";
+"live_location_exit_ghost_mode_subtitle" = "Dein Live-Standort wird nicht länger ausgeblendet und mit den ausgewählten Freunden geteilt.";
+"live_location_exit_ghost_mode_title" = "Geistmodus verlassen?";
+"live_location_pausing_alert_OK" = "OK";
+"live_location_pausing_alert_body_all_friends" = "Dein Live-Standort ist ausgeblendet, aber deine Freunde können weiterhin deinen letzten aktiven Standort sehen. \n\n Du kannst dies in den Standorteinstellungen ändern.";
+"live_location_pausing_alert_body_plural" = "Dein Live-Standort ist ausgeblendet, aber %1$@ Freunde können weiterhin deinen letzten aktiven Standort sehen. \n\n Du kannst dies in den Standorteinstellungen ändern.";
+"live_location_pausing_alert_body_singular" = "Dein Live-Standort ist ausgeblendet, aber 1 Freund kann weiterhin deinen letzten aktiven Standort sehen. \n\n Du kannst dies in den Standorteinstellungen ändern.";
+"live_location_pausing_alert_title" = "Du teilst noch deinen letzten aktiven Standort.";
+"live_location_resuming_alert_body" = "Live-Standort mit %1$@ teilen und Live-Standortfreigabe fortsetzen?";
+"live_location_resuming_alert_subtitle" = "Dein Live-Standort wird nicht länger ausgeblendet und mit %1$@ sowie mit allen ausgewählten Personen geteilt.";

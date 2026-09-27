@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "Archiwizacja Snapów zapisanych przez użytkownika %1$@ we Wspomnieniach nie została ukończona. Jeżeli zalogujesz się jako %2$@, te Snapy zostaną utracone. Zaloguj się ponownie jako %3$@, by dokończyć proces archiwizacji.";
+"memories_pending_sync_alert_login_action" = "ZALOGUJ SIĘ";
+"memories_pending_sync_alert_registration_action" = "ZAREJESTRUJ SIĘ";
+"memories_pending_sync_alert_registration_body" = "Snapy zapisane przez użytkownika %1$@ nie skończyły archiwizować się we Wspomnieniach. Jeżeli zarejestrujesz nowe konto, te Snapy zostaną utracone. Zaloguj się ponownie jako %2$@, by dokończyć proces archiwizacji.";
+"memories_pending_sync_alert_title" = "Jeszcze chwila!";

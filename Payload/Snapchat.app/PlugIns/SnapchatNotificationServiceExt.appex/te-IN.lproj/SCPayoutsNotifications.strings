@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "కొత్త స్పాట్‌లైట్ చెల్లింపు!";
+"payouts_push_notification_gifting_title" = "కొత్త బహుమతి ఇవ్వడానికి పేఅవుట్!";
+"payouts_push_notification_title_spotlight_challenges" = "కొత్త స్పాట్‌లైట్ చాలెంజ్ పేఅవుట్!";
+"payouts_push_notification_title_story" = "కొత్త స్టోరీస్ పేఅవుట్!";
+"payouts_push_notification_title_lens_creator_fund" = "కొత్త లెన్స్ క్రియేటర్ రివార్డ్స్ కార్యక్రమం పేఅవుట్!";
+"payouts_push_notification_title_ildg" = "కొత్త లెన్స్ అన్‌లాకబుల్స్ పేఅవుట్!";
+"payouts_push_notification_title_cashout_eligible" = "మీ అవార్డ్‌లు త్వరలో ఆటోమేటిక్‌గా క్యాష్ అవుట్ చేయబడతాయి!";
+"payouts_push_notification_title_invalidate_eligible" = "మీ అవార్డ్‌లు త్వరలో చెల్లుబాటు కావు!";
+
+"payouts_push_notification_subtitle_onboarded" = "అభినందనలు! మీ సంపాదనలను చూడటానికి ప్రొఫైల్‌లో నా పేఅవుట్‌లను తనిఖీ చేయండి!";
+"payouts_push_notification_subtitle_not_onboarded" = "మీరు స్పాట్‌లైట్ నుండి డబ్బు సంపాదించారు. చెల్లించడానికి ఇప్పుడు ప్రొఫైల్‌లో ఆన్‌బోర్డ్ అవ్వండి!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "స్పాట్‌లైట్ ఛాలెంజ్‌ల నుండి మీకు క్రిస్టల్స్ వచ్చాయి. చెల్లింపు పొందడానికి ఇప్పుడు ప్రొఫైల్‌లో ఆన్‌బోర్డ్ అవ్వండి!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "మీకు బహుమతుల నుండి క్రిస్టల్స్ వచ్చాయి. చెల్లించడానికి ఇప్పుడు ప్రొఫైల్‌లో ఆన్‌బోర్డ్ అవ్వండి!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "మీకు స్టోరీస్ నుండి క్రిస్టల్స్ వచ్చాయి. చెల్లింపు పొందడానికి ఇప్పుడు ప్రొఫైల్‌లో ఆన్‌బోర్డ్ అవ్వండి!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "మీకు లెన్స్ క్రియేటర్ రివార్డ్‌ల కార్యక్రమం నుండి క్రిస్టల్స్ వచ్చాయి. చెల్లింపు పొందడానికి ఇప్పుడు ప్రొఫైల్‌లో ఆన్‌బోర్డ్ అవ్వండి!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "మీకు లెన్స్ అన్‌లాకబుల్ నుండి క్రిస్టల్స్ వచ్చాయి. చెల్లింపు పొందడానికి ఇప్పుడు ప్రొఫైల్‌లో ఆన్‌బోర్డ్ అవ్వండి!";
+"payouts_push_notification_subtitle_cashout_eligible" = "మీ క్రిస్టల్ అవార్డ్‌లు ఎటువంటి చర్య తీసుకోకుంటే %1$@కి ఆటోమేటిక్‌గా క్యాష్అవుట్ చేయబడతాయి. పరిష్కరించడానికి ప్రొఫైల్‌లో నా క్రిస్టల్స్ చెక్ చేయండి.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "ఎటువంటి చర్య తీసుకోకుంటే, మీ క్రిస్టల్ అవార్డులు %1$@న చెల్లుబాటు కావు. పరిష్కరించడానికి ప్రొఫైల్‌లో నా క్రిస్టల్స్ చెక్ చేయండి.";
+
+"payouts_state_title" = "పేఅవుట్‌ల స్టేటస్ అప్డేట్ చేయబడింది!";
+"payouts_state_subtitle" = "మీ పేఅవుట్‌ల స్టేటస్ అప్డేట్ చేయబడింది. మీ స్టేటస్‌ని చూడటానికి ప్రొఫైల్‌లో నా Snap క్రిస్టల్స్‌ను తనిఖీ చేయండి!";
+"gifting_opened_gift" = "%1$@ మీ బహుమతిని తెరిచారు!";
+"gifting_support_thanks" = "Snapchat లో వారికి మద్దతు ఇచ్చినందుకు ధన్యవాదాలు.";
+

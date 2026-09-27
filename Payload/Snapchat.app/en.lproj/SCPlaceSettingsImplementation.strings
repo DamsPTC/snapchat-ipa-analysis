@@ -1,0 +1,12 @@
+"cancel" = "Cancel";
+"clear" = "Clear";
+"clear_location_history" = "Clear Top Locations";
+"clear_location_history_alert_message" = "This resets the list of places you visit the most, which we use for Map Actionmoji and more.";
+"clear_location_history_alert_title" = "Clear Top Locations?";
+"clear_location_history_request_failure_message" = "Failed to clear top locations";
+"clear_location_history_request_success_message" = "Top locations cleared!";
+"clear_location_history_v2_subtext" = "Clear your location history, including travel updates and some Places you've visited while location is turned on, not including Places you tagged in Snaps.";
+"clear_location_history_v2_title" = "Clear Location History";
+"display_public_friend_favorites" = "Do not show my Place Favorites to Friends. You will still be able to see your friend's favorites.";
+"places" = "Places";
+"recommend_to_friends" = "Use places I've tagged in My Story posts or favorited to recommend places to friends";

@@ -1,0 +1,13 @@
+"connect_wallet_description" = "Präsentiere deine sammelbare Linse! Verknüpfe einfach deine Krypto-Wallet mit deinem Snapchat Account und dein Nutzername wird öffentlich auf der Linse und an anderen Stellen auf Snapchat angezeigt. Du kannst die Verknüpfung deiner Wallet jederzeit in den Einstellungen unter „Verlinkte Wallets“ aufheben.";
+"connect_wallet_ftx_disclosure" = "FTX ist derzeit in eingeschränkten Zuständigkeiten wie New York nicht verfügbar.";
+"connect_wallet_learn_more" = "Mehr Infos";
+"connect_wallet_legal_disclosure" = "Indem du deine Wallet verknüpfst, stimmst du den %1$@ zu.";
+"connect_wallet_terms_of_use" = "Bedingungen für digitale Sammlerstücke";
+"connect_wallet_title" = "Verbinde deine Wallet";
+"result_failure_body" = "Überprüfe deine Anmeldedaten und Internetverbindung.";
+"result_failure_not_available" = "Dieses Feature steht dir momentan nicht zur Verfügung.";
+"result_failure_title" = "Verbindung fehlgeschlagen";
+"result_success_body" = "Deine Wallet ist jetzt verbunden!";
+"result_success_no_collection_body" = "Du hast dieses NFT noch nicht gesammelt, aber du kannst die Linse dennoch verwenden. Wenn du das zu dieser Linse gehörige NFT gerade gekauft hast, warte bitte bis zu 5 Minuten, bis der Kauf verifiziert wurde.";
+"result_success_no_collection_title" = "Wallet mit Linse verbunden";
+"result_success_title" = "Verbindung erfolgreich";

@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "আপনার স্ক্রিন শেয়ার করার জন্য আপনাকে অবশ্যই একটি কলে থাকতে হবে।";
+"screen_capture_error_generic" = "কিছু একটা ভুল হয়েছে: অনুগ্রহ করে আবার স্ক্রিন শেয়ার করার চেষ্টা করুন।";
+"screen_capture_not_enabled" = "কিছু একটা ভুল হয়েছে।";

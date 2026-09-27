@@ -1,0 +1,6 @@
+"sms_invite_auto_friend_request_description" = "Snapchat will send a SMS invite with a friend request for you!";
+"sms_invite_section_description" = "Snapchat will send requested SMS invites to your contacts";
+"via_phone" = "via - $0";
+"via_sms_phone" = "via SMS: $0";
+"whatsapp_invite_description" = "Snapchat will send an invite for you through SMS or WhatsApp.";
+"whatsapp_invite_description_with_auto_friend_request" = "Snapchat will send an invite with a friend request for you through SMS or WhatsApp.";

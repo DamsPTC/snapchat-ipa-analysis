@@ -1,0 +1,13 @@
+"fashion_share_error_message_action" = "Ok";
+"fashion_share_error_message_title" = "Un problème est survenu…";
+"fashion_share_fallback_error_message_subtitle" = "Veuillez vérifier que vous disposez de la dernière version de l'application et réessayez.";
+"fashion_share_generic_error_message_subtitle" = "Une erreur s'est produite. Merci de réessayer ultérieurement.";
+"fashion_share_message_limited_icon_title" = "LIMITÉ";
+"fashion_share_unavailable_message_body" = "Réessayez une prochaine fois ! Tous les articles ont été débloqués.";
+"fashion_share_unavailable_message_close_action" = "Fermer";
+"fashion_share_unavailable_message_title" = "Plus disponible";
+"fashion_share_unavailable_message_view_more_outfits_action" = "Voir plus d'articles de mode";
+"fashion_share_unlcoked_message_dismiss_action" = "Annuler";
+"fashion_share_unlcoked_message_try_on_action" = "Essayer";
+"fashion_share_unlocked_message_body" = "Essayez-le dans Bitmoji Fashion et enregistrez-le dans votre tenue pour le conserver !";
+"fashion_share_unlocked_message_title" = "Article débloqué !";

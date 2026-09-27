@@ -1,0 +1,9 @@
+"landing_context" = "Lượt đăng nhập này có vẻ bất thường! Để giữ an toàn cho tài khoản của bạn, hãy xác minh tài khoản của bạn qua một trong các tùy chọn sau.";
+"landing_message_note" = "*Có thể mất phí tin nhắn hoặc phí dữ liệu.";
+"landing_options_radio_phone" = "Tin Nhắn Văn Bản";
+"landing_title" = "Hoạt Động Đăng Nhập Đáng Ngờ";
+"retry_message" = "Có gì đó sai sai. Hãy thử lại.";
+"verification_description" = "Nhập mã chúng tôi gửi đến\n%1$@";
+"verification_title" = "Nhập Mã Xác Thực";
+"verification_unable_to_verify" = "Có vấn đề khi xác thực?";
+"verification_unable_to_verify_dialog" = "Rất tiếc! Chúng tôi không thể xác thực tài khoản của bạn. Hãy liên hệ với Bộ Phận Hỗ Trợ Snapchat để được trợ giúp.";

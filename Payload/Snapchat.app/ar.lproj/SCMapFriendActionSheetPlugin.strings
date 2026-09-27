@@ -1,0 +1,8 @@
+"location_settings_title" = "إعدادات الموقع";
+"mute_location_alert_body" = "لن يظهر لك موقع صديقك هذا على سناب شات. ويمكنك دائمًا إظهار موقعه من ملفه التعريفي.";
+"mute_location_alert_cancel" = "إلغاء";
+"mute_location_alert_okay" = "حسنًا";
+"mute_location_alert_title" = "هل تريد بالتأكيد إخفاء موقع ⁦%1$@⁩؟";
+"mute_location_cell_title" = "إخفاء موقع ⁦%1$@⁩";
+"mute_location_done_title" = "تم";
+"mute_location_failed" = "تعذّر تحديث إعدادات إخفاء الموقع. يُرجى إعادة المحاولة.";

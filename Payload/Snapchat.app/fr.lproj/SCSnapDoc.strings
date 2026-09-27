@@ -1,0 +1,17 @@
+"affordance_commerce_shop" = "ACHETER";
+"affordance_text_install" = "APP STORE";
+"affordance_text_open_app" = "OUVRIR L'APPLICATION";
+"affordance_text_read" = "LIRE";
+"affordance_text_subscribe" = "S'ABONNER";
+"affordance_text_try_lens" = "ESSAYER LA LENS";
+"affordance_text_watch" = "REGARDER";
+"check_connection_to_internet" = "Vérifiez votre connexion Internet, puis réessayez.";
+"connection_failed" = "Connexion impossible !";
+"disk_full_title_for_loading_view" = "Mémoire pleine !";
+"oops_exclamation" = "Oups !";
+"opt_in_notification_notify_me" = "M'AVERTIR";
+"retry" = "Réessayer";
+"something_went_wrong_please_try_again" = "Une erreur s'est produite. Veuillez réessayer.";
+"subscribe" = "S'abonner";
+"subscribed" = "Abonné·e";
+"try_deleting_unused_apps_music_photos" = "Essayez de supprimer des applications, des musiques ou des photos que vous n'utilisez pas.";

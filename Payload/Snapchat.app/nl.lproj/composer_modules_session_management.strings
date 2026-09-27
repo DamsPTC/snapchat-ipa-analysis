@@ -1,0 +1,17 @@
+"active_session_load_failure_subtitle" = "Er is iets misgegaan! \n Probeer het opnieuw.";
+"active_session_load_failure_title" = "Oeps!";
+"application_session_subtitle" = "Sessies in de app";
+"browser_session_subtitle" = "Sessies via de browser";
+"current_session_indicator" = "Je huidige sessie";
+"delete_cancellation" = "Annuleren";
+"delete_confirmation" = "Oké";
+"delete_confirmation_subtitle" = "Je opgeslagen inloggegevens op dat apparaat worden verwijderd en je hebt geen toegang meer tot je Snapchat-account.\n\n Het kan enkele minuten duren voordat je bent uitgelogd.";
+"delete_confirmation_title" = "Uitloggen bij";
+"delete_session_error_message" = "Er is een fout opgetreden. Probeer het opnieuw.";
+"delete_unknown_device_name" = "Onbekend apparaat";
+"session_management_recentlySeen" = "Zojuist";
+"session_management_subtitle" = "Volg waar je account actief wordt gebruikt.\nOnlangs geautoriseerde apparaten worden misschien niet meteen weergegeven.";
+"session_management_title" = "Sessiebeheer";
+"try_again" = "Probeer opnieuw";
+"unknown_device_name" = "Onbekend";
+"web_session_prompt_title" = "Snapchat. Nu ook in je browser.";

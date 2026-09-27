@@ -1,0 +1,7 @@
+"deselect_all" = "إلغاء اختيار الكل";
+"okay" = "حسنًا";
+"segment_thumbnail_duration" = "$0 ث";
+"segment_thumbnail_duration_in_minutes" = "$0 من الدقائق";
+"segment_thumbnail_duration_in_minutes_and_seconds" = "$0من الدقائق $1من الثواني";
+"select_all" = "اختيار الكل";
+"select_limit_items" = "عذرًا، يمكن تحديد $0 من العناصر فقط في كل مرة.";

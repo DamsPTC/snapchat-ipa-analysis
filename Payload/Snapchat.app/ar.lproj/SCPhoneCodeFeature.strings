@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "سوف نتصل بك ⁦%1$@⁩.";
+"alt_send_code_by_sms" = "إرسال الرمز في رسالة قصيرة";
+"alt_send_code_by_sms_dialogue" = "سوف نُرسل إليك الرمز في رسالة نصية ⁦%1$@⁩.";
+"error_occurred_message" = "حدث خطأ. يرجى المحاولة مرة أخرى.";
+"ngo_email_instead" = "استخدم البريد الإلكتروني بدلاً من ذلك";
+"ngo_phone_verification_description" = "أدخل الرمز المُرسل إلى ⁦%1$@⁩";
+"ngo_phone_verification_title" = "تأكيد رقمك";
+"ngo_submit" = "إرسال";
+"ok" = "حسنًا";
+"register_phone_verification_desc" = "أدخل الرمز الذي أرسلناه إلى ⁦%1$@⁩";
+"register_phone_verification_title" = "أدخل رمز التأكيد";
+"resend_code" = "إرسال مرة أخرى";
+"skip_button" = "التخطّي";
+"verifying" = "جارٍ التحقق...";

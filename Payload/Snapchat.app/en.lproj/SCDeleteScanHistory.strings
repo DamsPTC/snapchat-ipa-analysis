@@ -1,0 +1,5 @@
+"cancel" = "Cancel";
+"delete_all_scan_results" = "Delete All";
+"delete_n_scan_results" = "Delete %1$d";
+"delete_scan_history_alert_message" = "You cannot recover results once they are deleted.";
+"delete_scan_history_alert_title" = "Are you sure you want to delete your Scan results?";

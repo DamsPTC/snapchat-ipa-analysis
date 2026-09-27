@@ -1,0 +1,4 @@
+"onboarding_alert_description" = "Du hast diese Nachricht von %1$@ erhalten, weil du ihre/seine Handynummer in deinen Kontakten hast.\n\nDu kannst %1$@ blockieren oder deine Kontakteinstellungen jederzeit ändern, um keine Nachrichten dieser Art mehr zu erhalten. \n\nWenn du diese Nachricht öffnest, sieht %1$@ möglicherweise, dass du ihre/seine Handynummer in den Kontakten hast.";
+"onboarding_alert_open_chat_button" = "Chat öffnen";
+"onboarding_alert_settings_button" = "Einstellungen";
+"onboarding_alert_title" = "Chat mit %1$@";

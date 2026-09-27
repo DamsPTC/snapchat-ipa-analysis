@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "నా Snapcode";
+
+"Snapcode Desc" = "ఈ విడ్జెట్ మీ Snapcodeను ప్రదర్శిస్తుంది";
+
+"camera" = "కెమెరా";
+
+"camera_desc" = "Snapchat కెమెరాని తెరవండి.";
+
+"log_in" = "లాగిన్ చేయండి";
+
+"shortcut_to_a_friend" = "విడ్జెట్‌ను ఉంచిన తర్వాత ఫ్రెండ్‌ని లేదా గ్రూప్‌ను ఎంచుకోవడానికి దాన్ని ట్యాప్ చేయండి.";
+
+"pin_a_friend" = "ఒక ఫ్రెండ్‌ను లేదా గ్రూప్‌ని పిన్ చేయండి";
+
+"birthdays" = "పుట్టిన రోజులు";
+
+"see_upcoming_birthdays" = "రాబోయే పుట్టిన రోజులను చూడండి";
+
+"no_upcoming_birthdays" = "రాబోయేవి ఏవి లేవు";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%2$d రోజులో %1$@";
+
+"user_has_birthday_in_days_plural" = "%2$d రోజులో %1$@";
+
+"user_and_other_have_birthday_in_days_singular" = "%3$d రోజులో %1$@ +%2$d";
+
+"user_and_other_have_birthday_in_days_plural" = "%3$d రోజులలో %1$@ +%2$d";
+
+"Memories" = "మెమోరీస్";
+
+"Memories Desc" = "ఫ్లాష్‌బ్యాక్‌లు, ట్రిప్‌లు, రీక్యాప్‌లు మరియు మరిన్నింటితో సహా మీ మెమోరీస్ నుండి ఫీచర్ చేయబడిన Snapలు!";
+
+"Friend Location Widget Desc" = "మీ ఫ్రెండ్ లొకేషన్‌ను చూసేందుకు ఈ విడ్జెట్‌తో ఫ్రెండ్‌ని పిన్ చేయండి.";
+
+"map" = "మ్యాప్";
+
+"now" = "ఇప్పుడు";
+
+"something_went_wrong" = "ఏదో తప్పు జరిగింది, దయచేసి Snapchatను తెరవండి";
+
+"long_press_to_pin" = "ఫ్రెండ్‌ను పిన్ చేయడానికి సవరించండి";
+
+"off_the_grid" = "గ్రిడ్ వెలుపల";

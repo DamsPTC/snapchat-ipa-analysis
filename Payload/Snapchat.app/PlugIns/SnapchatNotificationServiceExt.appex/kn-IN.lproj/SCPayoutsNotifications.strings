@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "ಹೊಸ ಸ್ಪಾಟ್‌ಲೈಟ್ ಪಾವತಿ!";
+"payouts_push_notification_gifting_title" = "ಹೊಸ ಉಡುಗೊರೆ ನೀಡುವ ಪೇಔಟ್!";
+"payouts_push_notification_title_spotlight_challenges" = "ಹೊಸ ಸ್ಪಾಟ್‌ಲೈಟ್ ಸವಾಲಿನ ಪೇಔಟ್!";
+"payouts_push_notification_title_story" = "ಹೊಸ ಕಥೆಗಳ ಪೇಔಟ್!";
+"payouts_push_notification_title_lens_creator_fund" = "ಹೊಸ ಲೆನ್ಸ್ ಕ್ರಿಯೇಟರ್ ರಿವಾರ್ಡ್ಸ್ ಪ್ರೊಗ್ರಾಂ ಪೇಔಟ್‌!";
+"payouts_push_notification_title_ildg" = "ಹೊಸ ಲೆನ್ಸ್ ಅನ್‌ಲಾಕೆಬಲ್‌ಗಳ ಪೇಔಟ್!";
+"payouts_push_notification_title_cashout_eligible" = "ನಿಮ್ಮ ಅವಾರ್ಡ್‌ಗಳನ್ನು ಶೀಘ್ರ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಕ್ಯಾಶ್ ಔಟ್ ಮಾಡಲಾಗುತ್ತದೆ!";
+"payouts_push_notification_title_invalidate_eligible" = "ನಿಮ್ಮ ಅವಾರ್ಡ್‌ಗಳು ಶೀಘ್ರ ಅಮಾನ್ಯಗೊಳ್ಳಲಿವೆ!";
+
+"payouts_push_notification_subtitle_onboarded" = "ಅಭಿನಂದನೆಗಳು! ನಿಮ್ಮ ಗಳಿಕೆಗಳನ್ನು ನೋಡಲು ಈಗ ಪ್ರೋಫೈಲ್‌ನಲ್ಲಿ ಮೈ ಪೇಔಟ್‌ಗಳನ್ನು ನೋಡಿ!";
+"payouts_push_notification_subtitle_not_onboarded" = "ನೀವು ಸ್ಪಾಟ್‌ಲೈಟ್‌ನಿಂದ ಹಣ ಗಳಿಸಿದಿರಿ. ಪಾವತಿ ಪಡೆಯಲು ಈಗ ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ ಆನ್‌ಬೋರ್ಡ್ ಆಗಿ!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "ನೀವು ಸ್ಪಾಟ್‌ಲೈಟ್ ಸವಾಲುಗಳಿಂದ ಕ್ರಿಸ್ಟಲ್‌ಗಳನ್ನು ಪಡೆದಿದ್ದೀರಿ. ಪಾವತಿ ಪಡೆಯಲು ಈಗ ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ ಆನ್‌ಬೋರ್ಡ್ ಆಗಿ!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "ನೀವು ಉಡುಗೊರೆಗಳಿಂದ ಕ್ರಿಸ್ಟಲ್‌ಗಳನ್ನು ಪಡೆದಿದ್ದೀರಿ. ಪಾವತಿ ಪಡೆಯಲು ಈಗ ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ ಆನ್‌ಬೋರ್ಡ್ ಆಗಿ!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "ನೀವು ಕಥೆಗಳಿಂದ ಕ್ರಿಸ್ಟಲ್‌ಗಳನ್ನು ಪಡೆದ್ದೀರಿ. ಪಾವತಿ ಪಡೆಯಲು ಈಗ ಪ್ರೋಫೈಲ್‌ನಲ್ಲಿ ಆನ್‌ಬೋರ್ಡ್ ಆಗಿ!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "ನೀವು ಲೆನ್ಸ್ ಕ್ರಿಯೇಟರ್ ರಿವಾರ್ಡ್ಸ್ ಪ್ರೊಗ್ರಾಂನಿಂದ ಕ್ರಿಸ್ಟಲ್‌ಗಳನ್ನು ಪಡೆದಿದ್ದೀರಿ. ಪಾವತಿ ಪಡೆಯಲು ಈಗ ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ ಆನ್‌ಬೋರ್ಡ್ ಮಾಡಿ!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "ನೀವು ಲೆನ್ಸ್ ಅನ್‌ಲಾಕೆಬಲ್‌ಗಳಿಂದ ಕ್ರಿಸ್ಟಲ್‌ಗಳನ್ನು ಪಡೆದಿದ್ದೀರಿ. ಪಾವತಿ ಪಡೆಯಲು ಈಗ ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ ಆನ್‌ಬೋರ್ಡ್ ಮಾಡಿ!";
+"payouts_push_notification_subtitle_cashout_eligible" = "ಒಂದು ವೇಳೆ ಯಾವುದೇ ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳದಿದ್ದರೆ ನಿಮ್ಮ ಕ್ರಿಸ್ಟಲ್ ಅವಾರ್ಡ್‌ಗಳು %1$@ ರಂದು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಕ್ಯಾಶ್ ಔಟ್ ಆಗುತ್ತವೆ. ಬಗೆಹರಿಸಲು ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ ನನ್ನ ಕ್ರಿಸ್ಟಲ್‌ಗಳು ನೋಡಿ.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "ಒಂದು ವೇಳೆ ಯಾವುದೇ ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳದಿದ್ದರೆ %1$@ ರಂದು ನಿಮ್ಮ ಕ್ರಿಸ್ಟಲ್ ಅವಾರ್ಡ್‌ಗಳು ಅಮಾನ್ಯಗೊಳ್ಳುತ್ತವೆ. ಬಗೆಹರಿಸಲು ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ ನನ್ನ ಕ್ರಿಸ್ಟಲ್‌ಗಳು ನೋಡಿ.";
+
+"payouts_state_title" = "ಪೇಔಟ್ ಸ್ಥಿತಿಯನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗಿದೆ!";
+"payouts_state_subtitle" = "ನಿಮ್ಮ ಪೇಔಟ್‌ಗಳ ಅರ್ಹತಾ ಸ್ಥಿತಿಯನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗಿದೆ. ನಿಮ್ಮ ಸ್ಥಿತಿಯನ್ನು ನೋಡಲು ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ ನನ್ನ Snap ಕ್ರಿಸ್ಟಲ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸಿ!";
+"gifting_opened_gift" = "%1$@ ನಿಮ್ಮ ಉಡುಗೊರೆಯನ್ನು ತೆರೆದಿದ್ದಾರೆ!";
+"gifting_support_thanks" = "ಅವರನ್ನು Snapchat ನಲ್ಲಿ ಬೆಂಬಲಿಸಿದ್ದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು.";
+

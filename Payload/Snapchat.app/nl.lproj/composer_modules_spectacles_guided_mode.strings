@@ -1,0 +1,8 @@
+"default_lens_author_name" = "Snapchat";
+"guided_mode" = "Begeleide modus";
+"guided_mode_desc" = "Met de Begeleide modus beperk je je Spectacles tot één Lens en worden sommige functies beperkt, zoals een Snap maken of scannen.";
+"guided_mode_lens_selection" = "Lensselectie";
+"guided_mode_restart" = "Opnieuw opstarten";
+"guided_mode_restart_alert_message" = "Om de wijzigingen in de Begeleide modus te updaten, moet Spectacles opnieuw worden opgestart. \n \n Je kunt Spectacles ook later opnieuw opstarten om te zorgen dat de wijzigingen van de Begeleide modus worden doorgevoerd.";
+"guided_mode_restart_later" = "Later";
+"guided_mode_selected_lens" = "Geselecteerde Lens";

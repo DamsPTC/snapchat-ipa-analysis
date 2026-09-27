@@ -1,0 +1,6 @@
+"alert_cancel" = "Cancelar";
+"alert_okay" = "Aceptar";
+"sending_error_alert_message" = "Verifica si tu conexión a Internet funciona y vuelve a intentarlo.";
+"sending_error_alert_title" = "No se pudo enviar el sticker";
+"sharing_privacy_alert_text" = "Ahora, otros Snapchatters pueden añadir los stickers personalizados a Favoritos y usarlos. Puedes eliminar el sticker de tu sección de stickers para evitar que se use en el futuro.";
+"sharing_privacy_alert_title" = "Compartir stickers personalizados";

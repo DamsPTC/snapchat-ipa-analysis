@@ -1,0 +1,9 @@
+"connection_error" = "Tilkoblingsfeil";
+"okay" = "OK";
+"send_code_again" = "SEND KODEN IGJEN";
+"twofa_login_code_verification_otp_to_sms_info" = "Send meg en SMS i stedet";
+"twofa_login_code_verification_otp_to_sms_progress" = "Sender...";
+"twofa_login_code_verification_with_otp_explanation" = "Skriv inn koden som ble generert av verifiseringsappen, for å bekrefte hvem du er.";
+"twofa_login_recovery_code_used" = "Du har brukt backup-koden din for å logge inn. Vi har slått av tofaktorautentisering — gå til Innstillinger for å slå det på igjen.";
+"twofa_new_device_verification_explanation" = "Skriv inn koden vi sendte til %1$@, for å bekrefte hvem du er.";
+"twofa_settings_recovery_code_used_title" = "Tofaktorautentisering er deaktivert";

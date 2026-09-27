@@ -1,0 +1,4 @@
+"phone_mutator_generic_error_message" = "Une erreur s'est produite. Merci de réessayer ultérieurement.";
+"update_birthday_failed" = "Impossible de mettre à jour votre date d'anniversaire. Veuillez réessayer.";
+"update_quick_add_privacy_failed" = "Une erreur s'est produite. Veuillez réessayer.";
+"update_snap_privacy_failed" = "Impossible de modifier la confidentialité du Snap. Veuillez réessayer.";

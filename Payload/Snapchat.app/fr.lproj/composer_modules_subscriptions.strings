@@ -1,0 +1,11 @@
+"following_count_billions_short" = "Suivi(e) par $0 Md";
+"following_count_millions_short" = "Suivi(e) par $0 M";
+"following_count_one" = "Suivi(e) par 1";
+"following_count_plural" = "Suivi(e) par $0";
+"following_count_thousands_short" = "Suivi(e) par $0 K";
+"following_count_thousands_string_short" = "Suivi(e) par $0 K";
+"subscribed_count_billions_short" = "$0 Md(s) d'abonnés";
+"subscribed_count_millions_short" = "$0 M d'abonnés";
+"subscribed_count_one" = "1 abonné";
+"subscribed_count_plural" = "$0 abonnés";
+"subscribed_count_thousands_short" = "$0 K abonnés";

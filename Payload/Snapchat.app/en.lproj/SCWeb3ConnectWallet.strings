@@ -1,0 +1,13 @@
+"connect_wallet_description" = "Show off your Collectible Lens! Just connect your crypto wallet to your Snapchat account and your username will be publicly displayed on the Lens and elsewhere on Snapchat. You can always disconnect your wallet in Settings under Linked Wallets.";
+"connect_wallet_ftx_disclosure" = "FTX is not currently available in restricted jurisdictions, including New York.";
+"connect_wallet_learn_more" = "Learn more";
+"connect_wallet_legal_disclosure" = "By connecting your wallet, you agree to the %1$@.";
+"connect_wallet_terms_of_use" = "Digital Collectibles Terms";
+"connect_wallet_title" = "Connect Your Wallet";
+"result_failure_body" = "Check your credentials and make sure your internet connection is working.";
+"result_failure_not_available" = "This feature is not available for you at this time.";
+"result_failure_title" = "Connection failed";
+"result_success_body" = "Your wallet is now connected!";
+"result_success_no_collection_body" = "You have not collected this NFT, but you may still use the Lens. If you recently purchased the NFT associated with this Lens, please wait up to 5 minutes for collectorship verification.";
+"result_success_no_collection_title" = "Wallet Connected to Lens";
+"result_success_title" = "Connection successful";

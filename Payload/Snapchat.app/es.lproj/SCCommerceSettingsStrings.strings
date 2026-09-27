@@ -1,0 +1,6 @@
+"clear_recently_viewed_items_cancel" = "Cancelar";
+"clear_recently_viewed_items_confirm" = "Ok";
+"clear_recently_viewed_items_error" = "¡Se produjo un error! Vuelve a intentarlo.";
+"clear_recently_viewed_items_question" = "Esto borrará tu historial de navegación de productos.";
+"clear_recently_viewed_items_success" = "Se borró correctamente el historial de búsqueda.";
+"clear_recently_viewed_items_title" = "Borrar historial de compras";

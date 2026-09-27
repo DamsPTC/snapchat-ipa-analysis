@@ -1,0 +1,4 @@
+"studio_force_unpair_confirm" = "تم محو بيانات اقتران Lens Studio.";
+"studio_force_unpair_status_desc" = "ستؤدي إعادة الضبط إلى إلغاء الاقتران من Lens Studio. وبالإضافة إلى ذلك، ستتم إزالة أي عدسات موزعة من دائرة عدسات Lens لديك أيضًا.";
+"studio_force_unpair_status_title" = "إعادة ضبط حالة الاقتران";
+"studio_settings_tap_to_force_unpair" = "المس لإعادة الضبط.";

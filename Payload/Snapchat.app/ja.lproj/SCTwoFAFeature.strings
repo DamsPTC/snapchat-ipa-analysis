@@ -1,0 +1,9 @@
+"connection_error" = "接続エラー";
+"okay" = "OK";
+"send_code_again" = "コードを再送信する";
+"twofa_login_code_verification_otp_to_sms_info" = "代わりにSMSでコードを受信する";
+"twofa_login_code_verification_otp_to_sms_progress" = "送信中...";
+"twofa_login_code_verification_with_otp_explanation" = "IDを認証するには認証アプリが生成したコードを入力してください。";
+"twofa_login_recovery_code_used" = "バックアップコードを利用してログインしたため、2要素認証がオフに設定されました。設定画面からオンに変更できます。";
+"twofa_new_device_verification_explanation" = "IDを認証するには、%1$@に送信されたコードを入力してください。";
+"twofa_settings_recovery_code_used_title" = "2要素認証がオフに設定されました";

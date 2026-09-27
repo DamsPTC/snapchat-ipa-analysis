@@ -1,0 +1,13 @@
+"cant_add_teamsnapchat_to_group_alert_description" = "Team Snapchat kan niet worden toegevoegd aan een Groep.";
+"cant_add_to_group_alert_descripton_one" = "%1$@ heeft je nog niet als vriend toegevoegd.";
+"cant_add_to_group_alert_descripton_three" = "%1$@, %2$@ en %3$@ hebben je nog niet als vriend toegevoegd.";
+"cant_add_to_group_alert_descripton_three_plus" = "%1$@, %2$@ en %3$@ anderen hebben je nog niet als vriend toegevoegd.";
+"cant_add_to_group_alert_descripton_two" = "%1$@ en %2$@ hebben je nog niet als vriend toegevoegd.";
+"cant_add_to_group_non_user_alert_descripton_one" = "Kan %1$@ niet toevoegen aan een groep";
+"cant_add_to_group_non_user_alert_descripton_two" = "Kan %1$@ en %2$@ niet toevoegen aan een groep";
+"cant_add_to_group_non_user_alert_title_one" = "Kan %1$@ niet toevoegen";
+"cant_add_to_group_non_user_alert_title_two" = "Kan %1$@ en %2$@ niet toevoegen";
+"filter_nonmutual_friend_alert_description_one" = "Je hebt %1$@ geselecteerd, maar die is geen vriend van je op Snapchat.\n \n Alleen je vrienden worden toegevoegd aan deze groep.";
+"filter_nonmutual_friend_alert_description_three" = "Je hebt %1$@, %2$@ en %3$@ geselecteerd, maar zij zijn geen vrienden van je op Snapchat. \n \n Alleen je vrienden worden toegevoegd aan deze groep.";
+"filter_nonmutual_friend_alert_description_three_plus" = "Je hebt %1$@, %2$@ en %3$@ anderen geselecteerd, maar zij zijn geen vrienden van je op Snapchat. \n \n Alleen je vrienden worden toegevoegd aan deze groep.";
+"filter_nonmutual_friend_alert_description_two" = "Je hebt %1$@ en %2$@ geselecteerd, maar zij zijn geen vrienden van je op Snapchat.\n \n Alleen je vrienden worden toegevoegd aan deze groep.";

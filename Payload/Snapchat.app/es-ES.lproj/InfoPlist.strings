@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>De este modo, permitirás que Snapchat se conecte a accesorios Bluetooth como Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Usa tu cámara para tomar Snaps, jugar con Lentes, ¡y más! Algunos Lentes podrían usar la cámara TrueDepth de Apple. Consulta nuestra Política de privacidad para obtener más información.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Tus contactos se subirán a los servidores de Snapchat para que tú y otras personas podáis encontrar amigxs, y para mejorar tu experiencia.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>De este modo, permitirás que Snapchat se conecte a accesorios habilitados por WiFi, como las Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Al seleccionar «Permitir siempre», Snapchat actualizará tu ubicación en segundo plano para compartir tu ubicación en tiempo real y mejorar tu experiencia.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Al seleccionar «Permitir siempre», Snapchat actualizará tu ubicación en segundo plano para compartir tu ubicación en tiempo real y mejorar tu experiencia.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>De esta forma, Snapchat personaliza tu experiencia y te permitirte descubrir filtros, historias y muchas más cosas a tu alrededor.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Usa el micrófono para grabar audio en tus Snaps, videochats y mucho más.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Snapchat registra si tu dispositivo está en vertical u horizontal cuando haces un Snap, usas una Lente, lees historias en Descubre o ves anuncios.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Comparte el contenido de tu álbum de cámara con amigxs en Snap.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Comparte el contenido de tu álbum de cámara con amigxs en Snap.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Al activar Permitir, Snap podrá reducir los anuncios que te resulten poco pertinentes o repetitivos con el tiempo. Consulta nuestra Política de privacidad para obtener más información sobre el seguimiento.</string>
+</dict>
+</plist>

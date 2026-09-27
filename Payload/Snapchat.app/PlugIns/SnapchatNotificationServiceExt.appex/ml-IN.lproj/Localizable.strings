@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "വീണ്ടും ലോഗിൻ ചെയ്യൂ";
+"incorrect_user_error_body" = "എന്തോ തകരാറ് പറ്റിയിരിക്കുന്നു.";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "നിങ്ങളുടെ Snap-ന് മികച്ച പ്രതികരണം ലഭിക്കുന്നു 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "ഞങ്ങളുടെ സ്റ്റോറിയിലേക്ക് സമർപ്പിച്ച നിങ്ങളുടെ Snap %1$@-ലധികം തവണ കണ്ടു!";
+
+"our_story_submission_view_milestone_generic_body" = "ഞങ്ങളുടെ സ്റ്റോറിയിലേക്ക് സമർപ്പിച്ച നിങ്ങളുടെ Snap നിരവധി തവണ കണ്ടു!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "നിങ്ങളുടെ സ്പോട്ട്‌ലൈറ്റിലെ Snap-ന് %1$@-ൽ കൂടുതൽ കാഴ്ചകൾ ലഭിച്ചു!";
+
+"spotlight_submission_view_milestone_generic_body" = "നിങ്ങളുടെ സ്പോട്ട്‌ലൈറ്റിലെ Snap-ന് ഒരുപാട് കാഴ്ചകൾ ലഭിച്ചു!";

@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "ದಯವಿಟ್ಟು ಪುನಃ ಲಾಗ್‌ ಇನ್ ಆಗಿ";
+"incorrect_user_error_body" = "ಏನೋ ತಪ್ಪಾಗಿದೆ";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "ನಿಮ್ಮ Snap ಪ್ರಜ್ವಲಿಸುತ್ತಿದೆ 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "ನಮ್ಮ ಕಥೆಗೆ ಸಲ್ಲಿಸಿದ ನಿಮ್ಮ Snap ಅನ್ನು %1$@ ಬಾರಿ ನೋಡಲಾಗಿದೆ!";
+
+"our_story_submission_view_milestone_generic_body" = "ನಮ್ಮ ಕಥೆಗೆ ಸಲ್ಲಿಸಿದ ನಿಮ್ಮ Snap ಅನ್ನು ಹಲವು ಬಾರಿ ನೋಡಲಾಗಿದೆ!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "ನಿಮ್ಮ ಸ್ಪಾಟ್‌ಲೈಟ್ Snap ಅನ್ನು %1$@ ಗಿಂತ ಹೆಚ್ಚು ಬಾರಿ ನೋಡಲಾಗಿದೆ!";
+
+"spotlight_submission_view_milestone_generic_body" = "ನಿಮ್ಮ ಸ್ಪಾಟ್‌ಲೈಟ್ Snap ಅನ್ನು ಬಹಳಷ್ಟು ಸಲ ನೋಡಲಾಗಿದೆ!";

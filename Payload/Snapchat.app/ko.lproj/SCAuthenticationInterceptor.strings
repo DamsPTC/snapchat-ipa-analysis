@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "%1$@님께서 저장한 스냅이 메모리에 백업되지 않았습니다. %2$@ 아이디로 로그인하시면 해당 스냅은 사라집니다. 백업하시려면 %3$@ 아이디로 다시 로그인하세요.";
+"memories_pending_sync_alert_login_action" = "로그인하기";
+"memories_pending_sync_alert_registration_action" = "가입하기";
+"memories_pending_sync_alert_registration_body" = "%1$@님께서 저장한 스냅이 메모리에 백업되지 않았습니다. 새 계정에 가입하시면 해당 스냅은 사라집니다. 백업하시려면 %2$@ 아이디로 다시 로그인하세요.";
+"memories_pending_sync_alert_title" = "주의!";

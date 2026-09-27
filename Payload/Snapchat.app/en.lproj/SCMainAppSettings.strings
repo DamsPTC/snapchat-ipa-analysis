@@ -1,0 +1,15 @@
+"contact_delete_all_button" = "Delete All Contacts Data";
+"contact_deletion_cell_title" = "Contacts";
+"contact_deletion_page_header" = "View Contacts";
+"contact_deletion_show_button" = "View Contacts";
+"contact_deletion_sync_toggle" = "Sync Contacts";
+"contact_sync_page_header" = "Manage Contacts";
+"delete_contacts_alert_header" = "Delete Contacts Data?";
+"delete_contacts_alert_no" = "CANCEL";
+"delete_contacts_alert_sub_header" = "By selecting confirm, you will delete all contacts and no longer sync contacts with your Snapchat. Are you sure?";
+"delete_contacts_alert_yes" = "Confirm";
+"stop_sync_contacts_alert_header" = "Stop Syncing Contacts?";
+"stop_sync_contacts_alert_no" = "CANCEL";
+"stop_sync_contacts_alert_sub_header" = "Disabling contact syncing may make it harder to find new friends on Snapchat. If you disable contact syncing, we won’t upload new contacts from your address book to our servers. We’ll still use the contacts you’ve already uploaded to help you find friends and more.";
+"stop_sync_contacts_alert_yes" = "Confirm";
+"view_contacts_with_meta_header" = "This is the contacts and related information we’ve uploaded from your device. [Learn more](https://help.snapchat.com/hc/articles/7012328615828?utm_source=sc&utm_medium=lm&utm_campaign=contacts) about what we store from your contact book.";

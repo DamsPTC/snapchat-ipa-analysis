@@ -1,0 +1,13 @@
+"friend" = "1 friend";
+"friends" = "%@ friends";
+"live_location_entering_ghost_mode_warning_subtitle" = "You're in Ghost Mode but %@ can still see your Live Location. To stop sharing, tap “Hide My Live Location” below.";
+"live_location_entering_ghost_mode_warning_title" = "You're still sharing your Live Location";
+"live_location_exit_ghost_mode_subtitle" = "You'll stop hiding your Live Location and share with the friends you selected.";
+"live_location_exit_ghost_mode_title" = "Exit Ghost Mode?";
+"live_location_pausing_alert_OK" = "Ok";
+"live_location_pausing_alert_body_all_friends" = "Your Live Location is hidden, but all of your friends can still see your Last Active Location. \n\n You can change this in Location Settings";
+"live_location_pausing_alert_body_plural" = "Your Live Location is hidden, but %@ friends can still see your Last Active Location. \n\n You can change this in Location Settings";
+"live_location_pausing_alert_body_singular" = "Your Live Location is hidden, but 1 friend can still see your Last Active Location. \n\n You can change this in Location Settings";
+"live_location_pausing_alert_title" = "You’re still sharing your Last Active Location";
+"live_location_resuming_alert_body" = "Share Live with %@ & Resume Live Sessions?";
+"live_location_resuming_alert_subtitle" = "You’ll stop hiding your Live Location and share with %@, and everyone else you’ve previously selected.";

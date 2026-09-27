@@ -1,0 +1,4 @@
+"error_title" = "3D indisponible";
+"frame_error_body" = "Les effets 3D n'ont pas pu être activés pour ce Snap. Il est peut-être trop sombre, ou bien le sujet est trop proche ou trop éloigné. Essayez de sélectionner une autre image dans cette vidéo.";
+"ok" = "Ok";
+"snap_error_body" = "Les effets 3D n'ont pas pu être activés pour ce Snap. Il est peut-être trop sombre, ou bien le sujet est trop proche ou trop éloigné.";

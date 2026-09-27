@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "Vi ringer dig på %1$@.";
+"alt_send_code_by_sms" = "Skicka kod via SMS";
+"alt_send_code_by_sms_dialogue" = "Vi skickar en SMS-kod till dig på %1$@.";
+"error_occurred_message" = "Ett fel uppstod. Försök igen senare.";
+"ngo_email_instead" = "Använd e-post i stället";
+"ngo_phone_verification_description" = "Ange koden vi skickade till %1$@";
+"ngo_phone_verification_title" = "Bekräfta ditt nummer";
+"ngo_submit" = "Skicka";
+"ok" = "OK";
+"register_phone_verification_desc" = "Skriv koden vi skickade till %1$@";
+"register_phone_verification_title" = "Skriv in verifieringskod";
+"resend_code" = "Skicka igen";
+"skip_button" = "Hoppa över";
+"verifying" = "Verifierar ...";

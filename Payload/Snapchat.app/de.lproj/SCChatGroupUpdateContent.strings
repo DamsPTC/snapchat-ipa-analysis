@@ -1,0 +1,9 @@
+"chat_ui_participant_created_invite_link" = "%1$@ HAT EINEN EINLADUNGSLINK FÜR DIE GRUPPE ERSTELLT";
+"chat_ui_participant_removed_participant" = "%1$@ HAT %2$@ AUS DER GRUPPE ENTFERNT.";
+"chat_ui_participant_removed_participants_multiple" = "%1$@ HAT %2$@ UND %3$@ AUS DER GRUPPE ENTFERNT.";
+"chat_ui_participant_removed_you" = "%1$@ HAT DICH AUS DER GRUPPE ENTFERNT.";
+"chat_ui_participant_removed_you_and_multiple" = "%1$@ HAT DICH, %2$@ UND %3$@ AUS DER GRUPPE ENTFERNT.";
+"chat_ui_participant_removed_you_and_participant" = "%1$@ HAT DICH UND %2$@ AUS DER GRUPPE ENTFERNT.";
+"chat_ui_you_created_invite_link" = "DU HAST EINEN EINLADUNGSLINK FÜR DIE GRUPPE ERSTELLT";
+"chat_ui_you_removed_participant" = "DU HAST %1$@ AUS DER GRUPPE ENTFERNT.";
+"chat_ui_you_removed_participants_multiple" = "DU HAST %1$@ UND %2$@ AUS DER GRUPPE ENTFERNT.";

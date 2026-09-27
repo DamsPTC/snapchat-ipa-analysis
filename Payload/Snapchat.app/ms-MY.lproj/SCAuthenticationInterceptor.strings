@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "Snap yang disimpan oleh %1$@ belum selesai disandarkan ke Memori. Jika anda log masuk sebagai %2$@, Snap itu akan hilang. Log masuk semula sebagai %3$@ untuk menyiapkan sandaran.";
+"memories_pending_sync_alert_login_action" = "LOG MASUK SAHAJA";
+"memories_pending_sync_alert_registration_action" = "DAFTAR SAHAJA";
+"memories_pending_sync_alert_registration_body" = "Snap yang disimpan oleh %1$@ belum selesai disandarkan ke Memori. Jika anda mendaftar untuk akaun baru, Snap itu akan hilang. Log masuk semula sebagai %2$@ untuk menyiapkan sandaran.";
+"memories_pending_sync_alert_title" = "Tunggu Sebentar!";

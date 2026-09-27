@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Iwan";
+
+"add_a_chat" = "Mag-add ng chat…";
+
+"are_you_sure_you_want_to_abandon" = "Sigurado ka bang gusto mong iwan ang Snapsterpiece mo?";
+
+"best_friends_header" = "Best Friends";
+
+"groups_header" = "Groups";
+
+"friends_header" = "Friends";
+
+"send" = "I-send";
+
+"cancel" = "I-cancel";
+
+"cannot_add_more_snapchatters" = "'Di na makapag-add ng additional Snapchatters!";
+
+
+"login_before_sharing_message" = "Maaaring mag-login muna sa Snapchat bago magbahagi.";
+
+"login_before_sharing_title" = "Required Mag-login";
+
+"me_hint" = "(ako)";
+
+"noticed_new_acct_sharing_message" = "Maling Account!";
+
+"noticed_new_acct_sharing_title" = "Mukhang nagpalit ka ng account. Mag-log in ulit para i-send ang snap mo, o simulang magbahagi ulit.";
+
+"okay" = "Okay";
+
+"open_before_sharing_message" = "Maaaring i-open muna ang Snapchat bago magbahagi.";
+
+"open_before_sharing_title" = "I-open ang Snapchat";
+
+"problem_sharing_try_again" = "Nagkaroon ng problema, pakisubukan ulit.";
+
+"recents_header" = "Recents";
+
+"search_text_view_hint" = "Mag-search";
+
+"send_to" = "I-send Kay...";
+
+"try_again" = "Subukan Ulit";
+
+"video_too_long" = "'Di dapat umabot ng 60 segundo ang video para mabahagi";
+
+"video_too_long_with_maximum_duration_desc" = "'Di dapat umabot ng %1$ld segundo ang video para ma-share.";
+
+"stories_header" = "Stories";
+
+"my_story" = "Story Ko";

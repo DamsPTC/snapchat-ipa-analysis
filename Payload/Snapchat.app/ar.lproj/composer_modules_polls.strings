@@ -1,0 +1,11 @@
+"cancel" = "إلغاء";
+"polls_ask_a_question" = "اطرح سؤالاً";
+"polls_network_error" = "حدث خطأ ما. يُرجى إعادة المحاولة لاحقًا.";
+"privacy_nux_description" = "لا يتم إخفاء الهوية في استطلاعات الرأي على سناب شات. هل تريد الاستمرار؟";
+"privacy_nux_description_v2" = "سيرى $0 تصويتك. هل تريد المتابعة؟";
+"send_button_text" = "أرسل النتائج";
+"vote_button_text" = "تصويت";
+"voters_list_empty_subtitle" = "لا توجد أصوات حتى الآن";
+"voters_list_title" = "نتائج استطلاع الرأي";
+"voters_list_voters_subtitle" = "الناخبون";
+"votes_text" = "$0 أصوات";

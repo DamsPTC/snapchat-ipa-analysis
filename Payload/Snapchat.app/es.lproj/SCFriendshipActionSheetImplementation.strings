@@ -1,0 +1,10 @@
+"privacy_settings_done" = "Listo";
+"privacy_settings_item" = "Ajustes de privacidad";
+"privacy_settings_my_location" = "Mi ubicación";
+"privacy_settings_my_story" = "Mi Historia";
+"privacy_settings_subtitle_two_items" = "%1$@, %2$@";
+"privacy_settings_title" = "%1$@ puede ver...";
+"something_wrong_message" = "Parece que algo ha fallado.";
+"success" = "¡Éxito!";
+"update_location_privacy_failed" = "Error al actualizar los ajustes de la ubicación. Vuelve a intentarlo.";
+"update_story_privacy_failed" = "Error al actualizar los ajustes de la Historia. Vuelve a intentarlo.";

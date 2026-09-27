@@ -1,0 +1,12 @@
+"df_hidden" = "Hidden Stories";
+"df_manage_accounts_added_subtitle" = "Manage accounts followed and notifications.";
+"df_manage_accounts_following" = "Manage Accounts I Follow";
+"df_manage_hidden_subtitle" = "Manage your hidden Stories here.";
+"df_manage_subscriptions" = "Manage Subscriptions and Notifications";
+"df_manage_subscriptions_subtitle" = "Manage your subscriptions and notifications.";
+"df_management_subscriptions_unsubscribe_confirmation_description" = "Tapping below will remove %@ from your subscriptions list.";
+"df_management_subscriptions_unsubscribe_confirmation_title" = "Unsubscribe From %@?";
+"df_un_hide" = "Un-Hide";
+"df_unsubscribe_prompt" = "You are unsubscribed";
+"df_unsubscribe_prompt_with_display_name" = "You are unsubscribed from %@";
+"df_view_hidden" = "View Hidden Stories";

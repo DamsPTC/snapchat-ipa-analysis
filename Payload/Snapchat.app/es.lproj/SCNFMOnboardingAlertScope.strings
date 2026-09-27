@@ -1,0 +1,4 @@
+"onboarding_alert_description" = "Recibiste este mensaje de %1$@ porque su número de teléfono está entre tus contactos. \n\nPuedes bloquear a %1$@ o cambiar tus ajustes de contacto en cualquier momento para no recibir estos mensajes en el futuro. \n\nSi abres este mensaje, es posible que %1$@ sepa que tienes su número de teléfono en tu libreta de contactos.";
+"onboarding_alert_open_chat_button" = "Abrir Chat";
+"onboarding_alert_settings_button" = "Ajustes";
+"onboarding_alert_title" = "Chatear con %1$@";

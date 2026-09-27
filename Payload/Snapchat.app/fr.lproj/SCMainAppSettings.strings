@@ -1,0 +1,15 @@
+"contact_delete_all_button" = "Supprimer toutes les données des contacts";
+"contact_deletion_cell_title" = "Contacts";
+"contact_deletion_page_header" = "Voir les contacts";
+"contact_deletion_show_button" = "Voir les contacts";
+"contact_deletion_sync_toggle" = "Synchroniser les contacts";
+"contact_sync_page_header" = "Gérer les contacts";
+"delete_contacts_alert_header" = "Supprimer les données des contacts ?";
+"delete_contacts_alert_no" = "ANNULER";
+"delete_contacts_alert_sub_header" = "Si vous confirmez, vous supprimerez tous les contacts et ne pourrez plus les synchroniser avec Snapchat. Voulez-vous continuer ?";
+"delete_contacts_alert_yes" = "Confirmer";
+"stop_sync_contacts_alert_header" = "Arrêter la synchronisation des contacts ?";
+"stop_sync_contacts_alert_no" = "ANNULER";
+"stop_sync_contacts_alert_sub_header" = "Désactiver la synchronisation des contacts signifie que vous trouverez moins facilement de nouveaux·elles ami·e·s à ajouter sur Snapchat. Si vous désactivez cette fonction, nous ne téléchargerons plus vos nouveaux contacts sur nos serveurs. Toutefois, nous continuerons d'utiliser les contacts existants pour vous permettre de trouver des ami·e·s, ainsi qu'à d'autres fins utiles.";
+"stop_sync_contacts_alert_yes" = "Confirmer";
+"view_contacts_with_meta_header" = "Il s'agit des contacts et des informations associées que nous avons téléchargés à partir de votre appareil. [En savoir plus](https://help.snapchat.com/hc/articles/7012328615828?utm_source=sc&utm_medium=lm&utm_campaign=contacts) sur les informations de votre carnet d'adresses que nous stockons.";

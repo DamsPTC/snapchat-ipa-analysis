@@ -1,0 +1,17 @@
+"add_as_a_friend" = "Añade como amigo para compartir en tiempo real";
+"blocked" = "Se bloqueó";
+"current_location" = "Ubicación actual";
+"live" = "En vivo";
+"live_location_description" = "Tu ubicación se actualizará automáticamente";
+"near_address" = "Cerca de $0";
+"not_sharing" = "No se comparte";
+"share" = "Compartir";
+"share_live_location" = "Compartir ubicación en vivo";
+"share_location" = "Compartir ubicación";
+"share_with_group" = "Compartir con el grupo";
+"sharing_live_location" = "Compartiendo ubicación en vivo...";
+"stop" = "Detener";
+"stop_sharing" = "Dejar de compartir ubicación en vivo";
+"view_less" = "Ver menos";
+"view_more" = "Ver más";
+"with_sharing_list" = "con $0";

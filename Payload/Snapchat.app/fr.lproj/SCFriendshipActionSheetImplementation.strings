@@ -1,0 +1,10 @@
+"privacy_settings_done" = "Terminé";
+"privacy_settings_item" = "Réglages de confidentialité";
+"privacy_settings_my_location" = "Ma localisation";
+"privacy_settings_my_story" = "Ma Story";
+"privacy_settings_subtitle_two_items" = "%1$@, %2$@";
+"privacy_settings_title" = "%1$@ peut voir…";
+"something_wrong_message" = "Il semblerait qu'il y ait eu un problème.";
+"success" = "C'est bon !";
+"update_location_privacy_failed" = "Impossible de modifier les réglages de localisation. Veuillez réessayer.";
+"update_story_privacy_failed" = "Impossible de modifier les réglages de la Story. Veuillez réessayer.";

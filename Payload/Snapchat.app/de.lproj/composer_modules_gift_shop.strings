@@ -1,0 +1,17 @@
+"add_a_reply" = "Gib eine Antwort ein …";
+"cancel" = "Abbrechen";
+"fake_subtitle" = "Model Rox sieht, dass du ihm ein Geschenk geschickt hast, und kann dir antworten oder das Geschenk in seiner öffentlichen Story teilen.";
+"fake_title" = "Such ein Geschenk aus, das du verschicken möchtest";
+"gift_shop_error_button_text" = "Weg damit";
+"gift_shop_error_description" = "Das hat nicht funktioniert. Bitte überprüfe deine Angaben und versuchs nochmal.";
+"gift_shop_error_title" = "Ups!";
+"gift_shop_nux_body" = "Du kannst deinen liebsten Kreatoren jetzt deine Wertschätzung zeigen, indem du mit Geschenken auf ihre Story antwortest. Dadurch erhöht sich die Wahrscheinlichkeit, dass sie deine Nachricht beantworten und teilen!";
+"gift_shop_nux_button_text" = "Geschenke anzeigen";
+"gift_shop_nux_title" = "Jetzt neu: Story-Geschenke!";
+"insufficient_token_shop_page_subtitle" = "Wähle, wie viele Tokens du hinzufügen möchtest.";
+"insufficient_token_shop_page_title" = "Du brauchst noch $0 Tokens";
+"no_enough_token_content" = "Oh nein, du hast nicht genug Tokens! Bitte kauf dir noch welche im Token-Shop.";
+"no_enough_token_title" = "Mehr Snap Tokens erforderlich";
+"pick_a_gift" = "Geschenk aussuchen";
+"send_gift" = "Geschenk senden";
+"send_gift_and_reply" = "Geschenk senden und antworten";

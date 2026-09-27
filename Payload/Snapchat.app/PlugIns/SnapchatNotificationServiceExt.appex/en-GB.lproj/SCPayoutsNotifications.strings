@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "New Spotlight Payout!";
+"payouts_push_notification_gifting_title" = "New Gifting Payout!";
+"payouts_push_notification_title_spotlight_challenges" = "New Spotlight Challenge Payout!";
+"payouts_push_notification_title_story" = "New Stories Payout!";
+"payouts_push_notification_title_lens_creator_fund" = "New Lens Creator Rewards Programme payout!";
+"payouts_push_notification_title_ildg" = "New Lens Unlockables payout!";
+"payouts_push_notification_title_cashout_eligible" = "Your awards will be automatically cashed out soon!";
+"payouts_push_notification_title_invalidate_eligible" = "Your awards will become invalid soon!";
+
+"payouts_push_notification_subtitle_onboarded" = "Congratulations! Check My Payouts in Profile now to see your earnings!";
+"payouts_push_notification_subtitle_not_onboarded" = "You’ve earned money from Spotlight. Onboard now in Profile to get paid!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "You’ve got Crystals from Spotlight Challenges. Onboard now in Profile to get paid!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "You’ve got Crystals from Gifts. Onboard now in Profile to get paid!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "You’ve got Crystals from Stories. Onboard now in Profile to get paid!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "You’ve got Crystals from the Lens Creator Rewards Programme. Onboard now in your profile to get paid!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "You’ve got crystals from Lens Unlockables. Onboard now in your profile to get paid!";
+"payouts_push_notification_subtitle_cashout_eligible" = "Your Crystal awards will be automatically cashed out on %1$@ if no action is taken. Check “My Crystals” in your profile to resolve.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Your Crystal awards will become invalid on %1$@ if no action is taken. Check “My Crystals” in your profile to resolve.";
+
+"payouts_state_title" = "Payouts Status Updated!";
+"payouts_state_subtitle" = "Your Payouts eligibility status has been updated. Check My Snap Crystals in Profile to see your status.";
+"gifting_opened_gift" = "%1$@ opened your gift!";
+"gifting_support_thanks" = "Thanks for supporting them on Snapchat.";
+

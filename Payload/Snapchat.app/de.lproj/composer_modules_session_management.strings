@@ -1,0 +1,17 @@
+"active_session_load_failure_subtitle" = "Etwas ist schiefgelaufen! \n Bitte versuchs nochmal.";
+"active_session_load_failure_title" = "Ups!";
+"application_session_subtitle" = "Anwendungs-Sitzungen";
+"browser_session_subtitle" = "Browser-Sitzungen";
+"current_session_indicator" = "Deine aktuelle Sitzung";
+"delete_cancellation" = "Abbrechen";
+"delete_confirmation" = "OK";
+"delete_confirmation_subtitle" = "Gespeicherte Anmeldedaten auf dem Gerät werden gelöscht und der Zugang zu deinem Snapchat Account wird entfernt.\n\n Die Abmeldung kann ein paar Minuten dauern.";
+"delete_confirmation_title" = "Abmelden";
+"delete_session_error_message" = "Ein Fehler ist aufgetreten. Versuchs später nochmal.";
+"delete_unknown_device_name" = "Unbekanntes Gerät";
+"session_management_recentlySeen" = "Gerade eben";
+"session_management_subtitle" = "Erfasse, wo dein Account aktiv verwendet wird.\nKürzlich autorisierte Geräte werden möglicherweise nicht sofort angezeigt.";
+"session_management_title" = "Sitzungsverwaltung";
+"try_again" = "Versuch’s nochmal";
+"unknown_device_name" = "Unbekannt";
+"web_session_prompt_title" = "Snapchat – jetzt auch im Web.";

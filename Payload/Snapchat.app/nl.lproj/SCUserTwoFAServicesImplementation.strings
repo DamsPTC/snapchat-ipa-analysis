@@ -1,0 +1,3 @@
+"try_again_message" = "Probeer het opnieuw.";
+"twofa_login_mobile_change_disabled_msg" = "Je hebt je telefoonnummer gewijzigd. We hebben twee-factor-authenticatie uitgeschakeld - ga naar Instellingen om het opnieuw in te schakelen.";
+"twofa_login_mobile_change_disabled_title" = "Twee-factor-authenticatie uitgeschakeld";

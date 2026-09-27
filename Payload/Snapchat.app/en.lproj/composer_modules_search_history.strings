@@ -1,0 +1,6 @@
+"cancel" = "Cancel";
+"clear_search_history_alert_confirm" = "Clear";
+"clear_search_history_alert_message" = "This will clear your search query history.";
+"clear_search_history_alert_title" = "Clear Search History?";
+"delete_search_history_request_failure_message" = "Failed to delete Search History";
+"delete_search_history_request_success_message" = "Search History cleared!";

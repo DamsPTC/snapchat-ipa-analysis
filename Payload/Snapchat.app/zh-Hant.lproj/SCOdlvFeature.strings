@@ -1,0 +1,9 @@
+"landing_context" = "這次的登入看起來有點不一樣！為了確保你的帳戶安全，請使用以下任一個選項驗證你的帳戶。";
+"landing_message_note" = "*簡訊和數據流量可能產生費用。";
+"landing_options_radio_phone" = "簡訊";
+"landing_title" = "可疑登入";
+"retry_message" = "發生錯誤，請重試。";
+"verification_description" = "輸入我們傳送至 \n %1$@ 的代碼";
+"verification_title" = "輸入驗證碼";
+"verification_unable_to_verify" = "驗證發生問題？";
+"verification_unable_to_verify_dialog" = "糟糕！我們無法驗證你的帳戶。請聯絡 Snapchat 支援以尋求幫助。";

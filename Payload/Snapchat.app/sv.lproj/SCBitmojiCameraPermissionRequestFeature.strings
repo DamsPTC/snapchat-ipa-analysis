@@ -1,0 +1,9 @@
+"bitmoji_camera_permission_continue_button" = "Skapa med kamera";
+"bitmoji_camera_permission_continue_button_new" = "Fortsätt";
+"bitmoji_camera_permission_desc" = "Använd kameran för att omedelbart skapa en avatar som liknar dig";
+"bitmoji_camera_permission_pre_prompt_accept" = "OK";
+"bitmoji_camera_permission_pre_prompt_deny" = "Inte nu";
+"bitmoji_camera_permission_pre_prompt_desc" = "Ge kameran åtkomst och skapa omedelbart en Bitmoji genom att ta selfies";
+"bitmoji_camera_permission_pre_prompt_title" = "Aktivera kameraåtkomst";
+"bitmoji_camera_permission_skip_button" = "Hoppa över";
+"bitmoji_camera_permission_title" = "Skapa din Bitmoji";

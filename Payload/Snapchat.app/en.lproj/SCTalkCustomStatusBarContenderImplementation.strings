@@ -1,0 +1,7 @@
+"call_active" = "Call active";
+"call_active_with_display_name_1" = "Call active with %1$@";
+"call_active_with_display_name_n" = "Call active - %1$@";
+"connecting" = "Connecting...";
+"mic_muted_in_call" = "Mic muted in call";
+"ringing" = "Ringing...";
+"tap_to_return_to_call" = "Tap to return to call";

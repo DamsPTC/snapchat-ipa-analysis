@@ -1,0 +1,18 @@
+/*
+
+ SCOurStoryReplyCountNotifications.strings
+ SCOurStoryReplyModifier
+*/
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count" = "%1$d Bình Luận Tâm Điểm Đang Chờ Duyệt";
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count_singular" = "1 Bình Luận Tâm Điểm Đang Chờ Duyệt";
+
+/// Generic text in case the reply count is not available.
+"generic_push_notification_title_comment" = "Bình Luận Tâm Điểm Đang Chờ Duyệt";
+
+/// Shown as a subtitle on the push notification on lock screen.
+"push_notification_subtitle" = "Chạm để xem";
+

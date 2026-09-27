@@ -1,0 +1,9 @@
+"location_permission_continue" = "استمرار";
+"location_permission_enable_location" = "تفعيل الموقع";
+"location_permission_enable_location_title" = "هل تريد تفعيل الموقع؟";
+"location_permission_go_to_setting_description" = "انتقل إلى الإعدادات، واختر \"الموقع\" ثم \"أثناء الاستخدام\" لتحسين تجربتك على خريطة Snap.";
+"location_permission_go_to_settings" = "الانتقال إلى الإعدادات";
+"location_permission_improve_snap_map" = "حسّن خريطة Snap من خلال تمكين موقعك - لن يتسبب ذلك في مشاركة موقعك مع الأصدقاء. يستخدم سناب شات أيضًا موقعك للفلاتر والإعلانات وغيرها.";
+"location_permission_improve_snap_map_sharing" = "حسّن خريطة Snap من خلال تمكين موقعك. يستخدم سناب شات أيضًا موقعك من أجل الفلاتر والإعلانات وغيرها.";
+"location_permission_no_thanks" = "لا، شكرًا";
+"location_permission_skip" = "التخطّي";

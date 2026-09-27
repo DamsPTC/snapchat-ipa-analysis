@@ -1,0 +1,18 @@
+"finish" = "ముగించండి";
+"invalid_phone_number_suggestion_title" = "చెల్లని ఫోన్ నంబర్";
+"ngo_country_title" = "దేశం";
+"ngo_email_instead" = "బదులుగా ఇమెయిల్ ఉపయోగించండి";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "ఇమెయిల్";
+"ngo_phone_instead" = "దానికి బదులుగా ఫోన్ నెంబర్ ఉపయోగించండి";
+"ngo_phone_number_info" = "మేము SMS ధృవీకరణ కోడ్‌ను పంపుతాము.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "మేము SMS ధృవీకరణ కోడ్‌ని పంపుతాము. మీ నంబర్‌ను ఎంటర్ చేయడం ద్వారా, మీరు మీ అకౌంట్ గురించి SMS లేదా ఇతర సందేశ ఛానల్ ద్వారా లావాదేవీ సందేశాన్ని స్వీకరించడానికి అంగీకరిస్తున్నారు.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "మేము మీకు ధృవీకరణ కోడ్‌ను పంపుతాము. మీ నంబర్‌ను ఎంటర్ చేయడం ద్వారా, మీరు మీ అకౌంట్ మరియు మరిన్నింటి గురించి SMS లేదా ఇతర సందేశ ఛానల్‌ల ద్వారా లావాదేవీ సందేశాన్ని అందుకుంటారు.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "మేము మీకు ధృవీకరణ కోడ్‌ను పంపుతాము. మీ నంబర్‌ను ఎంటర్ చేయడం ద్వారా, మీరు మీ అకౌంట్ గురించి SMS లేదా ఇతర సందేశ ఛానల్ ద్వారా లావాదేవీ సందేశాన్ని అందుకుంటారు. Snap మీ ఫోన్ నంబర్‌ను ఎలా ఉపయోగిస్తుంది అనే దాని గురించి [మరింత తెలుసుకోండి](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number).";
+"ngo_phone_number_title" = "ఫోన్ నెంబర్";
+"ngo_phone_placeholder" = "ఫోన్ నెంబర్";
+"phone_suggestion_description" = "%1$@ చెల్లుబాటు అయ్యే ఫోన్ నంబర్ కాదు. మీరు \n%2$@అని ఉద్దేశించారా?";
+"register_email_button" = "దీనికి బదులుగా ఇమెయిల్‌తో సైన్ అప్ అవ్వండి";
+"register_email_error" = "ఒక చెల్లుబాటయ్యే ఇమెయిల్ అడ్రసుని దయచేసి ఎంటర్ చేయండి.";
+"skip_button" = "వదిలేయండి";
+"yes_update" = "అవును, అప్డేట్ చేయండి";

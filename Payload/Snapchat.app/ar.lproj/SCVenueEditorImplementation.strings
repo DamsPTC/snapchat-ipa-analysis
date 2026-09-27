@@ -1,0 +1,13 @@
+"confirm_error_dialog" = "تم";
+"photo_library_permission_dialog_cancel" = "إلغاء";
+"photo_library_permission_dialog_enable" = "تفعيل";
+"photo_library_permission_dialog_subtitle" = "أضف فيلم الكاميرا الخاص بك لتضمين صور للمكان.";
+"photo_library_permission_dialog_title" = "تفعيل الوصول إلى الصور";
+"place_offensive" = "هذا مهين أو غير لائق";
+"place_permanently_closed" = "هذا المكان مُغلق دائمًا";
+"report_an_issue" = "إبلاغ عن مشكلة";
+"report_successful" = "تم إرسال البلاغ بنجاح! شكرًا لك!";
+"report_unsuccessful" = "حدثت مشكلة في أثناء إرسال البلاغ. يُرجى إعادة المحاولة لاحقًا!";
+"sending_report" = "جارٍ إرسال التقرير...";
+"suggest_an_edit" = "اقتراح تعديل";
+"suggestion_received" = "لقد تلقّينا اقتراحك وسيتم نشره بمجرد الموافقة عليه.";

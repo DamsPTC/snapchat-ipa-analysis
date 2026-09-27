@@ -1,0 +1,8 @@
+"enable_precise_location_dialog_subtitle" = "Enabling %1$@ will take you out of Ghost Mode. %2$@";
+"enable_precise_location_dialog_title" = "You need to enable %@ in iOS Settings";
+"enable_precise_location_instruction" = "2. Enable %@";
+"learn_more" = "Learn more.";
+"no_thanks_button_title" = "No Thanks";
+"open_settings_button_title" = "Open Settings";
+"precise_location_option_name" = "Precise Location";
+"select_location_instruction" = "1. Select Location";

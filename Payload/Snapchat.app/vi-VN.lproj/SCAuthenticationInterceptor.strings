@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "Các Snap lưu bằng tài khoản %1$@ chưa hoàn thành sao lưu vào Kỉ Niệm. Nếu bạn đăng nhập vào tài khoản %2$@, các Snap đó sẽ mất. Đăng nhập lại tài khoản %3$@ để hoàn thành sao lưu.";
+"memories_pending_sync_alert_login_action" = "VẪN TIẾP TỤC ĐĂNG NHẬP";
+"memories_pending_sync_alert_registration_action" = "VẪN TIẾP TỤC ĐĂNG KÝ";
+"memories_pending_sync_alert_registration_body" = "Các Snap lưu bằng tài khoản %1$@ chưa hoàn thành sao lưu vào Kỉ Niệm. Nếu bạn đăng ký một tài khoản mới, các Snap đó sẽ mất. Đăng nhập lại tài khoản %2$@ để hoàn thành sao lưu.";
+"memories_pending_sync_alert_title" = "Chờ Chút Nhé!";

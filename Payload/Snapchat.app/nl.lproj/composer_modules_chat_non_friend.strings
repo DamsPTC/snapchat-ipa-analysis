@@ -1,0 +1,13 @@
+"onboarding_open_chat" = "Open de Chat";
+"onboarding_prompt_body" = "Je kan met $0 chatten, omdat zijn/haar telefoonnummer in je contacten staat.\n\nJe kunt $0 altijd blokkeren of je contactinstellingen wijzigen om geen berichten meer van je contacten te ontvangen.\n\nAls je met $0 chat, kan hij/zij vaststellen dat je zijn of haar telefoonnummer in je contacten hebt staan.";
+"onboarding_prompt_body_with_unread_message" = "Je ontvangt dit bericht van $0 omdat zijn/haar telefoonnummer in je contacten staat.\n\nJe kunt $0 altijd blokkeren of je contactinstellingen wijzigen om deze berichten later niet meer te ontvangen.\n\nAls je dit bericht opent, is het voor $0 misschien duidelijk dat je zijn/haar nummer in je contacten hebt staan.";
+"onboarding_prompt_minor_aged_up" = "Je kunt met $0 chatten, omdat je 'Contact met mij opnemen' hebt ingesteld op 'iedereen'. \n\n Je kunt $0 altijd blokkeren of je contactinstellingen wijzigen om in het vervolg geen berichten meer van hen te ontvangen.";
+"onboarding_prompt_welcome_title" = "Chat met $0";
+"onboarding_settings" = "Instellingen";
+"recipient_prompt_body_added" = "Je bent nog geen vrienden met $0, maar deze kan je wel berichten sturen op basis van je instellingen voor Contact met mij opnemen.";
+"recipient_prompt_body_adding" = "$0 heeft je nog niet toegevoegd als vriend. Deze kan je berichten niet zien, totdat deze je heeft toegevoegd.";
+"recipient_prompt_body_in_my_contacts" = "$0 is geen vriend van je op Snapchat, maar staat wel in je contactenlijst en wordt daarom weergegeven.";
+"recipient_prompt_body_low_mutual_friends" = "Jij en $0 hebben geen gemeenschappelijke vrienden, ken je deze persoon? Controleer dit voordat je begint met chatten.";
+"recipient_prompt_button_dismiss" = "Oké";
+"recipient_prompt_button_report_or_block" = "Rapporteren of blokkeren";
+"recipient_prompt_button_settings" = "Instellingen";

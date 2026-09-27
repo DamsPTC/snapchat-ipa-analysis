@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "Tatawagan ka namin sa %1$@.";
+"alt_send_code_by_sms" = "I-send ang code via text";
+"alt_send_code_by_sms_dialogue" = "Padadalhan ka namin ng text code sa %1$@.";
+"error_occurred_message" = "Nagkaroon ng error. Paki subukan ulit mamaya.";
+"ngo_email_instead" = "Email na lang ang gamitin";
+"ngo_phone_verification_description" = "Ilagay ang code na na-send sa %1$@";
+"ngo_phone_verification_title" = "I-confirm ang number mo";
+"ngo_submit" = "I-submit";
+"ok" = "OK";
+"register_phone_verification_desc" = "I-enter ang code na pinadala namin sa %1$@";
+"register_phone_verification_title" = "I-enter ang Confirmation Code";
+"resend_code" = "I-resend";
+"skip_button" = "I-skip";
+"verifying" = "Vine-verify…";

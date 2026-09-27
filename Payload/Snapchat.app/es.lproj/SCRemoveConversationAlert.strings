@@ -1,0 +1,4 @@
+"remove_conversation_alert_body" = "Esto eliminará a %1$@ de tus conversaciones y todos tus mensajes guardados y enviados.";
+"remove_conversation_alert_cancel_button" = "Cancelar";
+"remove_conversation_alert_confirm_button" = "Eliminar";
+"remove_conversation_alert_title" = "Eliminar conversación";

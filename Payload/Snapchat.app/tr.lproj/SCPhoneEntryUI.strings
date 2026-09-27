@@ -1,0 +1,11 @@
+"country_code_field" = "Ülke Kodu Alanı";
+"mobile_number_field" = "Cep Telefonu Numarası Alanı";
+"phone_entry_invalid_country_code" = "🌎 Geçersiz ülke kodu";
+"phone_entry_phone_placeholder" = "telefon numarası";
+"phone_entry_select_country_code" = "🌎 Ülke kodunu seç";
+"register_country_picker_title" = "Ülke Seç";
+"register_phone_label" = "CEP TELEFONU NUMARASI";
+"send_sms_explanation" = "Sana SMS doğrulama kodu göndereceğiz.";
+"send_sms_explanation_here" = "Sana SMS ile doğrulama kodunu göndermek için telefon numaranı [burada](https://support.snapchat.com/article/snap-phone-number) açıklandığı şekilde kullanacağız.";
+"send_sms_explanation_updates_and_here" = "Sana SMS ile doğrulama kodunu ve önemli güncellemeleri göndermek için telefon numaranı [burada](https://support.snapchat.com/article/snap-phone-number) açıklandığı şekilde kullanacağız.";
+"send_sms_explanation_updates_here" = "Sana SMS ile doğrulama kodunu ve önemli güncellemeleri göndermek için telefon numaranı [burada](https://support.snapchat.com/article/snap-phone-number) açıklandığı şekilde kullanacağız.";

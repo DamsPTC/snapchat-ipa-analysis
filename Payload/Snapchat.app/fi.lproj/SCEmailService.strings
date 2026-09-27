@@ -1,0 +1,2 @@
+"generic_error" = "Jokin meni vikaan. Yritä myöhemmin uudelleen.";
+"update_email_failed_with_code" = "Sähköpostiosoitetta ei voitu päivittää. Yritä uudelleen. \nTukikoodi: %1$02d";

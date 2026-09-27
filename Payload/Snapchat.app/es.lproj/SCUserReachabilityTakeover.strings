@@ -1,0 +1,7 @@
+"body" = "¿Tu email y número de teléfono están actualizados?";
+"dismiss_button_with_details" = "Confirmar";
+"dismiss_button_without_details" = "Listo";
+"no_email_placeholder" = "Añadir tu email";
+"no_phone_placeholder" = "Añadir tu número";
+"title_with_details" = "Confirmar datos de contacto";
+"title_without_details" = "Añadir datos de contacto";

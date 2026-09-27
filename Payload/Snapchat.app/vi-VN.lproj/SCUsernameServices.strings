@@ -1,0 +1,8 @@
+"suggestion_error" = "Có lỗi xảy ra, vui lòng thử lại sau";
+"username_invalid_begin" = "Tên đăng nhập phải bắt đầu bằng một chữ cái 🔠";
+"username_invalid_char" = "Tên đăng nhập chỉ bao gồm chữ cái latinh, số và một trong các dấu -, _, hoặc . nhưng không được có ký tự đặc biệt! 👌";
+"username_invalid_end" = "Tên đăng nhập phải kết thúc bằng chữ cái hoặc số 👆";
+"username_invalid_long" = "Tên đăng nhập không được vượt quá 15 ký tự 📖";
+"username_invalid_separator" = "Tên đăng nhập chỉ được có một dấu -, _, hoặc . Bạn đang có quá nhiều dấu ✌️";
+"username_invalid_short" = "Tên đăng nhập phải có ít nhất 3 ký tự 📝";
+"username_taken" = "Đã có người sử dụng tên %1$@!";

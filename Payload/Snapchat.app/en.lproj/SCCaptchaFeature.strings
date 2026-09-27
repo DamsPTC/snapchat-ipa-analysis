@@ -1,0 +1,5 @@
+"captcha_error_loading_msg" = "There was an error loading the images. Please ensure you have a good internet connection and try again.";
+"captcha_error_verifying_msg" = "There was an error sending your answer. Please ensure you have a good internet connection and try again.";
+"captcha_failure_verifying_msg" = "You didn't identify all of the images";
+"register_captcha_title" = "Prove you aren't a robot";
+"try_again" = "Try Again";

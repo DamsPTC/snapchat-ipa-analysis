@@ -1,0 +1,7 @@
+"call_active" = "مكالمة جارية";
+"call_active_with_display_name_1" = "مكالمة جارية مع ⁦%1$@⁩";
+"call_active_with_display_name_n" = "مكالمة جارية - ⁦%1$@⁩";
+"connecting" = "جارٍ الاتصال...";
+"mic_muted_in_call" = "تم كتم صوت الميكروفون في المكالمة";
+"ringing" = "جارٍ الاتصال...";
+"tap_to_return_to_call" = "المس للرجوع إلى المكالمة";

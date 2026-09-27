@@ -1,0 +1,9 @@
+"landing_context" = "تبدو عملية تسجيل الدخول هذه مشكوك فيها. للحفاظ على أمن حسابك، يُرجى التحقق من حسابك من خلال أحد هذه الخيارات.";
+"landing_message_note" = "*قد تُطبق أسعار الرسائل والبيانات.";
+"landing_options_radio_phone" = "رسالة نصية";
+"landing_title" = "تسجيل دخول مُريب";
+"retry_message" = "حدث خطأ. الرجاء المحاولة مرة اخرى.";
+"verification_description" = "أدخل الرمز الذي أرسلناه إلى \n⁦%1$@⁩";
+"verification_title" = "أدخل رمز التحقّق";
+"verification_unable_to_verify" = "هل تواجه مشكلة في التحقّق؟";
+"verification_unable_to_verify_dialog" = "عفوًا! لم نتمكن من التحقّق من حسابك. يُرجى التواصل مع فريق دعم سناب شات للحصول على المساعدة.";

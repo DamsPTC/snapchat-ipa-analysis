@@ -1,0 +1,4 @@
+"remove_conversation_alert_body" = "سيؤدي هذا إلى إزالة ⁦%1$@⁩ من الموجز الخاص بك وسيزيل جميع الرسائل المحفوظة والمُرسلة.";
+"remove_conversation_alert_cancel_button" = "إلغاء";
+"remove_conversation_alert_confirm_button" = "إزالة";
+"remove_conversation_alert_title" = "إزالة المُحادثة";

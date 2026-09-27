@@ -1,0 +1,8 @@
+"group_invite_accept_link_joining_group" = "Joining group...";
+"group_invite_cannot_join_group" = "Cannot join Group";
+"group_invite_confirm_dialog_cancel_button" = "Cancel";
+"group_invite_confirm_dialog_description" = "Anyone with this link can join. Check if the sender is someone you trust.";
+"group_invite_confirm_dialog_header" = "Join Group?";
+"group_invite_confirm_dialog_ok_button" = "Join Group";
+"group_invite_creator_not_participant" = "The Snapchatter who shared this %@ is no longer a member.";
+"group_invite_link" = "link";

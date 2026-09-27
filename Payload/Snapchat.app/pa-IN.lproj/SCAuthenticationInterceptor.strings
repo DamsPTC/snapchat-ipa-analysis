@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "%1$@ ਵੱਲੋਂ ਸੁਰੱਖਿਅਤ Snaps ਦਾ ‘ਯਾਦਾਂ’ ’ਤੇ ਬੈਕਅੱਪ ਲੈਣਾ ਸਮਾਪਤ ਨਹੀਂ ਹੋਇਆ। ਜੇ ਤੁਸੀਂ %2$@ਵਜੋਂ ਲੌਗਇਨ ਕਰਦੇ ਹੋ, ਤਾਂ ਇਹ Snaps ਲੁਪਤ ਹੋ ਜਾਣਗੀਆਂ। ਬੈਕਅੱਪ ਪੂਰਾ ਕਰਨ ਲਈ ਦੁਬਾਰਾ %3$@ ਵਜੋਂ ਲੌਗਇਨ ਕਰੋ।";
+"memories_pending_sync_alert_login_action" = "ਫਿਰ ਵੀ ਲੌਗਇਨ ਕਰੋ";
+"memories_pending_sync_alert_registration_action" = "ਫਿਰ ਵੀ ਸਾਈਨ ਅੱਪ ਕਰੋ";
+"memories_pending_sync_alert_registration_body" = "%1$@ ਵੱਲੋਂ ਸੁਰੱਖਿਅਤ Snaps ਦਾ ‘ਯਾਦਾਂ’ ’ਤੇ ਬੈਕਅੱਪ ਲੈਣਾ ਸਮਾਪਤ ਨਹੀਂ ਹੋਇਆ। ਜੇ ਤੁਸੀਂ ਕਿਸੇ ਨਵੇਂ ਖਾਤੇ ’ਤੇ ਸਾਈਨ ਅੱਪ ਕਰਦੇ ਹੋ, ਤਾਂ ਇਹ Snaps ਲੁਪਤ ਹੋ ਜਾਣਗੀਆਂ। ਬੈਕਅੱਪ ਪੂਰਾ ਕਰਨ ਲਈ ਦੁਬਾਰਾ %2$@ ਵਜੋਂ ਲੌਗਇਨ ਕਰੋ।";
+"memories_pending_sync_alert_title" = "ਇੱਕ ਸਕਿੰਟ ਰੁਕੋ!";

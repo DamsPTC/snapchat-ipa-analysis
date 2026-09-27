@@ -1,0 +1,17 @@
+"done" = "Klaar";
+"group_invite_link_create_request_failed" = "Kon geen link voor groepsuitnodiging maken. Probeer het opnieuw.";
+"group_invite_link_create_request_sent" = "Link voor groepsuitnodiging kopiëren...";
+"group_invite_link_deep_link_copy_named_group" = "Je bent uitgenodigd voor de groep \"%1$@\" op Snapchat. Tik op de link om lid te worden. %2$@";
+"group_invite_link_deep_link_copy_unnamed_group" = "Je bent uitgenodigd voor een groep op Snapchat. Tik op de link om lid te worden. %1$@";
+"group_invite_link_delete_request_failed" = "Kon link voor groepsuitnodiging niet annuleren. Probeer het opnieuw.";
+"group_invite_link_delete_request_sent" = "Link voor groepsuitnodiging annuleren...";
+"group_invite_link_delete_request_succeeded" = "Link voor groepsuitnodiging is is geannuleerd";
+"max_group_size_description" = "Groepen mogen uit maximaal %1$@ Snapchatters bestaan.";
+"max_group_size_title" = "Volle bak!";
+"new_all_caps" = "NIEUW";
+"new_group" = "Nieuwe groep";
+"new_group_create_group_link" = "Uitnodigen voor groep via link";
+"new_group_delete_group_links_action_menu_title" = "Links annuleren";
+"new_group_group_name_required_description" = "Geef je groep een naam voordat je uitnodigingen naar vrienden stuurt.";
+"new_group_group_name_required_header" = "Geef je groep een naam.";
+"okay" = "Oké";

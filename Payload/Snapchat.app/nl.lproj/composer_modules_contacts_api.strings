@@ -1,0 +1,6 @@
+"sms_invite_auto_friend_request_description" = "Snapchat stuurt namens jou een sms met een vriendschapsverzoek.";
+"sms_invite_section_description" = "Snapchat stuurt de gewenste sms-uitnodigingen naar je contacten";
+"via_phone" = "via - $0";
+"via_sms_phone" = "via sms: $0";
+"whatsapp_invite_description" = "Snapchat stuurt een uitnodiging voor jou via sms of WhatsApp.";
+"whatsapp_invite_description_with_auto_friend_request" = "Snapchat stuurt een uitnodiging met een vriendschapsverzoek voor jou via sms of WhatsApp.";

@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Το Snapcode μου";
+
+"Snapcode Desc" = "Αυτό το widget εμφανίζει το snapcode σου";
+
+"camera" = "Κάμερα";
+
+"camera_desc" = "Άνοιξε την κάμερα του Snapchat.";
+
+"log_in" = "Είσοδος";
+
+"shortcut_to_a_friend" = "Άγγιξε το widget σου αφού το τοποθετήσεις για επιλογή φίλου ή γκρουπ.";
+
+"pin_a_friend" = "Καρφίτσωσε έναν Φίλο ή ένα Γκρουπ";
+
+"birthdays" = "Γενέθλια";
+
+"see_upcoming_birthdays" = "Δες επερχόμενα γενέθλια.";
+
+"no_upcoming_birthdays" = "Δεν υπάρχουν επερχόμενα γενέθλια";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ σε %2$d μέρα";
+
+"user_has_birthday_in_days_plural" = "%1$@ σε %2$d μέρες";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d σε %3$d μέρα";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d σε %3$d μέρες";
+
+"Memories" = "Αναμνήσεις";
+
+"Memories Desc" = "Περιλαμβάνονται Snap από τις Αναμνήσεις σου, συμπεριλαμβανομένων flashback, ταξιδιών, ανασκοπήσεων και άλλων πολλών!";
+
+"Friend Location Widget Desc" = "Καρφίτσωσε έναν φίλο με αυτό το widget για να ρίχνεις μια ματιά στην τοποθεσία του φίλου σου.";
+
+"map" = "Χάρτης";
+
+"now" = "τώρα";
+
+"something_went_wrong" = "Κάτι πήγε στραβά, άνοιξε το Snapchat";
+
+"long_press_to_pin" = "Επεξεργάσου για να καρφιτσώσεις έναν φίλο";
+
+"off_the_grid" = "Εκτός δικτύου";

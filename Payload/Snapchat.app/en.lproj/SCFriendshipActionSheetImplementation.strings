@@ -1,0 +1,10 @@
+"privacy_settings_done" = "Done";
+"privacy_settings_item" = "Privacy Settings";
+"privacy_settings_my_location" = "My Location";
+"privacy_settings_my_story" = "My Story";
+"privacy_settings_subtitle_two_items" = "%@, %@";
+"privacy_settings_title" = "%@ Can View...";
+"something_wrong_message" = "It looks like something went wrong.";
+"success" = "Success!";
+"update_location_privacy_failed" = "Couldn't update Location settings. Please try again!";
+"update_story_privacy_failed" = "Couldn't update Story settings. Please try again!";

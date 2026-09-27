@@ -1,0 +1,18 @@
+/*
+
+ SCOurStoryReplyCountNotifications.strings
+ SCOurStoryReplyModifier
+*/
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count" = "%1$d ਵਿਚਾਰ ਅਧੀਨ ਸਪੌਟਲਾਈਟ ਟਿੱਪਣੀਆਂ";
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count_singular" = "1 ਵਿਚਾਰ ਅਧੀਨ ਸਪੌਟਲਾਈਟ ਟਿੱਪਣੀ";
+
+/// Generic text in case the reply count is not available.
+"generic_push_notification_title_comment" = "ਵਿਚਾਰ ਅਧੀਨ ਸਪੌਟਲਾਈਟ ਟਿੱਪਣੀਆਂ";
+
+/// Shown as a subtitle on the push notification on lock screen.
+"push_notification_subtitle" = "ਦੇਖਣ ਲਈ ਟੈਪ ਕਰੋ";
+

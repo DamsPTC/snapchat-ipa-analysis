@@ -1,0 +1,4 @@
+"delete_error_message" = "Er is een fout opgetreden bij het verwijderen van de Scangeschiedenis. Probeer het later opnieuw.";
+"delete_success_message" = "Scangeschiedenis is verwijderd!";
+"done" = "Klaar";
+"error_message" = "Er is een fout opgetreden bij het ophalen van je scangeschiedenis. Probeer het later opnieuw.";

@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "మీ స్క్రీన్‌ని షేర్ చేయడానికి మీరు తప్పనిసరిగా కాల్‌లో ఉండాలి.";
+"screen_capture_error_generic" = "ఏదో తప్పు జరిగింది: దయచేసి మళ్లీ స్క్రీన్ షేర్ చేయడానికి ప్రయత్నించండి.";
+"screen_capture_not_enabled" = "ఏదో తప్పు జరిగింది.";

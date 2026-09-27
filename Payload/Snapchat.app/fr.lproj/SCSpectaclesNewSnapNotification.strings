@@ -1,0 +1,10 @@
+"imported_plural" = "Ouvrir pour importer %1$ld Snaps";
+"imported_singular" = "Ouvrir pour importer un nouveau Snap";
+"new_snap_notification_title_plural_format" = "%1$ld nouveaux Snaps";
+"new_snap_notification_title_singular" = "1 nouveau Snap";
+"pairing_complete_notification_body" = "Appuyez pour importer dans vos Souvenirs.";
+"transfer_complete_with_count_plural" = "%1$ld Snaps importés de %2$@";
+"transfer_complete_with_count_singular" = "1 Snap importé de %1$@";
+"transfer_complete_without_count_singular" = "Nouveau Snap de %1$@";
+"transfer_interrupted" = "Importation depuis les Spectacles interrompue";
+"transfer_sd_complete" = "Importation depuis les Spectacles terminée !";

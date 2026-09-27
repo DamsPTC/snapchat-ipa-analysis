@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "अपनी स्क्रीन शेयर करने के लिए आपका कॉल पर होना ज़रूरी है।";
+"screen_capture_error_generic" = "कुछ गड़बड़ी आई: प्लीज़ स्क्रीन फिर से शेयर करने की कोशिश करें।";
+"screen_capture_not_enabled" = "कुछ गड़बड़ हुई।";

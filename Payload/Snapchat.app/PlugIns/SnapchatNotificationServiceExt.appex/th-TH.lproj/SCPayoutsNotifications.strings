@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "การจ่ายเงินใหม่สำหรับ Spotlight!";
+"payouts_push_notification_gifting_title" = "การจ่ายเงินใหม่สำหรับแพลตฟอร์มของขวัญ!";
+"payouts_push_notification_title_spotlight_challenges" = "การจ่ายเงินใหม่สำหรับการแข่งขัน Spotlight!";
+"payouts_push_notification_title_story" = "การจ่ายเงินสำหรับสตอรี่ใหม่!";
+"payouts_push_notification_title_lens_creator_fund" = "การจ่ายเงินสำหรับโปรแกรมรางวัลเลนส์ครีเอเตอร์ใหม่!";
+"payouts_push_notification_title_ildg" = "การจ่ายเงินใหม่สำหรับเลนส์ที่ปลดล็อกได้!";
+"payouts_push_notification_title_cashout_eligible" = "รางวัลของคุณจะแลกเป็นเงินสดโดยอัตโนมัติในเร็ว ๆ นี้!";
+"payouts_push_notification_title_invalidate_eligible" = "รางวัลของคุณจะไม่สามารถใช้งานได้ในเร็ว ๆ นี้!";
+
+"payouts_push_notification_subtitle_onboarded" = "ขอแสดงความยินดี! ตรวจสอบการจ่ายเงินของฉันในโปรไฟล์ตอนนี้เลยเพื่อดูเงินที่คุณได้รับ!";
+"payouts_push_notification_subtitle_not_onboarded" = "คุณได้รับเงินจาก Spotlight เข้าไปยังโปรไฟล์เพื่อรับเงิน!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "คุณได้รับคริสตัลจากการแข่งขัน Spotlight เข้าไปยังโปรไฟล์ตอนนี้เพื่อรับเงิน!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "คุณได้รับคริสตัลจากของขวัญ เข้าไปยังโปรไฟล์ตอนนี้เพื่อรับเงิน!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "คุณได้รับคริสตัลจากสตอรี่ เข้าไปยังโปรไฟล์ตอนนี้เพื่อรับเงิน!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "คุณได้รับคริสตัลจากโปรแกรมรางวัลเลนส์ครีเอเตอร์ เข้าไปยังโปรไฟล์ตอนนี้เพื่อรับเงิน!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "คุณได้รับคริสตัลจากเลนส์ที่ปลดล็อกได้ เข้าไปยังโปรไฟล์ตอนนี้เพื่อรับเงิน!";
+"payouts_push_notification_subtitle_cashout_eligible" = "รางวัลคริสตัลของคุณจะแลกเป็นเงินสดในวันที่ %1$@ หากไม่มีการดำเนินการใด ๆ ดังนั้นให้ตรวจสอบคริสตัลของฉันในโปรไฟล์เพื่อแก้ไขปัญหา";
+"payouts_push_notification_subtitle_invalidate_eligible" = "รางวัลคริสตัลของคุณจะไม่สามารถใช้งานได้ในวันที่ %1$@ หากไม่มีการดำเนินการใด ๆ ดังนั้นให้ตรวจสอบคริสตัลของฉันในโปรไฟล์เพื่อแก้ไขปัญหา";
+
+"payouts_state_title" = "อัปเดตสถานะการจ่ายเงินแล้ว!";
+"payouts_state_subtitle" = "อัปเดตสถานะการมีสิทธิ์ได้รับการจ่ายเงินเรียบร้อยแล้ว ตรวจสอบคริสตัล Snap ของฉันในโปรไฟล์เพื่อดูสถานะของคุณ!";
+"gifting_opened_gift" = "%1$@ เปิดของขวัญของคุณแล้ว";
+"gifting_support_thanks" = "ขอขอบคุณที่ให้การสนับสนุนพวกเขาใน Snapchat";
+

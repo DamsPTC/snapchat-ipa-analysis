@@ -1,0 +1,9 @@
+"bitmoji_camera_permission_continue_button" = "Kamera İle Oluştur";
+"bitmoji_camera_permission_continue_button_new" = "Devam Et";
+"bitmoji_camera_permission_desc" = "Kameranı kullanarak anında sana benzeyen bir avatar oluştur";
+"bitmoji_camera_permission_pre_prompt_accept" = "Tamam";
+"bitmoji_camera_permission_pre_prompt_deny" = "Şimdi Değil";
+"bitmoji_camera_permission_pre_prompt_desc" = "Kameraya erişim izni ver ve selfie çekerek anında bir Bitmoji oluştur";
+"bitmoji_camera_permission_pre_prompt_title" = "Kamera Erişimini Etkinleştir";
+"bitmoji_camera_permission_skip_button" = "Geç";
+"bitmoji_camera_permission_title" = "Bitmoji'ni Oluştur";

@@ -1,0 +1,12 @@
+"df_hidden" = "Ausgeblendete Storys";
+"df_manage_accounts_added_subtitle" = "Verwalte Accounts, denen du folgst, und Benachrichtigungen.";
+"df_manage_accounts_following" = "Accounts verwalten, denen ich folge";
+"df_manage_hidden_subtitle" = "Ausgeblendete Storys verwalten.";
+"df_manage_subscriptions" = "Abos und Benachrichtigungen verwalten";
+"df_manage_subscriptions_subtitle" = "Abos und Benachrichtigungen verwalten.";
+"df_management_subscriptions_unsubscribe_confirmation_description" = "Wenn du unten tippst, wird %1$@ aus deiner Abonnentenliste entfernt.";
+"df_management_subscriptions_unsubscribe_confirmation_title" = "Abmelden von %1$@?";
+"df_un_hide" = "Einblenden";
+"df_unsubscribe_prompt" = "Du hast dich abgemeldet";
+"df_unsubscribe_prompt_with_display_name" = "Du hast dich von %1$@ abgemeldet";
+"df_view_hidden" = "Ausgeblendete Storys ansehen";

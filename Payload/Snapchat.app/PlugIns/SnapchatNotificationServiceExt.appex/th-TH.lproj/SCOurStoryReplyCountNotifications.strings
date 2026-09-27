@@ -1,0 +1,18 @@
+/*
+
+ SCOurStoryReplyCountNotifications.strings
+ SCOurStoryReplyModifier
+*/
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count" = "ความคิดเห็น Spotlight %1$d รายการอยู่ระหว่างดำเนินการ";
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count_singular" = "ความคิดเห็น Spotlight 1 รายการอยู่ระหว่างดำเนินการ";
+
+/// Generic text in case the reply count is not available.
+"generic_push_notification_title_comment" = "ความคิดเห็น Spotlight ที่อยู่ระหว่างดำเนินการ";
+
+/// Shown as a subtitle on the push notification on lock screen.
+"push_notification_subtitle" = "แตะเพื่อดู";
+

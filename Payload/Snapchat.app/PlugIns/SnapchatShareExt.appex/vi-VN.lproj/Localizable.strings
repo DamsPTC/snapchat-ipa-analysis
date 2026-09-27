@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Từ Bỏ";
+
+"add_a_chat" = "Thêm chat...";
+
+"are_you_sure_you_want_to_abandon" = "Có chắc bạn muốn từ bỏ cú Snapsterpiece Cực Phẩm vừa rồi không?";
+
+"best_friends_header" = "Cạ Cứng";
+
+"groups_header" = "Nhóm";
+
+"friends_header" = "Bạn Bè";
+
+"send" = "Gửi";
+
+"cancel" = "Hủy";
+
+"cannot_add_more_snapchatters" = "Không thể thêm Tín Đồ Snapchatter nữa!";
+
+
+"login_before_sharing_message" = "Vui lòng đăng nhập Snapchat trước khi chia sẻ.";
+
+"login_before_sharing_title" = "Yêu Cầu Đăng Nhập";
+
+"me_hint" = "(tôi)";
+
+"noticed_new_acct_sharing_message" = "Tài Khoản Không Đúng!";
+
+"noticed_new_acct_sharing_title" = "Có vẻ như bạn đã chuyển đổi tài khoản. Đăng nhập lại để gửi snap của bạn hoặc bắt đầu chia sẻ lại.";
+
+"okay" = "Được";
+
+"open_before_sharing_message" = "Vui lòng mở Snapchat trước khi chia sẻ.";
+
+"open_before_sharing_title" = "Mở Snapchat";
+
+"problem_sharing_try_again" = "Có gì đó sai sai, vui lòng thử lại.";
+
+"recents_header" = "Gần Đây";
+
+"search_text_view_hint" = "Tìm Kiếm";
+
+"send_to" = "Gửi Đến…";
+
+"try_again" = "Thử Lại";
+
+"video_too_long" = "Chỉ có thể chia sẻ video có độ dài dưới 60 giây.";
+
+"video_too_long_with_maximum_duration_desc" = "Chỉ có thể chia sẻ video có độ dài dưới %1$ld giây.";
+
+"stories_header" = "Story";
+
+"my_story" = "Story";

@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "નવું સ્પૉટલાઇટ પેઆઉટ!";
+"payouts_push_notification_gifting_title" = "નવું ગિફ્ટિંગ પેઆઉટ!";
+"payouts_push_notification_title_spotlight_challenges" = "નવું સ્પૉટલાઇટ ચેલેન્જ પેઆઉટ!";
+"payouts_push_notification_title_story" = "નવું સ્ટોરી પેઆઉટ!";
+"payouts_push_notification_title_lens_creator_fund" = "નવું લેન્સ ક્રિએટર પુરસ્કાર પ્રોગ્રામ પેઆઉટ!";
+"payouts_push_notification_title_ildg" = "નવું લેન્સ અનલૉકેબલ પેઆઉટ!";
+"payouts_push_notification_title_cashout_eligible" = "તમારા એવોર્ડ ટૂંક સમયમાં આપમેળે રોકડમાં રૂપાંતરિત થશે!";
+"payouts_push_notification_title_invalidate_eligible" = "તમારા એવોર્ડ ટૂંક સમયમાં અમાન્ય થવાના છે!";
+
+"payouts_push_notification_subtitle_onboarded" = "અભિનંદન! તમારી કમાણી જોવા માટે હમણાં જ પ્રોફાઇલમાં મારું પેઆઉટ તપાસો!";
+"payouts_push_notification_subtitle_not_onboarded" = "તમે સ્પૉટલાઇટમાંથી પૈસા કમાયા છે. ચુકવણી પ્રાપ્ત કરવા માટે હમણાં જ પ્રોફાઇલ પર જાઓ!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "તમે સ્પૉટલાઇટ પડકારોમાંથી ક્રિસ્ટલ્સ પ્રાપ્ત કર્યા છે. ચુકવણી પ્રાપ્ત કરવા માટે હમણાં જ પ્રોફાઇલ પર જાઓ!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "તમે ગિફ્ટમાંથી ક્રિસ્ટલ્સ પ્રાપ્ત કર્યા છે. ચુકવણી પ્રાપ્ત કરવા માટે હમણાં જ પ્રોફાઇલ પર જાઓ!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "તમે સ્ટોરીમાંથી ક્રિસ્ટલ્સ પ્રાપ્ત કર્યા છે. ચુકવણી પ્રાપ્ત કરવા માટે હમણાં જ પ્રોફાઇલ પર જાઓ!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "તમે લેન્સ ક્રિએટર પુરસ્કાર પ્રોગ્રામમાંથી ક્રિસ્ટલ્સ પ્રાપ્ત કર્યા છે. ચુકવણી પ્રાપ્ત કરવા માટે હમણાં જ પ્રોફાઇલ પર જાઓ!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "તમે લેન્સ અનલૉકેબલમાંથી ક્રિસ્ટલ્સ પ્રાપ્ત કર્યા છે. ચુકવણી પ્રાપ્ત કરવા માટે હમણાં જ પ્રોફાઇલ પર જાઓ!";
+"payouts_push_notification_subtitle_cashout_eligible" = "જો કોઈ પગલું ન લેવામાં આવે તો તમારા ક્રિસ્ટલ એવોર્ડ %1$@ના રોજ આપમેળે રોકડમાં રૂપાંતરિત થઈ જશે. ઉકેલવા માટે પ્રોફાઇલમાં મારા ક્રિસ્ટલ્સ તપાસો.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "જો કોઈ પગલું ન લેવામાં આવે તો તમારા ક્રિસ્ટલ એવોર્ડ %1$@ના રોજ અમાન્ય થઈ જશે. ઉકેલવા માટે પ્રોફાઇલમાં મારા ક્રિસ્ટલ્સ તપાસો.";
+
+"payouts_state_title" = "પેઆઉટની સ્થિતિ અપડેટ કરી!";
+"payouts_state_subtitle" = "તમારી પેઆઉટની પાત્રતા સ્થિતિ અપડેટ કરવામાં આવી છે. તમારી સ્થિતિ જોવા માટે પ્રોફાઇલમાં મારા Snap ક્રિસ્ટલ્સ તપાસો!";
+"gifting_opened_gift" = "%1$@એ તમારી ગિફ્ટ ખોલી!";
+"gifting_support_thanks" = "Snapchat પર તેમને સપોર્ટ કરવા બદલ આભાર!";
+

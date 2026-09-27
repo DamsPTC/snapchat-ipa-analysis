@@ -1,0 +1,10 @@
+"me" = "Ich";
+"save_story_tooltip_education" = "Dein Story-Snap wurde im Chat gespeichert! Halte ihn einfach gedrückt, um ihn zu löschen.";
+"saved_participant_story_by_both" = "DU UND $0 HABT EINEN SNAP AUS DER STORY VON $1 IM CHAT GESPEICHERT.";
+"saved_participant_story_by_paticipant" = "$0 HAT EINEN SNAP AUS DER STORY VON $1 IM CHAT GESPEICHERT.";
+"saved_participant_story_by_you" = "DU HAST EINEN SNAP AUS DER STORY VON $0 IM CHAT GESPEICHERT.";
+"saved_your_story_by_both" = "DU UND $0 HABT EINEN SNAP AUS DEINER STORY IM CHAT GESPEICHERT.";
+"saved_your_story_by_participant" = "$0 HAT EINEN SNAP AUS DEINER STORY IM CHAT GESPEICHERT.";
+"saved_your_story_by_you" = "DU HAST EINEN SNAP AUS DEINER STORY IM CHAT GESPEICHERT.";
+"story_media_deleted" = "Dieser Story-Snap wurde gelöscht.";
+"tap_to_load" = "Tippe zum Laden";

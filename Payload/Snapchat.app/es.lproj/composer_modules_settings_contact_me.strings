@@ -1,0 +1,10 @@
+"contact_everyone" = "Todos";
+"contact_friends" = "Amigos";
+"contact_friends_and_contacts" = "Amigos y contactos";
+"contact_page_explanation" = "¿Quién te puede contactar directamente a través de Snaps, Chats, etc.?";
+"contact_page_title" = "Contactarme";
+"contact_toggle_alert_cancel_button" = "Cancelar";
+"contact_toggle_alert_confirm_button" = "Aceptar";
+"contact_toggle_alert_subtext" = "Tus contactos ya no podrán aparecer en la pestaña de Chat.\n\nLas conversaciones con tus contactos que ya aparecen en la bandeja de entrada se pueden borrar de manera individual.";
+"contact_toggle_alert_title" = "Desactivar la capacidad de los contactos para comunicarse conmigo";
+"learn_more" = "Obtener más información";

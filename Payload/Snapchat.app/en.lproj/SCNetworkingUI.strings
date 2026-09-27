@@ -1,0 +1,5 @@
+"check_connection_message" = "Please check your connection and try again.";
+"could_not_refresh" = "Could not refresh. Please try again.";
+"could_not_refresh_app_initiated" = "Could not refresh";
+"no_internet_connection" = "No Internet connection.";
+"send_failed" = "Could not send. Please try again.";

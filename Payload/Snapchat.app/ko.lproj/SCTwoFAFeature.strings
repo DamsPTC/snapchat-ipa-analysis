@@ -1,0 +1,9 @@
+"connection_error" = "연결 오류";
+"okay" = "확인";
+"send_code_again" = "인증 코드 다시 전송";
+"twofa_login_code_verification_otp_to_sms_info" = "SMS로 인증코드 받기";
+"twofa_login_code_verification_otp_to_sms_progress" = "전송 중...";
+"twofa_login_code_verification_with_otp_explanation" = "본인 인증을 위해, 인증앱을 통해 생성된 인증코드를 입력하세요.";
+"twofa_login_recovery_code_used" = "복구 코드로 로그인하셨습니다. 이중 인증은 비활성화되었습니다. 다시 활성화하려면 설정 메뉴로 이동하세요.";
+"twofa_new_device_verification_explanation" = "본인 인증을 위해, %1$@번으로 보내드린 코드를 입력하세요.";
+"twofa_settings_recovery_code_used_title" = "이중 인증 끔";

@@ -1,0 +1,12 @@
+/*
+
+Localizable.strings (English)
+Snapchat
+Copyright (c) 2020 Snapchat, Inc. All rights reserved.
+*/
+
+/* Arabic numeral only time span strings used by the stories carousel */
+
+"days_abbreviated" = "%1$d j";
+
+"weeks_abbreviated" = "%1$d sem.";

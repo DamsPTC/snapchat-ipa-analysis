@@ -1,0 +1,15 @@
+"friend_is_sharing_live_location" = "%1$@ está compartiendo su ubicación en vivo";
+"friend_live_location_session_ended" = "LA SESIÓN DE UBICACIÓN EN VIVO DE %1$@ TERMINÓ";
+"friend_not_currently_on_map" = "%1$@ no está en el Mapa ahora mismo";
+"friends_live_location" = "Ubicación en tiempo real de %1$@";
+"generic_error_message" = "Esta ubicación ya no está disponible";
+"let_friend_see_your_location" = "Deja que %1$@ vea tu ubicación";
+"live_location_session_stopped" = "%1$@ DEJÓ DE COMPARTIR LA UBICACIÓN EN VIVO";
+"loc_shared_but_not_sharing_anymore" = "Compartiste tu ubicación, pero ya no lo haces";
+"location_muted" = "Ubicación silenciada";
+"me" = "Yo";
+"my_live_location" = "Mi ubicación en tiempo real";
+"session_expired" = "Sesión finalizada";
+"stop_sharing" = "Dejar de compartir";
+"you" = "Tú";
+"your_live_location_session_ended" = "TU SESIÓN DE UBICACIÓN EN VIVO TERMINÓ";

@@ -1,0 +1,7 @@
+"modal_cancel" = "Cancel";
+"modal_continue" = "Continue";
+"modal_desc" = "Who wears this look best?\n\nMaking this Snap challengeable makes it public so others can view, challenge, or vote on who wore it better.\n\nEach Challenge has its own lifespan and can be saved and used by others for additional Challenges.\n\nYour public Snap will show up on the outfit’s public leaderboard if it one of the top vote-getters.\n\nDeleting your Snap will not delete any existing Challenge that contains content from your Snap.";
+"modal_title" = "Allow others to challenge you";
+"poll_title" = "Who wears this %@ the best?";
+"top_model_privacy_disclaimer_subtitle" = "Allow friends of friends to challenge you";
+"top_model_privacy_disclaimer_title" = "Allow friends to challenge you";

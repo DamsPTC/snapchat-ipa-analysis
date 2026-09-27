@@ -1,0 +1,10 @@
+"imported_plural" = "Open to Import %ld Snaps";
+"imported_singular" = "Open to Import New Snap";
+"new_snap_notification_title_plural_format" = "%ld New Snaps";
+"new_snap_notification_title_singular" = "1 New Snap";
+"pairing_complete_notification_body" = "Tap to import to Memories";
+"transfer_complete_with_count_plural" = "%ld Snaps Imported from %@";
+"transfer_complete_with_count_singular" = "1 Snap Imported from %@";
+"transfer_complete_without_count_singular" = "New Snap from %@";
+"transfer_interrupted" = "Spectacles Import Interrupted";
+"transfer_sd_complete" = "Spectacles Import Complete!";

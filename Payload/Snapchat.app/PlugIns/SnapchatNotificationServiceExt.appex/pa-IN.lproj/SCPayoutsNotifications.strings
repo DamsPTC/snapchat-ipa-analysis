@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "ਨਵਾਂ ਸਪੌਟਲਾਈਟ ਭੁਗਤਾਨ!";
+"payouts_push_notification_gifting_title" = "ਨਵਾਂ ਤੋਹਫ਼ਾ ਦੇਣ ਸੰਬੰਧੀ ਭੁਗਤਾਨ!";
+"payouts_push_notification_title_spotlight_challenges" = "ਨਵਾਂ ਸਪੌਟਲਾਈਟ ਚੁਣੌਤੀ ਸੰਬੰਧੀ ਭੁਗਤਾਨ!";
+"payouts_push_notification_title_story" = "ਨਵੀਆਂ ਕਹਾਣੀਆਂ ਸੰਬੰਧੀ ਭੁਗਤਾਨ!";
+"payouts_push_notification_title_lens_creator_fund" = "ਨਵਾਂ ਲੈਂਜ਼ ਰਚਨਾਕਾਰ ਇਨਾਮ ਪ੍ਰੋਗਰਾਮ ਭੁਗਤਾਨ!";
+"payouts_push_notification_title_ildg" = "ਨਵਾਂ ਲੈਂਜ਼ ਅਣਲੌਕ ਹੋਣ ਯੋਗ ਭੁਗਤਾਨ!";
+"payouts_push_notification_title_cashout_eligible" = "ਤੁਹਾਡੇ ਪੁਰਸਕਾਰ ਜਲਦੀ ਹੀ ਸਵੈਚਲਿਤ ਤਰੀਕੇ ਨਾਲ ਕੈਸ਼ ਆਊਟ ਕਰ ਦਿੱਤੇ ਜਾਣਗੇ!";
+"payouts_push_notification_title_invalidate_eligible" = "ਤੁਹਾਡੇ ਪੁਰਸਕਾਰ ਜਲਦੀ ਹੀ ਰੱਦ ਹੋਣ ਜਾ ਰਹੇ ਹਨ!";
+
+"payouts_push_notification_subtitle_onboarded" = "ਵਧਾਈ ਹੋਵੇ! ਆਪਣੀਆਂ ਆਮਦਨੀਆਂ ਨੂੰ ਦੇਖਣ ਲਈ ਹੁਣ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਮੇਰੇ ਭੁਗਤਾਨਾਂ ਦੀ ਜਾਂਚ ਕਰੋ!";
+"payouts_push_notification_subtitle_not_onboarded" = "ਤੁਸੀਂ ਸਪੌਟਲਾਈਟ ਤੋਂ ਪੈਸੇ ਕਮਾਏ ਹਨ। ਭੁਗਤਾਨ ਹਾਸਲ ਕਰਨ ਲਈ ਹੁਣ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਔਨਬੋਰਡ ਹੋਵੋ!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "ਤੁਸੀਂ ਸਪੌਟਲਾਈਟ ਚੁਣੌਤੀਆਂ ਤੋਂ ਕ੍ਰਿਸਟਲ ਪ੍ਰਾਪਤ ਕੀਤੇ ਹਨ। ਭੁਗਤਾਨ ਹਾਸਲ ਕਰਨ ਲਈ ਹੁਣ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਔਨਬੋਰਡ ਹੋਵੋ!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "ਤੁਸੀਂ ਤੋਹਫ਼ਿਆਂ ਤੋਂ ਕ੍ਰਿਸਟਲ ਪ੍ਰਾਪਤ ਕੀਤੇ ਹਨ। ਭੁਗਤਾਨ ਹਾਸਲ ਕਰਨ ਲਈ ਹੁਣ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਔਨਬੋਰਡ ਹੋਵੋ!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "ਤੁਸੀਂ ਕਹਾਣੀਆਂ ਤੋਂ ਕ੍ਰਿਸਟਲ ਪ੍ਰਾਪਤ ਕੀਤੇ ਹਨ। ਭੁਗਤਾਨ ਹਾਸਲ ਕਰਨ ਲਈ ਹੁਣ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਔਨਬੋਰਡ ਹੋਵੋ!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "ਤੁਸੀਂ ਲੈਂਜ਼ ਰਚਨਾਕਾਰ ਇਨਾਮ ਪ੍ਰੋਗਰਾਮ ਤੋਂ ਕ੍ਰਿਸਟਲ ਪ੍ਰਾਪਤ ਕੀਤੇ ਹਨ। ਭੁਗਤਾਨ ਹਾਸਲ ਕਰਨ ਲਈ ਹੁਣੇ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਔਨਬੋਰਡ ਹੋਵੋ!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "ਤੁਸੀਂ ਲੈਂਜ਼ ਅਣਲੌਕਯੋਗ ਤੋਂ ਕ੍ਰਿਸਟਲ ਪ੍ਰਾਪਤ ਕੀਤੇ ਹਨ। ਭੁਗਤਾਨ ਹਾਸਲ ਕਰਨ ਲਈ ਹੁਣੇ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਔਨਬੋਰਡ ਹੋਵੋ!";
+"payouts_push_notification_subtitle_cashout_eligible" = "ਜੇਕਰ ਕੋਈ ਕਾਰਵਾਈ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ ਤਾਂ ਤੁਹਾਡੇ ਕ੍ਰਿਸਟਲ ਪੁਰਸਕਾਰ ਸਵੈਚਲਿਤ ਤਰੀਕੇ ਨਾਲ %1$@ ਨੂੰ ਕੈਸ਼ ਆਊਟ ਕਰ ਦਿੱਤੇ ਜਾਣਗੇ। ਹੱਲ ਕਰਨ ਲਈ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ 'ਮੇਰੇ ਕ੍ਰਿਸਟਲ' ਨੂੰ ਦੇਖੋ।";
+"payouts_push_notification_subtitle_invalidate_eligible" = "ਜੇਕਰ ਕੋਈ ਕਾਰਵਾਈ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ ਤਾਂ ਤੁਹਾਡੇ ਕ੍ਰਿਸਟਲ ਪੁਰਸਕਾਰ %1$@ ਨੂੰ ਰੱਦ ਹੋ ਜਾਣਗੇ। ਹੱਲ ਕਰਨ ਲਈ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ 'ਮੇਰੇ ਕ੍ਰਿਸਟਲ' ਨੂੰ ਦੇਖੋ।";
+
+"payouts_state_title" = "ਭੁਗਤਾਨਾਂ ਦੀ ਸਥਿਤੀ ਅੱਪਡੇਟ ਕੀਤੀ ਗਈ!";
+"payouts_state_subtitle" = "ਤੁਹਾਡੇ ਭੁਗਤਾਨਾਂ ਦੀ ਯੋਗਤਾ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਆਪਣੀ ਸਥਿਤੀ ਦੇਖਣ ਲਈ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਮੇਰੇ Snap ਕ੍ਰਿਸਟਲਜ਼ ਦੀ ਜਾਂਚ ਕਰੋ।";
+"gifting_opened_gift" = "%1$@ ਨੇ ਤੁਹਾਡੇ ਤੋਹਫ਼ੇ ਨੂੰ ਖੋਲ੍ਹਿਆ!";
+"gifting_support_thanks" = "Snapchat 'ਤੇ ਉਨ੍ਹਾਂ ਦਾ ਸਮਰਥਨ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ।";
+

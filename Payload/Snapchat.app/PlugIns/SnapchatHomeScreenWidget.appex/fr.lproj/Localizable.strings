@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Mon Snapcode";
+
+"Snapcode Desc" = "Ce widget affiche votre Snapcode.";
+
+"camera" = "Appareil";
+
+"camera_desc" = "Ouvrez l'appareil photo de Snapchat";
+
+"log_in" = "Connexion";
+
+"shortcut_to_a_friend" = "Appuyez sur le widget après l'avoir placé pour sélectionner un·e ami·e ou un groupe.";
+
+"pin_a_friend" = "Épingler un·e ami·e ou un groupe";
+
+"birthdays" = "Anniversaires";
+
+"see_upcoming_birthdays" = "Voyez les anniversaires à venir.";
+
+"no_upcoming_birthdays" = "Aucun anniversaires à venir";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ dans %2$d jour";
+
+"user_has_birthday_in_days_plural" = "%1$@ dans %2$d jours";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d dans %3$d jour";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d dans %3$d jours";
+
+"Memories" = "Souvenirs";
+
+"Memories Desc" = "Des Snaps de vos Souvenirs, y compris des flashbacks, des voyages, des récapitulatifs et plus encore !";
+
+"Friend Location Widget Desc" = "Avec ce widget, épinglez un·e ami·e et consultez sa localisation en un clin d'œil.";
+
+"map" = "Carte";
+
+"now" = "maintenant";
+
+"something_went_wrong" = "Une erreur est survenue, veuillez ouvrir Snapchat.";
+
+"long_press_to_pin" = "Modifier pour épingler un·e ami·e";
+
+"off_the_grid" = "Hors connexion";

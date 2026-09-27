@@ -1,0 +1,4 @@
+"chatv3_edit_name" = "Edit Group Name";
+"chatv3_edit_name_alert_placeholder" = "Name Group";
+"empty_name_message" = "New name cannot be empty.";
+"something_went_wrong_please_try_again" = "Something went wrong. Please try again.";

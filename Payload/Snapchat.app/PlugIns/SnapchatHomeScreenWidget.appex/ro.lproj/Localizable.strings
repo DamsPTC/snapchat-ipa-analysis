@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Snapcode personal";
+
+"Snapcode Desc" = "Acest widget îți afișează snapcodul";
+
+"camera" = "Cameră";
+
+"camera_desc" = "Deschide camera Snapchat.";
+
+"log_in" = "Conectare";
+
+"shortcut_to_a_friend" = "Atinge widgetul după ce îl plasezi, pentru a selecta un prieten sau un grup.";
+
+"pin_a_friend" = "Fixează un prieten sau un grup";
+
+"birthdays" = "Zile de naștere";
+
+"see_upcoming_birthdays" = "Vezi zilele de naștere viitoare.";
+
+"no_upcoming_birthdays" = "Niciuna";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ în %2$d zi";
+
+"user_has_birthday_in_days_plural" = "%1$@ în %2$d zile";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d în %3$d zi";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d în %3$d zile";
+
+"Memories" = "Amintiri";
+
+"Memories Desc" = "Snap-uri promovate din Amintiri, între care retrospective, excursii, recapitulări și multe altele!";
+
+"Friend Location Widget Desc" = "Fixează un prieten folosind acest widget pentru a-i vedea locația.";
+
+"map" = "Hartă";
+
+"now" = "acum";
+
+"something_went_wrong" = "A apărut o eroare. Deschide Snapchat";
+
+"long_press_to_pin" = "Editează pentru a fixa un prieten";
+
+"off_the_grid" = "În afara grilei";

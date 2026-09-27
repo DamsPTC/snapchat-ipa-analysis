@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Min Snapkod";
+
+"Snapcode Desc" = "Denna widget visar upp din Snapkod";
+
+"camera" = "Kamera";
+
+"camera_desc" = "Öppna Snapchat-kameran.";
+
+"log_in" = "Logga in";
+
+"shortcut_to_a_friend" = "Tryck på widgeten när du har placerat den för att välja en vän eller en grupp.";
+
+"pin_a_friend" = "Fäst en vän eller grupp";
+
+"birthdays" = "Födelsedagar";
+
+"see_upcoming_birthdays" = "Se kommande födelsedagar.";
+
+"no_upcoming_birthdays" = "Inga kommande";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ om %2$d dag";
+
+"user_has_birthday_in_days_plural" = "%1$@ om %2$d dagar";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d om %3$d dag";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d om %3$d dagar";
+
+"Memories" = "Memories";
+
+"Memories Desc" = "Snaps som är tillgängliga i dina Memories inklusive återblickar, resor, sammanfattningar och mycket mer!";
+
+"Friend Location Widget Desc" = "Fäst en vän med den här widgeten och se var vännen är.";
+
+"map" = "Karta";
+
+"now" = "nu";
+
+"something_went_wrong" = "Något gick snett, öppna Snapchat";
+
+"long_press_to_pin" = "Redigera för att fästa en vän";
+
+"off_the_grid" = "Inte på nätet";

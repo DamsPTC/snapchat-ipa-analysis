@@ -1,0 +1,18 @@
+"finish" = "Siap";
+"invalid_phone_number_suggestion_title" = "Nombor Telefon Tidak Sah";
+"ngo_country_title" = "Negara";
+"ngo_email_instead" = "Sebaliknya gunakan email";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "E-mel";
+"ngo_phone_instead" = "Sebaliknya gunakan nombor telefon";
+"ngo_phone_number_info" = "Kami akan menghantar kod pengesahan SMS. ";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Kami akan menghantar kod pengesahan SMS. Dengan memasukkan nombor anda, anda bersetuju untuk menerima mesej transaksi melalui SMS atau saluran mesej lain mengenai akaun anda.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Kami akan menghantar kod pengesahan kepada anda. Dengan memasukkan nombor anda, anda akan menerima mesej transaksi melalui SMS atau saluran mesej lain mengenai akaun anda dan banyak lagi.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Kami akan menghantar kod pengesahan kepada anda. Dengan memasukkan nombor anda, anda bersetuju untuk menerima mesej transaksi melalui SMS atau saluran mesej lain mengenai akaun anda. [Ketahui lebih lanjut](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) tentang cara Snap menggunakan nombor telefon anda.";
+"ngo_phone_number_title" = "Nombor Telefon";
+"ngo_phone_placeholder" = "Nombor telefon";
+"phone_suggestion_description" = "%1$@ bukan nombor telefon yang sah. Adakah anda bermaksud\n%2$@?";
+"register_email_button" = "Sebaliknya, daftar dengan e-mel";
+"register_email_error" = "Sila masukkan alamat e-mel yang sah.";
+"skip_button" = "Langkau";
+"yes_update" = "Ya, kemas kini";

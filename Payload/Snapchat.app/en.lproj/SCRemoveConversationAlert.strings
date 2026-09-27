@@ -1,0 +1,4 @@
+"remove_conversation_alert_body" = "This will remove %@ from your feed and remove all of your saved and sent messages.";
+"remove_conversation_alert_cancel_button" = "Cancel";
+"remove_conversation_alert_confirm_button" = "Remove";
+"remove_conversation_alert_title" = "Remove Conversation";

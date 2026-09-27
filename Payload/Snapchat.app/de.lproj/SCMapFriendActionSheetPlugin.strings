@@ -1,0 +1,8 @@
+"location_settings_title" = "Standorteinstellungen";
+"mute_location_alert_body" = "Der Standort deines Freundes wird dir dann auf Snapchat nicht mehr angezeigt. Du kannst ihn aber jederzeit in seinem Profil wieder einblenden.";
+"mute_location_alert_cancel" = "Abbrechen";
+"mute_location_alert_okay" = "Okay";
+"mute_location_alert_title" = "Sicher, dass du den Standort von %1$@ ausblenden möchtest?";
+"mute_location_cell_title" = "Standort von %1$@ ausblenden";
+"mute_location_done_title" = "Fertig";
+"mute_location_failed" = "Standorteinstellungen ausblenden konnten nicht aktualisiert werden. Versuch's nochmal.";

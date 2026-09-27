@@ -1,0 +1,7 @@
+"cancel_button" = "Annuleren";
+"confirm_button" = "Timer instellen";
+"dialog_description" = "Stel de lengte van je opname in";
+"dialog_title" = "Videotimer";
+"duration_text_in_minutes" = "$0 min";
+"duration_text_in_minutes_and_seconds" = "$0 min $1 sec";
+"time_unit_seconds" = "s";

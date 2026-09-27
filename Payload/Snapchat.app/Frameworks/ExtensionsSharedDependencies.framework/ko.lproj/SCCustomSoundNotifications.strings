@@ -1,0 +1,20 @@
+/*
+
+ SCCustomSoundNotifications.strings
+ SCNotificationServiceExtensionBridge
+*/
+
+/// File Names for Notification Custom Sounds 
+"custom_sound_notifications_default_sound_name" = " 기본 소리";
+"custom_sound_notifications_melody_beach_sound_name" = "멜로디 해변";
+"custom_sound_notifications_bottle_pop_sound_name" = "보틀 팝";
+"custom_sound_notifications_fairy_glass_sound_name" = "요정 안경";
+"custom_sound_notifications_alien_amulet_sound_name" = "외계인 부적";
+"custom_sound_notifications_log_goblin_sound_name" = "통나무 고블린";
+"custom_sound_notifications_mini_drop_sound_name" = "미니 드롭";
+"custom_sound_notifications_click_world_sound_name" = "클릭 세상";
+"custom_sound_notifications_digi_drip_sound_name" = "디지털 드립";
+"custom_sound_notifications_friendly_object_sound_name" = "친숙한 대상";
+"custom_sound_notifications_star_lite_sound_name" = "스타 라이트";
+"custom_sound_notifications_stone_web_sound_name" = "스톤 웹";
+"custom_sound_notifications_techno_zone_sound_name" = "테크노 존";

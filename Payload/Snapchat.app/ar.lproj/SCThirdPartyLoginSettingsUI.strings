@@ -1,0 +1,9 @@
+"amazon" = "Amazon";
+"available_to_link" = "متاح للربط";
+"link" = "ربط";
+"linked_accounts" = "الحسابات المرتبطة";
+"third_party_accounts" = "حسابات الطرف الثالث";
+"third_party_accounts_intro" = "يمكنك ربط حسابات من مواقع ويب أخرى لتسهيل عملية الشراء في سناب شات عليك.";
+"unlink" = "إلغاء الربط";
+"unlink_confirmation_text" = "سيؤدي إلغاء الربط إلى زيادة صعوبة شراء المنتجات التي تراها في الإعلانات.";
+"unlink_confirmation_title" = "هل تريد إلغاء ربط حساب ⁦%1$@⁩؟";

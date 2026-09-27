@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "اپنی اسکرین شیئر کرنے کیلئے آپ کو کال میں ہونا چاہیے۔";
+"screen_capture_error_generic" = "کچھ خرابی پیش آ گئی: براہ کرم دوبارہ اسکرین شیئر کرنے کی کوشش کریں۔";
+"screen_capture_not_enabled" = "کچھ خرابی پیش آ گئی۔";

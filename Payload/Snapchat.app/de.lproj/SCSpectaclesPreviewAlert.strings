@@ -1,0 +1,10 @@
+"save_as_2d" = "Als 2D speichern";
+"save_as_copy_3d_lens_depth_unavailable_body" = "Tiefendaten zum Speichern eines Stereo-3D-Snaps können nicht heruntergeladen werden.";
+"save_as_copy_3d_lens_depth_unavailable_title" = "3D-Speichern fehlgeschlagen";
+"save_as_copy_3d_lens_detail_prefix" = "Du hast eine 3D-Linse für diesen Snap verwendet!";
+"save_as_copy_detail_template" = "%1$@ Im Reiter „Snaps“ wird eine Kopie dieses Snaps gespeichert, in der sich dieser Effekt nicht rückgängig machen lässt. Der Original-Snap ist auch weiterhin da.";
+"save_as_copy_magic_moment_detail_prefix" = "Du hast einen 3D-Snap erstellt!";
+"save_as_copy_title" = "Als Kopie speichern";
+"save_as_copy_world_lens_detail_prefix" = "Du hast eine Weltlinse für diesen Snap verwendet!";
+"trim_applied_detail" = "Du hast einen Snap zugeschnitten. Wenn du auf „Speichern“ gehst, wird er als Kopie gespeichert.";
+"trim_applied_title" = "Zugeschnitten";

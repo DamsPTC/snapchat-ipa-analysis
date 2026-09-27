@@ -1,0 +1,14 @@
+"go_to_checkout" = "Ga naar de kassa";
+"item_one" = "%1$@ item";
+"item_other" = "%1$@ items";
+"max_items_error_message" = "Maximaal %1$@ per product per keer!";
+"my_shopping_bags" = "Boodschappentas";
+"ok" = "Oké";
+"remove" = "Verwijderen";
+"returns" = "Retourzendingen";
+"review_order" = "Order bekijken";
+"see_return_policy" = "Zie Retourbeleid";
+"select_quantity" = "Selecteer Hoeveelheid";
+"subtotal" = "Subtotaal";
+"view_all" = "Alles bekijken";
+"web_checkout" = "Betalen op de website";

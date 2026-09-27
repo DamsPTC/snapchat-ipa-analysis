@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "%1$@ ಇಂದ ಉಳಿಸಲ್ಪಟ್ಟ Snapಗಳು ನೆನಪುಗಳಿಗೆ ಬ್ಯಾಕ್ ಅಪ್ ಅನ್ನು ಮುಗಿಸಿಲ್ಲ. ನೀವು %2$@  ಆಗಿ ಲಾಗಿನ್ ಆದರೆ ಆ Snap ಗಳು ಕಳೆದು ಹೋಗುತ್ತವೆ. ಬ್ಯಾಕ್ ಅಪ್ ಮುಗಿಸಲು %3$@ ಆಗಿ ಲಾಗ್ ಇನ್ ಮಾಡಿ";
+"memories_pending_sync_alert_login_action" = "ಏನೇ ಇರಲಿ ಲಾಗ್ ಇನ್ ಮಾಡಿ";
+"memories_pending_sync_alert_registration_action" = "ಏನೇ ಇರಲಿ ಸೈನ್ ಅಪ್ ಮಾಡಿ";
+"memories_pending_sync_alert_registration_body" = "%1$@ ಇಂದ್ ಉಳಿಸಲ್ಪಟ್ಟ Snapಗಳು ನೆನಪುಗಳಿಗೆ ಬ್ಯಾಕ್ ಅಪ್ ಅನ್ನು ಮುಗಿಸಿಲ್ಲ. ನೀವು %2$@ ಆಗಿ ಲಾಗಿನ್ ಆದರೆ ಆ Snap ಗಳು ಕಳೆದುಹೋಗುತ್ತವೆ. ಬ್ಯಾಕ್ ಅಪ್ ಮುಗಿಸಲು ಪುನಃ ಲಾಗಿನ್ ಆಗಿ.";
+"memories_pending_sync_alert_title" = "ಒಂದು ಸೆಕೆಂಡ್ ಇರಿ!";

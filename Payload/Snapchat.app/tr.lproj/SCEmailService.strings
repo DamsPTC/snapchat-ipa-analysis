@@ -1,0 +1,2 @@
+"generic_error" = "Bir hata oluştu, lütfen daha sonra tekrar dene.";
+"update_email_failed_with_code" = "E-posta güncellenemedi. Lütfen tekrar dene. \nDestek kodu: %1$02d";

@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "અમે તમને %1$@ પર કૉલ કરીશું.";
+"alt_send_code_by_sms" = "SMS થી કોડ મોકલો";
+"alt_send_code_by_sms_dialogue" = "અમે તમને %1$@ પર SMS કોડ મોકલીશું.";
+"error_occurred_message" = "કોઈ ભૂલ આવી. કૃપા કરીને ફરીથી પ્રયત્ન કરો.";
+"ngo_email_instead" = "તેના બદલે ઇમેઇલનો ઉપયોગ કરો";
+"ngo_phone_verification_description" = "%1$@ પર મોકલેલો કોડ દાખલ કરો";
+"ngo_phone_verification_title" = "તમારા નંબરની ખાતરી કરો";
+"ngo_submit" = "સબમિટ કરો";
+"ok" = "ઓકે";
+"register_phone_verification_desc" = "અમે %1$@ને મોકલેલો કોડ દાખલ કરો";
+"register_phone_verification_title" = "પુષ્ટિ માટેનો કોડ લખો";
+"resend_code" = "ફરીથી મોકલો";
+"skip_button" = "છોડો";
+"verifying" = "ખાતરી કરીએ છીએ...";

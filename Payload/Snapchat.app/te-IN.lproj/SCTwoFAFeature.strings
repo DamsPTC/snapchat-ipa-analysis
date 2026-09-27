@@ -1,0 +1,9 @@
+"connection_error" = "కనెక్షన్ దోషం";
+"okay" = "సరే";
+"send_code_again" = "తిరిగి కోడ్ పంపండి";
+"twofa_login_code_verification_otp_to_sms_info" = "బదులుగా నాకు SMS పంపండి";
+"twofa_login_code_verification_otp_to_sms_progress" = "పంపబడుతుంది...";
+"twofa_login_code_verification_with_otp_explanation" = "మీ గుర్తింపును వెరిఫై చేసుకోవడానికి మీ ఆథెంటికేషన్ యాప్ విడుదల చేసిన కోడ్‌‌ను దయచేసి ఎంటర్ చేయండి.";
+"twofa_login_recovery_code_used" = "లాగ్ ఇన్ చేయడానికి మీరు మీ రికవరీ కోడ్ ఉపయోగించారు మేము రెండంచెల ఆథెంటికేషన్‌‌ను డిసేబుల్ చేసాము— దానిని ఎనేబుల్ చేయుటకొరకు సెటింగులకు వెళ్ళండి.";
+"twofa_new_device_verification_explanation" = "మీ గుర్తింపుని వెరిఫై చేయడానికి %1$@ కి దయచేసి కోడ్‌ని ఎంటర్ చేయండి.";
+"twofa_settings_recovery_code_used_title" = "రెండు-అంచెల ఆథెంటికేషన్ డిసేబుల్ అయ్యింది";

@@ -1,0 +1,12 @@
+"remix_add_to_my_story" = "In Meine Story posten";
+"remix_create_post" = "Post erstellen";
+"remix_error_record_more_additional_snaps" = "Nimm mindestens %1$.01f Sekunden auf.";
+"remix_error_stitch_minimum_duration" = "Wähle mindestens %1$.01f Sekunden vom Remix-Snap aus.";
+"remix_error_total_snap_duration" = "Der Snap muss insgesamt mindestens %1$.01f Sekunden sein.";
+"remix_explanation_text" = "Alle, die in Story-Snaps erwähnt werden, können remixen und teilen";
+"remix_mention_privacy_prompt_description_no_toggle" = "Jede von dir erwähnte Person kann aus deinem Snap einen eigenen erstellen. Das nennen wir Remix. %1$@\n\nJeder Remix hat eine eigene Lebensdauer und kann gespeichert und von anderen verwendet werden, um weitere Remixes zu erstellen.\n\nEin Remix wird nicht gelöscht, wenn der ursprüngliche Snap gelöscht wird.";
+"remix_mention_privacy_prompt_learn_more_link" = "Mehr erfahren";
+"remix_mention_privacy_prompt_title" = "Remix durch Erwähnungen";
+"remix_promoted_cta_text" = "Remixen und teilen";
+"remix_remix_to_my_story" = "Remix auf Meine Story anwenden";
+"remix_text" = "Remix";

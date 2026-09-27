@@ -1,0 +1,4 @@
+"country" = "Страна";
+"invalid_country_code" = "🌎 Недействительный код страны";
+"phone_number" = "Номер телефона";
+"select_country_code" = "🌎 Выберите код страны";

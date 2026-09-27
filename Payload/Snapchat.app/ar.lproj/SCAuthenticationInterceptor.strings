@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "اللقطات التي حفظها ⁦%1$@⁩ لم يكتمل نسخها احتياطيًا في الذكريات. إذا سجلت الدخول باسم ⁦%2$@⁩، فسوف تفقد هذه اللقطات. سجّل الدخول مرة أخرى باسم ⁦%3$@⁩ لإكمال النسخ الاحتياطي.";
+"memories_pending_sync_alert_login_action" = "تسجيل الدخول على أي حال";
+"memories_pending_sync_alert_registration_action" = "إنشاء حساب على أي حال";
+"memories_pending_sync_alert_registration_body" = "اللقطات التي حفظها ⁦%1$@⁩ لم يكتمل نسخها احتياطيًا في الذكريات. إذا أنشأت حسابًا جديدًا، فسوف تفقد هذه اللقطات. سجّل الدخول مرة أخرى باسم ⁦%2$@⁩ لإكمال النسخ الاحتياطي.";
+"memories_pending_sync_alert_title" = "انتظر ثانية!";

@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "新的聚光灯奖励！";
+"payouts_push_notification_gifting_title" = "新的礼物奖励！";
+"payouts_push_notification_title_spotlight_challenges" = "新的聚光灯挑战奖励！";
+"payouts_push_notification_title_story" = "新的故事奖励！";
+"payouts_push_notification_title_lens_creator_fund" = "新的特效镜头创作者奖励计划奖励！";
+"payouts_push_notification_title_ildg" = "新的可解锁特效镜头奖励！";
+"payouts_push_notification_title_cashout_eligible" = "你的奖励将很快自动兑现！";
+"payouts_push_notification_title_invalidate_eligible" = "你的奖励即将失效！";
+
+"payouts_push_notification_subtitle_onboarded" = "恭喜！请立即检查个人资料中的“我的奖励”，以查看你的收入！";
+"payouts_push_notification_subtitle_not_onboarded" = "你通过聚光灯赚得了奖金。请立即登录并前往个人资料页面领取奖金！";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "你通过聚光灯挑战获得了水晶。请立即登录并前往个人资料页面领取奖励！";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "你通过礼物获得了水晶。请立即登录并前往个人资料页面领取奖励！";
+"payouts_push_notification_subtitle_story_not_onboarded" = "你通过故事获得了水晶。请立即登录并前往个人资料页面领取奖励！";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "你通过特效镜头创作者奖励计划获得了水晶。请立即登录并前往个人资料页面领取奖励！";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "你通过可解锁特效镜头获得了水晶。请立即登录并前往个人资料页面领取奖励！";
+"payouts_push_notification_subtitle_cashout_eligible" = "如果不采取行动，你的水晶奖励将于%1$@自动兑现。请检查个人资料中的“我的水晶”以解决此问题。";
+"payouts_push_notification_subtitle_invalidate_eligible" = "如果不采取行动，你的水晶奖励将于%1$@失效。请检查个人资料中的“我的水晶”以解决此问题。";
+
+"payouts_state_title" = "奖励状态更新！";
+"payouts_state_subtitle" = "你的奖励资格状态已更新。请立即检查个人资料中的“我的 Snap 水晶”，以查看你的状态！";
+"gifting_opened_gift" = "%1$@ 打开了你的礼物！";
+"gifting_support_thanks" = "谢谢你在 Snapchat 上对他们的支持。";
+

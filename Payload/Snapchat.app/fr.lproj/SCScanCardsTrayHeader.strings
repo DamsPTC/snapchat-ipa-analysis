@@ -1,0 +1,8 @@
+"no_results_state_subtitle" = "Le Scanner n'a rien trouvé.";
+"no_results_state_title" = "Aucun résultat";
+"results_state_subtitle" = "Contenu correspondant à votre scan";
+"results_state_title" = "Résultats du scan";
+"scanning_state_subtitle" = "Recherche de contenu correspondant à votre scan.";
+"scanning_state_title" = "Scan en cours…";
+"tray_header_loading" = "Chargement";
+"tray_header_shazam_loading" = "Identification de la musique";

@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Tinggalkan";
+
+"add_a_chat" = "Tambah sembang…";
+
+"are_you_sure_you_want_to_abandon" = "Adakah anda pasti mahu meninggalkan KaryahebatSnap anda?";
+
+"best_friends_header" = "Rakan Karib";
+
+"groups_header" = "Grup";
+
+"friends_header" = "Rakan-rakan";
+
+"send" = "Hantar";
+
+"cancel" = "Batal";
+
+"cannot_add_more_snapchatters" = "Tidak boleh tambah penyembang Snap lagi!";
+
+
+"login_before_sharing_message" = "Sila log masuk ke Snapchat sebelum berkongsi.";
+
+"login_before_sharing_title" = "Log masuk Diperlukan";
+
+"me_hint" = "(saya)";
+
+"noticed_new_acct_sharing_message" = "Salah Akaun!";
+
+"noticed_new_acct_sharing_title" = "Nampaknya anda sudah bertukar akaun. Log masuk semula untuk menghantar snap anda atau mulakan perkongsian sekali lagi.";
+
+"okay" = "Okey";
+
+"open_before_sharing_message" = "Sila log masuk ke Snapchat sebelum berkongsi.";
+
+"open_before_sharing_title" = "Buka Snapchat";
+
+"problem_sharing_try_again" = "Ada yang tidak kena, sila cuba lagi.";
+
+"recents_header" = "Terbaru";
+
+"search_text_view_hint" = "Cari";
+
+"send_to" = "Hantar Kepada…";
+
+"try_again" = "Cuba Lagi";
+
+"video_too_long" = "Video mesti di bawah 60 saat untuk dikongsi.";
+
+"video_too_long_with_maximum_duration_desc" = "Video mesti di bawah %1$ld saat untuk dikongsi.";
+
+"stories_header" = "Cerita";
+
+"my_story" = "Cerita Saya";

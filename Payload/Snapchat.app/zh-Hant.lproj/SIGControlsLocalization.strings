@@ -1,0 +1,15 @@
+"search_placeholder" = "搜尋";
+"sig_action_bar_done" = "完成";
+"sig_action_bar_more" = "更多";
+"sig_header_dismiss_accessibility_label" = "略過";
+"sig_index_view_favorites_image_accessibility_label" = "我的最愛";
+"sig_index_view_groups_image_accessibility_label" = "群組";
+"sig_index_view_quick_adds_image_accessibility_label" = "快速新增";
+"sig_index_view_recents_image_accessibility_label" = "最近";
+"sig_index_view_snap_stars_image_accessibility_label" = "Snap 明星";
+"sig_select_bar_group" = "群組";
+"sig_send_to_button_accessibility_label" = "傳送";
+"toggle_off" = "關閉";
+"toggle_on" = "開啟";
+"toggle_switch_hint" = "開啟此切換功能，會將開啟狀態切換到關閉狀態，反之亦然";
+"toggle_switch_label" = "開關切換";

@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "Мы позвоним на номер %1$@.";
+"alt_send_code_by_sms" = "Отправьте SMS";
+"alt_send_code_by_sms_dialogue" = "Мы отправим код в SMS на номер %1$@.";
+"error_occurred_message" = "Произошла ошибка. Повторите попытку позже.";
+"ngo_email_instead" = "Использовать почту";
+"ngo_phone_verification_description" = "Введите код, отправленный на номер %1$@";
+"ngo_phone_verification_title" = "Подтвердите свой номер телефона";
+"ngo_submit" = "Отправить";
+"ok" = "OK";
+"register_phone_verification_desc" = "Введите код, отправленный на номер %1$@";
+"register_phone_verification_title" = "Введите код подтверждения";
+"resend_code" = "Отправить ещё раз";
+"skip_button" = "Пропустить";
+"verifying" = "Проверяю...";

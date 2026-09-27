@@ -1,0 +1,7 @@
+"cancel_button" = "Cancel";
+"confirm_button" = "Set Timer";
+"dialog_description" = "Set the length of your recording";
+"dialog_title" = "Video Timer";
+"duration_text_in_minutes" = "$0m";
+"duration_text_in_minutes_and_seconds" = "$0m $1s";
+"time_unit_seconds" = "s";

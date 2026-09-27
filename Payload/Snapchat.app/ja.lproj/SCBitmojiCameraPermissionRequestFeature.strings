@@ -1,0 +1,9 @@
+"bitmoji_camera_permission_continue_button" = "カメラで作成";
+"bitmoji_camera_permission_continue_button_new" = "続行";
+"bitmoji_camera_permission_desc" = "カメラを使って自分そっくりのアバターをすぐに作れます。";
+"bitmoji_camera_permission_pre_prompt_accept" = "OK";
+"bitmoji_camera_permission_pre_prompt_deny" = "また今度";
+"bitmoji_camera_permission_pre_prompt_desc" = "カメラへのアクセスを許可して、自撮りからBitmojiを簡単に作れます";
+"bitmoji_camera_permission_pre_prompt_title" = "カメラのアクセス許可を与える";
+"bitmoji_camera_permission_skip_button" = "スキップ";
+"bitmoji_camera_permission_title" = "Bitmojiを作成しよう";

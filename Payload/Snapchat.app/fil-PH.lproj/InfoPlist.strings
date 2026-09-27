@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Papayagan nito ang Snapchat na kumonekta sa mga bluetooth accessory tulad ng Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Gamitin ang camera mo para kumuha ng Snaps, paglaruan ang Lenses, at iba pa! May ilang Lenses na maaaring gumamit ng TrueDepth camera ng Apple. Tingnan ang aming Privacy Policy para sa karagdagang impormasyon.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Maa-upload ang contacts mo sa servers ng Snapchat para mahanap mo at ng iba ang inyong friends, at para ma-improve ang experience mo.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Papayagan nito ang Snapchat na kumonekta sa mga Wi-Fi enabled accessory tulad ng Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Ang pagpili sa “Payagan Palagi” ay magbibigay-daan sa Snapchat na i-update ang iyong location sa background para i-share ang Live Location at mapaganda ang iyong karanasan.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Ang pagpili sa “Payagan Palagi” ay magbibigay-daan sa Snapchat na i-update ang iyong location sa background para i-share ang Live Location at mapaganda ang iyong karanasan.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Ginagamit 'to ng Snapchat para i-customize ang experience mo at tulungan kang mag-discover ng filters, stories, at iba pa sa paligid mo.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Gamitin ang microphone mo para mag-record ng audio para sa Snaps, video chat, atbp.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Nire-record ng Snapchat kung vertical o horizontal ang device mo 'pag kumukuha ka ng Snaps, gumagamit ng Lenses, nagbabasa ng Discover, at nanonood ng ads.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>I-share ang content ng camera roll mo sa friends sa Snap.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>I-share ang content ng camera roll mo sa friends sa Snap.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Sa pamamagitan ng pagpili sa “Payagan,” sa paglipas ng panahon ay posibleng bawasan ng Snap ang ads na sa palagay mo ay walang kaugnayan sa iyo o paulit-ulit. Tingnan ang aming Privacy Policy para sa higit pang impormasyon tungkol sa Tracking.</string>
+</dict>
+</plist>

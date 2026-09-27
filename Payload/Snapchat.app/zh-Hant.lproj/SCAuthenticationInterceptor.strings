@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "%1$@ 儲存的 Snap 尚未完全備份至「回憶」。如果你以 %2$@ 帳戶登入，這些 Snap 就會遺失。重新以 %3$@ 帳戶登入完成備份。";
+"memories_pending_sync_alert_login_action" = "無論如何都要登入";
+"memories_pending_sync_alert_registration_action" = "無論如何都要註冊";
+"memories_pending_sync_alert_registration_body" = "%1$@ 儲存的 Snap 尚未完全備份至「回憶」。如果你註冊新帳戶，這些 Snap 就會遺失。重新以 %2$@ 帳戶登入完成備份。";
+"memories_pending_sync_alert_title" = "稍等一下！";

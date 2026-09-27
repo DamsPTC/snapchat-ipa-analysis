@@ -1,0 +1,17 @@
+"bitmoji_live_mirror_exit_dialog_cancel_button" = "キャンセル";
+"bitmoji_live_mirror_exit_dialog_exit_button" = "終了";
+"bitmoji_live_mirror_exit_dialog_text" = "このまま終了するとアバターが保存されません。";
+"bitmoji_live_mirror_exit_dialog_title" = "保存せずに終了しますか？";
+"bitmoji_live_mirror_interstitial_body_v2" = "マイプロフィールからいつでも服装をカスタマイズしたり、Bitmojiアバターを編集したりできます。";
+"bitmoji_live_mirror_interstitial_body_v3" = "マイプロフィールからいつでもBitmojiアバターの服装を変えたり、編集したりできます。";
+"bitmoji_live_mirror_interstitial_choose_body_button_1_v1" = "いいね！";
+"bitmoji_live_mirror_interstitial_done_button_1_v2" = "完了";
+"bitmoji_live_mirror_interstitial_done_button_3_v3" = "完了";
+"bitmoji_live_mirror_interstitial_edit_facial_avatar_caption_v2" = "編集する";
+"bitmoji_live_mirror_interstitial_edit_facial_button_1_v3" = "アバターの編集";
+"bitmoji_live_mirror_interstitial_edit_facial_button_2_v1" = "編集する";
+"bitmoji_live_mirror_interstitial_select_outfit_button_2_v3" = "服装を選択する";
+"bitmoji_live_mirror_interstitial_title_v1" = "髪と顔の感じはこれでいい？";
+"bitmoji_live_mirror_interstitial_title_v2" = "あなたのアバターができました！";
+"bitmoji_live_mirror_interstitial_title_v3" = "あなたのアバターができました！";
+"server_error_try_again" = "サーバーのエラーが発生しました。もう一度お試しください。";

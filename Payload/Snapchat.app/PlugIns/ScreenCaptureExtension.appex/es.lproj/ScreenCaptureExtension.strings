@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Debes participar en la llamada para compartir tu pantalla.";
+"screen_capture_error_generic" = "Se produjo un error. Intenta compartir tu pantalla nuevamente.";
+"screen_capture_not_enabled" = "Se produjo un error.";

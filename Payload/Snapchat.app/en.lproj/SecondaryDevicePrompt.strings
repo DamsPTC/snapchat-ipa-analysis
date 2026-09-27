@@ -1,0 +1,4 @@
+"prompt_action_description" = "Tap below to use the Map on this device instead";
+"prompt_action_title" = "Switch to this Device";
+"prompt_primary_device" = "The following device is currently updating your location on the Map:";
+"prompt_title" = "You are using Snap Map on a different device!";

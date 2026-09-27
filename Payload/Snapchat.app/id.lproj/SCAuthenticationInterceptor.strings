@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "Snap yang disimpan oleh %1$@ belum selesai dicadangkan ke Memori. Jika kamu masuk sebagai %2$@, Snap tersebut akan hilang. Masuk kembali sebagai %3$@ untuk menyelesaikan pencadangan.";
+"memories_pending_sync_alert_login_action" = "TETAP MASUK";
+"memories_pending_sync_alert_registration_action" = "TETAP DAFTAR";
+"memories_pending_sync_alert_registration_body" = "Snap yang disimpan oleh %1$@ belum selesai dicadangkan ke Memori. Jika kamu mendaftar untuk membuat akun baru, Snap tersebut akan hilang. Masuk kembali sebagai %2$@ untuk menyelesaikan pencadangan.";
+"memories_pending_sync_alert_title" = "Tunggu Sebentar!";

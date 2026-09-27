@@ -1,0 +1,3 @@
+"invite_sms_rate_limit_body" = "Du kan kun sende maks. 10 invitationer på nuværende tidspunkt.";
+"invite_sms_rate_limit_okay" = "Okay";
+"invite_sms_rate_limit_title" = "Du har nået grænsen.";

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Isso permitirá que o Snapchat conecte-se a acessórios por bluetooth, como o Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Use sua câmera para tirar Snaps, brincar com Lentes e mais! Algumas Lentes podem usar a câmera TrueDepth da Apple. Veja nossa Política de Privacidade para mais informações.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Seus contatos serão enviados aos servidores do Snapchat para que você e outros possam encontrar amigos, e para melhorar sua experiência.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Isso permitirá que o Snapchat se conecte aos acessórios habilitados pelo Wi-Fi, como o Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>A opção "Permitir sempre" permite que o Snapchat atualize sua localização em segundo plano para compartilhar a Localização atual e melhorar sua experiência.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>A opção "Permitir sempre" permite que o Snapchat atualize sua localização em segundo plano para compartilhar a Localização atual e melhorar sua experiência.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Usamos isso para customizar sua experiência e disponibilizar Filtros, Histórias e mais ao seu redor.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Use seu microfone para gravar áudio para Snaps, Video Chats e mais.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>O Snapchat registra a orientação do seu aparelho (na vertical ou horizontal) quando você faz Snaps, usa Lentes, lê o Descubra e assiste a anúncios.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Compartilhe o conteúdo do seu Rolo da Câmera com amigos no Snap.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Compartilhe o conteúdo do seu Rolo da Câmera com amigos no Snap.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Ao selecionar "Permitir", o Snap pode reduzir, com o tempo, os anúncios que você acha irrelevantes ou repetitivos. Consulte nossa Política de Privacidade para obter mais informações sobre Rastreamento.</string>
+</dict>
+</plist>

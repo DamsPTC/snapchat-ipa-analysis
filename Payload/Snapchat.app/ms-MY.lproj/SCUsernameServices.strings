@@ -1,0 +1,8 @@
+"suggestion_error" = "Ada sesuatu yang tidak kena. Sila cuba lagi nanti";
+"username_invalid_begin" = "Nama pengguna mesti bermula dengan huruf 🔠";
+"username_invalid_char" = "Nama pengguna hanya boleh merangkumi huruf Latin, nombor dan satu daripada -, _, atau . tetapi bukan aksara khas! 👌";
+"username_invalid_end" = "Nama pengguna mesti berakhir dengan huruf atau nombor 👆";
+"username_invalid_long" = "Ops! Nama pengguna tidak boleh melebihi 15 aksara 📖";
+"username_invalid_separator" = "Nama pengguna hanya boleh ada satu -, _, atau . Anda gunakan terlalu banyak ✌";
+"username_invalid_short" = "Nama pengguna mestilah sekurang-kurangnya 3 aksara 📝";
+"username_taken" = "%1$@ sudah diambil!";

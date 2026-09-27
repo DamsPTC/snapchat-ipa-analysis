@@ -1,0 +1,11 @@
+"attach_products_section_title_text" = "Products";
+"attach_store_section_title_text" = "Store";
+"attach_store_subtitle_text" = "$0 Products";
+"attach_to_snap_button_text" = "Attach to Snap ($0)";
+"max_items_attached_text" = "You have reached the maximum of $0 product attachments. Please deselect a product to update.";
+"no_results_found_text" = "No results found";
+"retry_text" = "Retry";
+"search_box_search_text" = "Search";
+"sold_out_text" = "Sold Out";
+"something_went_wrong_text" = "Something went wrong please try again later";
+"store_card_subtitle_text" = "Tap here to attach your entire store";

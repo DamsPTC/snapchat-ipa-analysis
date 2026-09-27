@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "请重新登录";
+"incorrect_user_error_body" = "出错了";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "你的 Snap 很热门 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "你发布到“我们的故事”的 Snap 获得了 %1$@ 次浏览！";
+
+"our_story_submission_view_milestone_generic_body" = "你发布到“我们的故事”的 Snap 获得了很多次浏览！";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "你的聚光灯 Snap 获得了 %1$@ 次浏览！";
+
+"spotlight_submission_view_milestone_generic_body" = "你的聚光灯 Snap 获得了很多次浏览！";

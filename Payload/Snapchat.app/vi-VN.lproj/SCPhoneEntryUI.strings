@@ -1,0 +1,11 @@
+"country_code_field" = "Trường Mã Quốc Gia";
+"mobile_number_field" = "Trường Số Điện Thoại";
+"phone_entry_invalid_country_code" = "🌎 Mã quốc gia không hợp lệ";
+"phone_entry_phone_placeholder" = "số điện thoại";
+"phone_entry_select_country_code" = "🌎 Chọn mã quốc gia";
+"register_country_picker_title" = "Chọn Quốc Gia";
+"register_phone_label" = "SỐ ĐIỆN THOẠI DI ĐỘNG";
+"send_sms_explanation" = "Chúng tôi sẽ gửi bạn một mã xác thực qua SMS.";
+"send_sms_explanation_here" = "Chúng tôi sử dụng số điện thoại của bạn để gửi mã xác minh qua SMS và như được mô tả [tại đây](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_and_here" = "Chúng tôi sử dụng số điện thoại của bạn để gửi mã xác minh qua SMS, các nội dung cập nhật quan trọng và nội dung như được mô tả [ở đây](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_here" = "Chúng tôi sử dụng số điện thoại của bạn để gửi mã xác minh qua SMS và các nội dung cập nhật quan trọng như được mô tả [tại đây](https://support.snapchat.com/article/snap-phone-number).";

@@ -1,0 +1,4 @@
+"lens_favorites_notifications_error" = "حدث خطأ ما. يُرجى إعادة المحاولة.";
+"lens_favorites_notifications_favorited_lens" = "تم حفظ عدسة Lens في العناصر المفضلة.";
+"lens_favorites_notifications_limit_exceeded" = "لقد وصلت للحدّ الأقصى للتفضيلات (⁦%1$@⁩)";
+"lens_favorites_notifications_unfavorited_lens" = "تمت إزالة عدسة Lens من العناصر المفضلة";

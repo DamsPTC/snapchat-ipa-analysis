@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "സ്ക്രീൻ പങ്കിടണമെങ്കിൽ നിങ്ങൾ ഒരു കോളിലായിരിക്കണം.";
+"screen_capture_error_generic" = "എന്തോ കുഴപ്പം സംഭവിച്ചു: സ്ക്രീൻ വീണ്ടും പങ്കിടാൻ ശ്രമിക്കുക.";
+"screen_capture_not_enabled" = "എന്തോ കുഴപ്പം പറ്റി.";

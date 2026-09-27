@@ -1,0 +1,3 @@
+"unread_message_alert_description" = "If you open the message, they will know you saw it.";
+"unread_message_alert_title" = "%@ sent you a message!";
+"unread_message_error_alert_title" = "%@ may have sent you a message!";

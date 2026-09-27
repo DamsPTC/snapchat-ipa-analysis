@@ -1,0 +1,4 @@
+"lens_favorites_notifications_error" = "Something went wrong. Please try again.";
+"lens_favorites_notifications_favorited_lens" = "Lens saved to Favorites!";
+"lens_favorites_notifications_limit_exceeded" = "Favorite Limit Reached (%@)";
+"lens_favorites_notifications_unfavorited_lens" = "Lens removed from Favorites";

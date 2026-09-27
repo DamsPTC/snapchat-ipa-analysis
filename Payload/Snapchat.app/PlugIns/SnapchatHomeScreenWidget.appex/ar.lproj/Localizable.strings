@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "رمز Snap";
+
+"Snapcode Desc" = "يُعرض رمز Snap خاصتك على نافذة التطبيق الصغيرة هذه";
+
+"camera" = "الكاميرا";
+
+"camera_desc" = "افتح كاميرا سناب شات.";
+
+"log_in" = "تسجيل الدخول";
+
+"shortcut_to_a_friend" = "اضغط على الأداة بعد وضعها لاختيار صديق أو مجموعة.";
+
+"pin_a_friend" = "تثبيت صديق أو مجموعة";
+
+"birthdays" = "أعياد الميلاد";
+
+"see_upcoming_birthdays" = "اطلع على أعياد الميلاد القادمة.";
+
+"no_upcoming_birthdays" = "لا يوجد المزيد من أعياد الميلاد القادمة";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "⁦%1$@⁩ في ⁦%2$d⁩ يوم";
+
+"user_has_birthday_in_days_plural" = "⁦%1$@⁩ في ⁦%2$d⁩ أيام";
+
+"user_and_other_have_birthday_in_days_singular" = "⁦%1$@⁩ +⁦%2$d⁩ في ⁦%3$d⁩ يوم";
+
+"user_and_other_have_birthday_in_days_plural" = "⁦%1$@⁩ +⁦%2$d⁩ في ⁦%3$d⁩ يوم";
+
+"Memories" = "الذكريات";
+
+"Memories Desc" = "صور ومقاطع سناب مميزة من ذكرياتك، من ضمنها فلاش باك ورحلات وملخصات وأكثر!";
+
+"Friend Location Widget Desc" = "ثبِّت صديقًا بهذه الأداة المصغرة لمعرفة موقعه.";
+
+"map" = "الخريطة";
+
+"now" = "الآن";
+
+"something_went_wrong" = "حدث خطأ ما، من فضلك افتح سناب شات";
+
+"long_press_to_pin" = "عدِّل لتثبيت صديق";
+
+"off_the_grid" = "الاختفاء عن الأنظار";

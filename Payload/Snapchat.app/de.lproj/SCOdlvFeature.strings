@@ -1,0 +1,9 @@
+"landing_context" = "Dieser Login ist für dich ungewöhnlich! Damit dein Account sicher bleibt, bestätige ihn mit einer dieser Optionen.";
+"landing_message_note" = "*Es können Messaging- und Datenkosten anfallen.";
+"landing_options_radio_phone" = "Nachricht";
+"landing_title" = "Verdächtiger Login";
+"retry_message" = "Etwas ist schiefgelaufen. Versuchs nochmal.";
+"verification_description" = "Gib den Code ein, den wir an \n%1$@ geschickt haben.";
+"verification_title" = "Gib den Bestätigungscode ein";
+"verification_unable_to_verify" = "Bestätigen nicht möglich?";
+"verification_unable_to_verify_dialog" = "Oh nein! Wir konnten deinen Account nicht bestätigen. Hilfe bekommst du beim Snapchat Support.";

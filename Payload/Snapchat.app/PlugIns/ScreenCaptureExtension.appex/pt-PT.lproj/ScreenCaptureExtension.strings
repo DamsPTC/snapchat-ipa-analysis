@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Tens de estar numa chamada para partilhares o teu ecrã.";
+"screen_capture_error_generic" = "Algo correu mal. Tenta novamente partilhar o ecrã.";
+"screen_capture_not_enabled" = "Algo correu mal.";

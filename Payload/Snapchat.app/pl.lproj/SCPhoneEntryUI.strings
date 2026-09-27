@@ -1,0 +1,11 @@
+"country_code_field" = "Pole kodu kraju";
+"mobile_number_field" = "Pole na numer telefonu komórkowego";
+"phone_entry_invalid_country_code" = "🌎 Nieprawidłowy kod kraju";
+"phone_entry_phone_placeholder" = "numer telefonu";
+"phone_entry_select_country_code" = "🌎 Wybierz kod kraju";
+"register_country_picker_title" = "Wybierz kraj";
+"register_phone_label" = "NUMER TELEFONU";
+"send_sms_explanation" = "Wyślemy SMS z kodem weryfikacyjnym.";
+"send_sms_explanation_here" = "Użyjemy Twojego numeru telefonu, aby przesłać Ci kod weryfikacyjny SMS-em. Z Twojego numeru telefonu korzystamy również tak, jak opisano [tutaj](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_and_here" = "Użyjemy Twojego numeru telefonu, aby przesłać Ci SMS-em kod weryfikacyjny oraz ważne informacje o aktualizacjach. Z Twojego numeru telefonu korzystamy również tak, jak opisano [tutaj](https://support.snapchat.com/article/snap-phone-number).";
+"send_sms_explanation_updates_here" = "Użyjemy Twojego numeru telefonu, aby przesłać Ci kod weryfikacyjny SMS-em. Na Twój numer telefonu prześlemy również informacje o aktualizacjach, tak jak opisano [tutaj](https://support.snapchat.com/article/snap-phone-number).";

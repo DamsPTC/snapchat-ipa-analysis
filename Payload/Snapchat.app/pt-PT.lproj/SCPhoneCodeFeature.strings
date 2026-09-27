@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "Vamos ligar-te para o %1$@.";
+"alt_send_code_by_sms" = "Enviar código por SMS";
+"alt_send_code_by_sms_dialogue" = "Vamos enviar-te um código por SMS às %1$@.";
+"error_occurred_message" = "Ocorreu um erro. Tenta novamente mais tarde.";
+"ngo_email_instead" = "Utilizar antes o e-mail";
+"ngo_phone_verification_description" = "Introduz o código que enviámos para o %1$@";
+"ngo_phone_verification_title" = "Confirma o teu número";
+"ngo_submit" = "Enviar";
+"ok" = "OK";
+"register_phone_verification_desc" = "Introduz o código que enviámos para o %1$@";
+"register_phone_verification_title" = "Introduz o código de confirmação";
+"resend_code" = "Reenviar";
+"skip_button" = "Saltar";
+"verifying" = "A confirmar...";

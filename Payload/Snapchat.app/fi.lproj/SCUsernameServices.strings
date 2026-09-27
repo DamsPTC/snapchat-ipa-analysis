@@ -1,0 +1,8 @@
+"suggestion_error" = "Jokin meni pieleen. Yritä myöhemmin uudelleen.";
+"username_invalid_begin" = "Käyttäjätunnuksen on alettava kirjaimella 🔠";
+"username_invalid_char" = "Käyttäjätunnuksessa voi olla latinalaisten aakkosten kirjainten lisäksi vain numeroita sekä yksi viiva, alaviiva tai piste − ei muita erikoismerkkejä 👌";
+"username_invalid_end" = "Käyttäjätunnuksen on loputtava kirjaimeen tai numeroon 👆";
+"username_invalid_long" = "Käyttäjätunnuksessa voi olla enintään 15 merkkiä 📖";
+"username_invalid_separator" = "Käyttäjätunnuksessa voi olla vain yksi viiva, alaviiva tai piste. Sinulla on liian monta ✌";
+"username_invalid_short" = "Käyttäjätunnuksessa on oltava vähintään 3 merkkiä 📝";
+"username_taken" = "%1$@ on jo käytössä!";

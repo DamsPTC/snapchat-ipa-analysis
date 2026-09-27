@@ -1,0 +1,13 @@
+"connect_wallet_description" = "¡Presume tus Lentes coleccionables! Solo tienes que vincular tu monedero de criptomonedas a la cuenta de Snapchat y tu nombre de usuario se mostrará públicamente en el Lente y en otros sitios de Snapchat. Siempre puedes desvincular tu monedero desde los ajustes, en la sección Monederos vinculados.";
+"connect_wallet_ftx_disclosure" = "Actualmente, FTX no está disponible en jurisdicciones restringidas, lo que incluye Nueva York.";
+"connect_wallet_learn_more" = "Obtener más información";
+"connect_wallet_legal_disclosure" = "Al vincular tu monedero, aceptas las %1$@.";
+"connect_wallet_terms_of_use" = "Condiciones de coleccionismo digital";
+"connect_wallet_title" = "Vincular tu monedero";
+"result_failure_body" = "Verifica tus credenciales y asegúrate de que la conexión a Internet esté funcionando correctamente.";
+"result_failure_not_available" = "En este momento, esta función no está disponible para ti.";
+"result_failure_title" = "Error al conectar";
+"result_success_body" = "Tu billetera está conectada.";
+"result_success_no_collection_body" = "Si bien este NFT no está en tu colección, puedes usar el Lente igual. Si compraste hace poco el NFT vinculado al Lente, espera 5 minutos a que esto se verifique.";
+"result_success_no_collection_title" = "Se conectó tu billetera al Lente";
+"result_success_title" = "Se conectó correctamente";

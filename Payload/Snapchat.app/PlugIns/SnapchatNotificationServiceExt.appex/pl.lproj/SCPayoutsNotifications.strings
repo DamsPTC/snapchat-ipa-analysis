@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Nowa płatność za Polecane!";
+"payouts_push_notification_gifting_title" = "Nowa płatność w ramach dawania prezentu!";
+"payouts_push_notification_title_spotlight_challenges" = "Nowa płatność za wyzwanie z Polecanymi w roli głównej!";
+"payouts_push_notification_title_story" = "Nowa płatność za Stories!";
+"payouts_push_notification_title_lens_creator_fund" = "Nowa płatność z programu nagród dla twórców nakładek!";
+"payouts_push_notification_title_ildg" = "Nowa płatność za nakładki do odblokowania!";
+"payouts_push_notification_title_cashout_eligible" = "Twoje nagrody zostaną wkrótce automatycznie wypłacone!";
+"payouts_push_notification_title_invalidate_eligible" = "Twoje nagrody wkrótce stracą ważność!";
+
+"payouts_push_notification_subtitle_onboarded" = "Gratulacje! Uzyskaną kwotę możesz sprawdzić w Moich płatnościach na swoim profilu.";
+"payouts_push_notification_subtitle_not_onboarded" = "Otrzymujesz pieniądze za Polecane. Przejdź do swojego profilu, aby je wypłacić.";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Otrzymujesz kryształy za wyzwania z Polecanymi w roli głównej. Przejdź do swojego profilu, aby je wypłacić.";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Otrzymujesz kryształy za prezenty. Przejdź do swojego profilu, aby je wypłacić.";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Otrzymujesz kryształy za Stories. Przejdź do swojego profilu, aby je wypłacić.";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Otrzymujesz kryształy z programu nagród dla twórców nakładek. Przejdź do swojego profilu, aby je wypłacić.";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Otrzymujesz kryształy za nakładki do odblokowania. Przejdź do swojego profilu, aby je wypłacić.";
+"payouts_push_notification_subtitle_cashout_eligible" = "Twoje nagrody kryształowe zostaną automatycznie wypłacone w dniu %1$@, jeśli nie zostaną podjęte żadne działania. Sprawdź Moje kryształy w profilu, aby rozwiązać ten problem.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Twoje nagrody kryształowe stracą ważność w dniu %1$@, jeśli nie zostaną podjęte żadne działania. Sprawdź Moje kryształy w profilu, aby rozwiązać ten problem.";
+
+"payouts_state_title" = "Status płatności został zaktualizowany.";
+"payouts_state_subtitle" = "Zaktualizowano Twój status spełnienia warunków płatności. Możesz go sprawdzić w Moich Snapkryształach na swoim profilu.";
+"gifting_opened_gift" = "Użytkownik %1$@ otworzył Twój prezent!";
+"gifting_support_thanks" = "Dzięki, że wspierasz tę osobę przez Snapchata.";
+

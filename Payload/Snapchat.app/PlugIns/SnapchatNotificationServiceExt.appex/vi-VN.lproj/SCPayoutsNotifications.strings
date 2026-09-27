@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Khoản Thanh Toán Tâm Điểm Mới!";
+"payouts_push_notification_gifting_title" = "Khoản Thanh Toán Mới Từ Tính Năng Tặng Quà!";
+"payouts_push_notification_title_spotlight_challenges" = "Khoản Thanh Toán Thử Thách Tâm Điểm Mới!";
+"payouts_push_notification_title_story" = "Khoản Thanh Toán Mới Từ Story!";
+"payouts_push_notification_title_lens_creator_fund" = "Khoản thanh toán mới cho Chương trình thưởng Người Tạo Ống Kính!";
+"payouts_push_notification_title_ildg" = "Khoản Thanh Toán Mới Cho Ống Kính Có Thể Mở Khóa!";
+"payouts_push_notification_title_cashout_eligible" = "Phần Thưởng của bạn sẽ sớm được tự động rút ra!";
+"payouts_push_notification_title_invalidate_eligible" = "Phần Thưởng Của Bạn Sẽ Sớm Mất Hiệu Lực!";
+
+"payouts_push_notification_subtitle_onboarded" = "Chúc mừng bạn! Hãy vào ngay mục Khoản Thanh Toán Của Tôi trong Hồ Sơ để xem thu nhập của bạn!";
+"payouts_push_notification_subtitle_not_onboarded" = "Bạn đã kiếm được tiền từ Tâm Điểm. Hãy xem ngay hướng dẫn trong phần Hồ Sơ để nhận thanh toán!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Bạn đã nhận được Pha Lê từ Thử Thách Tâm Điểm. Hãy xem ngay hướng dẫn trong phần Hồ Sơ để nhận thanh toán!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Bạn đã nhận được Pha Lê từ Quà. Hãy xem ngay hướng dẫn trong phần Hồ Sơ để nhận thanh toán!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Bạn đã nhận được Pha Lê từ Story. Hãy xem ngay hướng dẫn trong phần Hồ Sơ để nhận thanh toán!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Bạn đã nhận được Pha Lê từ Chương trình thưởng Người Tạo Ống Kính. Hãy xem ngay hướng dẫn trong phần Hồ Sơ để nhận thanh toán!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Bạn đã nhận được Pha Lê từ Ống Kính Có Thể Mở Khóa. Hãy xem ngay hướng dẫn trong phần Hồ Sơ để nhận thanh toán!";
+"payouts_push_notification_subtitle_cashout_eligible" = "Phần Thưởng Pha Lê của bạn sẽ được tự động rút ra vào %1$@ nếu bạn không làm gì. Hãy kiểm tra phần Pha Lê Của Tôi trong Hồ Sơ để giải quyết.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Phần Thưởng Pha Lê của bạn sẽ mất hiệu lực vào %1$@ nếu bạn không làm gì. Hãy kiểm tra phần Pha Lê Của Tôi trong Hồ Sơ để giải quyết.";
+
+"payouts_state_title" = "Đã Cập Nhật Trạng Thái Thanh Toán!";
+"payouts_state_subtitle" = "Trạng thái về điều kiện nhận Khoản Thanh Toán của bạn đã được cập nhật. Hãy xem mục Pha Lê Snap Của Tôi trong Hồ Sơ để thấy trạng thái của bạn!";
+"gifting_opened_gift" = "%1$@ đã mở quà bạn tặng!";
+"gifting_support_thanks" = "Cảm ơn bạn đã ủng hộ họ trên Snapchat.";
+

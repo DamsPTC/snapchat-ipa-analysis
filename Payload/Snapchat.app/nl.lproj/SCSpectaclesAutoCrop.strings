@@ -1,0 +1,12 @@
+"apply_to_your_snap" = "'Automatisch bijsnijden' wordt toegepast. Dit kan even duren.";
+"auto_crop" = "Automatisch bijsnijden";
+"auto_crop_applied_automatically_tooltip" = "Automatisch bijsnijden is automatisch toegepast";
+"auto_crop_apply_tooltip" = "Tik om automatisch bijsnijden toe te passen";
+"auto_crop_intro_detail" = "Automatisch bijsnijden wordt automatisch toegepast op je Pixy Snaps als je ze bewerkt.";
+"auto_crop_intro_title" = "Inclusief automatisch bijsnijden!";
+"auto_crop_remove_tooltip" = "Tik om automatisch bijsnijden te verwijderen";
+"auto_crop_unavailable_message" = "Automatisch bijsnijden niet beschikbaar. Controleer de netwerkverbinding.";
+"crop_action_title" = "Bijsnijden";
+"crop_and_remove_effects_detail" = "Door op 'Bijsnijden' te tikken worden alle Pixy Smart Edit-effecten verwijderd van je Snap.";
+"crop_and_remove_effects_title" = "Bijsnijden en verwijderen van de Smart Edit-effecten?";
+"remove_from_your_snap" = "'Automatisch bijsnijden' wordt verwijderd. Dit kan even duren.";

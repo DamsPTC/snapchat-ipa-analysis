@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Новая выплата в Spotlight!";
+"payouts_push_notification_gifting_title" = "Новая выплата в подарок!";
+"payouts_push_notification_title_spotlight_challenges" = "Новая выплата за челлендж в Spotlight!";
+"payouts_push_notification_title_story" = "Новая выплата за историю!";
+"payouts_push_notification_title_lens_creator_fund" = "Новая выплата по Программе бонусов для авторов линз!";
+"payouts_push_notification_title_ildg" = "Новая выплата за контент, который можно разблокировать в линзах!";
+"payouts_push_notification_title_cashout_eligible" = "Скоро ваши награды будут автоматически обналичены!";
+"payouts_push_notification_title_invalidate_eligible" = "Срок действия ваших наград скоро истечёт!";
+
+"payouts_push_notification_subtitle_onboarded" = "Поздравляем! В разделе выплат в профиле можно посмотреть, сколько вы заработали.";
+"payouts_push_notification_subtitle_not_onboarded" = "Вы заработали деньги в Spotlight. Присоединитесь к системе в профиле, чтобы их получить!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Вы получили кристаллы за челлендж в Spotlight. Присоединитесь к системе в профиле, чтобы получить оплату!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Вы получили кристаллы за подарки. Присоединитесь к системе в профиле, чтобы получить оплату!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Вы получили кристаллы за истории. Присоединитесь к системе в профиле, чтобы получить оплату!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Вы получили кристаллы в рамках Программы бонусов для авторов линз. Присоединитесь к системе в профиле, чтобы получить оплату!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Вы получили кристаллы за контент, который можно разблокировать в линзах. Присоединитесь к системе в профиле, чтобы получить оплату!";
+"payouts_push_notification_subtitle_cashout_eligible" = "Кристаллы, которые вы получили в награду, будут автоматически обналичены %1$@, если вы не совершите никаких действий. Они находятся в разделе профиля «Мои кристаллы».";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Кристаллы, которые вы получили в награду, станут недействительны %1$@, если вы не совершите никаких действий. Они находятся в разделе профиля «Мои кристаллы».";
+
+"payouts_state_title" = "Статус выплат обновлён.";
+"payouts_state_subtitle" = "Ваш статус соответствия условиям для выплат обновлён. Его можно посмотреть в разделе кристаллов Snap в профиле.";
+"gifting_opened_gift" = "%1$@ открыл(а) ваш подарок!";
+"gifting_support_thanks" = "Спасибо за поддержку в Snapchat.";
+

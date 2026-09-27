@@ -1,0 +1,3 @@
+"one_of_one_owner_display_text" = "Opgehaald door %1$@";
+"open_edition_owned_owner_display_text" = "Opgehaald door %1$@, %2$@ anderen";
+"open_edition_unowned_owner_display_text" = "Opgehaald door %1$@ anderen";

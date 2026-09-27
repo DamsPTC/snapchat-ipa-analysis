@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Pembayaran Spotlight Baru!";
+"payouts_push_notification_gifting_title" = "Pembayaran Hadiah Baru!";
+"payouts_push_notification_title_spotlight_challenges" = "Pembayaran Tantangan Spotlight Baru!";
+"payouts_push_notification_title_story" = "Pembayaran Cerita Baru!";
+"payouts_push_notification_title_lens_creator_fund" = "Pembayaran Program Hadiah Kreator Lensa Baru!";
+"payouts_push_notification_title_ildg" = "Pembayaran Lensa yang Bisa Dibuka Baru!";
+"payouts_push_notification_title_cashout_eligible" = "Hadiahmu akan segera dicairkan secara otomatis!";
+"payouts_push_notification_title_invalidate_eligible" = "Hadiahmu Tidak Lama Lagi akan Hangus!";
+
+"payouts_push_notification_subtitle_onboarded" = "Selamat! Lihat Pembayaranku di Profil untuk melihat pendapatanmu sekarang!";
+"payouts_push_notification_subtitle_not_onboarded" = "Kamu menghasilkan uang dari Spotlight. Masuk ke Profil untuk mendapatkan pembayaran!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Kamu mendapatkan Kristal dari Tantangan Spotlight. Masuk ke Profil untuk mendapatkan pembayaran!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Kamu mendapatkan Kristal dari Hadiah. Masuk ke Profil untuk mendapatkan pembayaran sekarang!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Kamu mendapatkan Kristal dari Cerita. Masuk ke Profil untuk mendapatkan pembayaran sekarang! ";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Kamu mendapatkan Kristal dari Program Hadiah Kreator Lensa. Daftar sekarang di Profil untuk mendapatkan pembayaran!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Kamu mendapatkan Kristal dari Lensa yang Bisa Dibuka. Masuk ke Profil sekarang untuk mendapatkan pembayaran!";
+"payouts_push_notification_subtitle_cashout_eligible" = "Hadiah Kristalmu secara otomatis akan dicairkan pada %1$@ jika tidak ada tindakan diambil. Lihat Kristal Saya di Layar Profil untuk mengaturnya.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Hadiah Kristalmu akan hangus pada %1$@ jika tidak ada tindakan diambil. Lihat Kristal Saya di Layar Profil untuk mengaturnya.";
+
+"payouts_state_title" = "Status Pembayaran Diperbarui!";
+"payouts_state_subtitle" = "Status kelayakan Pembayaranmu telah diperbarui. Lihat Kristal Snap-ku di Profil untuk melihat statusmu!";
+"gifting_opened_gift" = "%1$@ membuka hadiahmu!";
+"gifting_support_thanks" = "Terima kasih sudah mendukungnya di Snapchat.";
+

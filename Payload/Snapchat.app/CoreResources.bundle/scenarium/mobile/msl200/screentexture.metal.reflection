@@ -1,0 +1,35 @@
+//SG_REFLECTION_BEGIN(200)
+//attribute vec4 position 0
+//attribute vec2 texture0 1
+//output vec4 FragColor0 0
+//sampler sampler screenTextureSmpSC 2:1
+//texture texture2D screenTexture 2:0:2:1
+//ubo float UserUniforms 2:2:272 {
+//float sc_DisableFrustumCullingMarker 0
+//sc_Camera_t sc_Camera 16
+//float3 sc_Camera.position 0
+//float sc_Camera.aspect 16
+//float2 sc_Camera.clipPlanes 24
+//float4 sc_StereoClipPlanes 48:[2]:16
+//float3x3 meshTransform 80
+//float screenTextureBias 128
+//float screenTextureLevel 132
+//float4 screenTextureSize 144
+//float4 screenTextureDims 160
+//float4 screenTextureView 176
+//float3x3 screenTextureTransform 192
+//float4 screenTextureUvMinMax 240
+//float4 screenTextureBorderColor 256
+//}
+//spec_const bool GRAYSCALE_AS_ALPHA 1000
+//spec_const bool ONLY_VERTEX_ATTRIBUTE 1001
+//spec_const bool SC_DISABLE_FRUSTUM_CULLING 1002
+//spec_const bool SWAP_R_B_CHANNELS 1003
+//spec_const bool USE_MESH_TRANSFORM 1004
+//spec_const bool sc_IsEditor 1005
+//spec_const bool screenTextureHasSwappedViews 1006
+//spec_const int sc_DepthBufferMode 1007
+//spec_const int sc_StereoRenderingMode 1008
+//spec_const int sc_StereoRendering_IsClipDistanceEnabled 1009
+//spec_const int screenTextureLayout 1010
+//SG_REFLECTION_END

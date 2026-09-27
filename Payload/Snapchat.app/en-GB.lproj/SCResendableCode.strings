@@ -1,0 +1,3 @@
+"ngo_resend_code" = "Resend code in %1$lu";
+"ngo_resend_code_button" = "Resend code";
+"resend_wait" = "Please wait %1$@ seconds before requesting a code.";

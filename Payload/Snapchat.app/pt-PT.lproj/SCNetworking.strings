@@ -1,0 +1,3 @@
+"check_connection_message" = "Verifica a tua ligação e tenta novamente.";
+"connect_failed_title" = "Não foi possível estabelecer a ligação";
+"server_error_try_again" = "Algo correu mal. Tenta novamente mais tarde!";

@@ -1,0 +1,7 @@
+"description" = "輸入傳送至 %1$@ 的驗證碼";
+"ok" = "確定";
+"resend_button" = "重新傳送驗證碼";
+"resend_description" = "%1$lu 內重新傳送驗證碼";
+"submit" = "送出";
+"title_email" = "確認你的電子郵件";
+"title_phone" = "確認你的電話號碼";

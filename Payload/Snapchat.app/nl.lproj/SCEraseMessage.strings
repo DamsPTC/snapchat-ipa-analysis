@@ -1,0 +1,14 @@
+"cancel_button_prompt" = "Annuleren";
+"delete_button_prompt" = "Verwijderen";
+"delete_snap_dialog_title" = "Snap verwijderen?";
+"delete_snap_group_dialog_body" = "Iedereen in de groep kan zien dat je een Snap hebt verwijderd.";
+"delete_snap_individual_dialog_body" = "Vrienden kunnen zien dat je een Snap hebt verwijderd.";
+"delete_snap_learn_more_header" = "Wat is verwijderen?";
+"erase_message_group_prompt" = "Iedereen in de groep kan zien dat je iets hebt verwijderd.";
+"erase_message_header_prompt" = "Chat verwijderen?";
+"erase_message_individual_prompt" = "Vrienden kunnen zien dat je iets hebt verwijderd.";
+"erase_message_learn_more" = "Wanneer je een bericht verwijdert, proberen wij het te verwijderen van onze servers en de apparaten van je vrienden. Dat werkt niet altijd, bijvoorbeeld als iemand een slechte internetverbinding heeft of een oude versie van Snapchat gebruikt.";
+"erase_message_learn_more_action" = "Meer informatie";
+"erase_message_learn_more_header" = "Wat is Chat verwijderen?";
+"erase_message_merlin_learn_more_addendum" = "%1$@\n\nHierdoor wordt alleen het door jouw geselecteerde bericht gewist. Om verdwenen berichten gericht aan My AI te verwijderen, ga je naar Instellingen > Privacybeheer > Gegevens wissen > My AI-gegevens wissen.";
+"okay_button_prompt" = "Oké";

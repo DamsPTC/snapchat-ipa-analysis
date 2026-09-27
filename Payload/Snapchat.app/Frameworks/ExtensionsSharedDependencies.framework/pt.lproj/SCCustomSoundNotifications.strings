@@ -1,0 +1,20 @@
+/*
+
+ SCCustomSoundNotifications.strings
+ SCNotificationServiceExtensionBridge
+*/
+
+/// File Names for Notification Custom Sounds 
+"custom_sound_notifications_default_sound_name" = "Som padrão";
+"custom_sound_notifications_melody_beach_sound_name" = "Melodia praiana";
+"custom_sound_notifications_bottle_pop_sound_name" = "Garrafa abrindo";
+"custom_sound_notifications_fairy_glass_sound_name" = "Sininho";
+"custom_sound_notifications_alien_amulet_sound_name" = "Amuleto alienígena";
+"custom_sound_notifications_log_goblin_sound_name" = "Batida subterrânea";
+"custom_sound_notifications_mini_drop_sound_name" = "Gotinha";
+"custom_sound_notifications_click_world_sound_name" = "Mundo de cliques";
+"custom_sound_notifications_digi_drip_sound_name" = "Gota digital";
+"custom_sound_notifications_friendly_object_sound_name" = "Objeto amigável";
+"custom_sound_notifications_star_lite_sound_name" = "Som estrelar";
+"custom_sound_notifications_stone_web_sound_name" = "Pedra na web";
+"custom_sound_notifications_techno_zone_sound_name" = "Área tecnológica";

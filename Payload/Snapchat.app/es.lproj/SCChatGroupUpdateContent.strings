@@ -1,0 +1,9 @@
+"chat_ui_participant_created_invite_link" = "%1$@ CREÓ UN ENLACE DE INVITACIÓN AL GRUPO";
+"chat_ui_participant_removed_participant" = "%1$@ ELIMINÓ A %2$@ DEL GRUPO";
+"chat_ui_participant_removed_participants_multiple" = "%1$@ ELIMINÓ A %2$@ Y A %3$@ DEL GRUPO";
+"chat_ui_participant_removed_you" = "%1$@ TE ELIMINÓ DEL GRUPO";
+"chat_ui_participant_removed_you_and_multiple" = "%1$@ TE ELIMINÓ A TI, A %2$@ Y A %3$@ DEL GRUPO";
+"chat_ui_participant_removed_you_and_participant" = "%1$@ TE ELIMINÓ A TI Y A %2$@ DEL GRUPO";
+"chat_ui_you_created_invite_link" = "CREASTE UN ENLACE DE INVITACIÓN AL GRUPO";
+"chat_ui_you_removed_participant" = "ELIMINASTE A %1$@ DEL GRUPO";
+"chat_ui_you_removed_participants_multiple" = "ELIMINASTE A %1$@ Y A %2$@ DEL GRUPO";

@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Abandonează";
+
+"add_a_chat" = "Adaugă o conversație…";
+
+"are_you_sure_you_want_to_abandon" = "Sigur dorești să-ți abandonezi Snapodopera?";
+
+"best_friends_header" = "Cei mai buni prieteni";
+
+"groups_header" = "Grupuri";
+
+"friends_header" = "Prieteni";
+
+"send" = "Trimite";
+
+"cancel" = "Anulează";
+
+"cannot_add_more_snapchatters" = "Nu se mai pot adăuga Snapchatteri!";
+
+
+"login_before_sharing_message" = "Conectează-te la Snapchat înainte de a distribui.";
+
+"login_before_sharing_title" = "Conectare necesară";
+
+"me_hint" = "(eu)";
+
+"noticed_new_acct_sharing_message" = "Cont greșit!";
+
+"noticed_new_acct_sharing_title" = "Se pare că ați schimbat conturile. Conectează-te pentru a trimite snap-ul tău sau distribuie din nou.";
+
+"okay" = "OK";
+
+"open_before_sharing_message" = "Deschide Snapchat înainte de a distribui.";
+
+"open_before_sharing_title" = "Deschide Snapchat";
+
+"problem_sharing_try_again" = "A intervenit o problemă, încearcă din nou.";
+
+"recents_header" = "Recente";
+
+"search_text_view_hint" = "Căutare";
+
+"send_to" = "Trimite către...";
+
+"try_again" = "Încearcă din nou";
+
+"video_too_long" = "Videoclipurile trebuie să aibă maximum 60 de secunde pentru a le distribui.";
+
+"video_too_long_with_maximum_duration_desc" = "Videoclipurile trebuie să aibă maximum %1$ld de secunde pentru a le distribui.";
+
+"stories_header" = "Povești";
+
+"my_story" = "Povestea mea";

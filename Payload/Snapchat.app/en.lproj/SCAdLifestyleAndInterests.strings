@@ -1,0 +1,3 @@
+"lifestyle_categories_description" = "Snapchat infers your interests to better suggest content to you and personalize your experience.  Lifestyle Categories are used to target ads (excluding users under 18 in the EU and UK) and personalize other content. Snap’s Ad Policies including age restrictions for Alcohol and Gambling ads will control the ads you see regardless of these settings.";
+"lifestyle_categories_fetch_failed_message" = "Failed to fetch Lifestyle Categories";
+"lifestyle_categories_update_failed_message" = "Failed to update Lifestyle Categories";

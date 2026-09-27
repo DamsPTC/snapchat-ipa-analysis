@@ -1,0 +1,20 @@
+/*
+
+ */
+
+"incorrect_user_error_title" = "Conectează-te din nou";
+"incorrect_user_error_body" = "A intervenit o problemă";
+
+// Our Story and Spotlight milestone notifications.
+
+"our_story_submission_view_milestone_title" = "Snap-ul tău e în focuri 🔥🔥🔥";
+
+"our_story_submission_view_milestone_body" = "Snap-ul pe care l-ai trimis la Povestea noastră a fost văzut de peste %1$@ ori!";
+
+"our_story_submission_view_milestone_generic_body" = "Snap-ul pe care l-ai trimis la Povestea noastră a fost văzut de atât de multe ori!";
+
+// Our Story and Spotlight milestone notifications.
+
+"spotlight_submission_view_milestone_body" = "Snap-ul tău din Spotlight a fost văzut de peste %1$@ ori!";
+
+"spotlight_submission_view_milestone_generic_body" = "Snap-ul tău din Spotlight a fost văzut de foarte multe ori!";

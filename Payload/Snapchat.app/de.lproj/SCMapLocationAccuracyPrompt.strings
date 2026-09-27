@@ -1,0 +1,8 @@
+"enable_precise_location_dialog_subtitle" = "Wenn du %1$@ aktivierst, verlässt du den Geistmodus. %2$@";
+"enable_precise_location_dialog_title" = "Du musst %1$@ in den iOS-Einstellungen aktivieren";
+"enable_precise_location_instruction" = "2. %1$@ aktivieren";
+"learn_more" = "Mehr Infos.";
+"no_thanks_button_title" = "Nein, danke";
+"open_settings_button_title" = "Einstellungen öffnen";
+"precise_location_option_name" = "Genauer Standort";
+"select_location_instruction" = "1. Standort auswählen";

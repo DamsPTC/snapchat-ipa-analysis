@@ -1,0 +1,11 @@
+"country_code_field" = "國家代碼欄位";
+"mobile_number_field" = "手機號碼欄位";
+"phone_entry_invalid_country_code" = "🌎 無效的國家代碼";
+"phone_entry_phone_placeholder" = "電話號碼";
+"phone_entry_select_country_code" = "🌎 選擇國家代碼";
+"register_country_picker_title" = "選擇國家";
+"register_phone_label" = "手機號碼";
+"send_sms_explanation" = "我們會傳簡訊驗證代碼給你。";
+"send_sms_explanation_here" = "我們將使用簡訊方式傳送驗證碼到你的電話號碼，詳細說明請參閱[此處](https://support.snapchat.com/article/snap-phone-number)。";
+"send_sms_explanation_updates_and_here" = "我們將使用簡訊方式傳送驗證碼和重要更新資訊到你的電話號碼，詳細說明請參閱[此處](https://support.snapchat.com/article/snap-phone-number)。";
+"send_sms_explanation_updates_here" = "我們將使用簡訊方式傳送驗證碼和重要更新資訊到你的電話號碼，詳細說明請參閱[此處](https://support.snapchat.com/article/snap-phone-number)。";

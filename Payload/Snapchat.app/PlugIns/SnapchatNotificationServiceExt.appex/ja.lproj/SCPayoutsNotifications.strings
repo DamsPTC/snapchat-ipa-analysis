@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "スポットライトからの新たな支払い！";
+"payouts_push_notification_gifting_title" = "新たなギフティングのペイアウトがありました！";
+"payouts_push_notification_title_spotlight_challenges" = "スポットライトチャレンジから新たな支払いがありました！";
+"payouts_push_notification_title_story" = "新たなストーリーからのペイアウトがありました！";
+"payouts_push_notification_title_lens_creator_fund" = "新たなレンズクリエイター報酬プログラムのペイアウトがありました！";
+"payouts_push_notification_title_ildg" = "新たなLens Unlockablesのペイアウトがありました！";
+"payouts_push_notification_title_cashout_eligible" = "報奨金はまもなく自動的に支払われます。";
+"payouts_push_notification_title_invalidate_eligible" = "報奨金の期限がまもなく切れます！";
+
+"payouts_push_notification_subtitle_onboarded" = "おめでとうございます！プロフィールにある「支払い情報」をチェックして、稼いだ報酬金を見よう！";
+"payouts_push_notification_subtitle_not_onboarded" = "スポットライトから報酬金を稼ぎました。今すぐプロフィールで受け取る準備をして、支払いを手に入れよう！";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "スポットライトチャレンジでクリスタルを獲得しました。今すぐプロフィールに登録して支払いを手に入れよう！";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "ギフトでクリスタルを獲得しました。今すぐプロフィールに登録して支払いを手に入れよう！";
+"payouts_push_notification_subtitle_story_not_onboarded" = "ストーリーでクリスタルを獲得しました。今すぐプロフィールに登録して支払いを手に入れよう！";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "レンズクリエイター報酬プログラムでクリスタルを獲得しました。今すぐプロフィールに登録して支払いを手に入れよう！";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Lens Unlockablesを獲得しました。今すぐプロフィールに登録して支払いを手に入れよう！";
+"payouts_push_notification_subtitle_cashout_eligible" = "変更手続きを行わない場合、クリスタルは自動的に%1$@に出金されます。出金に関する変更を行う場合は、プロフィール画面からマイクリスタルを確認してください。";
+"payouts_push_notification_subtitle_invalidate_eligible" = "手続きを行わない場合、あなたのクリスタルは%1$@に期限切れとなります。プロフィール画面で「マイクリスタル」を確認し、手続きを行ってください。";
+
+"payouts_state_title" = "ペイアウトステータスが更新されました！";
+"payouts_state_subtitle" = "ペイアウトの支払い対象ステータスが更新されました。プロフィールのマイSnapクリスタルを確認しよう！";
+"gifting_opened_gift" = "%1$@があなたのギフトを開けました！";
+"gifting_support_thanks" = "Snapchatでサポートいただき、ありがとうございます。";
+

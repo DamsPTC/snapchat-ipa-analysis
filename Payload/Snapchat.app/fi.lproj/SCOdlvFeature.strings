@@ -1,0 +1,9 @@
+"landing_context" = "Tämä kirjautuminen ei vaikuta sinulle tyypilliseltä! Pidä tilisi turvallisena ja vahvista se käyttämällä näitä vaihtoehtoja.";
+"landing_message_note" = "*Operaattorisi voi veloittaa viesti- ja mobiilidatayhteydestä.";
+"landing_options_radio_phone" = "Tekstiviesti";
+"landing_title" = "Epäilyttävä kirjautuminen";
+"retry_message" = "Jokin meni vikaan. Yritä uudelleen.";
+"verification_description" = "Anna koodi, jonka lähetimme numeroon \n%1$@";
+"verification_title" = "Anna vahvistuskoodi";
+"verification_unable_to_verify" = "Ongelmia vahvistamisessa?";
+"verification_unable_to_verify_dialog" = "Voi ei! Emme pysty vahvistamaan tiliäsi. Saat apua ottamalla yhteyttä Snapchat-tukeen.";

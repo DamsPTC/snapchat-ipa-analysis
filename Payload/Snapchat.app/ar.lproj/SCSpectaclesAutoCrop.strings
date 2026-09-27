@@ -1,0 +1,12 @@
+"apply_to_your_snap" = "جارٍ تطبيق ميزة \"القص التلقائي\". قد يستغرق الأمر بضع لحظات.";
+"auto_crop" = "ميزة القص التلقائي";
+"auto_crop_applied_automatically_tooltip" = "تم تطبيق ميزة القص التلقائي تلقائيًا.";
+"auto_crop_apply_tooltip" = "المس لتطبيق ميزة القص التلقائي";
+"auto_crop_intro_detail" = "يتم تطبيق ميزة القص التلقائي تلقائيًا على اللقطات المُلتقطة من Pixy عند إجراء تعديل.";
+"auto_crop_intro_title" = "نُقدّم لكم ميزة القص التلقائي.";
+"auto_crop_remove_tooltip" = "المس لإزالة ميزة القص التلقائي";
+"auto_crop_unavailable_message" = "ميزة القص التلقائي غير متوفرة. تحقّق من اتصال الشبكة.";
+"crop_action_title" = "القص";
+"crop_and_remove_effects_detail" = "من خلال لمس \"قص\"، ستتم إزالة أي تعديلات من Pixy Smart من لقطة.";
+"crop_and_remove_effects_title" = "هل تريد قص تأثيرات Smart Edit وإزالتها؟";
+"remove_from_your_snap" = "جارٍ إزالة ميزة \"القص التلقائي\". قد يستغرق الأمر بضع لحظات.";

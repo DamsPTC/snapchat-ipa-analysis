@@ -1,0 +1,7 @@
+"body" = "هل بريدك الإلكترونيّ ورقم هاتفك المسجّلان مُحدثان؟";
+"dismiss_button_with_details" = "تأكيد";
+"dismiss_button_without_details" = "تم";
+"no_email_placeholder" = "إضافة بريدك الإلكتروني";
+"no_phone_placeholder" = "إضافة رقمك";
+"title_with_details" = "تأكيد بيانات الاتصال";
+"title_without_details" = "إضافة تفاصيل الاتصال";

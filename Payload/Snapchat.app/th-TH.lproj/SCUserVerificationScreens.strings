@@ -1,0 +1,18 @@
+"finish" = "เสร็จสิ้น";
+"invalid_phone_number_suggestion_title" = "หมายเลขโทรศัพท์ไม่ถูกต้อง";
+"ngo_country_title" = "ประเทศ";
+"ngo_email_instead" = "ใช้อีเมลแทน";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "อีเมล";
+"ngo_phone_instead" = "ใช้หมายเลขโทรศัพท์แทน";
+"ngo_phone_number_info" = "เราจะส่งรหัสตรวจสอบยืนยันทาง SMS";
+"ngo_phone_number_info_receive_messaging_by_channel" = "เราจะส่งรหัสตรวจสอบยืนยันทาง SMS เมื่อป้อนหมายเลขของคุณ แสดงว่าคุณตกลงที่จะได้รับการส่งข้อความการทำธุรกรรมทาง SMS หรือช่องทางส่งข้อความแบบอื่นๆ เกี่ยวกับบัญชีของคุณ";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "เราจะส่งรหัสตรวจสอบยืนยันให้คุณ เมื่อป้อนหมายเลขของคุณ แสดงว่าคุณตกลงที่จะได้รับการส่งข้อความการทำธุรกรรมทาง SMS หรือช่องทางส่งข้อความแบบอื่นๆ เกี่ยวกับบัญชีของคุณ และอื่นๆ";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "เราจะส่งรหัสตรวจสอบยืนยันให้คุณ เมื่อป้อนหมายเลขของคุณ แสดงว่าคุณตกลงที่จะได้รับการส่งข้อความการทำธุรกรรมทาง SMS หรือช่องทางส่งข้อความแบบอื่นๆ เกี่ยวกับบัญชีของคุณ [เรียนรู้เพิ่มเติม](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number)เกี่ยวกับวิธีการที่ Snap ใช้หมายเลขโทรศัพท์ของคุณ";
+"ngo_phone_number_title" = "หมายเลขโทรศัพท์";
+"ngo_phone_placeholder" = "หมายเลขโทรศัพท์";
+"phone_suggestion_description" = "%1$@ ไม่ใช่หมายเลขโทรศัพท์ที่ถูกต้อง คุณหมายถึง \n%2$@ ใช่ไหม?";
+"register_email_button" = "ลงทะเบียนด้วยอีเมลแทน";
+"register_email_error" = "กรุณาใส่ที่อยู่อีเมลที่ถูกต้อง";
+"skip_button" = "ข้าม";
+"yes_update" = "ใช่ ให้อัปเดต";

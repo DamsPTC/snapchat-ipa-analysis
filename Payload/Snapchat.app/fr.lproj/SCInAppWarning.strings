@@ -1,0 +1,5 @@
+"default_description" = "Votre compte a été signalé pour infraction de nos Règles communautaires.\n\n Abstenez-vous de tout comportement de ce type à l'avenir, sous peine de voir votre compte bloqué temporairement ou supprimé. Merci pour votre compréhension.";
+"dialog_button_text" = "Voir les Règles communautaires";
+"dialog_button_text_no_internet" = "Je comprends.";
+"dialog_title" = "Temps écoulé !";
+"read_community_guidelines" = "Vous devez lire entièrement les Règles communautaires avant de poursuivre.";

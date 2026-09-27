@@ -1,0 +1,10 @@
+"save_as_2d" = "Enregistrer en 2D";
+"save_as_copy_3d_lens_depth_unavailable_body" = "Impossible de télécharger les données de profondeur nécessaires à l'enregistrement d'un Snap 3D stéréo.";
+"save_as_copy_3d_lens_depth_unavailable_title" = "Échec de l'enregistrement 3D";
+"save_as_copy_3d_lens_detail_prefix" = "Vous venez d'appliquer une Lens 3D à ce Snap !";
+"save_as_copy_detail_template" = "%1$@ Une copie de ce Snap sera enregistrée dans l'onglet des Snaps et cet effet sera appliqué de façon permanente. Vous disposerez également d'une copie du Snap original.";
+"save_as_copy_magic_moment_detail_prefix" = "Vous venez de créer un Snap 3D !";
+"save_as_copy_title" = "Enregistrer une copie";
+"save_as_copy_world_lens_detail_prefix" = "Vous venez d'appliquer une World Lens à ce Snap !";
+"trim_applied_detail" = "Vous avez raccourci votre Snap. Celui-ci sera enregistré en tant que copie.";
+"trim_applied_title" = "Raccourcissement effectué";

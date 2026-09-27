@@ -1,0 +1,17 @@
+"cancel_button_title" = "إلغاء";
+"context_1_more_card" = "بطاقة واحدة إضافية";
+"context_cards_suggestion_section_header" = "الاقتراحات";
+"context_cards_suggestion_section_hide" = "إخفاء";
+"context_n_more_cards" = "$0 بطاقات إضافية";
+"generic_error_title" = "حدث خطأ.";
+"ok_button_title" = "حسنًا";
+"play_game" = "العب";
+"sold_out" = "نفد المخزون";
+"story_invite_add_a_snap" = "إضافة لقطة";
+"story_invite_join_story" = "الانضمام إلى القصة";
+"story_invite_joined" = "تم الانضمام";
+"story_invite_joined_description" = "سترى الآن اللقطات من $0 على قصة $1!";
+"story_invite_private_join_description" = "تلقيت دعوة من $0 لتفقُّد اللقطات الواردة في قصته/قصتها الخاصة!";
+"story_invite_private_story" = "قصة خاصة";
+"story_invite_shared_join_description" = "تلقيت دعوة من $0 للمشاركة في قصته المُخصّصة!";
+"story_invite_shared_story" = "قصة مُخصّصة";

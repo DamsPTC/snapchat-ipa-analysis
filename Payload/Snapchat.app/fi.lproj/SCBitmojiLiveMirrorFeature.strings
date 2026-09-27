@@ -1,0 +1,17 @@
+"bitmoji_live_mirror_exit_dialog_cancel_button" = "Peruuta";
+"bitmoji_live_mirror_exit_dialog_exit_button" = "Poistu";
+"bitmoji_live_mirror_exit_dialog_text" = "Avatariasi ei tallenneta, jos poistut nyt.";
+"bitmoji_live_mirror_exit_dialog_title" = "Poistutaanko tallentamatta?";
+"bitmoji_live_mirror_interstitial_body_v2" = "Voit vaihtaa asua ja muokata Bitmoji-avatariasi koska vain profiilissasi.";
+"bitmoji_live_mirror_interstitial_body_v3" = "Pue ja muokkaa Bitmoji-avatariasi koska vain profiilissasi.";
+"bitmoji_live_mirror_interstitial_choose_body_button_1_v1" = "Hyvältä näyttää!";
+"bitmoji_live_mirror_interstitial_done_button_1_v2" = "Valmis";
+"bitmoji_live_mirror_interstitial_done_button_3_v3" = "Valmis";
+"bitmoji_live_mirror_interstitial_edit_facial_avatar_caption_v2" = "Muokkaa";
+"bitmoji_live_mirror_interstitial_edit_facial_button_1_v3" = "Muokkaa avatarta";
+"bitmoji_live_mirror_interstitial_edit_facial_button_2_v1" = "Muokkaa";
+"bitmoji_live_mirror_interstitial_select_outfit_button_2_v3" = "Valitse asu";
+"bitmoji_live_mirror_interstitial_title_v1" = "Oletko tyytyväinen hiuksiin ja kasvonpiirteisiin?";
+"bitmoji_live_mirror_interstitial_title_v2" = "Avatarisi on valmis!";
+"bitmoji_live_mirror_interstitial_title_v3" = "Avatarisi on valmis!";
+"server_error_try_again" = "Palvelinvirhe. Yritä uudelleen.";

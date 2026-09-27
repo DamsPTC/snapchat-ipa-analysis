@@ -1,0 +1,9 @@
+"landing_context" = "Ten login wygląda podejrzanie! Ze względów bezpieczeństwa prosimy o zweryfikowanie konta za pomocą wybranej opcji.";
+"landing_message_note" = "*Mogą obowiązywać opłaty za wysyłanie wiadomości i transfer danych.";
+"landing_options_radio_phone" = "Wiadomość tekstowa";
+"landing_title" = "Podejrzany login";
+"retry_message" = "Coś poszło nie tak. Spróbuj ponownie.";
+"verification_description" = "Wprowadź kod wysłany na\n%1$@";
+"verification_title" = "Wprowadź kod weryfikacyjny";
+"verification_unable_to_verify" = "Kłopoty z weryfikacją?";
+"verification_unable_to_verify_dialog" = "O nie! Nie udało nam się zweryfikować Twojego konta. Skontaktuj się z działem wsparcia Snapchata, by uzyskać pomoc.";

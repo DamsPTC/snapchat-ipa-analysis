@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Это позволит Snapchat сможет по Bluetooth подключаться к периферийным устройствам, например к Spectacles.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Используйте камеру, чтобы снимать Snap, играть с линзами и не только! Для некоторых линз может понадобиться камера Apple TrueDepth. Подробная информация — в Политике конфиденциальности.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Ваши контакты будут загружены на серверы Snapchat, чтобы вы нашли своих друзей, а мы смогли сделать приложение удобнее.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Это позволит Snapchat подключаться к периферийным устройствам, доступным через Wi-Fi, например Spectacles.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Выбирая вариант «Всегда разрешать», вы разрешаете Snapchat обновлять ваше местоположение в фоновом режиме, чтобы делиться им и делать приложение лучше для вас.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Выбирая вариант «Всегда разрешать», вы разрешаете Snapchat обновлять ваше местоположение в фоновом режиме, чтобы делиться им и делать приложение лучше для вас.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Благодаря этому мы можем делать приложение удобнее и предлагать вам больше фильтров, историй и другого контента.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Микрофон нужен для того, чтобы в Snap, видеочатах и других сервисах был звук.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Snapchat запоминает положение вашего устройства (горизонтальное или вертикальное), когда вы снимаете Snap, используете линзы, читаете Интересное и смотрите рекламу.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Поделитесь контентом из Фотоплёнки с друзьями в Snap.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Поделитесь контентом из Фотоплёнки с друзьями в Snap.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Выберите «Разрешить», чтобы со временем Snap смог сократить число объявлений, которые вы считаете неактуальными или повторяющимися. Подробнее об отслеживании рассказывается в Политике конфиденциальности.</string>
+</dict>
+</plist>

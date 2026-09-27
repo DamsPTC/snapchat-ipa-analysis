@@ -1,0 +1,2 @@
+"generic_error" = "Coś poszło nie tak. Spróbuj ponownie później.";
+"update_email_failed_with_code" = "Nie można zaktualizować adresu e-mail. Spróbuj ponownie. \nKod dla działu wsparcia: %1$02d";

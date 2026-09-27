@@ -1,0 +1,9 @@
+"memories_picker_max_duration_warning_text" = "Videos longer than %d seconds can’t be edited.";
+"memories_picker_max_item_message" = "Supports up to %d items";
+"memories_picker_min_item_message" = "Select at least %d items to begin";
+"memories_picker_primary_button_title" = "Next";
+"memories_picker_title" = "Add an Image or Video";
+"music_sync_error_dialog_cancel_button_title" = "Cancel";
+"music_sync_error_dialog_message" = "A network connection is required to make a Sound Sync Snap. Please check your network conditions and try again later.";
+"music_sync_error_dialog_retry_button_title" = "Try Again";
+"music_sync_error_dialog_title" = "No Network Connection";

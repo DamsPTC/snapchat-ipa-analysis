@@ -1,0 +1,14 @@
+"cancel_button_prompt" = "إلغاء";
+"delete_button_prompt" = "حذف";
+"delete_snap_dialog_title" = "حذف اللقطة؟";
+"delete_snap_group_dialog_body" = "سيظهر لجميع أعضاء هذه المجموعة أنك حذفت Snap.";
+"delete_snap_individual_dialog_body" = "سيظهر لأصدقائك أنك حذفت Snap.";
+"delete_snap_learn_more_header" = "ما وظيفة خيار \"حذف\"؟";
+"erase_message_group_prompt" = "يستطيع كل شخص في المجموعة رؤية أنك حذفت شيئاً ما.";
+"erase_message_header_prompt" = "هل تُريد حذف دردشة؟";
+"erase_message_individual_prompt" = "يستطيع الأصدقاء رؤية أنك حذفت شيئاً ما.";
+"erase_message_learn_more" = "عند حذف رسالة، فإننا نحاول إزالتها من خوادمنا وأجهزة أصدقائك ولكن قد لا تنجح هذه المحاولة دائماً، مثلاً في حال كان هناك شخص لديه اتصال ضعيف بالإنترنت أو نُسخة قديمة من سناب شات.";
+"erase_message_learn_more_action" = "معرفة المزيد";
+"erase_message_learn_more_header" = "ما هي خاصية حذف الدردشة؟";
+"erase_message_merlin_learn_more_addendum" = "⁦%1$@⁩\n\nهذا سيحذف الرسالة التي اخترتها فقط. لحذف الرسائل المختفية باستخدام My AI، انتقل إلى الإعدادات > عناصر التحكم في الخصوصية > مسح البيانات > مسح بيانات My AI.";
+"okay_button_prompt" = "موافق";

@@ -1,0 +1,13 @@
+"fashion_share_error_message_action" = "OK";
+"fashion_share_error_message_title" = "Etwas ist schiefgegangen …";
+"fashion_share_fallback_error_message_subtitle" = "Stelle sicher, dass du die neueste Version der App heruntergeladen hast und versuch’s nochmal.";
+"fashion_share_generic_error_message_subtitle" = "Es gibt ein Problem. Versuch's später nochmal.";
+"fashion_share_message_limited_icon_title" = "LIMITIERT";
+"fashion_share_unavailable_message_body" = "Probiers nächstes Mal wieder! Alle Artikel wurden freigeschaltet.";
+"fashion_share_unavailable_message_close_action" = "Schließen";
+"fashion_share_unavailable_message_title" = "Nicht mehr verfügbar!";
+"fashion_share_unavailable_message_view_more_outfits_action" = "Mehr Fashion anschauen";
+"fashion_share_unlcoked_message_dismiss_action" = "Weg damit";
+"fashion_share_unlcoked_message_try_on_action" = "Anprobieren";
+"fashion_share_unlocked_message_body" = "Probiere ihn in Bitmoji Fashion an und speichere ihn in deinem Outfit, um den Artikel zu behalten!";
+"fashion_share_unlocked_message_title" = "Artikel freigeschaltet!";

@@ -1,0 +1,18 @@
+"finish" = "Отлично";
+"invalid_phone_number_suggestion_title" = "Недействительный номер телефона";
+"ngo_country_title" = "Страна";
+"ngo_email_instead" = "Использовать почту";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "Почта";
+"ngo_phone_instead" = "Использовать номер телефона";
+"ngo_phone_number_info" = "Мы отправим код подтверждения в SMS.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "Мы отправим код подтверждения в SMS. Указывая номер, вы соглашаетесь получать функциональные сообщения  о своём аккаунте в SMS либо через другую систему обмена сообщениями.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "Мы отправим код подтверждения. Указав номер, вы будете получать функциональные сообщения о своём аккаунте в SMS либо через другую систему обмена сообщениями, а также другую информацию.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "Мы отправим код подтверждения. Указывая номер, вы соглашаетесь получать функциональные сообщения о своём аккаунте в SMS либо через другую систему обмена сообщениями. [Подробнее](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number) о том, как Snap использует ваш номер телефона.";
+"ngo_phone_number_title" = "Номер телефона";
+"ngo_phone_placeholder" = "Номер телефона";
+"phone_suggestion_description" = "%1$@ не является действительным номером телефона. Вы имели в виду\n%2$@?";
+"register_email_button" = "Зарегистрироваться через почту";
+"register_email_error" = "Введите действительный адрес электронной почты.";
+"skip_button" = "Пропустить";
+"yes_update" = "Да, обновить";

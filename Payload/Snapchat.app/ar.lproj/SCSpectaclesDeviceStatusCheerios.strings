@@ -1,0 +1,15 @@
+"cheerios_battery_low" = "بطارية Pixy منخفضة. اشحنها قليلاً قبل تصوير اللقطات.";
+"cheerios_connected" = "متصل";
+"cheerios_firmware_version" = "Pixy %1$@";
+"cheerios_storage_full" = "مساحة التخزين على Pixy ممتلئة 💾 يُرجى استيراد بعض اللقطات إلى سناب شات.";
+"cheerios_too_cold" = "Pixy الخاص بك بارد للغاية 🌡 حاول مرة أخرى عندما تعود درجة حرارته إلى درجة حرارة الغرفة.";
+"cheerios_too_hot" = "Pixy الخاص بك ساخن للغاية 🌡 حاول مرة أخرى عندما تعود درجة حرارته إلى درجة حرارة الغرفة.";
+"cheerios_update_available" = "يتوفر تحديث من أجل Pixy الخاص بك.";
+"cheerios_update_required" = "حدّث Pixy الخاص بك لمتابعة التحليق.";
+"cheerios_updating" = "جارٍ تحديث Pixy...";
+"cheerios_updating_progress" = "جارٍ تحديث Pixy (⁦%1$@⁩٪٪)...";
+"display_name_battery_notification" = "⁦%1$@⁩ (مستوى البطارية ⁦%2$@⁩٪٪)";
+"generic_failure_try_again" = "حدث خطأ ما. يُرجى إعادة المحاولة.";
+"generic_wait_for_minute" = "قد يستغرق ذلك دقيقة.";
+"land" = "انتقال";
+"landing" = "جارٍ الانتقال...";

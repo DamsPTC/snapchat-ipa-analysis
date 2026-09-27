@@ -1,0 +1,13 @@
+"fashion_share_error_message_action" = "موافق";
+"fashion_share_error_message_title" = "حدث خطأ ما...";
+"fashion_share_fallback_error_message_subtitle" = "يُرجى التحقق من تنزيلك لآخر إصدار من التطبيق والمحاولة مرة أخرى.";
+"fashion_share_generic_error_message_subtitle" = "حدث خطأ. يُرجى المحاولة مرة أخرى لاحقًا.";
+"fashion_share_message_limited_icon_title" = "محدود";
+"fashion_share_unavailable_message_body" = "جرّب مجددًا المرة القادمة. تم فتح قفل جميع العناصر.";
+"fashion_share_unavailable_message_close_action" = "إغلاق";
+"fashion_share_unavailable_message_title" = "لم يعد متاحًا.";
+"fashion_share_unavailable_message_view_more_outfits_action" = "مشاهدة المزيد من الأزياء";
+"fashion_share_unlcoked_message_dismiss_action" = "تجاهل";
+"fashion_share_unlcoked_message_try_on_action" = "تجربة";
+"fashion_share_unlocked_message_body" = "جرّبه على أزياء Bitmoji واحفظه إلى ملابسك للاحتفاظ بهذا العنصر.";
+"fashion_share_unlocked_message_title" = "تم إلغاء قفل العنصر.";

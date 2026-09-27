@@ -1,0 +1,9 @@
+"spotlight_comments_approval_description" = "Kommentare zu deinen Snaps werden nach der Genehmigung veröffentlicht. Hier kannst du auswählen, wie sie genehmigt werden sollen.";
+"spotlight_comments_approval_everyone" = "Alle Nutzer automatisch genehmigen";
+"spotlight_comments_approval_everyone_description" = "Alle Kommentare standardmäßig automatisch genehmigen";
+"spotlight_comments_approval_friends" = "Meine Freunde automatisch genehmigen";
+"spotlight_comments_approval_friends_description" = "Kommentare von deinen Freunden automatisch genehmigen";
+"spotlight_comments_approval_no_one" = "Manuell genehmigen";
+"spotlight_comments_approval_no_one_description" = "Jeden Kommentar manuell genehmigen";
+"spotlight_comments_description" = "Automatische Genehmigung für Kommentare von Personengruppen einstellen, denen du vertraust";
+"spotlight_comments_settings" = "Einstellungen für Kommentare";

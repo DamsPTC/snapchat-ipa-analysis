@@ -1,0 +1,17 @@
+"add_a_reply" = "أضف ردًا...";
+"cancel" = "إلغاء";
+"fake_subtitle" = "سيرى Model Rox أنك أرسلت له هدية، ويمكنه الرد عليك أو مشاركة هديتك في قصته العامة.";
+"fake_title" = "اختر هدية لإرسالها";
+"gift_shop_error_button_text" = "تجاهل";
+"gift_shop_error_description" = "يبدو أن هذا لم ينجح. يُرجى مراجعة تفاصيلك والمحاولة مجددًا.";
+"gift_shop_error_title" = "عذرًا.";
+"gift_shop_nux_body" = "الآن يمكنك إظهار حبك لصانعي المحتوى المفضلين لديك من خلال الرد على قصتهم بهدايا، ما يزيد من احتمالية ردهم عليها، ومشاركتها.";
+"gift_shop_nux_button_text" = "مشاهدة الهدايا";
+"gift_shop_nux_title" = "نُقدّم لكم إهداء القصة.";
+"insufficient_token_shop_page_subtitle" = "اختر عدد الرموز التي تود إضافتها.";
+"insufficient_token_shop_page_title" = "تحتاج إلى $0 من الرموز الإضافية";
+"no_enough_token_content" = "يا للهول، ليس لديك رموز كافية. يُرجى شراء المزيد من متجر الرموز.";
+"no_enough_token_title" = "يلزم المزيد من رموز Snap";
+"pick_a_gift" = "اختر هدية";
+"send_gift" = "إرسال هدية";
+"send_gift_and_reply" = "أرسل هدية ورُد";

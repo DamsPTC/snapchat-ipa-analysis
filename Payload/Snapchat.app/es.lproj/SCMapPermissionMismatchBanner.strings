@@ -1,0 +1,3 @@
+"map_location_permission_recovery_banner_subtitle" = "Cambia la configuración a “Siempre” para seguir compartiendo la ubicación en tiempo real.";
+"map_notification_permission_recovery_banner_subtitle" = "Activa las notificaciones para seguir compartiendo la ubicación en tiempo real.";
+"map_permission_recovery_banner_title" = "No se puede actualizar la ubicación en tiempo real";

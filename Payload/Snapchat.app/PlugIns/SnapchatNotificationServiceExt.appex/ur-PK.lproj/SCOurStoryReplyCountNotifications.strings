@@ -1,0 +1,18 @@
+/*
+
+ SCOurStoryReplyCountNotifications.strings
+ SCOurStoryReplyModifier
+*/
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count" = "⁦%1$d⁩ زیر التوا Spotlight تبصرے";
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count_singular" = "1 زیر التوا Spotlight تبصرہ";
+
+/// Generic text in case the reply count is not available.
+"generic_push_notification_title_comment" = "زیر التوا Spotlight تبصرے";
+
+/// Shown as a subtitle on the push notification on lock screen.
+"push_notification_subtitle" = "دیکھنے کیلئے ٹیپ کریں";
+

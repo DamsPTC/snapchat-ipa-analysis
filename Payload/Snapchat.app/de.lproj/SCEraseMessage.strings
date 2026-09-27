@@ -1,0 +1,14 @@
+"cancel_button_prompt" = "Abbrechen";
+"delete_button_prompt" = "Löschen";
+"delete_snap_dialog_title" = "Snap löschen?";
+"delete_snap_group_dialog_body" = "Alle in der Gruppe können sehen, dass du einen Snap gelöscht hast.";
+"delete_snap_individual_dialog_body" = "Freunde können sehen, dass du einen Snap gelöscht hast.";
+"delete_snap_learn_more_header" = "Was passiert beim Löschen?";
+"erase_message_group_prompt" = "Alle in der Gruppe können sehen, dass du etwas gelöscht hast.";
+"erase_message_header_prompt" = "Chat löschen?";
+"erase_message_individual_prompt" = "Freunde können sehen, dass du etwas gelöscht hast.";
+"erase_message_learn_more" = "Wenn du eine Nachricht löschst, versuchen wir, sie auch von unseren Servern und den Geräten deiner Freunde zu löschen. Das funktioniert vielleicht nicht immer, z. B. wenn jemand eine schlechte Internetverbindung oder eine alte Version von Snapchat hat.";
+"erase_message_learn_more_action" = "Mehr erfahren";
+"erase_message_learn_more_header" = "Was bedeutet „Chat löschen“?";
+"erase_message_merlin_learn_more_addendum" = "%1$@\n\nHierbei wird nur die ausgewählte Nachricht gelöscht. Wenn du verschwundene Nachrichten aus der Konversation mit My AI löschen möchtest, gehe auf Einstellungen > Datenschutzkontrollen > Daten löschen > My AI-Daten löschen.";
+"okay_button_prompt" = "Okay";

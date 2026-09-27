@@ -1,0 +1,15 @@
+"tos_update_13_acceptance_footer" = "「同意して続ける」をタップすることで、更新されたSnapの[利用規約](https://www.snap.com/terms/)、[Snapchat+登録規約](https://www.snap.com/terms/paid-features)および[トークンの販売および利用規約](https://www.snap.com/terms/paid-features)に同意し、更新された[プライバシーポリシー](https://values.snap.com/privacy/privacy-policy)を読んで同意したことになります。更新されたこれらの規約類に同意しない場合、2023年8月15日以降Snapchatを利用できなくなります。";
+"tos_update_13_body" = "全ての変更点を確認するには、アップデート版をよくお読みください。なお主な変更点はこちらです。";
+"tos_update_13_header" = "👋 Snapでは、[利用規約](https://www.snap.com/terms/)、[Snapchat+登録規約](https://www.snap.com/terms/paid-features)、[トークンの販売および利用規約](https://www.snap.com/terms/paid-features)、[プライバシーポリシー](https://values.snap.com/privacy/privacy-policy)をアップデートしており、2023年8月15日から適用されます。";
+"tos_update_13_privacy_content" = " • Snapのサービスのパーソナライズ方法を含む情報の利用方法、リサーチ実施方法、アルゴリズムと機械学習モデルの開発方法を明確にしました。\n • 広告のためのデータ使用方法を説明する[プライバシーセンター](https://values.snap.com/privacy/privacy-center)の新しいページにリンクさせ、ユーザーが持つ選択肢について明確にしました。\n • コンテンツの収集と使用方法の透明性を高めました。例えば、バスケットボールのビデオをスポットライトに投稿した人に、バスケットボールのコンテンツを表示します。";
+"tos_update_13_terms_content" = " • アメリカ合衆国の義務的な仲裁合意、クラスアクション、陪審裁判放棄をアップデートし、非公式紛争解決条項を追加しました。\n • 規約の変更を行う時期と、変更を通知する時期を明確にしました。\n • EUデジタルサービス法に準拠するために、パーソナライズ、コンテンツモデレーション、利用規約の施行に関する取り組みについての追加情報を提供いたしました。";
+"tos_update_14_acceptance_footer" = "「同意して続ける」をタップすることで、更新されたSnapの[利用規約](https://www.snap.com/terms)および[有料機能規約](https://snap.com/terms/paid-features)に同意し、更新された[プライバシーポリシー](https://values.snap.com/privacy/privacy-policy)を読み同意したことになります。更新されたこれらの規約類に同意しない場合、2024年2月26日以降Snapchatを利用できなくなります。";
+"tos_update_14_body" = "更新版をよくお読みください。なお主な変更点は以下の通りです。";
+"tos_update_14_header" = "Snapは[プライバシーポリシー](https://values.snap.com/privacy/privacy-policy)および[利用規約](https://www.snap.com/terms)を更新しており、2024年2月26日から適用されます。";
+"tos_update_14_india_blurb" = "すべてのSnapchatユーザーは、 [コミュニティガイドライン](https://values.snap.com/privacy/transparency/community-guidelines)などの利用規約に従わなければなりません。違法な目的のためにSnapchatを利用することはできず、インドではIT規則 2021（媒介業者ガイドラインおよびデジタルメディア倫理規則）に違反するコンテンツの送信や投稿にSnapchatを利用できません。\n\n";
+"tos_update_14_privacy_content" = " •ポリシーの各セクションにまとめを追加し、わかりやすくしました。\n•個人情報のダウンロードやコンテンツの共有先、あなたに連絡できる人などの管理方法をより詳細に記しました。\n•あなたの個人情報やコンテンツの収集方法により透明性を持たせ、パーソナライズや広告、機械学習モデルの構築のような目的で使用するデータの例を挙げました。";
+"tos_update_14_terms_content" = " •Snapはパーソナライズされたサービスであることをさらに明確にしました。\n•アジア太平洋地域にお住いの場合、Snap Group Limitedシンガポール支社がサービス提供の責任を負います。\n•Snapchat+やトークン、ストリークの復元の規約は、新しい[有料機能規約](https://snap.com/terms/paid-features)に移動しました。";
+"tos_update_continue_button" = "同意して続ける";
+"tos_update_privacy_header" = "プライバシーポリシー";
+"tos_update_remind_button" = "後で";
+"tos_update_terms_header" = "規約";

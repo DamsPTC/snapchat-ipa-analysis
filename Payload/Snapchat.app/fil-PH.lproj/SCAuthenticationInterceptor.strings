@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "'Di pa tapos i-backup sa Memories ang Snaps na sinave ni %1$@. 'Pag nag-login ka bilang si %2$@ mawawala ang Snaps na 'yon. Mag-login ulit bilang si %3$@ para tapusin ang backup.";
+"memories_pending_sync_alert_login_action" = "MAG-LOGIN PA RIN";
+"memories_pending_sync_alert_registration_action" = "MAG-SIGN UP PA RIN";
+"memories_pending_sync_alert_registration_body" = "'Di pa tapos i-backup sa Memories ang Snaps na sinave ni %1$@. 'Pag nag-sign up ka para sa bagong account, mawawala ang Snaps na 'yon. Mag-login ulit bilang si %2$@ para tapusin ang backup.";
+"memories_pending_sync_alert_title" = "Saglit Lang!";

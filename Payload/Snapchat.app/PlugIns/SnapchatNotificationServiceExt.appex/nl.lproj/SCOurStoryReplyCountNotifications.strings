@@ -1,0 +1,18 @@
+/*
+
+ SCOurStoryReplyCountNotifications.strings
+ SCOurStoryReplyModifier
+*/
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count" = "%1$d opmerkingen voor Spotlight in behandeling";
+
+/// Number of pending comments for a snap that's shown on lock screen.
+"pending_comments_notification_title_count_singular" = "1 opmerking voor Spotlight in behandeling";
+
+/// Generic text in case the reply count is not available.
+"generic_push_notification_title_comment" = "Opmerkingen voor Spotlight in behandeling";
+
+/// Shown as a subtitle on the push notification on lock screen.
+"push_notification_subtitle" = "Tik om te bekijken";
+

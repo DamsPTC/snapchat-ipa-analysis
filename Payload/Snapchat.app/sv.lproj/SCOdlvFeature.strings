@@ -1,0 +1,9 @@
+"landing_context" = "Denna inloggning verkar inte vara din vanliga. För att hålla ditt konto säkert ber vi dig verifiera ditt konto med ett av dessa alternativ.";
+"landing_message_note" = "*SMS- och dataavgifter kan gälla.";
+"landing_options_radio_phone" = "SMS";
+"landing_title" = "Misstänkt inloggning";
+"retry_message" = "Något gick snett. Försök igen.";
+"verification_description" = "Skriv koden vi skickade till \n%1$@";
+"verification_title" = "Ange verifieringskod";
+"verification_unable_to_verify" = "Har du problem med att verifiera?";
+"verification_unable_to_verify_dialog" = "Tyvärr kunde vi inte verifiera ditt konto. Kontakta Snapchats support så får du hjälp.";

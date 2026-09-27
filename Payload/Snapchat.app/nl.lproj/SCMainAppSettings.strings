@@ -1,0 +1,15 @@
+"contact_delete_all_button" = "Alle contactgegevens verwijderen";
+"contact_deletion_cell_title" = "Contacten";
+"contact_deletion_page_header" = "Contacten bekijken";
+"contact_deletion_show_button" = "Contacten bekijken";
+"contact_deletion_sync_toggle" = "Contacten synchroniseren";
+"contact_sync_page_header" = "Contacten beheren";
+"delete_contacts_alert_header" = "Contactgegevens verwijderen?";
+"delete_contacts_alert_no" = "Annuleren";
+"delete_contacts_alert_sub_header" = "Door op bevestigen te klikken, worden al je contacten verwijderd en worden je contacten niet meer met Snapchat gesynchroniseerd. Weet je het zeker?";
+"delete_contacts_alert_yes" = "Bevestigen";
+"stop_sync_contacts_alert_header" = "Synchroniseren contacten stoppen?";
+"stop_sync_contacts_alert_no" = "Annuleren";
+"stop_sync_contacts_alert_sub_header" = "Door het synchroniseren van contacten uit te schakelen, maak je het vinden van nieuwe vrienden op Snapchat waarschijnlijk moeilijker. Als je het synchroniseren van contacten uitschakelt, uploaden we geen nieuwe contacten uit je adresboek meer naar onze servers. De contacten die je al hebt geüpload blijven we gebruiken om je te helpen met het zoeken van vrienden en meer.";
+"stop_sync_contacts_alert_yes" = "Bevestigen";
+"view_contacts_with_meta_header" = "Dit zijn de contacten en bijbehorende gegevens die we van je apparaat hebben geüpload. [Lees meer](https://help.snapchat.com/hc/articles/7012328615828?utm_source=sc&utm_medium=lm&utm_campaign=contacts) over wat we opslaan uit je adresboek.";

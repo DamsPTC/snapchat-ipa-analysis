@@ -1,0 +1,16 @@
+"let_friend_see_my_location" = "اسمح لـ ⁦%1$@⁩ بالاطلاع على موقعي.";
+"live_location_cant_reach" = "يتعذّر الوصول إلى ⁦%1$@⁩";
+"live_location_last_seen_here" = "آخر ظهور هنا منذ ⁦%1$@⁩";
+"live_location_turn_on_notifications" = "تشغيل الإشعارات للمشاركة المباشرة";
+"live_location_update_location_permissions" = "لم يتم تحديث موقعك المباشر";
+"location_accuracy_callout" = "تمكين الموقع الدقيق";
+"map_and_others" = "و ⁦%1$@⁩";
+"map_location_accuracy" = "خلال~⁦%1$@⁩";
+"map_name_and_name" = "⁦%1$@⁩ و ⁦%2$@⁩";
+"map_name_and_others" = "⁦%1$@⁩ و⁦%2$lu⁩ أخرى";
+"map_seen_timestamp_within_x_units" = "شوهد ⁦%1$@⁩ - ⁦%2$@⁩";
+"map_x_more" = "⁦%1$lu⁩ أخرى";
+"sharing_live_location" = "جارٍ مشاركة الموقع المباشر";
+"updating_live_location" = "جارٍ تحديث الموقع المباشر...";
+"widget_callout_text_cluster" = "شاهد موقعَ صديق\nعلى شاشتك الرئيسية.";
+"widget_callout_text_friend" = "شاهد موقع ⁦%1$@⁩\nعلى شاشتك الرئيسية.";

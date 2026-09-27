@@ -1,0 +1,9 @@
+"chat_ui_participant_created_invite_link" = "%1$@ CREATED AN INVITE LINK TO THE GROUP";
+"chat_ui_participant_removed_participant" = "%@ REMOVED %@ FROM THE GROUP";
+"chat_ui_participant_removed_participants_multiple" = "%@ REMOVED %@ & %@ FROM THE GROUP";
+"chat_ui_participant_removed_you" = "%@ REMOVED YOU FROM THE GROUP";
+"chat_ui_participant_removed_you_and_multiple" = "%@ REMOVED YOU, %@ & %@ FROM THE GROUP";
+"chat_ui_participant_removed_you_and_participant" = "%@ REMOVED YOU & %@ FROM THE GROUP";
+"chat_ui_you_created_invite_link" = "YOU CREATED AN INVITE LINK TO THE GROUP";
+"chat_ui_you_removed_participant" = "YOU REMOVED %@ FROM THE GROUP";
+"chat_ui_you_removed_participants_multiple" = "YOU REMOVED %@ & %@ FROM THE GROUP";

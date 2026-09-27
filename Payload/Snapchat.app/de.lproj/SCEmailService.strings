@@ -1,0 +1,2 @@
+"generic_error" = "Etwas ist schiefgelaufen. Versuchs später nochmal.";
+"update_email_failed_with_code" = "Email konnte nicht aktualisiert werden. Versuch’s nochmal. \nSupport-Code:%1$02d";

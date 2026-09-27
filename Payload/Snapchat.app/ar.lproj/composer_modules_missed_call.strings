@@ -1,0 +1,11 @@
+"call_again" = "اتصل مرة أخرى";
+"call_back" = "عاود الاتصال";
+"dnd_reason_cta_ios" = "إعدادات وضع عدم الإزعاج";
+"dnd_reason_ios" = "أثناء وجود وضع عدم الإزعاج";
+"dweb_upsell" = "جرّب الويب";
+"elapsed_time_with_reason" = "$0 · $1";
+"missed_call" = "مكالمة فائتة";
+"missed_calls" = "$0 من المكالمات الفائتة";
+"num_of_missed_calls" = "x$0";
+"video_call" = "مكالمة فيديو";
+"voice_call" = "مكالمة صوتية";

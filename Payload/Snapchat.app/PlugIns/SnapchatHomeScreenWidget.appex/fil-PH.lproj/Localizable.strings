@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Snapcode Ko";
+
+"Snapcode Desc" = "Ipinapakita ng widget na ito ang snapcode mo";
+
+"camera" = "Camera";
+
+"camera_desc" = "Buksan ang Snapchat camera.";
+
+"log_in" = "Mag-log in";
+
+"shortcut_to_a_friend" = "I-tap ang widget pagkatapos itong ilagay para pumili ng friend o group.";
+
+"pin_a_friend" = "Mag-pin ng Friend o Group";
+
+"birthdays" = "Birthdays";
+
+"see_upcoming_birthdays" = "Tingnan ang mga paparating na birthday.";
+
+"no_upcoming_birthdays" = "Walang paparating";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ sa %2$d araw";
+
+"user_has_birthday_in_days_plural" = "%1$@ sa %2$d araw";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d sa %3$d araw";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d sa %3$d araw";
+
+"Memories" = "Memories";
+
+"Memories Desc" = "Featured Snaps mula sa Memories mo kasama ang mga flashback, trip, recap at higit pa!";
+
+"Friend Location Widget Desc" = "Mag-pin ng friend gamit ang widget na ito para masilip ang location ng friend mo.";
+
+"map" = "Map";
+
+"now" = "ngayon";
+
+"something_went_wrong" = "Nagkaproblema, pakibuksan ang Snapchat";
+
+"long_press_to_pin" = "I-edit para mag-pin ng friend";
+
+"off_the_grid" = "Off the grid";

@@ -1,0 +1,7 @@
+"ai_mode_compatibility_w_magic_eraser" = "El Modo IA no es compatible con el borrador mágico";
+"ai_mode_disclaimer_body" = "El Modo IA te permite transformar Snaps o crear unos completamente nuevos solo con palabras. Cuenta con tecnología de Snapchat y de nuestros colaboradores. Además, es posible que conservemos el contenido de tu Snap para seguir mejorando esta función.";
+"ai_mode_disclaimer_title" = "✨ Te damos la bienvenida al Editor de IA ✨";
+"remote_inference_onboarding_allow" = "Permitir";
+"remote_inference_onboarding_body" = "Para retocar tu Snap, primero necesitamos tu permiso. ¿Estás de acuerdo? %1$@";
+"remote_inference_onboarding_dont_allow" = "No, gracias";
+"remote_inference_onboarding_title" = "Mejorar Snap";

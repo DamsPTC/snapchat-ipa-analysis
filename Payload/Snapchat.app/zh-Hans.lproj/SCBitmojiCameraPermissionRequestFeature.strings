@@ -1,0 +1,9 @@
+"bitmoji_camera_permission_continue_button" = "使用相机创建";
+"bitmoji_camera_permission_continue_button_new" = "继续";
+"bitmoji_camera_permission_desc" = "立刻使用相机创建一个与自己形象相似的虚拟人物吧";
+"bitmoji_camera_permission_pre_prompt_accept" = "确定";
+"bitmoji_camera_permission_pre_prompt_deny" = "以后再说";
+"bitmoji_camera_permission_pre_prompt_desc" = "授予相机访问权限，立刻自拍一张照片来创建 Bitmoji";
+"bitmoji_camera_permission_pre_prompt_title" = "开启相机访问权限";
+"bitmoji_camera_permission_skip_button" = "跳过";
+"bitmoji_camera_permission_title" = "创建你的 Bitmoji";

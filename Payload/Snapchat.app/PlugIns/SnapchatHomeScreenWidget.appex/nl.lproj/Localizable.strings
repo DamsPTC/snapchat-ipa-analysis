@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "Mijn Snapcode";
+
+"Snapcode Desc" = "Deze widget geeft je snapcode weer";
+
+"camera" = "Camera";
+
+"camera_desc" = "Open de Snapchat-camera.";
+
+"log_in" = "Inloggen";
+
+"shortcut_to_a_friend" = "Tik op de widget nadat je hem hebt geplaatst om een vriend of groep te selecteren.";
+
+"pin_a_friend" = "Een vriend of groep vastzetten";
+
+"birthdays" = "Verjaardagen";
+
+"see_upcoming_birthdays" = "Bekijk aankomende verjaardagen.";
+
+"no_upcoming_birthdays" = "Geen aankomende verjaardagen";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ over %2$d dag";
+
+"user_has_birthday_in_days_plural" = "%1$@ over %2$d dagen";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d over %3$d dag";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d over %3$d dagen";
+
+"Memories" = "Herinneringen";
+
+"Memories Desc" = "Uitgelichte Snaps van je Herinneringen bevatten flashbacks, reisjes, overzichten en meer!";
+
+"Friend Location Widget Desc" = "Zet een vriend vast met deze widget om de locatie van je vriend te zien.";
+
+"map" = "Kaart";
+
+"now" = "nu";
+
+"something_went_wrong" = "Er is iets fout gegaan, open Snapchat";
+
+"long_press_to_pin" = "Bewerken om een vriend vast te zetten";
+
+"off_the_grid" = "Offline";

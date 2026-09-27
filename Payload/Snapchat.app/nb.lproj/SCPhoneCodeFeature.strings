@@ -1,0 +1,14 @@
+"alt_send_code_by_call_dialogue" = "Vi ringer deg på %1$@.";
+"alt_send_code_by_sms" = "Send kode via SMS";
+"alt_send_code_by_sms_dialogue" = "Vi sender deg en SMS-kode om %1$@.";
+"error_occurred_message" = "Det oppsto en feil. Prøv igjen senere.";
+"ngo_email_instead" = "Bruk e-post i stedet";
+"ngo_phone_verification_description" = "Skriv inn koden som er sendt til %1$@";
+"ngo_phone_verification_title" = "Bekreft nummeret ditt";
+"ngo_submit" = "Send inn";
+"ok" = "OK";
+"register_phone_verification_desc" = "Tast inn koden vi sendte til %1$@";
+"register_phone_verification_title" = "Skriv inn verifiseringskode";
+"resend_code" = "Send igjen";
+"skip_button" = "Hopp over";
+"verifying" = "Verifiserer...";

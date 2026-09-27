@@ -1,0 +1,62 @@
+/* l10nsvc:sourcefile */
+/* 
+
+  Localizable.strings
+  Snapchat
+
+  Created by Daniel Jonik on 3/21/17.
+  Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Abandon";
+
+"add_a_chat" = "Add a chat...";
+
+"are_you_sure_you_want_to_abandon" = "Are you sure you want to abandon your Snapsterpiece?";
+
+"best_friends_header" = "Best Friends";
+
+"groups_header" = "Groups";
+
+"friends_header" = "Friends";
+
+"send" = "Send";
+
+"cancel" = "Cancel";
+
+"cannot_add_more_snapchatters" = "Cannot add more Snapchatters!";
+
+
+"login_before_sharing_message" = "Please login to Snapchat before sharing.";
+
+"login_before_sharing_title" = "Login Required";
+
+"me_hint" = "(me)";
+
+"noticed_new_acct_sharing_message" = "Wrong Account!";
+
+"noticed_new_acct_sharing_title" = "It looks like you've switched accounts. Log back in to send your snap, or start your share over again.";
+
+"okay" = "Okay";
+
+"open_before_sharing_message" = "Please open Snapchat before sharing.";
+
+"open_before_sharing_title" = "Open Snapchat";
+
+"problem_sharing_try_again" = "Something went wrong, please try again.";
+
+"recents_header" = "Recents";
+
+"search_text_view_hint" = "Search";
+
+"send_to" = "Send To...";
+
+"try_again" = "Try Again";
+
+"video_too_long" = "Videos must be under 60 seconds to share.";
+
+"video_too_long_with_maximum_duration_desc" = "Videos must be under %ld seconds to share.";
+
+"stories_header" = "Stories";
+
+"my_story" = "My Story";

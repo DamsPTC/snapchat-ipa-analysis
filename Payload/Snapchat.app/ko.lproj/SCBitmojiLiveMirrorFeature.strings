@@ -1,0 +1,17 @@
+"bitmoji_live_mirror_exit_dialog_cancel_button" = "취소";
+"bitmoji_live_mirror_exit_dialog_exit_button" = "종료";
+"bitmoji_live_mirror_exit_dialog_text" = "지금 종료하면 아바타가 저장되지 않습니다.";
+"bitmoji_live_mirror_exit_dialog_title" = "저장하지 않고 종료하시겠습니까?";
+"bitmoji_live_mirror_interstitial_body_v2" = "내 프로필에서 언제든지 Bitmoji 아바타의 의상을 맞춤 설정하고 수정할 수 있습니다.";
+"bitmoji_live_mirror_interstitial_body_v3" = "내 프로필에서 언제든지 Bitmoji 아바타에게 옷을 입히고 수정할 수 있습니다.";
+"bitmoji_live_mirror_interstitial_choose_body_button_1_v1" = "좋아요!";
+"bitmoji_live_mirror_interstitial_done_button_1_v2" = "완료";
+"bitmoji_live_mirror_interstitial_done_button_3_v3" = "완료";
+"bitmoji_live_mirror_interstitial_edit_facial_avatar_caption_v2" = "편집하기";
+"bitmoji_live_mirror_interstitial_edit_facial_button_1_v3" = "아바타 수정";
+"bitmoji_live_mirror_interstitial_edit_facial_button_2_v1" = "편집하기";
+"bitmoji_live_mirror_interstitial_select_outfit_button_2_v3" = "옷 선택";
+"bitmoji_live_mirror_interstitial_title_v1" = "헤어스타일과 얼굴 표현이 마음에 드시나요?";
+"bitmoji_live_mirror_interstitial_title_v2" = "아바타가 준비되었습니다!";
+"bitmoji_live_mirror_interstitial_title_v3" = "아바타가 준비되었습니다!";
+"server_error_try_again" = "서버 오류가 발생했습니다. 다시 시도하세요.";

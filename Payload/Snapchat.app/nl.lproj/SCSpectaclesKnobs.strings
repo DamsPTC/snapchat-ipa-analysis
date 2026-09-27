@@ -1,0 +1,12 @@
+"alert_cancel" = "Annuleren";
+"alert_location_permission_error_description" = "Ga naar de instellingen van iOS en wijzig de locatiestemming van Snapchat in 'Tijdens het gebruik van de app'";
+"alert_location_permission_error_title" = "Fout met locatietoestemming";
+"alert_ok" = "Oké";
+"alert_restart_description" = "Als je experimentele functies toepast, moet de Spectacles opnieuw worden opgestart.\nDit kan een paar minuten duren.";
+"alert_restart_restart_specs_button" = "Spectacles herstarten";
+"alert_restart_title" = "Spectacles herstarten?";
+"alert_unknown_error_description" = "Kan de instelling niet updaten";
+"alert_unknown_error_title" = "Oeps";
+"button_save" = "Opslaan";
+"local_knob_location_sharing_description" = "Deel 1 uur lang de locatie van je telefoon. Schakel dit uit om het verzamelen van locatiegegevens te stoppen.";
+"local_knob_location_sharing_title" = "Achtergrondlocatie";

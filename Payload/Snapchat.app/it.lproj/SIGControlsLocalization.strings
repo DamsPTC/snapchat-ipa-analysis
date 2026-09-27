@@ -1,0 +1,15 @@
+"search_placeholder" = "Cerca";
+"sig_action_bar_done" = "Fatto";
+"sig_action_bar_more" = "Altro";
+"sig_header_dismiss_accessibility_label" = "Ignora";
+"sig_index_view_favorites_image_accessibility_label" = "Preferiti";
+"sig_index_view_groups_image_accessibility_label" = "Gruppi";
+"sig_index_view_quick_adds_image_accessibility_label" = "Aggiunta rapida";
+"sig_index_view_recents_image_accessibility_label" = "Recenti";
+"sig_index_view_snap_stars_image_accessibility_label" = "Snap Star";
+"sig_select_bar_group" = "Gruppo";
+"sig_send_to_button_accessibility_label" = "Invia";
+"toggle_off" = "Disattiva";
+"toggle_on" = "Attiva";
+"toggle_switch_hint" = "Attivando questa opzione, passerai da Attiva a Disattiva e viceversa.";
+"toggle_switch_label" = "Attiva/disattiva";

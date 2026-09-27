@@ -1,0 +1,15 @@
+"search_placeholder" = "Ara";
+"sig_action_bar_done" = "Tamamlandı";
+"sig_action_bar_more" = "Daha Fazla";
+"sig_header_dismiss_accessibility_label" = "Yoksay";
+"sig_index_view_favorites_image_accessibility_label" = "En Sevilenler";
+"sig_index_view_groups_image_accessibility_label" = "Gruplar";
+"sig_index_view_quick_adds_image_accessibility_label" = "Hızlı Eklenenler";
+"sig_index_view_recents_image_accessibility_label" = "En Son";
+"sig_index_view_snap_stars_image_accessibility_label" = "Snap Yıldızları";
+"sig_select_bar_group" = "Grup";
+"sig_send_to_button_accessibility_label" = "Gönder";
+"toggle_off" = "Kapalı";
+"toggle_on" = "Açık";
+"toggle_switch_hint" = "Bu etkinleştirildiğinde açık/kapalı durumları arasında geçiş yapılır";
+"toggle_switch_label" = "Geçiş Düğmesi";

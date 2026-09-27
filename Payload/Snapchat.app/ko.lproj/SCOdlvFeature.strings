@@ -1,0 +1,9 @@
+"landing_context" = "로그인이 평소와 다른 방법으로 시도되었습니다! 안전한 계정 보호를 위해, 다음의 방법 중 하나를 선택하여 계정을 인증하세요.";
+"landing_message_note" = "※ 메시지 및 데이터 요금이 부과될 수 있습니다.";
+"landing_options_radio_phone" = "문자 메시지";
+"landing_title" = "의심스러운 로그인";
+"retry_message" = "문제가 발생했습니다. 다시 시도해 주세요.";
+"verification_description" = "\n%1$@번으로 받은 코드를 입력하세요";
+"verification_title" = "인증 코드 입력하기";
+"verification_unable_to_verify" = "인증에 문제가 발생했나요?";
+"verification_unable_to_verify_dialog" = "이런! 계정 인증에 실패했습니다. Snapchat 고객지원을 통해 도움을 받으세요.";

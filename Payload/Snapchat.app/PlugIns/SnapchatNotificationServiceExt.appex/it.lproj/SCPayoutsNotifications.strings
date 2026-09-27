@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Nuovo Pagamento di Spotlight!";
+"payouts_push_notification_gifting_title" = "Nuovo Pagamento di Regali!";
+"payouts_push_notification_title_spotlight_challenges" = "Nuovo Pagamento per una sfida di Spotlight!";
+"payouts_push_notification_title_story" = "Nuovo Pagamento per le Storie!";
+"payouts_push_notification_title_lens_creator_fund" = "Nuovo Pagamento per il programma Premi per gli Autori di Lenti!";
+"payouts_push_notification_title_ildg" = "Nuovo Pagamento per Contenuti sbloccabili nelle Lenti!";
+"payouts_push_notification_title_cashout_eligible" = "I tuoi premi verranno incassati automaticamente a breve!";
+"payouts_push_notification_title_invalidate_eligible" = "I tuoi premi verranno annullati a breve!";
+
+"payouts_push_notification_subtitle_onboarded" = "Complimenti! Controlla subito I miei Pagamenti nel profilo per visualizzare i tuoi guadagni.";
+"payouts_push_notification_subtitle_not_onboarded" = "Hai guadagnato grazie a Spotlight. Attiva subito i Pagamenti nel profilo per incassare!";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Hai guadagnato Cristalli grazie alle sfide di Spotlight. Attiva subito i Pagamenti nel profilo per incassare!";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Hai guadagnato Cristalli grazie ai Regali. Attiva subito i Pagamenti nel profilo per incassare!";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Hai guadagnato Cristalli grazie alle Storie. Attiva subito i Pagamenti nel profilo per incassare!";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Hai guadagnato Cristalli grazie al programma Premi per gli Autori di Lenti. Attiva subito i Pagamenti nel profilo per incassare!";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Hai guadagnato Cristalli grazie ai Contenuti sbloccabili nelle Lenti. Attiva subito i Pagamenti nel profilo per incassare!";
+"payouts_push_notification_subtitle_cashout_eligible" = "Se non viene eseguita nessuna azione, i tuoi premi in Cristalli verranno incassati automaticamente in data %1$@. Controlla I miei Cristalli nel profilo per risolvere il problema.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Se non viene eseguita nessuna azione, i tuoi premi in Cristalli verranno annullati in data %1$@. Controlla I miei Cristalli nel profilo per risolvere il problema.";
+
+"payouts_state_title" = "Stato Pagamenti aggiornato!";
+"payouts_state_subtitle" = "Il tuo stato di idoneità ai Pagamenti è stato aggiornato. Controlla I miei Cristalli Snap nel profilo per vedere il tuo stato!";
+"gifting_opened_gift" = "%1$@ ha aperto il tuo Regalo!";
+"gifting_support_thanks" = "Grazie per aver dato il tuo supporto su Snapchat.";
+

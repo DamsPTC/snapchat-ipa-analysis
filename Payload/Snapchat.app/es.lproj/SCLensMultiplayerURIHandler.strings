@@ -1,0 +1,3 @@
+"lens_connected_lens_developer_invite_must_have_lens_pushed" = "El usuario debe tener Lentes enviados a su dispositivo.";
+"lens_connected_lens_developer_invite_request_failed" = "Error en la solicitud. Inténtalo otra vez, o activa 'Unirse de inmediato' en Lens Studio para desactivar la invitación y unirte a una sesión multijugador directamente.";
+"lens_connected_lens_notify_recording" = "%1$@ está grabando";

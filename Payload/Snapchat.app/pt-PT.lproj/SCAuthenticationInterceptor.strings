@@ -1,0 +1,5 @@
+"memories_pending_sync_alert_body" = "A cópia de segurança dos Snaps guardados por %1$@ nas Memórias não está concluída. Se iniciares sessão como %2$@, vais perder esses Snaps. Volta a iniciar sessão como %3$@ para concluir a cópia de segurança.";
+"memories_pending_sync_alert_login_action" = "INICIAR SESSÃO NA MESMA";
+"memories_pending_sync_alert_registration_action" = "REGISTAR NA MESMA";
+"memories_pending_sync_alert_registration_body" = "A cópia de segurança dos Snaps guardados por %1$@ nas Memórias não está concluída. Se te registares com uma conta nova, vais perder esses Snaps. Volta a iniciar sessão como %2$@ para concluir a cópia de segurança.";
+"memories_pending_sync_alert_title" = "Espera um segundo!";

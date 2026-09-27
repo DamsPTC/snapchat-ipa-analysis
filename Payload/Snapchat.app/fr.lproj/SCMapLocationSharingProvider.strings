@@ -1,0 +1,13 @@
+"friend" = "un·e ami·e";
+"friends" = "%1$@ amis";
+"live_location_entering_ghost_mode_warning_subtitle" = "Vous êtes en mode Fantôme mais %1$@ peu(ven)t toujours voir votre localisation en direct. Pour arrêter le partage, appuyez sur « Masquer ma localisation en direct » ci-dessous.";
+"live_location_entering_ghost_mode_warning_title" = "Vous partagez toujours votre localisation en direct.";
+"live_location_exit_ghost_mode_subtitle" = "Votre localisation en direct ne sera plus masquée et vous la partagerez avec les ami·e·s sélectionné·e·s.";
+"live_location_exit_ghost_mode_title" = "Quitter le mode Fantôme ?";
+"live_location_pausing_alert_OK" = "Ok";
+"live_location_pausing_alert_body_all_friends" = "Votre localisation en direct est masquée, mais tous·tes vos ami·e·s peuvent toujours voir votre dernière localisation active.\n\n Pour modifier ce paramètre, accédez aux paramètres de localisation.";
+"live_location_pausing_alert_body_plural" = "Votre localisation en direct est masquée, mais %1$@ ami·e·s peuvent toujours voir votre dernière localisation active.\n\n Pour modifier ce paramètre, accédez aux paramètres de localisation.";
+"live_location_pausing_alert_body_singular" = "Votre localisation en direct est masquée, mais 1 ami·e peut toujours voir votre dernière localisation active.\n\n Pour modifier ce paramètre, accédez aux paramètres de localisation.";
+"live_location_pausing_alert_title" = "Vous partagez toujours votre dernière localisation active.";
+"live_location_resuming_alert_body" = "Réactiver le partage en direct en partageant avec %1$@ ?";
+"live_location_resuming_alert_subtitle" = "Votre localisation en direct ne sera plus masquée et vous la partagerez avec %1$@ ainsi qu'avec tous·tes les ami·e·s que vous avez précédemment sélectionné·e·s.";

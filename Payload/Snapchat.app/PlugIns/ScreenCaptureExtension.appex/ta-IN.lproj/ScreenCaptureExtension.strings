@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "உங்கள் திரையைப் பகிர்ந்துகொள்ள நீங்கள் அழைப்பில் இருக்க வேண்டும்.";
+"screen_capture_error_generic" = "ஏதோ தவறாகிட்டது: திரையை மீண்டும் பகிர முயலுங்கள்.";
+"screen_capture_not_enabled" = "ஏதோ தவறு நடந்துவிட்டது.";

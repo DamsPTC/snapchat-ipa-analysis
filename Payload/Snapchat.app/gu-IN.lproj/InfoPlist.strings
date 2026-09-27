@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Snapchat</string>
+	<key>CFBundleName</key>
+	<string>Snapchat</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>આ Snapchatને Spectacles જેવી બ્લુટૂથ ઍક્સેસરી સાથે કનેક્ટ કરવાની મંજૂરી આપશે.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Snap લેવા માટે, લેન્સ સાથે રમત કરવા અને ઘણી બધી મજા માટે તમારા કૅમેરાનો ઉપયોગ કરો! કેટલાક લેન્સ Apple ના TrueDepth કૅમેરાનો ઉપયોગ કરી શકે છે. વધુ માહિતી માટે અમારી ગોપનીયતા નીતિ જુઓ.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>તમારા સંપર્કો અમારા Snapchat ના સર્વર પર અપલોડ કરવામાં આવશે, જેથી તમે અને અન્ય લોકો મિત્રો શોધી શકો અને તમારો અનુભવ સુધારી શકાય.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>આ Snapchatને Spectacles જેવી વાઇ-ફાઇથી જોડાઈ શકે તેવી ઍક્સેસરી સાથે કનેક્ટ કરવાની મંજૂરી આપશે.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>"હમેશા મંજૂરી આપો" પસંદ કરવાથી Snapchat લાઇવ લોકેશન શેર કરવા અને તમારા અનુભવને બહેતર બનાવવા માટે તમારું લોકેશન બૅકગ્રાઉન્ડમાં અપડેટ કરી શકશે.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>"હમેશા મંજૂરી આપો" પસંદ કરવાથી Snapchat લાઇવ લોકેશન શેર કરવા અને તમારા અનુભવને બહેતર બનાવવા માટે તમારું લોકેશન બૅકગ્રાઉન્ડમાં અપડેટ કરી શકશે.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Snapchat આનો ઉપયોગ તમારા અનુભવને તમારી ઇચ્છા અનુસારનો બનાવવા માટે કરે છે અને તેનાથી તમે ફિલ્ટર, સ્ટોરી અને તમારી આસપાસની ઘણી બાબતોની શોધખોળ કરી શકો છો.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Snap, વીડિયો ચૅટ વગેરે માટે ઑડિયો રેકોર્ડ કરવા માટે તમારા માઇક્રોફોનનો ઉપયોગ કરો.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>જ્યારે તમે Snapલો, લેન્સ વાપરો, ડિસ્કવર વાંચો અને જાહેરાત જુઓ ત્યારે Snapchat રૅકોર્ડ કરે છે કે તમારું ડિવાઇસ ઊભું છે કે આડું.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Snap પર મિત્રો સાથે તમારા કૅમેરા રોલ કન્ટેન્ટ શેર કરો.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Snap પર મિત્રો સાથે તમારા કૅમેરા રોલ કન્ટેન્ટ શેર કરો.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>"મંજૂરી આપો" પસંદ કરવાથી, Snap સમય જતાં, તમને અપ્રાસંગિક અથવા પુનરાવર્તિત જણાતી હોય તેવી જાહેરાતો ઘટાડી શકે છે. ટ્રેકિંગ વિશે વધુ માહિતી માટે અમારી પ્રાઇવસી પોલિસી જુઓ.</string>
+</dict>
+</plist>

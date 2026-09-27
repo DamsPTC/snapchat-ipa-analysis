@@ -1,0 +1,9 @@
+"connection_error" = "Bağlantı Hatası";
+"okay" = "Tamam";
+"send_code_again" = "KODU YENİDEN GÖNDER";
+"twofa_login_code_verification_otp_to_sms_info" = "Bunun yerine bana SMS gönder";
+"twofa_login_code_verification_otp_to_sms_progress" = "Gönderiliyor...";
+"twofa_login_code_verification_with_otp_explanation" = "Kimliğini doğrulamak için lütfen kimlik doğrulama uygulaman tarafından üretilen kodu gir.";
+"twofa_login_recovery_code_used" = "Oturum açmak için kurtarma kodunu kullandın. İki kademeli doğrulamayı devre dışı bıraktık — tekrar devreye sokmak için Ayarlar'a gidebilirsin.";
+"twofa_new_device_verification_explanation" = "Kimliğini doğrulamak için lütfen %1$@ numaralı telefona gönderdiğimiz kodu gir.";
+"twofa_settings_recovery_code_used_title" = "İki Kademeli Doğrulama Devre Dışı";

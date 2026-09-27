@@ -1,0 +1,6 @@
+"sms_invite_auto_friend_request_description" = "Snapchat enverra pour vous une invitation par SMS avec une demande d'ami·e !";
+"sms_invite_section_description" = "Snapchat enverra des invitations par SMS à vos contacts.";
+"via_phone" = "au : $0";
+"via_sms_phone" = "par SMS : $0";
+"whatsapp_invite_description" = "Snapchat enverra en votre nom une invitation par SMS ou sur WhatsApp.";
+"whatsapp_invite_description_with_auto_friend_request" = "Snapchat enverra en votre nom une invitation avec une demande d'ami·e, par SMS ou sur WhatsApp.";

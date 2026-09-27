@@ -1,0 +1,3 @@
+"map_location_permission_recovery_banner_subtitle" = "Set to “Always” to continue sharing Live Location.";
+"map_notification_permission_recovery_banner_subtitle" = "Enable notifications to continue sharing Live Location.";
+"map_permission_recovery_banner_title" = "Live Location is not updating";

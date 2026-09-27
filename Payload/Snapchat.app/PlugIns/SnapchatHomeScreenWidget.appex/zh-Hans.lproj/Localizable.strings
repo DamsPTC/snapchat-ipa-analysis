@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "我的 Snap 代码";
+
+"Snapcode Desc" = "这个小工具会显示你的 Snap 代码";
+
+"camera" = "相机";
+
+"camera_desc" = "打开 Snapchat Camera。";
+
+"log_in" = "登录";
+
+"shortcut_to_a_friend" = "放置小工具后点击它，以选择好友或群组。";
+
+"pin_a_friend" = "标记好友或群组";
+
+"birthdays" = "生日";
+
+"see_upcoming_birthdays" = "浏览即将到来的生日。";
+
+"no_upcoming_birthdays" = "没有即将到来的";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ 的生日再过 %2$d 天就到了";
+
+"user_has_birthday_in_days_plural" = "%1$@ 的生日再过 %2$d 天就到了";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d 的生日再过 %3$d 天就到了";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d 的生日再过 %3$d 天就到了";
+
+"Memories" = "回忆";
+
+"Memories Desc" = "“回忆”中的精选 Snap，包括回顾、旅程、回放等！";
+
+"Friend Location Widget Desc" = "使用此小工具固定好友，便可查看好友的位置。";
+
+"map" = "地图";
+
+"now" = "现在";
+
+"something_went_wrong" = "出错了，请打开 Snapchat";
+
+"long_press_to_pin" = "编辑以标记好友";
+
+"off_the_grid" = "离线";

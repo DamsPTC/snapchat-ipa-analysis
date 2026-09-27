@@ -1,0 +1,4 @@
+"country" = "Maa";
+"invalid_country_code" = "🌎 Virheellinen maatunnus";
+"phone_number" = "Puhelinnumero";
+"select_country_code" = "🌎 Valitse maatunnus";

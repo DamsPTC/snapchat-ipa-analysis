@@ -1,0 +1,11 @@
+"call_again" = "Opnieuw bellen";
+"call_back" = "Terugbellen";
+"dnd_reason_cta_ios" = "Instellingen voor Niet storen";
+"dnd_reason_ios" = "tijdens Niet storen";
+"dweb_upsell" = "Webversie proberen";
+"elapsed_time_with_reason" = "$0 · $1";
+"missed_call" = "Gemist gesprek";
+"missed_calls" = "$0 gemiste gesprekken";
+"num_of_missed_calls" = "x$0";
+"video_call" = "Videogesprek";
+"voice_call" = "Audiogesprek";

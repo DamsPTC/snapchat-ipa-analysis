@@ -1,0 +1,9 @@
+"landing_context" = "Deze login past niet in jouw normale patroon. Zorg dat je account goed beveiligd blijft door het via één van deze opties te verifiëren.";
+"landing_message_note" = "*Mogelijk worden er kosten in rekening gebracht voor berichten en dataverkeer.";
+"landing_options_radio_phone" = "Sms";
+"landing_title" = "Verdachte inlogpoging";
+"retry_message" = "Er is iets misgegaan. Probeer het opnieuw.";
+"verification_description" = "Vul de code in die we naar \n%1$@ hebben gestuurd";
+"verification_title" = "Verificatiecode invoeren";
+"verification_unable_to_verify" = "Lukt het verifiëren niet?";
+"verification_unable_to_verify_dialog" = "O nee! We konden je account niet verifiëren. Neem contact op met Snapchat-ondersteuning voor hulp.";

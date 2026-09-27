@@ -1,0 +1,8 @@
+"suggestion_error" = "Noget fik galt. Prøv igen senere.";
+"username_invalid_begin" = "Brugernavne skal starte med et bogstav 🔠";
+"username_invalid_char" = "Brugernavne kan kun bestå af bogstaver fra det latinske alfabet (altså ikke Æ, Ø Å), tal og -, _ eller . men ingen specialtegn! 👌";
+"username_invalid_end" = "Brugernavne skal slutte med et bogstav eller et tal 👆";
+"username_invalid_long" = "Brugernavne må ikke være på mere end 15 tegn 📖";
+"username_invalid_separator" = "Brugernavne må kun indeholde ét -, _ eller . Du har for mange ✌️";
+"username_invalid_short" = "Brugernavne skal være på mindst 3 tegn 📝";
+"username_taken" = "%1$@ er allerede taget!";

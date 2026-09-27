@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "ತ್ಯಜಿಸಿ";
+
+"add_a_chat" = "ಚಾಟ್ ಸೇರಿಸಿ...";
+
+"are_you_sure_you_want_to_abandon" = "ನಿಮ್ಮ Snapsterpiece ಅನ್ನು ತ್ಯಜಿಸಲು ನೀವು ಬಯಸುವುದು ಖಚಿತವೇ";
+
+"best_friends_header" = "ಆತ್ಮೀಯ ಸ್ನೇಹಿತರು";
+
+"groups_header" = "ಗುಂಪುಗಳು";
+
+"friends_header" = "ಸ್ನೇಹಿತರು";
+
+"send" = "ಕಳುಹಿಸಿ";
+
+"cancel" = "ರದ್ದುಮಾಡಿ";
+
+"cannot_add_more_snapchatters" = "ಇನ್ನೂ ಹೆಚ್ಚಿನ Snapchatters ಸೇರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ!";
+
+
+"login_before_sharing_message" = "ಹಂಚಿಕೊಳ್ಳುವ ಮುನ್ನ ದಯವಿಟ್ಟು Snapchat ಗೆ ಲಾಗಿನ್ ಆಗಿ.";
+
+"login_before_sharing_title" = "ಲಾಗಿನ್ ಅಗತ್ಯವಿದೆ";
+
+"me_hint" = "(ನಾನು)";
+
+"noticed_new_acct_sharing_message" = "ತಪ್ಪಾದ ಖಾತೆ!";
+
+"noticed_new_acct_sharing_title" = "ನೀವು ಖಾತೆಗಳನ್ನು ಬದಲಾಯಿಸಿದಂತೆ ತೋರುತ್ತಿದೆ. ನಿಮ್ಮ snap ಕಳುಹಿಸಲು ಮತ್ತೆ ಲಾಗಿನ್ ಆಗಿ, ಅಥವಾ ಹಂಚಿಕೊಳ್ಳುವಿಕೆಯನ್ನು ಮತ್ತೆ ಪ್ರಾರಂಭಿಸಿ.";
+
+"okay" = "ಸರಿ";
+
+"open_before_sharing_message" = "ಹಂಚಿಕೊಳ್ಳುವ ಮುನ್ನ ದಯವಿಟ್ಟು Snapchat ತೆರೆಯಿರಿ.";
+
+"open_before_sharing_title" = "Snapchat ತೆರೆಯಿರಿ";
+
+"problem_sharing_try_again" = "ಏನೋ ತಪ್ಪಾಗಿದೆ, ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.";
+
+"recents_header" = "ಇತ್ತೀಚಿನವು";
+
+"search_text_view_hint" = "ಹುಡುಕಿ";
+
+"send_to" = "ಇವರಿಗೆ ಕಳುಹಿಸಿ...";
+
+"try_again" = "ಪುನಃ ಪ್ರಯತ್ನಿಸಿ";
+
+"video_too_long" = "ವೀಡಿಯೊಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಅವುಗಳು 60 ಸೆಕೆಂಡುಗಳಿಗಿಂತ ಕಡಿಮೆ ಅವಧಿಯವಾಗಿರಬೇಕು.";
+
+"video_too_long_with_maximum_duration_desc" = "ವೀಡಿಯೊಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಅವುಗಳು %1$ld ಸೆಕೆಂಡುಗಳ ಒಳಗಿರಬೇಕು.";
+
+"stories_header" = "ಕಥೆಗಳು";
+
+"my_story" = "ನನ್ನ ಕಥೆ";

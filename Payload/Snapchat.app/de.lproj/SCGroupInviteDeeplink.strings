@@ -1,0 +1,8 @@
+"group_invite_accept_link_joining_group" = "Du trittst der Gruppe bei …";
+"group_invite_cannot_join_group" = "Kann der Gruppe nicht beitreten";
+"group_invite_confirm_dialog_cancel_button" = "Abbrechen";
+"group_invite_confirm_dialog_description" = "Jeder Nutzer kann über diesen Link beitreten. Vergewissere dich, dass du dem Absender vertrauen kannst.";
+"group_invite_confirm_dialog_header" = "Der Gruppe beitreten?";
+"group_invite_confirm_dialog_ok_button" = "Der Gruppe beitreten";
+"group_invite_creator_not_participant" = "Der Snapchatter, der diesen %1$@ geteilt hat, ist nicht mehr in der Gruppe.";
+"group_invite_link" = "Link";

@@ -1,0 +1,15 @@
+"delete_pin" = "حذف الدبوس";
+"get_there" = "الوصول إلى هناك";
+"more" = "المزيد";
+"navigation_time" = "$0 دقيقة";
+"nearby_places" = "الأماكن القريبة";
+"no_nearby_places" = "لم يتم العثور على أماكن قريبة";
+"no_results" = "لا توجد نتائج";
+"num_results" = "$0 من النتائج";
+"one_result" = "نتيجة واحدة";
+"place_metadata" = "$0 · $1";
+"places_nearby" = "الأماكن القريبة";
+"send" = "إرسال";
+"suggest_a_place" = "اقترح مكانًا";
+"view_less" = "عرض أقل";
+"view_more" = "عرض المزيد";

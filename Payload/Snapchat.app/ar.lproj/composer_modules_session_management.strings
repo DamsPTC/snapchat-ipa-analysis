@@ -1,0 +1,17 @@
+"active_session_load_failure_subtitle" = "حدث خطأ ما. \n يُرجى إعادة المحاولة.";
+"active_session_load_failure_title" = "عذرًا.";
+"application_session_subtitle" = "جلسات التطبيق";
+"browser_session_subtitle" = "جلسات المتصفح";
+"current_session_indicator" = "جلستك الحالية";
+"delete_cancellation" = "إلغاء";
+"delete_confirmation" = "موافق";
+"delete_confirmation_subtitle" = "ستفقد بيانات الاعتماد المحفوظة على هذا الجهاز وستزيل إمكانية الوصول إلى حساب سناب شات الخاص بك.\n\n يُرجى ملاحظة أن تسجيل الخروج قد يستغرق بضع دقائق.";
+"delete_confirmation_title" = "تسجيل الخروج من";
+"delete_session_error_message" = "حدث خطأ ما. يُرجى إعادة المحاولة.";
+"delete_unknown_device_name" = "جهاز غير معروف";
+"session_management_recentlySeen" = "الآن";
+"session_management_subtitle" = "تتبع مكان استخدام حسابك حاليًا.\nالأجهزة المُصرح لها حديثًا قد لا تظهر على الفور.";
+"session_management_title" = "إدارة الجلسة";
+"try_again" = "إعادة المحاولة";
+"unknown_device_name" = "غير معروفة";
+"web_session_prompt_title" = "سناب شات متاح الآن على الويب.";

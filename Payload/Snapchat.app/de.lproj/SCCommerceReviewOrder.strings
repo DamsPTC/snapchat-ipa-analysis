@@ -1,0 +1,14 @@
+"go_to_checkout" = "Zur Kasse";
+"item_one" = "%1$@ Objekt";
+"item_other" = "%1$@ Objekte";
+"max_items_error_message" = "Max. %1$@ pro Produkt auf einmal!";
+"my_shopping_bags" = "Einkaufstasche";
+"ok" = "OK";
+"remove" = "Löschen";
+"returns" = "Rückgabe";
+"review_order" = "Bestellung überprüfen";
+"see_return_policy" = "Siehe Rückgaberichtlinie";
+"select_quantity" = "Menge auswählen";
+"subtotal" = "Zwischensumme";
+"view_all" = "Alle anschauen";
+"web_checkout" = "Auf der Website bezahlen";

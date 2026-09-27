@@ -1,0 +1,5 @@
+"broad_location_prompt_body" = "يلزمك تمكين \"الموقع الدقيق\" في إعدادات نظام iOS حتى تتمكن من استخدام جيوفلترات الأماكن.";
+"broad_location_prompt_button" = "فتح الإعدادات";
+"location_prompt_v2_body" = "اكتشف الفلاتر للأماكن والفعاليات والمناسبات في منطقتك.";
+"location_prompt_v2_button" = "تمكين";
+"location_prompt_v2_title" = "هل تريد تفعيل فلاتر الموقع؟";

@@ -1,0 +1,8 @@
+"errorText" = "Beim Laden ist ein Problem aufgetreten!";
+"formattedAddressAndLocation" = "$0 · $1";
+"loading" = "Orte werden geladen …";
+"noPlacesFound" = "Keine Orte gefunden!";
+"places" = "Orte";
+"retry" = "Wiederholen";
+"search" = "Suchen";
+"suggestAPlace" = "Einen Ort vorschlagen";

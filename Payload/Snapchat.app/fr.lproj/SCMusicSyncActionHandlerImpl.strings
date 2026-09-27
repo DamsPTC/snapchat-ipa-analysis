@@ -1,0 +1,9 @@
+"memories_picker_max_duration_warning_text" = "Les vidéos de plus de %1$d secondes ne peuvent pas être modifiées.";
+"memories_picker_max_item_message" = "Prend en charge jusqu'à %1$d éléments.";
+"memories_picker_min_item_message" = "Sélectionnez au moins %1$d éléments pour commencer.";
+"memories_picker_primary_button_title" = "Suivant";
+"memories_picker_title" = "Ajouter une image ou une vidéo";
+"music_sync_error_dialog_cancel_button_title" = "Annuler";
+"music_sync_error_dialog_message" = "Une connexion Internet est nécessaire pour créer un Snap synchronisé avec un son. Veuillez vérifier votre connexion et réessayer plus tard.";
+"music_sync_error_dialog_retry_button_title" = "Réessayer";
+"music_sync_error_dialog_title" = "Pas de connexion";

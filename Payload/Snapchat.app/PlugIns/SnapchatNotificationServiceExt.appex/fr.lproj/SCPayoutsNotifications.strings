@@ -1,0 +1,30 @@
+/*
+
+ SCPayoutsNotifications.strings
+ SCPayoutsNotifications
+*/
+
+"payouts_push_notification_title" = "Nouveau paiement Spotlight !";
+"payouts_push_notification_gifting_title" = "Nouveau paiement en cadeau !";
+"payouts_push_notification_title_spotlight_challenges" = "Nouveau paiement de challenge Spotlight !";
+"payouts_push_notification_title_story" = "Nouveau paiement grâce à vos Stories !";
+"payouts_push_notification_title_lens_creator_fund" = "Nouveau paiement de programme de récompenses pour les créateur·rice·s de Lenses !";
+"payouts_push_notification_title_ildg" = "Nouveau paiement grâce à une Lens déblocable !";
+"payouts_push_notification_title_cashout_eligible" = "Vos récompenses seront bientôt encaissées automatiquement !";
+"payouts_push_notification_title_invalidate_eligible" = "Vos récompenses seront bientôt invalidées !";
+
+"payouts_push_notification_subtitle_onboarded" = "Félicitations ! Consultez dès maintenant la rubrique Mes paiements dans votre profil pour connaître le montant de vos revenus !";
+"payouts_push_notification_subtitle_not_onboarded" = "Vous avez gagné de l'argent sur Spotlight. Complétez dès maintenant les informations de votre profil pour être rémunéré !";
+"payouts_push_notification_subtitle_spotlight_challenges_not_onboarded" = "Vous avez gagné des cristaux grâce à vos challenges Spotlight. Complétez dès maintenant les informations de votre profil pour recevoir votre récompense !";
+"payouts_push_notification_gifting_subtitle_not_onboarded" = "Vous avez gagné des cristaux grâce à des Cadeaux. Complétez dès maintenant les informations de votre profil pour recevoir votre récompense !";
+"payouts_push_notification_subtitle_story_not_onboarded" = "Vous avez gagné des cristaux grâce à vos Stories. Complétez dès maintenant les informations de votre profil pour recevoir votre récompense !";
+"payouts_push_notification_subtitle_lens_creator_fund_not_onboarded" = "Vous avez gagné des cristaux grâce au programme de récompenses des créateur·rice·s de Lenses. Complétez dès maintenant les informations de votre profil pour recevoir votre récompense !";
+"payouts_push_notification_subtitle_ildg_not_onboarded" = "Vous avez gagné des cristaux grâce à une Lens déblocable. Complétez dès maintenant les informations de votre profil pour recevoir votre récompense !";
+"payouts_push_notification_subtitle_cashout_eligible" = "Vos récompenses en cristaux seront encaissées automatiquement le %1$@ si aucune action n'est entreprise. Consultez la section Mes cristaux de votre profil pour y remédier.";
+"payouts_push_notification_subtitle_invalidate_eligible" = "Vos récompenses en cristaux seront invalidées le %1$@ si aucune action n'est entreprise. Consultez la section Mes cristaux de votre profil pour y remédier.";
+
+"payouts_state_title" = "Le statut des paiements a été mis à jour.";
+"payouts_state_subtitle" = "Votre éligibilité aux paiements a été mise à jour. Consultez la rubrique Mes cristaux Snap dans votre profil pour voir votre nouveau statut !";
+"gifting_opened_gift" = "%1$@ a ouvert votre cadeau !";
+"gifting_support_thanks" = "Merci du soutien que vous lui témoignez sur Snapchat.";
+

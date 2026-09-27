@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+"My Snapcode" = "KodSnap Saya";
+
+"Snapcode Desc" = "Widget ini memaparkan KodSnap anda";
+
+"camera" = "Kamera";
+
+"camera_desc" = "Buka kamera Snapchat.";
+
+"log_in" = "Log masuk";
+
+"shortcut_to_a_friend" = "Ketik widget selepas meletakkannya untuk memilih rakan atau grup.";
+
+"pin_a_friend" = "Pin Rakan atau Grup";
+
+"birthdays" = "Hari Jadi";
+
+"see_upcoming_birthdays" = "Hari Jadi Akan Datang";
+
+"no_upcoming_birthdays" = "Tiada yang akan datang";
+
+"user_and_other_have_birthday" = "%1$@ +%2$d";
+
+"user_has_birthday_in_days_singular" = "%1$@ dalam %2$d hari";
+
+"user_has_birthday_in_days_plural" = "%1$@ dalam %2$d hari";
+
+"user_and_other_have_birthday_in_days_singular" = "%1$@ +%2$d dalam %3$d hari";
+
+"user_and_other_have_birthday_in_days_plural" = "%1$@ +%2$d dalam %3$d hari";
+
+"Memories" = "Memori";
+
+"Memories Desc" = "Menampilkan Snap dari Memori anda termasuk imbas kembali, perjalanan, recap dan banyak lagi!";
+
+"Friend Location Widget Desc" = "Sematkan rakan dengan widget ini untuk mengintai lokasi rakan anda.";
+
+"map" = "Peta";
+
+"now" = "sekarang";
+
+"something_went_wrong" = "Ralat telah berlaku, sila buka Snapchat";
+
+"long_press_to_pin" = "Edit untuk menyemat rakan";
+
+"off_the_grid" = "Di luar grid";

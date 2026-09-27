@@ -1,0 +1,61 @@
+/* 
+
+ Localizable.strings
+ Snapchat
+
+ Created by Daniel Jonik on 3/21/17.
+ Copyright © 2017 Snapchat, Inc. All rights reserved.
+*/
+
+"abandon_option" = "Descartar";
+
+"add_a_chat" = "Agregar un chat...";
+
+"are_you_sure_you_want_to_abandon" = "¿Estás seguro de que querés descartar tu obra maestra?";
+
+"best_friends_header" = "Mejores amigos";
+
+"groups_header" = "Grupos";
+
+"friends_header" = "Amigos";
+
+"send" = "Enviar";
+
+"cancel" = "Cancelar";
+
+"cannot_add_more_snapchatters" = "¡No se pueden agregar más Snapchatters!";
+
+
+"login_before_sharing_message" = "Iniciá sesión en Snapchat antes de compartir.";
+
+"login_before_sharing_title" = "Inicio de sesión requerido.";
+
+"me_hint" = "(yo)";
+
+"noticed_new_acct_sharing_message" = "¡Cuenta equivocada!";
+
+"noticed_new_acct_sharing_title" = "Parece que cambiaste de cuenta. Volvé a iniciar sesión para enviar tu Snap o intentá volver a compartirlo.";
+
+"okay" = "Aceptar";
+
+"open_before_sharing_message" = "Abrí Snapchat antes de compartir.";
+
+"open_before_sharing_title" = "Abrir Snapchat";
+
+"problem_sharing_try_again" = "¡Se produjo un error! Volvé a intentarlo.";
+
+"recents_header" = "Recientes";
+
+"search_text_view_hint" = "Buscar";
+
+"send_to" = "Enviar a...";
+
+"try_again" = "Volver a intentar";
+
+"video_too_long" = "Solo es posible compartir videos de menos de 60 segundos.";
+
+"video_too_long_with_maximum_duration_desc" = "Solo es posible compartir videos de menos de %1$ld segundos.";
+
+"stories_header" = "Historias";
+
+"my_story" = "Mi Historia";

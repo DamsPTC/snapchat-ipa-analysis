@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Kamu harus melakukan panggilan untuk membagikan layar.";
+"screen_capture_error_generic" = "Terjadi kesalahan: coba bagikan layar lagi.";
+"screen_capture_not_enabled" = "Terjadi kesalahan.";

@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Você precisa estar em uma ligação para compartilhar sua tela.";
+"screen_capture_error_generic" = "Algo deu errado: tente compartilhar a tela de novo.";
+"screen_capture_not_enabled" = "Algo deu errado.";

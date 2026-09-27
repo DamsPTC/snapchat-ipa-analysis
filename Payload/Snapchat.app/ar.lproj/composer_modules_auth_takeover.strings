@@ -1,0 +1,13 @@
+"auth_add_contact_title" = "إضافة تفاصيل الاتصال";
+"auth_takeover_done" = "تم";
+"auth_takeover_update_email" = "إضافة بريدك الإلكتروني";
+"auth_takeover_update_phone" = "إضافة رقم هاتفك";
+"communication_channel_enrollment_confirmation_subtitle" = "نشكرك على إضافة تفاصيل الاتصال إلى حسابك.";
+"communication_channel_enrollment_initial_subtitle" = "أضِف بريدك الإلكتروني أو رقم هاتفك حتى لا تفقد إمكانية الوصول إلى حسابك.";
+"communication_channel_enrollment_last_skip" = "التذكير لاحقًا (تبقى واحد)";
+"communication_channel_enrollment_no_skips_left" = "التنفيذ لاحقًا";
+"communication_channel_enrollment_skip" = "التذكير لاحقًا";
+"communication_channel_enrollment_subtitle" = "ستحتاج إلى إضافة تفاصيل الاتصال الخاصة بك لمواصلة استخدام سناب شات.";
+"user_reachability_confirm_contact_title" = "تأكيد بيانات الاتصال";
+"user_reachability_subtitle" = "هل بريدك الإلكترونيّ ورقم هاتفك المسجّلان حديثان؟";
+"user_reachability_takeover_confirmation" = "تأكيد";

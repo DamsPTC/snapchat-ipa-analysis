@@ -1,0 +1,4 @@
+"chatv3_leave_group_alert_description" = "Leaving this Group will also remove you from its Story. Snaps and Chats you've sent will be cleared and any Charms you've hidden will be restored.";
+"chatv3_leave_group_alert_fail_message" = "You can't leave the group right now.";
+"chatv3_leave_group_alert_leave_button" = "Leave";
+"chatv3_leave_group_alert_title" = "Leave Group?";

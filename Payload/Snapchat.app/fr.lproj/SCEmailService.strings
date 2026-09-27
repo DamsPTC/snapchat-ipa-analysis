@@ -1,0 +1,2 @@
+"generic_error" = "Une erreur s'est produite, veuillez réessayer plus tard.";
+"update_email_failed_with_code" = "Impossible de mettre à jour l'adresse e-mail. Veuillez réessayer. \nCode d'assistance : %1$02d";

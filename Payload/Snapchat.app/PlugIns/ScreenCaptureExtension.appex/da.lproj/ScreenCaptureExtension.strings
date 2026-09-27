@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "Du skal være i et opkald for at dele din skærm.";
+"screen_capture_error_generic" = "Der gik noget galt: Prøv at dele skærmen igen.";
+"screen_capture_not_enabled" = "Der gik noget galt.";

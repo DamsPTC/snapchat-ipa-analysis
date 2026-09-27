@@ -1,0 +1,13 @@
+"connect_wallet_description" = "Pronk met je verzamelbare Lens! Je hoeft alleen maar je cryptowallet aan je Snapchat-account te koppelen om te zorgen dat je gebruikersnaam openbaar wordt weergegeven bij de Lens en op andere plekken op Snapchat. Je kunt je wallet altijd loskoppelen in Instellingen onder Gekoppelde wallets.";
+"connect_wallet_ftx_disclosure" = "FTX is momenteel niet beschikbaar in beperkte jurisdicties, waaronder New York.";
+"connect_wallet_learn_more" = "Meer informatie";
+"connect_wallet_legal_disclosure" = "Als je je wallet koppelt, ga je akkoord met de %1$@.";
+"connect_wallet_terms_of_use" = "Voorwaarden voor digitale verzamelobjecten";
+"connect_wallet_title" = "Je wallet koppelen";
+"result_failure_body" = "Controleer je inloggegevens en je internetverbinding.";
+"result_failure_not_available" = "Deze functie is momenteel niet beschikbaar voor je.";
+"result_failure_title" = "Koppeling mislukt";
+"result_success_body" = "Je wallet is nu gekoppeld.";
+"result_success_no_collection_body" = "Je hebt deze NFT niet verzameld, maar je kunt de Lens nog steeds gebruiken. Als je de NFT die is gekoppeld aan deze Lens net hebt gekocht, moet je maximaal 5 minuten wachten totdat het verzamelen ervan is geverifieerd.";
+"result_success_no_collection_title" = "Wallet gekoppeld aan Lens";
+"result_success_title" = "Koppeling geslaagd";

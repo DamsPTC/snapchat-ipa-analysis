@@ -1,0 +1,17 @@
+"affordance_commerce_shop" = "SHOP";
+"affordance_text_install" = "APP STORE";
+"affordance_text_open_app" = "OPEN APP";
+"affordance_text_read" = "READ";
+"affordance_text_subscribe" = "SUBSCRIBE";
+"affordance_text_try_lens" = "TRY LENS";
+"affordance_text_watch" = "WATCH";
+"check_connection_to_internet" = "Check your Internet connection and try again.";
+"connection_failed" = "Connection Failed!";
+"disk_full_title_for_loading_view" = "Storage Full!";
+"oops_exclamation" = "Oops!";
+"opt_in_notification_notify_me" = "NOTIFY ME";
+"retry" = "Retry";
+"something_went_wrong_please_try_again" = "Something went wrong. Please try again.";
+"subscribe" = "Subscribe";
+"subscribed" = "Subscribed";
+"try_deleting_unused_apps_music_photos" = "Try deleting unused apps, music or photos.";

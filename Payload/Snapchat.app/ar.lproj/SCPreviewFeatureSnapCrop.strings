@@ -1,0 +1,17 @@
+"crop_tool_ai_tool_disclaimer_accept_title" = "قبول";
+"crop_tool_ai_tool_disclaimer_cancel_title" = "إلغاء";
+"crop_tool_ai_tool_disclaimer_info_dalle" = "تدعم DALL-E أداة تصميم الذكاء الاصطناعي هذه. تتم مشاركة لقطاتك معهم عند استخدام الأداة.";
+"crop_tool_ai_tool_disclaimer_info_open_ai" = "يدعم أحد شركاء سناب شات (على سبيل المثال OpenAI) أداة تصميم الذكاء الاصطناعي هذه. تتم مشاركة لقطاتك معهم عند استخدام الأداة.";
+"crop_tool_ai_tool_disclaimer_info_partner" = "يدعم أحد الشركاء أداة تصميم الذكاء الاصطناعي هذه. تتم مشاركة لقطاتك معهم عند استخدام الأداة.";
+"crop_tool_ai_tool_disclaimer_info_third_party" = "يدعم طرف ثالث أداة تصميم الذكاء الاصطناعي هذه. تتم مشاركة لقطاتك معهم عند استخدام الأداة.";
+"crop_tool_ai_tool_error_title" = "حدث خطأ ما";
+"crop_tool_ai_tool_error_try_again" = "أعِد المحاولة";
+"crop_tool_enhance_button_title" = "تحسين";
+"crop_tool_enhance_error" = "تعذَّر تحسين لقطتك";
+"crop_tool_extend_button_title" = "توسيع";
+"crop_tool_extend_error" = "تعذَّر توسيع لقطتك";
+"crop_tool_loading_default_message" = "نحن نعالج لقطتك.";
+"crop_tool_loading_extend_message" = "هذه الميزة تجريبية.\nنحن نعالج بيانات لقطتك.\nقد يستغرق هذا ما يصل إلى 15 ثانية";
+"crop_tool_loading_title" = "يُرجى الانتظار";
+"crop_tool_retouch_error" = "عذرًا، لم يُطبق التنميق، أتريد المحاولة مجددًا؟";
+"crop_tool_undo_button_title" = "تراجع";

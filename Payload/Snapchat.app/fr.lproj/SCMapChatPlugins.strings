@@ -1,0 +1,15 @@
+"friend_is_sharing_live_location" = "%1$@ partage sa localisation en direct.";
+"friend_live_location_session_ended" = "LE PARTAGE DE LA LOCALISATION EN DIRECT DE %1$@ EST TERMINÉ.";
+"friend_not_currently_on_map" = "%1$@ n'est pas sur la Carte actuellement.";
+"friends_live_location" = "La localisation en direct de %1$@";
+"generic_error_message" = "Cette localisation n'est plus disponible.";
+"let_friend_see_your_location" = "Autorisez %1$@ à voir votre localisation.";
+"live_location_session_stopped" = "%1$@ NE PARTAGE PLUS SA LOCALISATION EN DIRECT.";
+"loc_shared_but_not_sharing_anymore" = "Vous avez partagé votre localisation, mais vous ne la partagez plus actuellement.";
+"location_muted" = "Localisation masquée";
+"me" = "Moi";
+"my_live_location" = "Ma localisation en direct";
+"session_expired" = "Session terminée";
+"stop_sharing" = "Arrêter le partage";
+"you" = "Vous";
+"your_live_location_session_ended" = "LE PARTAGE DE VOTRE LOCALISATION EN DIRECT EST TERMINÉ.";

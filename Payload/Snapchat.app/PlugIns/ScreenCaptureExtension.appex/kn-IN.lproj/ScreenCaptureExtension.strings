@@ -1,0 +1,9 @@
+/*
+
+ ScreenCaptureExtension.strings
+ ScreenCaptureExtension
+ */
+
+"screen_capture_not_in_call" = "ನಿಮ್ಮ ಸ್ಕ್ರೀನ್ ಹಂಚಿಕೊಳ್ಳಲು ನೀವು ಕರೆಯಲ್ಲಿರಬೇಕು.";
+"screen_capture_error_generic" = "ಏನೋ ತಪ್ಪಾಗಿದೆ: ದಯವಿಟ್ಟು ಸ್ಕ್ರೀನ್ ಅನ್ನು ಪುನಃ ಹಂಚಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸಿ.";
+"screen_capture_not_enabled" = "ಏನೋ ತಪ್ಪಾಗಿದೆ.";

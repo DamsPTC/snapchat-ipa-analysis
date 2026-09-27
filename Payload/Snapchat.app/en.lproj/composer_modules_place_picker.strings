@@ -1,0 +1,8 @@
+"errorText" = "Looks like there was a problem loading!";
+"formattedAddressAndLocation" = "$0 · $1";
+"loading" = "Loading Places...";
+"noPlacesFound" = "No Places Found!";
+"places" = "Places";
+"retry" = "Retry";
+"search" = "Search";
+"suggestAPlace" = "Suggest a Place";

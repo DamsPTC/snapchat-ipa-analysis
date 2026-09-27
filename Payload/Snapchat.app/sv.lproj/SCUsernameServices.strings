@@ -1,0 +1,8 @@
+"suggestion_error" = "Något gick snett. Försök igen senare.";
+"username_invalid_begin" = "Användarnamn måste börja med en bokstav 🔠";
+"username_invalid_char" = "Användarnamn kan bara innehålla latinska bokstäver (inte å, ä, ö), siffror och ett av -, _, eller . men inga specialtecken. 👌";
+"username_invalid_end" = "Användarnamn måste sluta med en bokstav eller siffra 👆";
+"username_invalid_long" = "Användarnamn kan inte vara längre än 15 tecken 📖";
+"username_invalid_separator" = "Användarnamn kan bara innehålla ett -, _, eller . Du har för många ✌";
+"username_invalid_short" = "Användarnamn måste innehålla minst 3 tecken 📝";
+"username_taken" = "%1$@ är upptaget!";

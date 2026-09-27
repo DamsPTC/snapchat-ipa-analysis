@@ -1,0 +1,18 @@
+"finish" = "إنهاء";
+"invalid_phone_number_suggestion_title" = "رقم الهاتف غير صحيح";
+"ngo_country_title" = "البلد";
+"ngo_email_instead" = "استخدم البريد الإلكتروني بدلاً من ذلك";
+"ngo_email_placeholder" = "you@email.com";
+"ngo_email_title" = "البريد الإلكتروني:";
+"ngo_phone_instead" = "استخدم رقم الهاتف بدلاً من ذلك";
+"ngo_phone_number_info" = "سنُرسل لك رمز التحقّق في رسالة نصية.";
+"ngo_phone_number_info_receive_messaging_by_channel" = "سنرسل رمز تحقّق في رسالة نصية. بإدخال رقمك، فأنت توافق على تلقي رسائل متعلقة بالمعاملات حول حسابك عن طريق الرسائل النصية أو أي قناة رسائل أخرى.";
+"ngo_phone_number_info_receive_messaging_by_channel_and_more" = "سوف نرسل إليك رمز التحقق. بإدخال رقمك، ستتلقى الرسائل الخاصة بالمعاملات المتعلقة بحسابك عبر الرسائل النصية أو قنوات الرسائل الأخرى، والمزيد.";
+"ngo_phone_number_info_receive_messaging_by_channel_learn_more" = "سنرسل إليك رمز التحقق. بإدخال رقمك، أنت توافق على تلقي الرسائل الخاصة بالمعاملات المتعلقة بحسابك عبر الرسائل النصية أو أي قناة رسائل أخرى. [تعرّف على المزيد⁦](https://help.snapchat.com/hc/articles/7012351597076?utm_source=sc&utm_medium=lm&utm_campaign=mobile_number)⁩ حول كيفية استخدام سناب لرقم هاتفك.";
+"ngo_phone_number_title" = "رقم الهاتف";
+"ngo_phone_placeholder" = "رقم الهاتف";
+"phone_suggestion_description" = "⁦%1$@⁩ رقم هاتف غير صحيح. هل تقصد\n⁦%2$@⁩؟";
+"register_email_button" = "إنشاء حساب بالبريد الإلكتروني بدلًا من ذلك";
+"register_email_error" = "أدخل عنوان بريد إلكتروني صحيح من فضلك.";
+"skip_button" = "التخطّي";
+"yes_update" = "نعم، تحديث";

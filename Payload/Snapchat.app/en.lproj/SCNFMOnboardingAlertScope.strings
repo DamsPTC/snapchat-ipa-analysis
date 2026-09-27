@@ -1,0 +1,4 @@
+"onboarding_alert_description" = "You received this message from %1$@ because you have their phone number in your contacts. \n\nYou can block %1$@ or change your contact settings at any time to avoid receiving these messages in the future. \n\nIf you open this message, %1$@ may be able to determine that you have their phone number in your contact book.";
+"onboarding_alert_open_chat_button" = "Open Chat";
+"onboarding_alert_settings_button" = "Settings";
+"onboarding_alert_title" = "Chat with %@";

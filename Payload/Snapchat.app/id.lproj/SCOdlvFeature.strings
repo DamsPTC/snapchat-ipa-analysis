@@ -1,0 +1,9 @@
+"landing_context" = "Login ini tidak seperti yang biasa kamu lakukan! Agar akunmu tetap aman, verifikasi akunmu melalui salah satu pilihan berikut.";
+"landing_message_note" = "*Tarif SMS dan data mungkin berlaku.";
+"landing_options_radio_phone" = "Pesan Teks";
+"landing_title" = "Akses Masuk Mencurigakan";
+"retry_message" = "Terjadi kesalahan. Harap coba lagi.";
+"verification_description" = "Masukkan kode yang kami kirim ke \n%1$@";
+"verification_title" = "Masukkan Kode Verifikasi";
+"verification_unable_to_verify" = "Ada masalah dalam verifikasi?";
+"verification_unable_to_verify_dialog" = "Maaf! Kami tidak bisa memverifikasi akunmu. Hubungi Dukungan Snapchat untuk mendapatkan bantuan.";

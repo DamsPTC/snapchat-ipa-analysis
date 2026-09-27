@@ -1,0 +1,7 @@
+"ai_mode_compatibility_w_magic_eraser" = "KI-Modus nicht mit dem Magic Eraser kompatibel";
+"ai_mode_disclaimer_body" = "Mit dem KI-Modus kannst du Snaps transformieren oder ganz neue Snaps nur mit Worten erstellen. Er wird von Snapchat und unseren Partnern betrieben. Wir speichern den Inhalt deiner Snaps gegebenenfalls, um diese Funktion weiter zu verbessern.";
+"ai_mode_disclaimer_title" = "✨ Willkommen beim KI-Editor ✨";
+"remote_inference_onboarding_allow" = "Erlauben";
+"remote_inference_onboarding_body" = "Um deinen Snap zu retuschieren, benötigen wir deine Zustimmung. Bist du einverstanden? %1$@";
+"remote_inference_onboarding_dont_allow" = "Nein, danke";
+"remote_inference_onboarding_title" = "Snap optimieren";

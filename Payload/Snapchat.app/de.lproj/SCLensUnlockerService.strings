@@ -1,0 +1,7 @@
+"report_lens_alert_remove_lens_action_remove" = "Löschen";
+"report_lens_alert_remove_lens_description" = "Die Linse wird dir nicht mehr angezeigt";
+"report_lens_alert_remove_lens_tile" = "Linse entfernen?";
+"report_lens_reason_block_lens_creator_action_block" = "Blockieren";
+"report_lens_reason_block_lens_creator_description" = "Von diesem Kreator erstellte Linsen werden dir nicht länger vorgeschlagen.";
+"report_lens_reason_block_lens_creator_title" = "Linsen-Kreator blockieren?";
+"report_lens_subtitle_why_are_you_reporting_this_lens" = "Warum meldest du diese Linse?";

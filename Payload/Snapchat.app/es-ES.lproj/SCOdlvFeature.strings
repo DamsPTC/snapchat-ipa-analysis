@@ -1,0 +1,9 @@
+"landing_context" = "Este inicio de sesión nos parece poco habitual en ti. Para proteger tu cuenta, verifícala mediante alguna de estas opciones.";
+"landing_message_note" = "*Pueden aplicarse cargos por mensajes y datos.";
+"landing_options_radio_phone" = "Mensaje de texto";
+"landing_title" = "Inicio de sesión sospechoso";
+"retry_message" = "Se ha producido un error. Vuelve a intentarlo.";
+"verification_description" = "Introduce el código que hemos enviado a \n%1$@";
+"verification_title" = "Introducir código de verificación";
+"verification_unable_to_verify" = "¿Tienes problemas con la verificación?";
+"verification_unable_to_verify_dialog" = "¡Vaya! No hemos podido verificar tu cuenta. Ponte en contacto con Ayuda de Snapchat para recibir asistencia.";

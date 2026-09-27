@@ -1,0 +1,13 @@
+"onboarding_open_chat" = "Chat öffnen";
+"onboarding_prompt_body" = "Du kannst mit $0 chatten, weil du ihre/seine Handynummer in deinen Kontakten hast.\n\nDu kannst $0 blockieren oder deine Kontakteinstellungen jederzeit ändern, um von deinen Kontakten keine Nachrichten mehr zu erhalten.\n\nWenn du mit $0 chattest, sieht sie/er möglicherweise, dass du ihre/seine Handynummer in den Kontakten hast.";
+"onboarding_prompt_body_with_unread_message" = "Du hast diese Nachricht von $0 erhalten, weil du ihre/seine Handynummer in deinen Kontakten hast.\n\nDu kannst $0 blockieren oder deine Kontakteinstellungen jederzeit ändern, um keine Nachrichten dieser Art mehr zu erhalten.\n\nWenn du diese Nachricht öffnest, sieht $0 möglicherweise, dass du ihre/seine Handynummer in den Kontakten hast.";
+"onboarding_prompt_minor_aged_up" = "Du kannst mit $0 chatten, weil du unter „Mich kontaktieren“ die Einstellung „Jeder“ ausgewählt hast. \n\n Du kannst $0 blockieren oder deine Einstellungen jederzeit ändern, wenn du von diesem Nutzer keine Nachrichten mehr erhalten möchtest.";
+"onboarding_prompt_welcome_title" = "Mit $0 chatten";
+"onboarding_settings" = "Einstellungen";
+"recipient_prompt_body_added" = "Du und $0 seid noch nicht befreundet, aber sie/er kann dir basierend auf deinen Einstellungen für „Mich kontaktieren“ Nachrichten schicken.";
+"recipient_prompt_body_adding" = "$0 hat dich noch nicht als Freund hinzugefügt und kann deine Nachrichten deshalb nicht sehen.";
+"recipient_prompt_body_in_my_contacts" = "$0 ist nicht in deiner Freundesliste auf Snapchat, wurde aber angezeigt, weil du sie/ihn in deinen Kontakten gespeichert hast.";
+"recipient_prompt_body_low_mutual_friends" = "Du und $0 habt nicht viele gemeinsame Freunde. Bevor du mit dieser Person chattest, solltest du prüfen, ob du sie kennst.";
+"recipient_prompt_button_dismiss" = "Okay";
+"recipient_prompt_button_report_or_block" = "Melden oder blockieren";
+"recipient_prompt_button_settings" = "Einstellungen";

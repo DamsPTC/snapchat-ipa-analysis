@@ -1,0 +1,12 @@
+"cancel" = "Annuleren";
+"clear" = "Wissen";
+"clear_location_history" = "Toplocaties wissen";
+"clear_location_history_alert_message" = "Hiermee wordt de lijst met plaatsen die je het vaakst bezoekt gereset. We gebruiken die plaatsen onder andere voor Actionmoji op de Kaart.";
+"clear_location_history_alert_title" = "Toplocaties wissen?";
+"clear_location_history_request_failure_message" = "Toplocaties wissen is mislukt";
+"clear_location_history_request_success_message" = "Toplocaties gewist.";
+"clear_location_history_v2_subtext" = "Wis je locatiegeschiedenis, waaronder je reisupdates en enkele plaatsen waar je bent geweest terwijl je locatie was ingeschakeld, maar niet de plaatsen die je hebt getagd in Snaps.";
+"clear_location_history_v2_title" = "Locatiegeschiedenis wissen";
+"display_public_friend_favorites" = "Toon mijn Plaatsfavorieten niet aan vrienden. Je kunt dan nog steeds de favorieten van vrienden bekijken.";
+"places" = "Plaatsen";
+"recommend_to_friends" = "Gebruik de plaatsen die ik heb getagd of als favoriet heb ingesteld in Mijn Verhaal om plaatsen aan te bevelen aan vrienden";
