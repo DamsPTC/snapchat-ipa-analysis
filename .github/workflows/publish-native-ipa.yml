@@ -1,0 +1,106 @@
+name: Publish IPA without identified injections
+
+on:
+  push:
+    branches: [fix/spoof-consistency]
+    paths:
+      - .github/workflows/publish-native-ipa.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-native-ipa-v12.81.0
+  cancel-in-progress: false
+
+env:
+  RELEASE_TAG: v12.81.0-native-baseline
+  IPA_NAME: Snapchat_Core_nettoyee_unsigned.ipa
+  IPA_SHA256: dd49ab63e079abac15391bfb7861d69fa876ec1b7d2a2a54b1ac801441e77c92
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Download the archived source
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download v12.81.0-version-fix --repo "$GITHUB_REPOSITORY" --pattern Snapchat_DeviceCheck_etude_unsigned.ipa --dir "$RUNNER_TEMP/ipa-source"
+      - name: Rebuild and verify the exact delivered IPA
+        run: |
+          python tools/restore_native.py "$RUNNER_TEMP/ipa-source/Snapchat_DeviceCheck_etude_unsigned.ipa" "$RUNNER_TEMP/native-release/$IPA_NAME" --report "$RUNNER_TEMP/native-release/native-baseline-result.json"
+          python - <<'PY'
+          import hashlib
+          import json
+          import os
+          from pathlib import Path
+          import shutil
+          import zlib
+
+          output = Path(os.environ['RUNNER_TEMP']) / 'native-release'
+          archive = output / os.environ['IPA_NAME']
+          with archive.open('rb') as stream:
+              digest = hashlib.file_digest(stream, 'sha256').hexdigest()
+          if digest != os.environ['IPA_SHA256'] or archive.stat().st_size != 94365812:
+              raise SystemExit(f'Archive differs from the delivered IPA (zlib {zlib.ZLIB_RUNTIME_VERSION}): {digest}')
+          result = json.loads((output / 'native-baseline-result.json').read_text())
+          if result != json.loads(Path('analysis/native-baseline-result.json').read_text()):
+              raise SystemExit('Rebuild report differs from the audited report')
+          (output / 'SHA256SUMS.txt').write_text(f'{digest}  {archive.name}\n', encoding='utf-8')
+          shutil.copyfile('analysis/native-baseline-release.md', output / 'LIRE_AVANT_INSTALLATION.md')
+          shutil.copyfile('analysis/native-baseline-verification.json', output / 'native-baseline-verification.json')
+          print(f'Exact delivered IPA verified: {digest}, {archive.stat().st_size} bytes')
+          PY
+      - name: Upload, verify and publish the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo 'Release already exists; refusing to overwrite it.' >&2
+            exit 1
+          fi
+          gh release create "$RELEASE_TAG" \
+            "$RUNNER_TEMP/native-release/$IPA_NAME" \
+            "$RUNNER_TEMP/native-release/SHA256SUMS.txt" \
+            "$RUNNER_TEMP/native-release/LIRE_AVANT_INSTALLATION.md" \
+            "$RUNNER_TEMP/native-release/native-baseline-result.json" \
+            "$RUNNER_TEMP/native-release/native-baseline-verification.json" \
+            --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
+            --draft --prerelease \
+            --title 'Snapchat 12.81.0 — base sans spoof ni injections identifiées' \
+            --notes-file analysis/native-baseline-release.md
+          python - <<'PY'
+          import hashlib
+          import json
+          import os
+          from pathlib import Path
+          import subprocess
+
+          endpoint = f'repos/{os.environ["GITHUB_REPOSITORY"]}/releases/tags/{os.environ["RELEASE_TAG"]}'
+          release = json.loads(subprocess.check_output(['gh', 'api', endpoint], text=True))
+          if not release['draft'] or release['target_commitish'] != os.environ['GITHUB_SHA']:
+              raise SystemExit('Unexpected release state or target')
+          output = Path(os.environ['RUNNER_TEMP']) / 'native-release'
+          expected = {path.name: path for path in output.iterdir() if path.is_file()}
+          assets = {asset['name']: asset for asset in release['assets']}
+          if set(assets) != set(expected):
+              raise SystemExit('Uploaded assets differ from the expected release files')
+          for name, path in expected.items():
+              with path.open('rb') as stream:
+                  digest = hashlib.file_digest(stream, 'sha256').hexdigest()
+              asset = assets[name]
+              if asset['state'] != 'uploaded' or asset['size'] != path.stat().st_size or asset['digest'] != f'sha256:{digest}':
+                  raise SystemExit(f'Uploaded asset failed size/hash verification: {name}')
+          print('All five uploaded assets match their local SHA-256 hashes.')
+          PY
+          gh release edit "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --draft=false --latest=false

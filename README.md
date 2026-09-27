@@ -4,6 +4,8 @@
 La recette `tools/restore_native.py` retire entièrement SCRT, SKEngine et
 CydiaSubstrate, restaure les identifiants de bundle et corrige la version
 minimale déclarée. Voir [le rapport actuel](analysis/native-baseline.md).
+Télécharger l’IPA et ses empreintes dans la
+[release sans spoof](https://github.com/DamsPTC/snapchat-ipa-analysis/releases/tag/v12.81.0-native-baseline).
 Le `Payload/` ci-dessous reste le matériau historique d’analyse v3 ;
 il ne faut pas le rezipper pour obtenir la nouvelle base.
 
