@@ -4,9 +4,11 @@
 **Diagnostic** et un export de codes d'erreur pour l'essai après signature par
 l'utilisateur. Elle conserve le login natif et ne réintroduit pas de spoof.
 Voir [le mode d'emploi et les limites](analysis/login-runtime-diagnostic-release.md)
-et la [release dédiée](https://github.com/DamsPTC/snapchat-ipa-analysis/releases/tag/v12.81.0-runtime-diagnostic)
-une fois les contrôles de publication terminés. Ce diagnostic ne constitue pas
-encore un correctif du refus de connexion ou du crash AutoFill.
+et la [release dédiée](https://github.com/DamsPTC/snapchat-ipa-analysis/releases/tag/v12.81.0-runtime-diagnostic).
+La compilation iPhoneOS, les tests de transmission sur le runtime Apple et les
+contrôles de l'archive ont passé. Les [empreintes publiées](analysis/login-runtime-diagnostic-result.json)
+identifient exactement le livrable. Ce diagnostic ne constitue pas encore un
+correctif du refus de connexion ou du crash AutoFill.
 
 **Livrable actuel : une base sans les injections identifiées, spoof compris.**
 **Régression signalée après signature et essai sur iPhone : crash dans le
