@@ -31,6 +31,7 @@ def inspect_device_binary(data):
         '/System/Library/Frameworks/UIKit.framework/UIKit',
         '/System/Library/Frameworks/Foundation.framework/Foundation',
         '/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation',
+        '/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics',
         '/usr/lib/libobjc.A.dylib', '/usr/lib/libSystem.B.dylib',
     }
     for _ in range(count):
@@ -72,7 +73,7 @@ def build(output, simulator):
     sdk_path = run('xcrun', '--sdk', sdk, '--show-sdk-path')
     command = ['xcrun', '--sdk', sdk, 'clang', '-target', target, '-isysroot', sdk_path,
                '-fobjc-arc', '-fblocks', '-std=gnu11', '-O1', '-Wall', '-Wextra', '-Werror',
-               '-framework', 'Foundation', '-framework', 'UIKit',
+               '-framework', 'Foundation', '-framework', 'UIKit', '-framework', 'CoreGraphics',
                f'-DLAB_ENABLE_SELF_TEST={int(simulator)}',
                str(SOURCE / 'LabModel.m'), str(SOURCE / 'LabApp.m'), '-o', str(app / APP_NAME)]
     if not simulator:

@@ -94,6 +94,13 @@ jobs:
               shutil.copyfile(root/'offline-device'/name,output/name)
           shutil.copyfile('analysis/offline-sandbox-release.md',output/'LIRE_AVANT_INSTALLATION.md')
           PY
+      - name: Retain build and simulator evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: offline-sandbox-verification
+          path: ${{ runner.temp }}/offline-release/
+          if-no-files-found: error
+          retention-days: 7
       - name: Publish verified standalone prerelease
         env:
           GH_TOKEN: ${{ github.token }}
