@@ -68,11 +68,45 @@ La cible de version historique et les autres comportements du module inactif
 restent des résidus. Ce changement n’altère pas les User-Agent en fonctionnement
 normal tant que l’initialisateur reste désactivé.
 
+### 4. Profil fictif iPhone 12 mini
+
+Les anciennes constantes iPhone X sont remplacées par ce profil de test :
+
+| Champ | Valeur |
+| --- | --- |
+| Modèle | iPhone 12 mini |
+| ProductType | `iPhone13,1` |
+| Système | iOS `17.5.1` |
+| Build | `21F90` |
+| Numéro de série fictif | `SIM12MINI001` |
+| UDID fictif | `00008101-0000000000000001` |
+
+Ces valeurs et les sources des correspondances modèle/build sont consignées
+dans `tools/spoof_fix/iphone12-mini.json`. Aucun identifiant d’un appareil réel
+n’est repris pour ce profil.
+
+Les deux implémentations de `_SH_IsExemptDevice` (`0x1ebe0`, `0x5d5d4`)
+utilisent ces constantes dans leurs listes d’exemption. Elles lisent les
+informations de l’appareil et les comparent aux entrées de la liste : modifier
+cette liste ne change donc pas les réponses des API matérielles d’iOS.
+La liste statique et celle construite au lancement partagent les objets CFString
+modifiés. Leurs deux entrées historiques portent désormais le même profil et
+le même build ; leur structure et leur logique de comparaison sont conservées.
+
+Le modèle et la version d’iOS sont aussi appliqués au CFString de User-Agent
+partagé par les deux setters décrits ci-dessus. L’ancien littéral inutilisé
+`iPhone6,1 / iOS 12.5.7` reste un résidu. Le module reste désactivé.
+
+Cette seconde révision change uniquement les textes et, lorsque nécessaire,
+les longueurs des CFString. Elle ajoute 78 octets différents à la première
+correction, sans changer les instructions ni les pointeurs de rebasing.
+
 ## Reproductibilité et validation
 
 - Entrée SHA-256 : `15e8fedb591d0c154944af49bb5c87c48e31373d52ad3e9f13f5458f21574c4b`.
-- Sortie SHA-256 : `1ad324fb72ad3fb4c260b9187cb6bf8c55fb042ef83dbc58b3f229c88555e059`.
-- Taille inchangée ; 339 octets différents, dans quatre régions déclarées.
+- Révision intermédiaire acceptée : `1ad324fb72ad3fb4c260b9187cb6bf8c55fb042ef83dbc58b3f229c88555e059`.
+- Sortie SHA-256 : `7756e3648654bd7377c322f7490461fcdfdf2b3f4a00ade269bb26d310d9aea9`.
+- Taille inchangée ; 417 octets différents, dans quatorze régions déclarées.
 - `tools/spoof_fix/patches.json` contient les octets exacts avant/après et les
   gardes maintenant désactivés les initialisateurs concernés.
 - `tools/spoof_fix/initialize_identity.s` rend la nouvelle routine lisible et
@@ -82,13 +116,16 @@ normal tant que l’initialisateur reste désactivé.
 - Les champs `source_*` de l’inventaire décrivent toujours l’IPA source ; le
   champ `derived_revision` identifie la modification des fichiers extraits.
 
-Les 12 tests exécutent les instructions ARM64 d’origine et corrigées dans
-Unicorn avec un modèle explicite des appels Foundation/runtime. Ils reproduisent
+La suite de 14 tests exécute les instructions ARM64 d’origine et corrigées dans
+Unicorn avec un modèle explicite des appels Foundation/runtime et inspecte les
+constantes du profil. Les tests reproduisent
 l’UUID invalide, les effacements avant refus et le mauvais User-Agent dans
 l’archive source. Ils couvrent ensuite la réparation persistante, la conservation
 d’un UUID valide, les deux accesseurs, les branches du hook de connexion,
 ses arguments, le profil du User-Agent, les plages de modification et le
-réassemblage du correctif.
+réassemblage du correctif. Les contrôles du profil vérifient les deux entrées
+statiques, les longueurs/terminaisons des CFString et la conservation de leurs
+pointeurs.
 
 Ces tests ne valident pas l’implémentation réelle de Foundation/ARC, la signature,
 le chargement dyld, SKEngine, la compatibilité des classes privées ou une

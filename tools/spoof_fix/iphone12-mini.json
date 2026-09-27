@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "label": "iPhone 12 mini — profil fictif de test",
+  "model": "iPhone 12 mini",
+  "product_type": "iPhone13,1",
+  "system_version": "17.5.1",
+  "build_version": "21F90",
+  "serial_number": "SIM12MINI001",
+  "udid": "00008101-0000000000000001",
+  "identifiers_are_fictional": true,
+  "scope": "Existing SCRT exemption-list constants and dormant User-Agent template; does not override iOS hardware APIs",
+  "sources": [
+    {
+      "url": "https://origin-devforums.apple.com/forums/profile/vickieW",
+      "supports": "A developer's xcrun devicectl output identifies iPhone 12 mini as iPhone13,1. No identifiers from that output were reused."
+    },
+    {
+      "url": "https://developer.apple.com/forums/thread/689468",
+      "supports": "A developer's environment report identifies iOS 17.5.1 as build 21F90."
+    }
+  ]
+}

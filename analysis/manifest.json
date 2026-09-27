@@ -37602,7 +37602,7 @@
     },
     {
       "path": "Payload/Snapchat.app/Frameworks/SCRT.framework/SCRT",
-      "sha256": "1ad324fb72ad3fb4c260b9187cb6bf8c55fb042ef83dbc58b3f229c88555e059",
+      "sha256": "7756e3648654bd7377c322f7490461fcdfdf2b3f4a00ade269bb26d310d9aea9",
       "bytes": 1297664
     },
     {
@@ -40572,9 +40572,10 @@
     }
   ],
   "derived_revision": {
-    "patch_set": "spoof-consistency-v1",
+    "patch_set": "spoof-consistency-v2-iphone12mini",
     "upstream_commit": "e005928d969b6bfb59b1caafca2f7ba50a2519e6",
     "patch_manifest": "tools/spoof_fix/patches.json",
+    "device_profile": "tools/spoof_fix/iphone12-mini.json",
     "modified_files": [
       "Payload/Snapchat.app/Frameworks/SCRT.framework/SCRT"
     ],

@@ -15,12 +15,14 @@ from unicorn.arm64_const import *
 
 ROOT = Path(__file__).resolve().parents[1]
 SPEC = json.loads((ROOT / 'tools/spoof_fix/patches.json').read_text())
+PROFILE = json.loads((ROOT / SPEC['device_profile']).read_text())
 
 
 def images():
     data = (ROOT / SPEC['path']).read_bytes()
     digest = hashlib.sha256(data).hexdigest()
-    assert digest in (SPEC['before_sha256'], SPEC['after_sha256'])
+    assert digest in {SPEC['before_sha256'], SPEC['after_sha256'],
+                      *(revision['sha256'] for revision in SPEC.get('intermediate_revisions', []))}
     original, patched = bytearray(data), bytearray(data)
     for patch in SPEC['patches']:
         offset = patch['offset']
@@ -279,13 +281,52 @@ class SpoofConsistencyTests(unittest.TestCase):
                                   runtime.obj(marker), runtime.obj('User-Agent')])
             expected = runtime.value(0xbaf70).replace('%@', runtime.value(0xbae70))
             self.assertEqual(runtime.headers['User-Agent'], expected)
-            self.assertIn('iPhone10,3; iOS 16.7.12', expected)
+            self.assertIn('iPhone13,1; iOS 17.5.1', expected)
 
     def test_original_user_agent_reproduces_device_mismatch(self):
         runtime = Runtime(self.original)
         runtime.run(0x43c1c, [runtime.obj(('request',)), runtime.obj(('selector',)),
                               runtime.obj('iPhone'), runtime.obj('User-Agent')])
         self.assertIn('iPhone6,1; iOS 12.5.7', runtime.headers['User-Agent'])
+
+    def test_iphone12_mini_constants_have_correct_lengths_and_unchanged_pointers(self):
+        expected = {
+            0xb7990: PROFILE['udid'],
+            0xb79b0: PROFILE['serial_number'],
+            0xb79d0: PROFILE['product_type'],
+            0xb79f0: PROFILE['build_version'],
+            0xb7a10: PROFILE['build_version'],
+            0xbaf70: f"Snapchat/%@ Beta ({PROFILE['product_type']}; iOS {PROFILE['system_version']}; gzip)",
+        }
+        runtime = Runtime(self.patched)
+        for address, value in expected.items():
+            with self.subTest(address=hex(address)):
+                self.assertEqual(runtime.value(address), value)
+                self.assertEqual(self.original[address:address + 24], self.patched[address:address + 24])
+                pointer, length = struct.unpack_from('<QQ', self.patched, address + 16)
+                self.assertEqual(length, len(value.encode()))
+                self.assertEqual(self.patched[(pointer & 0xffffffff) + length], 0)
+
+    def test_both_static_exemption_records_use_the_same_fictional_profile(self):
+        def integer(address):
+            return struct.unpack_from('<Q', self.patched, address)[0]
+
+        def pointer(address):
+            return integer(address) & 0xffffffff
+
+        runtime = Runtime(self.patched)
+        expected = {'product': PROFILE['product_type'], 'serial': PROFILE['serial_number'],
+                    'udid': PROFILE['udid'], 'build': PROFILE['build_version']}
+        self.assertTrue(PROFILE['identifiers_are_fictional'])
+        self.assertEqual(integer(0xbf720 + 8), 2)
+        items = pointer(0xbf720 + 16)
+        for index in range(2):
+            dictionary = pointer(items + 8 * index)
+            self.assertEqual(integer(dictionary + 16), 4)
+            keys, values = pointer(dictionary + 24), pointer(dictionary + 32)
+            actual = {runtime.value(pointer(keys + 8 * field)): runtime.value(pointer(values + 8 * field))
+                      for field in range(4)}
+            self.assertEqual(actual, expected)
 
     def test_other_header_values_are_unchanged_by_device_fix(self):
         runtime = Runtime(self.patched)

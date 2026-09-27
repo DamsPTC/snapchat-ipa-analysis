@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "id": "spoof-consistency-v1",
+  "id": "spoof-consistency-v2-iphone12mini",
   "upstream_commit": "e005928d969b6bfb59b1caafca2f7ba50a2519e6",
   "path": "Payload/Snapchat.app/Frameworks/SCRT.framework/SCRT",
   "bytes": 1297664,
   "before_sha256": "15e8fedb591d0c154944af49bb5c87c48e31373d52ad3e9f13f5458f21574c4b",
-  "after_sha256": "1ad324fb72ad3fb4c260b9187cb6bf8c55fb042ef83dbc58b3f229c88555e059",
+  "after_sha256": "7756e3648654bd7377c322f7490461fcdfdf2b3f4a00ade269bb26d310d9aea9",
   "patches": [
     {
       "id": "validate-persisted-uuid",
@@ -30,6 +30,66 @@
       "offset": 277948,
       "before": "42403d91",
       "after": "42c03d91"
+    },
+    {
+      "id": "fixture-udid-text",
+      "offset": 534911,
+      "before": "6630623662303134346235386539313632646538303435656361653032323063396264636237396400",
+      "after": "30303030383130312d3030303030303030303030303030303100000000000000000000000000000000"
+    },
+    {
+      "id": "fixture-udid-length",
+      "offset": 752040,
+      "before": "2800000000000000",
+      "after": "1900000000000000"
+    },
+    {
+      "id": "fixture-serial-text",
+      "offset": 534952,
+      "before": "433339565741454c4a434c4600",
+      "after": "53494d31324d494e4930303100"
+    },
+    {
+      "id": "fixture-product-type-text",
+      "offset": 534965,
+      "before": "6950686f6e6531302c3300",
+      "after": "6950686f6e6531332c3100"
+    },
+    {
+      "id": "fixture-first-build-text",
+      "offset": 534976,
+      "before": "32304831313500",
+      "after": "32314639300000"
+    },
+    {
+      "id": "fixture-first-build-length",
+      "offset": 752136,
+      "before": "0600000000000000",
+      "after": "0500000000000000"
+    },
+    {
+      "id": "fixture-second-build-text",
+      "offset": 534983,
+      "before": "32304833363400",
+      "after": "32314639300000"
+    },
+    {
+      "id": "fixture-second-build-length",
+      "offset": 752168,
+      "before": "0600000000000000",
+      "after": "0500000000000000"
+    },
+    {
+      "id": "fixture-user-agent-text",
+      "offset": 645674,
+      "before": "536e6170636861742f2540204265746120286950686f6e6531302c333b20694f532031362e372e31323b20677a69702900",
+      "after": "536e6170636861742f2540204265746120286950686f6e6531332c313b20694f532031372e352e313b20677a6970290000"
+    },
+    {
+      "id": "fixture-user-agent-length",
+      "offset": 765832,
+      "before": "3000000000000000",
+      "after": "2f00000000000000"
     }
   ],
   "activation_guards": [
@@ -43,5 +103,17 @@
       "offset": 321888,
       "bytes": "c0035fd6"
     }
-  ]
+  ],
+  "intermediate_revisions": [
+    {
+      "sha256": "1ad324fb72ad3fb4c260b9187cb6bf8c55fb042ef83dbc58b3f229c88555e059",
+      "patch_ids": [
+        "validate-persisted-uuid",
+        "defer-wipes-until-verification",
+        "wipe-after-successful-verification",
+        "consistent-user-agent-device"
+      ]
+    }
+  ],
+  "device_profile": "tools/spoof_fix/iphone12-mini.json"
 }

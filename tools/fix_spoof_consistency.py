@@ -28,7 +28,13 @@ def prepare(root, spec):
     binary = root / spec['path']
     original = binary.read_bytes()
     digest = sha256(original)
-    if digest not in (spec['before_sha256'], spec['after_sha256']) or len(original) != spec['bytes']:
+    applied = {
+        spec['before_sha256']: set(),
+        spec['after_sha256']: {patch['id'] for patch in spec['patches']},
+    }
+    for revision in spec.get('intermediate_revisions', []):
+        applied[revision['sha256']] = set(revision['patch_ids'])
+    if digest not in applied or len(original) != spec['bytes']:
         raise ValueError('Unknown SCRT binary: refusing offsets from another build')
     modified = bytearray(original)
     seen = set()
@@ -39,7 +45,7 @@ def prepare(root, spec):
         if not before or len(before) != len(after) or offset < 0 or offset + len(before) > len(original) or region & seen:
             raise ValueError('Invalid or overlapping patch region')
         seen.update(region)
-        expected = before if digest == spec['before_sha256'] else after
+        expected = after if patch['id'] in applied[digest] else before
         if original[offset:offset + len(before)] != expected:
             raise ValueError(f'Preimage mismatch for {patch["id"]}')
         modified[offset:offset + len(after)] = after
@@ -53,7 +59,7 @@ def prepare(root, spec):
     manifest_path = root / 'analysis/manifest.json'
     manifest = json.loads(manifest_path.read_text())
     entries = [entry for entry in manifest['files'] if entry['path'] == spec['path']]
-    if len(entries) != 1 or entries[0]['sha256'] not in (spec['before_sha256'], spec['after_sha256']):
+    if len(entries) != 1 or entries[0]['sha256'] not in applied:
         raise ValueError('Unexpected manifest entry for SCRT')
     if entries[0]['bytes'] != spec['bytes']:
         raise ValueError('Manifest byte count changed')
@@ -64,6 +70,7 @@ def prepare(root, spec):
         'patch_set': spec['id'],
         'upstream_commit': spec['upstream_commit'],
         'patch_manifest': 'tools/spoof_fix/patches.json',
+        'device_profile': spec.get('device_profile'),
         'modified_files': [spec['path']],
         'iphone_tested': False,
         'note': 'source_* fields identify the unmodified upstream IPA, not a rebuilt IPA',
@@ -72,7 +79,7 @@ def prepare(root, spec):
     sums_path = root / 'FILES.sha256'
     lines = sums_path.read_text().splitlines(keepends=True)
     matching = [index for index, line in enumerate(lines) if line.rstrip('\n').endswith('  ' + spec['path'])]
-    if len(matching) != 1 or lines[matching[0]][:64] not in (spec['before_sha256'], spec['after_sha256']):
+    if len(matching) != 1 or lines[matching[0]][:64] not in applied:
         raise ValueError('Unexpected FILES.sha256 entry for SCRT')
     lines[matching[0]] = spec['after_sha256'] + '  ' + spec['path'] + '\n'
 
