@@ -6,6 +6,12 @@ parcours de connexion. Cette base n’est pas validée fonctionnellement.**
 Le [rapport de diagnostic](analysis/crash-2026-09-27-keyboard.md) décrit un
 contrôle d’intégrité mémoire déclenché pendant la gestion du clavier et une
 interception de SCRT retirée qui visait la même classe système.
+L’utilisateur a depuis isolé le crash au remplissage automatique avec Face ID ;
+la saisie manuelle ne crash pas, mais la connexion reste refusée.
+Une [variante de diagnostic des métadonnées](analysis/login-metadata-control-release.md)
+conserve les plists de la version précédente tout en laissant le spoof retiré.
+Elle est disponible dans la
+[release de test](https://github.com/DamsPTC/snapchat-ipa-analysis/releases/tag/v12.81.0-metadata-control).
 La recette `tools/restore_native.py` retire entièrement SCRT, SKEngine et
 CydiaSubstrate, restaure les identifiants de bundle et corrige la version
 minimale déclarée. Voir [le rapport actuel](analysis/native-baseline.md).

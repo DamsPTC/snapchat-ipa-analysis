@@ -16,6 +16,7 @@ from test_spoof_consistency import ROOT
 sys.path.insert(0, str(ROOT / 'tools'))
 from clean_ipa import (build, commands, dylib_name, main_header_without_addons,
                        restore_bundle_id)
+from restore_native import load_recipe
 
 SCRT = '@executable_path/Frameworks/SCRT.framework/SCRT'
 SKENGINE = '@executable_path/SKEngine.dylib'
@@ -122,6 +123,23 @@ class NativeBaselineTests(unittest.TestCase):
             self.assertTrue(result['zip_crc_and_all_hashes_verified'])
             self.assertEqual((result['output_files'], result['unchanged_files']), (3, 1))
             self.assertEqual(sha(output.read_bytes()), result['output_sha256'])
+
+            # The metadata control must isolate only the plist changes while
+            # keeping both injections removed and never running a spoof patch.
+            control_recipe = load_recipe(preserve_source_metadata=True)
+            for key in ('source', 'main', 'remove_files'):
+                control_recipe[key] = recipe[key]
+            control = root / 'metadata-control.ipa'
+            with patch('clean_ipa.prepare_binary', side_effect=AssertionError('Spoof patch must not run')):
+                control_result = build(source, control, control_recipe)
+            self.assertEqual(control_result['recipe'], 'native-baseline-metadata-control-v1')
+            self.assertFalse(control_result['spoof_patch_applied'])
+            self.assertEqual(control_result['restored_bundle_identifiers'], [])
+            with zipfile.ZipFile(control) as archive:
+                self.assertEqual(set(archive.namelist()), {MAIN, PLIST, 'Payload/Snapchat.app/native-resource'})
+                self.assertEqual(archive.read(PLIST), plist)
+                self.assertEqual(archive.read(MAIN), prefix + main[len(prefix):])
+            self.assertEqual(len(load_recipe()['restore_plists']), 7)
             with zipfile.ZipFile(output) as archive:
                 self.assertEqual(set(archive.namelist()), {MAIN, PLIST, 'Payload/Snapchat.app/native-resource'})
                 self.assertEqual(archive.read(PLIST), restored_plist)

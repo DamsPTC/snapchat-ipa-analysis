@@ -1,5 +1,11 @@
 # Régression constatée après retrait de SCRT
 
+**Retour utilisateur complémentaire :** la fermeture se produit juste après le
+remplissage automatique du mot de passe avec Face ID. La saisie manuelle ne
+provoque pas ce crash, mais la connexion reste refusée. Le parcours AutoFill et
+le refus de connexion manuelle constituent donc deux problèmes à suivre
+séparément. Ce constat ne prouve pas encore le rôle causal du filtre SCRT.
+
 Diagnostic du 27 septembre 2026, fondé sur le rapport iOS fourni par
 l’utilisateur et sur les deux IPA effectivement produites. Le rapport brut
 n’est pas recopié dans le dépôt. Aucun nouveau binaire n’est publié à cette

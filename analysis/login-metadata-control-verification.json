@@ -1,0 +1,36 @@
+{
+  "recipe": "native-baseline-metadata-control-v1",
+  "comparison": {
+    "previous_with_scrt": {
+      "removed": [
+        "Payload/Snapchat.app/Frameworks/SCRT.framework/Info.plist",
+        "Payload/Snapchat.app/Frameworks/SCRT.framework/SCRT"
+      ],
+      "added": [],
+      "changed": [
+        "Payload/Snapchat.app/Snapchat"
+      ],
+      "unchanged": 8066
+    },
+    "native_baseline": {
+      "removed": [],
+      "added": [],
+      "changed": [
+        "Payload/Snapchat.app/Info.plist",
+        "Payload/Snapchat.app/PlugIns/ScreenCaptureExtension.appex/Info.plist",
+        "Payload/Snapchat.app/PlugIns/SnapchatHomeScreenWidget.appex/Info.plist",
+        "Payload/Snapchat.app/PlugIns/SnapchatIntentsExtension.appex/Info.plist",
+        "Payload/Snapchat.app/PlugIns/SnapchatLocationPushExtension.appex/Info.plist",
+        "Payload/Snapchat.app/PlugIns/SnapchatNotificationServiceExt.appex/Info.plist",
+        "Payload/Snapchat.app/PlugIns/SnapchatShareExt.appex/Info.plist"
+      ],
+      "unchanged": 8060
+    }
+  },
+  "all_seven_plists_byte_identical_to_previous_with_scrt": true,
+  "main_binary_byte_identical_to_native_baseline": true,
+  "known_injected_libraries_absent": true,
+  "login_fix_confirmed": false,
+  "autofill_fix_confirmed": false,
+  "on_device_tested": false
+}
