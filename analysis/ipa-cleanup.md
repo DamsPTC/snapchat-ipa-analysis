@@ -1,5 +1,10 @@
 # Nettoyage des ajouts séparables
 
+**Révision historique avec spoof conservé.** La demande ultérieure de suppression
+complète est traitée dans [native-baseline.md](native-baseline.md). L’IPA livrée
+sous le même nom a depuis été remplacée par cette base sans injections ; le hash
+ci-dessous identifie uniquement l’ancienne révision.
+
 Produit : `Snapchat_Core_nettoyee_unsigned.ipa`, reconstruit le 27 septembre 2026
 depuis l’archive source exacte, puis corrigé par la v3 et la recette
 `tools/cleanup/recipe.json`. Aucun binaire de l’IPA n’a été lancé sur un appareil

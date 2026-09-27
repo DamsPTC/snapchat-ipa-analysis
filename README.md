@@ -1,4 +1,11 @@
-# Snapchat — IPA extraite pour analyse
+# Snapchat — analyse et base sans injections
+
+**Livrable actuel : une base sans les injections identifiées, spoof compris.**
+La recette `tools/restore_native.py` retire entièrement SCRT, SKEngine et
+CydiaSubstrate, restaure les identifiants de bundle et corrige la version
+minimale déclarée. Voir [le rapport actuel](analysis/native-baseline.md).
+Le `Payload/` ci-dessous reste le matériau historique d’analyse v3 ;
+il ne faut pas le rezipper pour obtenir la nouvelle base.
 
 Archive privée dérivée du contenu de `Snapchat_DeviceCheck_etude_unsigned.ipa`,
 version **12.81.0**, build **12.81.0.47**.
@@ -55,7 +62,25 @@ Empreinte SHA-256 de l’IPA source, avant ces correctifs :
 ```
 <!-- spoof-consistency-v1 -->
 
-## Correctifs de cohérence du spoof
+## Base actuelle sans spoof
+
+La demande de conservation du spoof est remplacée par sa suppression complète.
+La nouvelle recette n’applique aucun patch Shield : elle retire entièrement son
+framework, les deux commandes de chargement ajoutées, et les autres fichiers
+annexes. Les sept identifiants de bundle sont remis dans le namespace Snapchat ;
+la version minimale du plist principal est alignée sur iOS 12.4 du binaire.
+
+```sh
+python3 tools/restore_native.py Snapchat_DeviceCheck_etude_unsigned.ipa Snapchat_Core_nettoyee_unsigned.ipa --report native-baseline-result.json
+```
+
+Voir [native-baseline.md](analysis/native-baseline.md) et
+[native-baseline-result.json](analysis/native-baseline-result.json).
+**La base est non signée et n’est pas certifiée identique à une IPA App Store.**
+Les six extensions conservent leur marquage de chiffrement. Les sections qui
+suivent décrivent les révisions d’analyse antérieures, conservées pour référence.
+
+## Historique : correctifs de cohérence du spoof
 
 Le remplacement d’IDFV/IDFA existant est conservé. Les modifications de SCRT sont :
 
@@ -108,7 +133,7 @@ Le workflow d’import applique aussi ce patch après extraction, pour éviter q
 nouvel import ne rétablisse silencieusement les défauts. Le script refuse tout
 binaire différent des empreintes d’entrée/sortie documentées, et il est idempotent.
 
-## IPA nettoyée des ajouts séparables
+## Historique : IPA nettoyée avec noyau spoof conservé
 
 `tools/clean_ipa.py` reconstruit une copie distincte depuis l’IPA source exacte,
 applique les correctifs ci-dessus, retire 43 fichiers annexes et désactive quatre

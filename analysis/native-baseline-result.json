@@ -1,0 +1,347 @@
+{
+  "recipe": "native-baseline-v1",
+  "source_sha256": "416aa57047ef1aaa77d03d1ca4c69759412b11d8141da877306be94d2bf633e9",
+  "output_filename": "Snapchat_Core_nettoyee_unsigned.ipa",
+  "output_sha256": "dd49ab63e079abac15391bfb7861d69fa876ec1b7d2a2a54b1ac801441e77c92",
+  "output_bytes": 94365812,
+  "output_files": 8067,
+  "output_uncompressed_bytes": 237330887,
+  "inventory_sha256": "05210746ca354d2aac314bd07e3b2c229cdb8e32e60a9e301a88afd843dfabef",
+  "signature": "unsigned",
+  "iphone_tested": false,
+  "server_behavior_tested": false,
+  "removed_files": [
+    {
+      "path": "Payload/Snapchat.app/Frameworks/CydiaSubstrate.framework/.troll-fools",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "reason": "Unreferenced standalone hook framework; SCRT has its own rebinding routines"
+    },
+    {
+      "path": "Payload/Snapchat.app/Frameworks/CydiaSubstrate.framework/CydiaSubstrate",
+      "sha256": "b0ef033919e831dd952a661c90ba19401092eeede672c5889d2f2410772aba66",
+      "bytes": 416691,
+      "reason": "Unreferenced standalone hook framework; SCRT has its own rebinding routines"
+    },
+    {
+      "path": "Payload/Snapchat.app/Frameworks/CydiaSubstrate.framework/Info.plist",
+      "sha256": "ceba0f41456a74cfab22a57bc6e5ed64fd3495ee6761d9e804cfa5c7721fcc58",
+      "bytes": 425,
+      "reason": "Unreferenced standalone hook framework; SCRT has its own rebinding routines"
+    },
+    {
+      "path": "Payload/Snapchat.app/Frameworks/SCRT.framework/Info.plist",
+      "sha256": "92274dc46f4dc914a97cbda365cc4b5c1a283f896772c127ea780fc5c16d1599",
+      "bytes": 772,
+      "reason": "Remove the complete injected framework, including all identity/DeviceCheck/runtime hooks and dormant add-ons"
+    },
+    {
+      "path": "Payload/Snapchat.app/Frameworks/SCRT.framework/Modules/module.modulemap",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "reason": "Remove the complete injected framework, including all identity/DeviceCheck/runtime hooks and dormant add-ons"
+    },
+    {
+      "path": "Payload/Snapchat.app/Frameworks/SCRT.framework/SAMKeychain.bundle/en.lproj/SAMKeychain.strings",
+      "sha256": "48edb7611db3a63c12bca06d64fe5bce4167a1d4bd8f9e8d56d9abb4bee2cb40",
+      "bytes": 1580,
+      "reason": "Remove the complete injected framework, including all identity/DeviceCheck/runtime hooks and dormant add-ons"
+    },
+    {
+      "path": "Payload/Snapchat.app/Frameworks/SCRT.framework/SCRT",
+      "sha256": "15e8fedb591d0c154944af49bb5c87c48e31373d52ad3e9f13f5458f21574c4b",
+      "bytes": 1297664,
+      "reason": "Remove the complete injected framework, including all identity/DeviceCheck/runtime hooks and dormant add-ons"
+    },
+    {
+      "path": "Payload/Snapchat.app/SKEngine.dylib",
+      "sha256": "4d24f8b513e3779495de0805979bd3f2a32a4537be7a6ddde3efcea4d731bfaa",
+      "bytes": 819200,
+      "reason": "Separate SideKit announcement/subscription UI module; initializer already disabled in source"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/HEAD",
+      "sha256": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10",
+      "bytes": 23,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/config",
+      "sha256": "3525b16e66e0191f58a2beb699199b1f5ff95a408f3c6e1f82fde0e35e56e015",
+      "bytes": 313,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/description",
+      "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+      "bytes": 73,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/hooks/applypatch-msg.sample",
+      "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+      "bytes": 478,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/hooks/commit-msg.sample",
+      "sha256": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437",
+      "bytes": 896,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/hooks/post-update.sample",
+      "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+      "bytes": 189,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/hooks/pre-applypatch.sample",
+      "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+      "bytes": 424,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/hooks/pre-commit.sample",
+      "sha256": "12c723235131f1c5576c652ac2a0a007f261a93c0ddc445b1dcee6cd98e30788",
+      "bytes": 1642,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/hooks/pre-push.sample",
+      "sha256": "4b1119e1e13a212571976f4aee77847cdbd40978546d6273a557e238981a40d1",
+      "bytes": 1348,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/hooks/pre-rebase.sample",
+      "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+      "bytes": 4898,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/hooks/pre-receive.sample",
+      "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+      "bytes": 544,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/hooks/prepare-commit-msg.sample",
+      "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+      "bytes": 1492,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/hooks/update.sample",
+      "sha256": "751c037320024ec2ee2757f3ffae0b10ad2c946367684e7059d4dc97eac7e431",
+      "bytes": 3610,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/index",
+      "sha256": "9d56935097ca60291b7f0916be5b2bd1fe8e9288ccbbb92bce2174dd2bedb022",
+      "bytes": 1470,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/info/exclude",
+      "sha256": "32953b95e260eb278b682b8e965007b60e92e241ad65bc1773ccce74cbfd2499",
+      "bytes": 250,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/logs/HEAD",
+      "sha256": "476ed83d00bda12a1edae60bf9f9163a901257fd0cbea0a19987575d574964c7",
+      "bytes": 186,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/logs/refs/heads/master",
+      "sha256": "476ed83d00bda12a1edae60bf9f9163a901257fd0cbea0a19987575d574964c7",
+      "bytes": 186,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/logs/refs/remotes/origin/HEAD",
+      "sha256": "476ed83d00bda12a1edae60bf9f9163a901257fd0cbea0a19987575d574964c7",
+      "bytes": 186,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/objects/pack/pack-3806b7dc7b5672bbe0e1e39a2acabc77ca28ebc6.idx",
+      "sha256": "689435c1237c601590a3c8c231b9780cacb8d7e7be8f5ee44d03cf0b77634b5e",
+      "bytes": 5776,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/objects/pack/pack-3806b7dc7b5672bbe0e1e39a2acabc77ca28ebc6.pack",
+      "sha256": "dd34bc3caee5f8d8e1db6d896f7e30d61ff70eb8a10dcfc7f212a23b6a44cb8a",
+      "bytes": 104005,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/packed-refs",
+      "sha256": "719b3512523bb4ff278b3b63167935e63436ba005834e22de8f719761a2160b0",
+      "bytes": 169,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/refs/heads/master",
+      "sha256": "20885bf622f7ede276c21ef40a32f350e05cdc65e9199a2680c41d0f6e3c5af1",
+      "bytes": 41,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.git/refs/remotes/origin/HEAD",
+      "sha256": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76",
+      "bytes": 32,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.gitignore",
+      "sha256": "e4ccf399015ba1d88850de7863e435ef6ee8f6a9a9c9ed97886448f38db8a094",
+      "bytes": 1341,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/.gitmodules",
+      "sha256": "2d2d0f3351f7bd52b3aadf3d8e6ca44e26775ac66cbb9291a293e350ed1a21bc",
+      "bytes": 131,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/LICENSE",
+      "sha256": "f1415977087f18b61bff1e847b6c298cad668eacb56f300b74c259164585c7d9",
+      "bytes": 1298,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/README.md",
+      "sha256": "d5432e54f7e4de2ee2f9b8dac44102627e1f9c2313fa1fef263e60bb56d71017",
+      "bytes": 3277,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/optool.xcodeproj/project.pbxproj",
+      "sha256": "7b218fead53a1839638e15692ad0b835771c7ff0b3196485ac258b7a65eb7ed4",
+      "bytes": 15739,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/optool.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "sha256": "c67c90be962bec7f87f13eda36322daa4e1c24c125e6fbcabf08a6de8d5e411a",
+      "bytes": 151,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/optool/NSData+Reading.h",
+      "sha256": "f5bb0215859673ce15b01b0f01d05bcb3fc4e8c82694bf662b7d34fc2b59ff51",
+      "bytes": 1825,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/optool/NSData+Reading.m",
+      "sha256": "96ff83fd66cd3a777e9373475c18c7448c8d14bb639be72a5f66aff3587d4eee",
+      "bytes": 3763,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/optool/defines.h",
+      "sha256": "0067118bc92e16a508b21ce7a991b142de50e409195c6195e0a32e569bb1997a",
+      "bytes": 4339,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/optool/headers.h",
+      "sha256": "9b73380bb0d5756c633ab4e7922ffd8438833eb720837e2a9d61a4edaf4a8ca1",
+      "bytes": 1628,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/optool/headers.m",
+      "sha256": "81eeeb71f1cd5f27fd6f4bb8d81611c55002add663e8d5ac7bb53a60972ac4a8",
+      "bytes": 4194,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/optool/main.m",
+      "sha256": "d84ed769bf3b3334f6ba8ba2f71246e1307d331db496fea9afe80eccc83c0993",
+      "bytes": 15088,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/optool/operations.h",
+      "sha256": "473f811856d698afa1cf83e5e0723dcdd94cb9d2eff9f3eaee3438b8c86fd8b3",
+      "bytes": 2155,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    },
+    {
+      "path": "Payload/Snapchat.app/optool/optool/operations.m",
+      "sha256": "fc752d44f1ef79beec2e0ae052479e6b9b3c8071eceededb7ff1ad98265fe885",
+      "bytes": 24743,
+      "reason": "Embedded packaging tool checkout; not an application runtime dependency"
+    }
+  ],
+  "modified_files": [
+    {
+      "path": "Payload/Snapchat.app/Info.plist",
+      "sha256": "b8c9e7c8d189459d1aeca881ddc2f8d73dd8691aaf4143412d51b0b6dc97ce73",
+      "bytes": 16607
+    },
+    {
+      "path": "Payload/Snapchat.app/PlugIns/ScreenCaptureExtension.appex/Info.plist",
+      "sha256": "c09134bd5725ca221ba85ab73f9652435ffe64ac21f22af3c70398ed375324a6",
+      "bytes": 1772
+    },
+    {
+      "path": "Payload/Snapchat.app/PlugIns/SnapchatHomeScreenWidget.appex/Info.plist",
+      "sha256": "a59a747e5508e44a02a7144d07be79256d330a5f222e7dc7d0d7dad2e7fb1a0c",
+      "bytes": 1697
+    },
+    {
+      "path": "Payload/Snapchat.app/PlugIns/SnapchatIntentsExtension.appex/Info.plist",
+      "sha256": "bb39ffe8a466c485c2e5e256aa4b1f9bfb6ee7bb14232438660cc7e1ee713310",
+      "bytes": 1863
+    },
+    {
+      "path": "Payload/Snapchat.app/PlugIns/SnapchatLocationPushExtension.appex/Info.plist",
+      "sha256": "67ab1f43789184c6002994df1e627ae3d69cfff37e52164072b236a12a9549bb",
+      "bytes": 1811
+    },
+    {
+      "path": "Payload/Snapchat.app/PlugIns/SnapchatNotificationServiceExt.appex/Info.plist",
+      "sha256": "f0f9dee1645ebf906a2d6466dc9ee777c554393288cefffe5db08e7235ed09f0",
+      "bytes": 2010
+    },
+    {
+      "path": "Payload/Snapchat.app/PlugIns/SnapchatShareExt.appex/Info.plist",
+      "sha256": "79836eae532824b6b92234a2784fdc9ba2932e94dcd7fd8933511d3828f62ef3",
+      "bytes": 3349
+    },
+    {
+      "path": "Payload/Snapchat.app/Snapchat",
+      "sha256": "aaed5609d43bbccbede0eb27646a0215959deb5fc2b258f4e714a6efd1b97b50",
+      "bytes": 204641792
+    }
+  ],
+  "unchanged_files": 8059,
+  "zip_crc_and_all_hashes_verified": true,
+  "mode": "native-baseline",
+  "spoof_patch_applied": false,
+  "official_original_equivalence_verified": false,
+  "restored_bundle_identifiers": [
+    "com.toyopagroup.picaboo",
+    "com.toyopagroup.picaboo.screencapture",
+    "com.toyopagroup.picaboo.homeWidget",
+    "com.toyopagroup.picaboo.locationpushservice",
+    "com.toyopagroup.picaboo.share",
+    "com.toyopagroup.picaboo.intents",
+    "com.toyopagroup.picaboo.notification"
+  ],
+  "source_limitations": [
+    "Source is already a modified unsigned IPA; exact equivalence to an original App Store build has not been established",
+    "Six native extension binaries retain their existing cryptid=1 encryption metadata; no decryption or signature restoration is performed",
+    "The main bundle ID is supported by ApplicationIdentifier and SCKeychainAccessIdentifier in the source; extension IDs use the same prefix with their existing suffixes, not an independently verified official reference",
+    "No iPhone, installation, login or server validation; old on-device preferences/keychain entries are not erased"
+  ]
+}

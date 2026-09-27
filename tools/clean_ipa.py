@@ -5,6 +5,7 @@ import hashlib
 import json
 import os
 from pathlib import Path, PurePosixPath
+import plistlib
 import stat
 import struct
 import tempfile
@@ -94,14 +95,22 @@ def bind_ordinals(data):
 
 def main_header_without_addon(data, target):
     """Remove only an unreferenced LAST dylib load; keep file offsets unchanged."""
+    return main_header_without_addons(data, [target])
+
+
+def main_header_without_addons(data, targets):
+    """Remove an unreferenced suffix of weak dependencies without renumbering."""
+    if not targets or len(set(targets)) != len(targets):
+        raise ValueError('Expected distinct add-on targets')
     parsed = commands(data)
     loads = [(offset, command) for kind, offset, command in parsed if kind in DYLIB_LOADS]
     matches = [(i, offset, command) for i, (offset, command) in enumerate(loads, 1)
-               if dylib_name(command) == target]
-    if len(matches) != 1:
-        raise ValueError('Expected exactly one add-on load command')
-    ordinal, offset, removed = matches[0]
-    if ordinal != len(loads) or struct.unpack_from('<I', removed)[0] != 0x80000018:
+               if dylib_name(command) in targets]
+    if len(matches) != len(targets) or {dylib_name(command) for _, _, command in matches} != set(targets):
+        raise ValueError('Expected exactly one load command per add-on')
+    ordinals = {ordinal for ordinal, _, _ in matches}
+    if ordinals != set(range(len(loads) - len(targets) + 1, len(loads) + 1)) or any(
+            struct.unpack_from('<I', command)[0] != 0x80000018 for _, _, command in matches):
         raise ValueError('Refusing to renumber dependencies or remove a strong load')
     for kind, _, command in parsed:
         if kind == 0x80000034:
@@ -111,7 +120,7 @@ def main_header_without_addon(data, target):
                 start, size = struct.unpack_from('<II', command, field)
                 if start + size > len(data):
                     raise ValueError('Bind stream outside file')
-                if ordinal in bind_ordinals(memoryview(data)[start:start + size]):
+                if ordinals & bind_ordinals(memoryview(data)[start:start + size]):
                     raise ValueError('A bind stream imports from the removed dylib')
         if kind == 2:
             start, count = struct.unpack_from('<II', command, 8)
@@ -119,14 +128,15 @@ def main_header_without_addon(data, target):
                 raise ValueError('Symbol table outside file')
             for index in range(count):
                 _, symbol_type, _, description, _ = struct.unpack_from('<IBBHQ', data, start + index * 16)
-                if not symbol_type & 0xe0 and symbol_type & 0xe == 0 and description >> 8 == ordinal:
+                if not symbol_type & 0xe0 and symbol_type & 0xe == 0 and description >> 8 in ordinals:
                     raise ValueError('An undefined symbol imports from the removed dylib')
     old_end = 32 + struct.unpack_from('<I', data, 20)[0]
-    length = len(removed)
+    removed_offsets = {offset for _, offset, _ in matches}
+    retained = b''.join(bytes(command) for _, offset, command in parsed if offset not in removed_offsets)
     header = bytearray(data[:old_end])
-    header[offset:old_end - length] = data[offset + length:old_end]
-    header[old_end - length:old_end] = bytes(length)
-    struct.pack_into('<II', header, 16, len(parsed) - 1, old_end - 32 - length)
+    header[32:32 + len(retained)] = retained
+    header[32 + len(retained):old_end] = bytes(old_end - 32 - len(retained))
+    struct.pack_into('<II', header, 16, len(parsed) - len(matches), len(retained))
     commands(header)  # Structural validation of the replacement header.
     return bytes(header)
 
@@ -188,6 +198,25 @@ def checked_bytes(data, spec, field='before_sha256'):
         raise ValueError(f'Unexpected input/output bytes for {spec["path"]}')
 
 
+def restore_bundle_id(data, spec):
+    """Restore audited bundle metadata; keep every other plist value."""
+    checked_bytes(data, spec)
+    value = plistlib.loads(data)
+    if value.get('CFBundleIdentifier') != spec['before_bundle_id']:
+        raise ValueError('Unexpected bundle identifier')
+    value['CFBundleIdentifier'] = spec['after_bundle_id']
+    minimum_os = spec.get('restore_minimum_os')
+    if minimum_os:
+        if value.get('MinimumOSVersion') != minimum_os['before']:
+            raise ValueError('Unexpected minimum OS version')
+        value['MinimumOSVersion'] = minimum_os['after']
+    fmt = plistlib.FMT_BINARY if data.startswith(b'bplist00') else plistlib.FMT_XML
+    result = plistlib.dumps(value, fmt=fmt, sort_keys=False)
+    if len(result) != spec['after_bytes'] or sha256(result) != spec['after_sha256']:
+        raise ValueError('Unexpected restored plist')
+    return result
+
+
 def build(source, output, recipe, report_path=None):
     source, output = source.resolve(), output.resolve()
     if output == source or output.exists():
@@ -198,9 +227,16 @@ def build(source, output, recipe, report_path=None):
         digest = hashlib.file_digest(handle, 'sha256').hexdigest()
     if digest != recipe['source']['sha256'] or source.stat().st_size != recipe['source']['bytes']:
         raise ValueError('Unknown source IPA; refusing offsets from another build')
-    base_spec = json.loads((ROOT / recipe['base_patch_manifest']).read_text())
-    if base_spec['id'] != recipe['base_patch_id'] or base_spec['after_sha256'] != recipe['scrt']['before_sha256']:
-        raise ValueError('Base patch revision changed')
+    native = recipe.get('mode') == 'native-baseline'
+    base_spec = None
+    if not native:
+        base_spec = json.loads((ROOT / recipe['base_patch_manifest']).read_text())
+        if base_spec['id'] != recipe['base_patch_id'] or base_spec['after_sha256'] != recipe['scrt']['before_sha256']:
+            raise ValueError('Base patch revision changed')
+    plists = {entry['path']: entry for entry in recipe.get('restore_plists', [])}
+    changed_paths = {recipe['main']['path'], *plists}
+    if not native:
+        changed_paths.add(recipe['scrt']['path'])
     removals = {entry['path']: entry for entry in recipe['remove_files']}
     inventory, modified = [], []
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -211,7 +247,7 @@ def build(source, output, recipe, report_path=None):
         with zipfile.ZipFile(source) as original, zipfile.ZipFile(temporary, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=6) as rebuilt:
             files = checked_members(original, recipe['source']['files'])
             names = {entry.filename for entry in files}
-            if not set(removals).issubset(names) or not {recipe['main']['path'], recipe['scrt']['path']}.issubset(names):
+            if set(removals) & changed_paths or not (set(removals) | changed_paths).issubset(names):
                 raise ValueError('Missing audited file')
             for entry in files:
                 path = entry.filename
@@ -228,7 +264,8 @@ def build(source, output, recipe, report_path=None):
                     if path == recipe['main']['path']:
                         data = original.read(entry)
                         checked_bytes(data, recipe['main'])
-                        prefix = main_header_without_addon(data, recipe['main']['remove_load'])
+                        targets = recipe['main'].get('remove_loads') or [recipe['main']['remove_load']]
+                        prefix = main_header_without_addons(data, targets)
                         destination.write(prefix)
                         digest.update(prefix)
                         remainder = memoryview(data)[len(prefix):]
@@ -239,7 +276,11 @@ def build(source, output, recipe, report_path=None):
                         del remainder, part, data
                         if digest.hexdigest() != recipe['main']['after_sha256']:
                             raise ValueError('Unexpected cleaned main binary hash')
-                    elif path == recipe['scrt']['path']:
+                    elif path in plists:
+                        data = restore_bundle_id(original.read(entry), plists[path])
+                        destination.write(data)
+                        digest.update(data)
+                    elif not native and path == recipe['scrt']['path']:
                         data, _ = prepare_binary(original.read(entry), base_spec)
                         data = clean_scrt(data, recipe)
                         destination.write(data)
@@ -249,9 +290,9 @@ def build(source, output, recipe, report_path=None):
                             for part in chunks(handle):
                                 destination.write(part)
                                 digest.update(part)
-                record = {'path': path, 'sha256': digest.hexdigest(), 'bytes': entry.file_size}
+                record = {'path': path, 'sha256': digest.hexdigest(), 'bytes': info.file_size}
                 inventory.append(record)
-                if path in (recipe['main']['path'], recipe['scrt']['path']):
+                if path in changed_paths:
                     modified.append(record)
         # Read every output byte back: CRC, inventory, hash and size verification.
         with zipfile.ZipFile(temporary) as archive:
@@ -274,6 +315,11 @@ def build(source, output, recipe, report_path=None):
                   'iphone_tested': False, 'server_behavior_tested': False,
                   'removed_files': recipe['remove_files'], 'modified_files': modified,
                   'unchanged_files': len(inventory) - len(modified), 'zip_crc_and_all_hashes_verified': True}
+        if native:
+            result.update({'mode': 'native-baseline', 'spoof_patch_applied': False,
+                           'official_original_equivalence_verified': False,
+                           'restored_bundle_identifiers': [entry['after_bundle_id'] for entry in plists.values()],
+                           'source_limitations': recipe['limitations']})
         # Exclusive publication also prevents overwriting a file created while building.
         os.link(temporary, output)
         if report_path:

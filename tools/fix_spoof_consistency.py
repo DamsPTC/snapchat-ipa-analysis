@@ -90,6 +90,14 @@ def prepare(root, spec):
 
     readme_path = root / 'README.md'
     readme = readme_path.read_text()
+    readme = readme.replace('# Snapchat — IPA extraite pour analyse\n',
+        '# Snapchat — analyse et base sans injections\n\n'
+        '**Livrable actuel : une base sans les injections identifiées, spoof compris.**\n'
+        'La recette `tools/restore_native.py` retire entièrement SCRT, SKEngine et\n'
+        'CydiaSubstrate, restaure les identifiants de bundle et corrige la version\n'
+        'minimale déclarée. Voir [le rapport actuel](analysis/native-baseline.md).\n'
+        'Le `Payload/` ci-dessous reste le matériau historique d’analyse v3 ;\n'
+        'il ne faut pas le rezipper pour obtenir la nouvelle base.\n')
     readme = readme.replace('Archive privée du contenu exact de', 'Archive privée dérivée du contenu de')
     readme = readme.replace(
         'ajouts ont été désactivés. Aucun autre changement de l’application n’est effectué\nlors de cet import.',
