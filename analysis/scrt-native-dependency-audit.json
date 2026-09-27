@@ -1,0 +1,813 @@
+{
+  "scrt_class_count": 36,
+  "scrt_categories_count": 9,
+  "native_class_count": 44617,
+  "duplicate_class_definitions": [],
+  "scrt_class_names_found_as_exact_strings_in_native": [],
+  "native_imports_of_scrt_defined_classes": [],
+  "categories": [
+    {
+      "name": "HexString",
+      "va": "0xc4000",
+      "instance_methods": [],
+      "class_methods": [
+        {
+          "selector": "colorWithHexString:",
+          "types": "@24@0:8@16",
+          "imp": "0x69b9c",
+          "symbol": [
+            "+[UIColor(Hex) colorWithHexString:]"
+          ],
+          "native_selector_reference_present": true
+        },
+        {
+          "selector": "colorWithHexString:",
+          "types": "@24@0:8@16",
+          "imp": "0x4caa8",
+          "symbol": [
+            "+[UIColor(Hex) colorWithHexString:]"
+          ],
+          "native_selector_reference_present": true
+        },
+        {
+          "selector": "colorWithHexString:",
+          "types": "@24@0:8@16",
+          "imp": "0x4b528",
+          "symbol": [
+            "+[UIColor(Hex) colorWithHexString:]"
+          ],
+          "native_selector_reference_present": true
+        },
+        {
+          "selector": "colorWithHexString:",
+          "types": "@24@0:8@16",
+          "imp": "0x2a334",
+          "symbol": [
+            "+[UIColor(HexString) colorWithHexString:]"
+          ],
+          "native_selector_reference_present": true
+        },
+        {
+          "selector": "colorWithHexString:",
+          "types": "@24@0:8@16",
+          "imp": "0x75e0",
+          "symbol": [
+            "+[UIColor(HexString) colorWithHexString:]"
+          ],
+          "native_selector_reference_present": true
+        }
+      ],
+      "target_class": "UIColor"
+    },
+    {
+      "name": "SnapShieldAdvanced",
+      "va": "0xc44a0",
+      "instance_methods": [
+        {
+          "selector": "swiz_setUpAnimatedTransitionToHeaderItem:",
+          "types": "v24@0:8@16",
+          "imp": "0x719c8",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_setUpAnimatedTransitionToHeaderItem:]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_layoutSubviews",
+          "types": "v16@0:8",
+          "imp": "0x71a64",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_layoutSubviews]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_coordinate",
+          "types": "{CLLocationCoordinate2D=dd}16@0:8",
+          "imp": "0x720cc",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_coordinate]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_altitude",
+          "types": "d16@0:8",
+          "imp": "0x72210",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_altitude]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_horizontalAccuracy",
+          "types": "d16@0:8",
+          "imp": "0x722e4",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_horizontalAccuracy]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_verticalAccuracy",
+          "types": "d16@0:8",
+          "imp": "0x723b8",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_verticalAccuracy]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_timestamp",
+          "types": "@16@0:8",
+          "imp": "0x7248c",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_timestamp]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_location",
+          "types": "@16@0:8",
+          "imp": "0x72590",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_location]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_startUpdatingLocation",
+          "types": "v16@0:8",
+          "imp": "0x72840",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_startUpdatingLocation]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_stopUpdatingLocation",
+          "types": "v16@0:8",
+          "imp": "0x72878",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_stopUpdatingLocation]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_canShowAds",
+          "types": "B16@0:8",
+          "imp": "0x728b0",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_canShowAds]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_canShowCognacAds",
+          "types": "B16@0:8",
+          "imp": "0x7294c",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_canShowCognacAds]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_canShowStoryAds",
+          "types": "B16@0:8",
+          "imp": "0x729e8",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_canShowStoryAds]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_canShowContentInterstitialAds",
+          "types": "B16@0:8",
+          "imp": "0x72a84",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_canShowContentInterstitialAds]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_canShowDiscoverAds",
+          "types": "B16@0:8",
+          "imp": "0x72b20",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_canShowDiscoverAds]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_canShowShowsAds",
+          "types": "B16@0:8",
+          "imp": "0x72bbc",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_canShowShowsAds]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_canShowEmbeddedWebViewAds",
+          "types": "B16@0:8",
+          "imp": "0x72c58",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_canShowEmbeddedWebViewAds]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_canShowPublicStoriesAds",
+          "types": "B16@0:8",
+          "imp": "0x72cf4",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_canShowPublicStoriesAds]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_handleSaveToCameraRollTap:",
+          "types": "v24@0:8@16",
+          "imp": "0x72d90",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_handleSaveToCameraRollTap:]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_isMessageStateSaveEligible:",
+          "types": "B24@0:8@16",
+          "imp": "0x72e28",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_isMessageStateSaveEligible:]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_handleSaveToCameraRoll:",
+          "types": "B24@0:8@16",
+          "imp": "0x72ef8",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_handleSaveToCameraRoll:]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz_composerCallButtonsOnStartCallMedia:",
+          "types": "v24@0:8q16",
+          "imp": "0x72fc8",
+          "symbol": [
+            "-[NSObject(SnapRootHooks) swiz_composerCallButtonsOnStartCallMedia:]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "swiz__didLongPressItem:",
+          "types": "v24@0:8@16",
+          "imp": "0x5a428",
+          "symbol": [
+            "-[NSObject(UploadVoiceExhaustive) swiz__didLongPressItem:]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "titan_userId",
+          "types": "@16@0:8",
+          "imp": "0x53104",
+          "symbol": [
+            "-[NSObject(TitanExtension) titan_userId]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "replaced_identifierForVendor",
+          "types": "@16@0:8",
+          "imp": "0x210e8",
+          "symbol": [
+            "-[NSObject(SnapShieldAdvanced) replaced_identifierForVendor]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "replaced_advertisingIdentifier",
+          "types": "@16@0:8",
+          "imp": "0x211e4",
+          "symbol": [
+            "-[NSObject(SnapShieldAdvanced) replaced_advertisingIdentifier]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "replaced_fileExistsAtPath:",
+          "types": "B24@0:8@16",
+          "imp": "0x212e0",
+          "symbol": [
+            "-[NSObject(SnapShieldAdvanced) replaced_fileExistsAtPath:]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "replaced_void_report",
+          "types": "v16@0:8",
+          "imp": "0x21650",
+          "symbol": [
+            "-[NSObject(SnapShieldAdvanced) replaced_void_report]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "replaced_int_report",
+          "types": "i16@0:8",
+          "imp": "0x21664",
+          "symbol": [
+            "-[NSObject(SnapShieldAdvanced) replaced_int_report]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "replaced_bool_report",
+          "types": "B16@0:8",
+          "imp": "0x2167c",
+          "symbol": [
+            "-[NSObject(SnapShieldAdvanced) replaced_bool_report]"
+          ],
+          "native_selector_reference_present": false
+        }
+      ],
+      "class_methods": [],
+      "target_class": "NSObject"
+    },
+    {
+      "name": "Scale",
+      "va": "0xc5680",
+      "instance_methods": [],
+      "class_methods": [
+        {
+          "selector": "swz_imageNamed:",
+          "types": "@24@0:8@16",
+          "imp": "0x4d570",
+          "symbol": [
+            "+[UIImage(Tweak) swz_imageNamed:]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "resizeImage:toSize:",
+          "types": "@40@0:8@16{CGSize=dd}24",
+          "imp": "0x4cca4",
+          "symbol": [
+            "+[UIImage(OrangeGreenGhost) resizeImage:toSize:]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "jde_orangeGreenGhostImageOfSize:",
+          "types": "@24@0:8d16",
+          "imp": "0x4ce30",
+          "symbol": [
+            "+[UIImage(OrangeGreenGhost) jde_orangeGreenGhostImageOfSize:]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "resizeImageFromImage:withSize:",
+          "types": "@40@0:8@16{CGSize=dd}24",
+          "imp": "0x31978",
+          "symbol": [
+            "+[UIImage(Scale) resizeImageFromImage:withSize:]"
+          ],
+          "native_selector_reference_present": false
+        }
+      ],
+      "target_class": "UIImage"
+    },
+    {
+      "name": "Colors",
+      "va": "0xc56c0",
+      "instance_methods": [
+        {
+          "selector": "setColor:forKey:",
+          "types": "v32@0:8@16@24",
+          "imp": "0x31bc0",
+          "symbol": [
+            "-[NSUserDefaults(Colors) setColor:forKey:]"
+          ],
+          "native_selector_reference_present": false
+        },
+        {
+          "selector": "colorForKey:",
+          "types": "@24@0:8@16",
+          "imp": "0x31c84",
+          "symbol": [
+            "-[NSUserDefaults(Colors) colorForKey:]"
+          ],
+          "native_selector_reference_present": false
+        }
+      ],
+      "class_methods": [],
+      "target_class": "NSUserDefaults"
+    },
+    {
+      "name": "FindUIViewController",
+      "va": "0xc5700",
+      "instance_methods": [
+        {
+          "selector": "firstAvailableUIViewController",
+          "types": "@16@0:8",
+          "imp": "0x31d80",
+          "symbol": [
+            "-[UIView(FindUIViewController) firstAvailableUIViewController]"
+          ],
+          "native_selector_reference_present": false
+        }
+      ],
+      "class_methods": [],
+      "target_class": "UIView"
+    },
+    {
+      "name": "Batch",
+      "va": "0xc5740",
+      "instance_methods": [
+        {
+          "selector": "removeItemsAtPaths:withBlacklist:",
+          "types": "@32@0:8@16@24",
+          "imp": "0x31e50",
+          "symbol": [
+            "-[NSFileManager(Batch) removeItemsAtPaths:withBlacklist:]"
+          ],
+          "native_selector_reference_present": false
+        }
+      ],
+      "class_methods": [],
+      "target_class": "NSFileManager"
+    },
+    {
+      "name": "Paths",
+      "va": "0xc5780",
+      "instance_methods": [
+        {
+          "selector": "arrayByPrePendingPathComponent:",
+          "types": "@24@0:8@16",
+          "imp": "0x320a8",
+          "symbol": [
+            "-[NSArray(Paths) arrayByPrePendingPathComponent:]"
+          ],
+          "native_selector_reference_present": false
+        }
+      ],
+      "class_methods": [],
+      "target_class": "NSArray"
+    },
+    {
+      "name": "Paths",
+      "va": "0xc57c0",
+      "instance_methods": [
+        {
+          "selector": "pathPartOfPaths:",
+          "types": "B24@0:8@16",
+          "imp": "0x322a4",
+          "symbol": [
+            "-[NSString(Paths) pathPartOfPaths:]"
+          ],
+          "native_selector_reference_present": false
+        }
+      ],
+      "class_methods": [],
+      "target_class": "NSString"
+    },
+    {
+      "name": "Shared",
+      "va": "0xc5800",
+      "instance_methods": [],
+      "class_methods": [
+        {
+          "selector": "sharedInstance",
+          "types": "@16@0:8",
+          "imp": "0x3249c",
+          "symbol": [
+            "+[NSDataDetector(Shared) sharedInstance]"
+          ],
+          "native_selector_reference_present": true
+        }
+      ],
+      "target_class": "NSDataDetector"
+    }
+  ],
+  "classes": [
+    {
+      "name": "SeenManager",
+      "va": "0xcc0e8",
+      "instance_method_count": 12,
+      "class_method_count": 1
+    },
+    {
+      "name": "SnapchatTweakHandler",
+      "va": "0xcc160",
+      "instance_method_count": 0,
+      "class_method_count": 8
+    },
+    {
+      "name": "tweakManagerHelper",
+      "va": "0xcc188",
+      "instance_method_count": 0,
+      "class_method_count": 50
+    },
+    {
+      "name": "PicProfileViewController",
+      "va": "0xcc1b0",
+      "instance_method_count": 9,
+      "class_method_count": 0
+    },
+    {
+      "name": "SCLoaddingHar",
+      "va": "0xcc250",
+      "instance_method_count": 0,
+      "class_method_count": 1
+    },
+    {
+      "name": "JDEMapView",
+      "va": "0xcc278",
+      "instance_method_count": 19,
+      "class_method_count": 0
+    },
+    {
+      "name": "tweakDownloadWindow",
+      "va": "0xcc2c8",
+      "instance_method_count": 46,
+      "class_method_count": 1
+    },
+    {
+      "name": "CameraTweakHandler",
+      "va": "0xcc340",
+      "instance_method_count": 0,
+      "class_method_count": 3
+    },
+    {
+      "name": "LocationPickerView",
+      "va": "0xcc368",
+      "instance_method_count": 24,
+      "class_method_count": 0
+    },
+    {
+      "name": "TITANNotificationDelegate",
+      "va": "0xcc3e0",
+      "instance_method_count": 2,
+      "class_method_count": 0
+    },
+    {
+      "name": "JDESettingsManager",
+      "va": "0xcc408",
+      "instance_method_count": 22,
+      "class_method_count": 1
+    },
+    {
+      "name": "JDELogsVC",
+      "va": "0xcc480",
+      "instance_method_count": 9,
+      "class_method_count": 0
+    },
+    {
+      "name": "DRCircularProgressView",
+      "va": "0xcc4a8",
+      "instance_method_count": 28,
+      "class_method_count": 3
+    },
+    {
+      "name": "CustomSessionDelegate",
+      "va": "0xcc520",
+      "instance_method_count": 1,
+      "class_method_count": 0
+    },
+    {
+      "name": "SKN_PinDelegate",
+      "va": "0xcc570",
+      "instance_method_count": 4,
+      "class_method_count": 0
+    },
+    {
+      "name": "SKN_VerifyEngine",
+      "va": "0xcc598",
+      "instance_method_count": 3,
+      "class_method_count": 1
+    },
+    {
+      "name": "ColorCell",
+      "va": "0xcc5e8",
+      "instance_method_count": 4,
+      "class_method_count": 0
+    },
+    {
+      "name": "ThemingViewController",
+      "va": "0xcc638",
+      "instance_method_count": 23,
+      "class_method_count": 0
+    },
+    {
+      "name": "tweakDownloadConnection",
+      "va": "0xcc688",
+      "instance_method_count": 38,
+      "class_method_count": 0
+    },
+    {
+      "name": "SWZHelpers",
+      "va": "0xcc700",
+      "instance_method_count": 0,
+      "class_method_count": 1
+    },
+    {
+      "name": "JDEButtons",
+      "va": "0xcc750",
+      "instance_method_count": 1,
+      "class_method_count": 0
+    },
+    {
+      "name": "JDEWeakObserverContainer",
+      "va": "0xcc778",
+      "instance_method_count": 8,
+      "class_method_count": 0
+    },
+    {
+      "name": "LocationPickerAdvancedSettingsListViewController",
+      "va": "0xcc7c8",
+      "instance_method_count": 5,
+      "class_method_count": 0
+    },
+    {
+      "name": "LocationPickerAdvancedSettingsView",
+      "va": "0xcc818",
+      "instance_method_count": 17,
+      "class_method_count": 0
+    },
+    {
+      "name": "LocationPickerSearchResultsViewController",
+      "va": "0xcc868",
+      "instance_method_count": 15,
+      "class_method_count": 0
+    },
+    {
+      "name": "LocationPicker",
+      "va": "0xcc8e0",
+      "instance_method_count": 1,
+      "class_method_count": 0
+    },
+    {
+      "name": "MediaHandler",
+      "va": "0xcc930",
+      "instance_method_count": 18,
+      "class_method_count": 0
+    },
+    {
+      "name": "SCLoad",
+      "va": "0xcc980",
+      "instance_method_count": 0,
+      "class_method_count": 1
+    },
+    {
+      "name": "nJVE0lUrtFKI0mbEwff0yCVSBsd08GAXd05o3fiQ0xuC0OnzYhz1",
+      "va": "0xcc9a8",
+      "instance_method_count": 7,
+      "class_method_count": 0
+    },
+    {
+      "name": "VSBsd08GAX",
+      "va": "0xcca20",
+      "instance_method_count": 1,
+      "class_method_count": 0
+    },
+    {
+      "name": "VSBsd08GAXVykszVhjiRdpK",
+      "va": "0xcca48",
+      "instance_method_count": 16,
+      "class_method_count": 1
+    },
+    {
+      "name": "SCRPinnedDelegate",
+      "va": "0xccac0",
+      "instance_method_count": 4,
+      "class_method_count": 0
+    },
+    {
+      "name": "Ewff0yCVSBsd08GAXd05o3fiQ0xuC0OnzYhz1",
+      "va": "0xccae8",
+      "instance_method_count": 31,
+      "class_method_count": 1
+    },
+    {
+      "name": "JDEViewController",
+      "va": "0xccb38",
+      "instance_method_count": 45,
+      "class_method_count": 0
+    },
+    {
+      "name": "SnapRootTapHandler",
+      "va": "0xccbb0",
+      "instance_method_count": 0,
+      "class_method_count": 1
+    },
+    {
+      "name": "LocationPickerViewController",
+      "va": "0xccbd8",
+      "instance_method_count": 24,
+      "class_method_count": 0
+    }
+  ],
+  "initializers": {
+    "count": 28,
+    "active": [
+      {
+        "va": "0x21698",
+        "symbol": [
+          "_runShieldEngine"
+        ],
+        "first_instruction": "fc6fbea9"
+      },
+      {
+        "va": "0x44440",
+        "symbol": [
+          "_snap0x_init"
+        ],
+        "first_instruction": "ffc300d1"
+      },
+      {
+        "va": "0x56be0",
+        "symbol": [
+          "_snap0x_proxy_init"
+        ],
+        "first_instruction": "ff8300d1"
+      }
+    ],
+    "ret_at_entry_count": 25,
+    "class_load_methods": [
+      {
+        "class": "SCLoaddingHar",
+        "va": "0x1d184",
+        "ret_at_entry": true
+      },
+      {
+        "class": "SCLoad",
+        "va": "0x5bae0",
+        "ret_at_entry": true
+      }
+    ],
+    "class_initialize_methods": []
+  },
+  "native_undefined_symbols_defined_by_scrt": [],
+  "source_hashes": {
+    "scrt_keep_core_sha256": "922833f2ef2d3d00376d1cf1761a14727e8363abfd28c4ae8187b6333e50851a",
+    "native_main_sha256": "654c849de8b85ecf1b6d8bc6219d60eefe5ec321ce64ddeee5342d9e6e88e432"
+  },
+  "category_collision_review": {
+    "UIColor.colorWithHexString:": {
+      "native_category": "GenerativeAIUI",
+      "native_category_va": "0x1097e3bb0",
+      "native_implementation_va": "0x107358a4c",
+      "native_implementation_present": true
+    },
+    "NSDataDetector.sharedInstance": {
+      "native_reference_review": {
+        "slots": [
+          "0x10b095600"
+        ],
+        "references": [
+          "0x100e7b53c",
+          "0x104f257b4",
+          "0x1053a804c",
+          "0x106454dc8",
+          "0x10694f8c4",
+          "0x106bf94ac",
+          "0x106bf969c",
+          "0x1076004b0"
+        ],
+        "native_color_category_owner": "_OBJC_CLASS_$_UIColor",
+        "reference_pattern": "adjacent ADRP/LDR of imported NSDataDetector class slot",
+        "reference_count": 8
+      },
+      "native_construction_selectors": [
+        "initWithTypes:error:",
+        "dataDetectorWithTypes:error:"
+      ],
+      "call_to_scrt_shared_instance_identified": false
+    }
+  },
+  "checked_native_login_classes": {
+    "SCLoginJanusService": "0x10b413188",
+    "UNISCJanusLoginService": "0x10b478270",
+    "SCDeviceCheckFeature": "0x10b504b80",
+    "SCKeychainManager": "0x10b571d60"
+  },
+  "shield_target_classes_absent_from_native_main": [
+    "SCAppIntegrity",
+    "SCSecurity",
+    "SCDeviceCheck",
+    "SCBlacklistManager",
+    "SCAttestationManager",
+    "SCReportingService"
+  ],
+  "limitations": [
+    "Static metadata and selected call-site analysis; no complete whole-program proof.",
+    "Names or selectors created dynamically are not excluded.",
+    "No execution of Snapchat on iOS in this workspace.",
+    "No signed-archive comparison; user reports the same signing procedure for both builds.",
+    "No authentication fix is established by this inventory."
+  ]
+}

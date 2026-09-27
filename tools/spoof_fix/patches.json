@@ -1,0 +1,192 @@
+{
+  "schema": 1,
+  "id": "spoof-consistency-v3-keychain-integrity",
+  "upstream_commit": "e005928d969b6bfb59b1caafca2f7ba50a2519e6",
+  "path": "Payload/Snapchat.app/Frameworks/SCRT.framework/SCRT",
+  "bytes": 1297664,
+  "before_sha256": "15e8fedb591d0c154944af49bb5c87c48e31373d52ad3e9f13f5458f21574c4b",
+  "after_sha256": "3b563f265bee10abce6791d4993583a336a1625fc8cdb0cecda9ba7921b52866",
+  "patches": [
+    {
+      "id": "validate-persisted-uuid",
+      "offset": 139808,
+      "before": "ff8301d1fd7b05a9fd430191480500b0008d45f9cb6a0194fd031daa8b500194e11740f9a0831ff8480500b0008945f9045d0194fd031daa84500194e11740f9e01300f99f540194fd031daa7f500194e80300aae01340f9a8031ff86f500194e11740f9480500b000fd44f9a8035ff8e9030091280100f9a20400d042402591786b0194fd031daa70500194e11740f9a0831ef8a0835ff8a2835ef8516b0194fd031daa69500194e80300aa490500f0a9031ef820f943f928f903f957500194a8035ef808f943f9e80300b501000014e11740f9480500b0007545f941510194fd031daa59500194e11740f9e00b00f944510194fd031daa54500194e80300aa490500f0e90f00f920f943f928f903f942500194e00b40f940500194e80f40f9e11740f9a0835ff802f943f9a3835ef8e4650194e11740f9a0835ff8696c019401000014a06300d1010080d2e10700f94d500194e10740f9a04300d14a500194e10740f9a02300d147500194fd7b45a9ff830191c0035fd6",
+      "after": "ff8301d1fd7b05a9fd430191480500b0008d45f9cb6a0194fd031daa8b500194a0831ff8480500b0008945f9055d0194a4540194fd031daa84500194a0031ff8e00300f9480500b000fd44f9a20400d042402591836b0194fd031daa7b500194a0831ef8e20300aaa0835ff85d6b0194fd031daa75500194a0031ef8200100b4480500b0007545f922500194a2035ef8645b0194600000b46050019411000014480500b0007545f94e51019455510194fd031daa65500194a8035ef8a0031ef8e00308aa55500194a0835ff8a2035ef8a3835ef8fb650194a0835ff8816c0194400500f000c01f91a1035ef866500194a0035ef849500194a0835ef847500194a0035ff845500194a0835ff843500194fd7b45a9ff830191c0035fd61f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d51f2003d5"
+    },
+    {
+      "id": "defer-wipes-until-verification",
+      "offset": 269396,
+      "before": "9b8cff97878eff97",
+      "after": "1f2003d51f2003d5"
+    },
+    {
+      "id": "wipe-after-successful-verification",
+      "offset": 269440,
+      "before": "e00200900018199136330094",
+      "after": "908cff977c8eff971f2003d5"
+    },
+    {
+      "id": "consistent-user-agent-device",
+      "offset": 277948,
+      "before": "42403d91",
+      "after": "42c03d91"
+    },
+    {
+      "id": "fixture-udid-text",
+      "offset": 534911,
+      "before": "6630623662303134346235386539313632646538303435656361653032323063396264636237396400",
+      "after": "30303030383130312d3030303030303030303030303030303100000000000000000000000000000000"
+    },
+    {
+      "id": "fixture-udid-length",
+      "offset": 752040,
+      "before": "2800000000000000",
+      "after": "1900000000000000"
+    },
+    {
+      "id": "fixture-serial-text",
+      "offset": 534952,
+      "before": "433339565741454c4a434c4600",
+      "after": "53494d31324d494e4930303100"
+    },
+    {
+      "id": "fixture-product-type-text",
+      "offset": 534965,
+      "before": "6950686f6e6531302c3300",
+      "after": "6950686f6e6531332c3100"
+    },
+    {
+      "id": "fixture-first-build-text",
+      "offset": 534976,
+      "before": "32304831313500",
+      "after": "32314639300000"
+    },
+    {
+      "id": "fixture-first-build-length",
+      "offset": 752136,
+      "before": "0600000000000000",
+      "after": "0500000000000000"
+    },
+    {
+      "id": "fixture-second-build-text",
+      "offset": 534983,
+      "before": "32304833363400",
+      "after": "32314639300000"
+    },
+    {
+      "id": "fixture-second-build-length",
+      "offset": 752168,
+      "before": "0600000000000000",
+      "after": "0500000000000000"
+    },
+    {
+      "id": "fixture-user-agent-text",
+      "offset": 645674,
+      "before": "536e6170636861742f2540204265746120286950686f6e6531302c333b20694f532031362e372e31323b20677a69702900",
+      "after": "536e6170636861742f2540204265746120286950686f6e6531332c313b20694f532031372e352e313b20677a6970290000"
+    },
+    {
+      "id": "fixture-user-agent-length",
+      "offset": 765832,
+      "before": "3000000000000000",
+      "after": "2f00000000000000"
+    },
+    {
+      "id": "preserve-keychain-add-arguments",
+      "offset": 133312,
+      "before": "ff4306d1fc6f17a9fd7b18a9",
+      "after": "700500b010fe43f900021fd6",
+      "assembly": "adrp x16, 0xcd000\nldr x16, [x16, #0x7f8]\nbr x16"
+    },
+    {
+      "id": "preserve-keychain-copy-arguments",
+      "offset": 134004,
+      "before": "ff4306d1fc6f17a9fd7b18a9",
+      "after": "700500b0100244f900021fd6",
+      "assembly": "adrp x16, 0xcd000\nldr x16, [x16, #0x800]\nbr x16"
+    },
+    {
+      "id": "preserve-keychain-update-arguments",
+      "offset": 134696,
+      "before": "ff8306d1fc6f18a9fd7b19a9",
+      "after": "700500b0100644f900021fd6",
+      "assembly": "adrp x16, 0xcd000\nldr x16, [x16, #0x808]\nbr x16"
+    },
+    {
+      "id": "disable-residual-log-flush",
+      "offset": 322756,
+      "before": "fd7bbfa9",
+      "after": "c0035fd6",
+      "assembly": "ret"
+    },
+    {
+      "id": "disable-residual-log-queue-upload",
+      "offset": 322868,
+      "before": "fc6fbea9",
+      "after": "c0035fd6",
+      "assembly": "ret"
+    },
+    {
+      "id": "disable-residual-log-network-upload",
+      "offset": 326252,
+      "before": "c0035fd6fc6f1ba9",
+      "after": "00008052c0035fd6",
+      "assembly": "mov w0, #0\nret"
+    },
+    {
+      "id": "skip-automatic-login-cleanup",
+      "offset": 269408,
+      "before": "00010037",
+      "after": "60010037",
+      "assembly": "tbnz w0, #0, 0x41c8c"
+    }
+  ],
+  "activation_guards": [
+    {
+      "name": "version-and-header-initializer-remains-disabled",
+      "offset": 276992,
+      "bytes": "c0035fd6"
+    },
+    {
+      "name": "logging-remains-disabled",
+      "offset": 321888,
+      "bytes": "c0035fd6"
+    },
+    {
+      "name": "logging-initializer-remains-disabled",
+      "offset": 320472,
+      "bytes": "c0035fd6"
+    }
+  ],
+  "intermediate_revisions": [
+    {
+      "sha256": "1ad324fb72ad3fb4c260b9187cb6bf8c55fb042ef83dbc58b3f229c88555e059",
+      "patch_ids": [
+        "validate-persisted-uuid",
+        "defer-wipes-until-verification",
+        "wipe-after-successful-verification",
+        "consistent-user-agent-device"
+      ]
+    },
+    {
+      "sha256": "7756e3648654bd7377c322f7490461fcdfdf2b3f4a00ade269bb26d310d9aea9",
+      "patch_ids": [
+        "validate-persisted-uuid",
+        "defer-wipes-until-verification",
+        "wipe-after-successful-verification",
+        "consistent-user-agent-device",
+        "fixture-udid-text",
+        "fixture-udid-length",
+        "fixture-serial-text",
+        "fixture-product-type-text",
+        "fixture-first-build-text",
+        "fixture-first-build-length",
+        "fixture-second-build-text",
+        "fixture-second-build-length",
+        "fixture-user-agent-text",
+        "fixture-user-agent-length"
+      ]
+    }
+  ],
+  "device_profile": "tools/spoof_fix/iphone12-mini.json"
+}

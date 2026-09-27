@@ -1,0 +1,102 @@
+{
+  "recipe": "native-baseline-v1",
+  "macho_reader": "macholib",
+  "macho": [
+    {
+      "path": "Payload/Snapchat.app/Snapchat",
+      "load_commands": 131,
+      "non_system_loads": [
+        "@rpath/libswift_Concurrency.dylib"
+      ],
+      "cryptid": 0,
+      "known_injected_markers_found": [],
+      "sha256": "aaed5609d43bbccbede0eb27646a0215959deb5fc2b258f4e714a6efd1b97b50",
+      "byte_identical_to_source": false
+    },
+    {
+      "path": "Payload/Snapchat.app/Frameworks/ExtensionsSharedDependencies.framework/ExtensionsSharedDependencies",
+      "load_commands": 54,
+      "non_system_loads": [],
+      "cryptid": 0,
+      "known_injected_markers_found": [],
+      "sha256": "5464b8e36efbf331c41b450c2c35623364951431030207c389fbcfab81351897",
+      "byte_identical_to_source": true
+    },
+    {
+      "path": "Payload/Snapchat.app/PlugIns/SnapchatIntentsExtension.appex/SnapchatIntentsExtension",
+      "load_commands": 45,
+      "non_system_loads": [],
+      "cryptid": 1,
+      "known_injected_markers_found": [],
+      "sha256": "e104900ce18c9cf09fb0e51b7006c8feff0c3d19e887b83560f49d7011c7e10f",
+      "byte_identical_to_source": true
+    },
+    {
+      "path": "Payload/Snapchat.app/PlugIns/SnapchatNotificationServiceExt.appex/SnapchatNotificationServiceExt",
+      "load_commands": 54,
+      "non_system_loads": [
+        "@rpath/ExtensionsSharedDependencies.framework/ExtensionsSharedDependencies"
+      ],
+      "cryptid": 1,
+      "known_injected_markers_found": [],
+      "sha256": "c3dc5358d3299b21290d541acded7704915a160f0338ce6983590ae176502e71",
+      "byte_identical_to_source": true
+    },
+    {
+      "path": "Payload/Snapchat.app/PlugIns/SnapchatShareExt.appex/SnapchatShareExt",
+      "load_commands": 54,
+      "non_system_loads": [
+        "@rpath/ExtensionsSharedDependencies.framework/ExtensionsSharedDependencies"
+      ],
+      "cryptid": 1,
+      "known_injected_markers_found": [],
+      "sha256": "54dc486a0b75026a2968cd0bf9613cd9e5680534c3bf26227000775c0ed527ba",
+      "byte_identical_to_source": true
+    },
+    {
+      "path": "Payload/Snapchat.app/PlugIns/SnapchatHomeScreenWidget.appex/SnapchatHomeScreenWidget",
+      "load_commands": 61,
+      "non_system_loads": [
+        "@rpath/ExtensionsSharedDependencies.framework/ExtensionsSharedDependencies"
+      ],
+      "cryptid": 1,
+      "known_injected_markers_found": [],
+      "sha256": "367bbf742275251e93f327111a436dbb44479edce5d7ced9a71091e2ece3a782",
+      "byte_identical_to_source": true
+    },
+    {
+      "path": "Payload/Snapchat.app/PlugIns/SnapchatLocationPushExtension.appex/SnapchatLocationPushExtension",
+      "load_commands": 32,
+      "non_system_loads": [
+        "@rpath/ExtensionsSharedDependencies.framework/ExtensionsSharedDependencies"
+      ],
+      "cryptid": 1,
+      "known_injected_markers_found": [],
+      "sha256": "bc1bf34819993928e2b51ef8545d0ad0e1bffd831cea3ee561467094b80a1b68",
+      "byte_identical_to_source": true
+    },
+    {
+      "path": "Payload/Snapchat.app/PlugIns/ScreenCaptureExtension.appex/ScreenCaptureExtension",
+      "load_commands": 55,
+      "non_system_loads": [
+        "@rpath/ExtensionsSharedDependencies.framework/ExtensionsSharedDependencies"
+      ],
+      "cryptid": 1,
+      "known_injected_markers_found": [],
+      "sha256": "1f2f7df91be001238bb98e3cc07d8eae58f4e290db5b2b92ff197f3d2fa5e87e",
+      "byte_identical_to_source": true
+    }
+  ],
+  "bundle_ids": {
+    "Payload/Snapchat.app/Info.plist": "com.toyopagroup.picaboo",
+    "Payload/Snapchat.app/PlugIns/ScreenCaptureExtension.appex/Info.plist": "com.toyopagroup.picaboo.screencapture",
+    "Payload/Snapchat.app/PlugIns/SnapchatHomeScreenWidget.appex/Info.plist": "com.toyopagroup.picaboo.homeWidget",
+    "Payload/Snapchat.app/PlugIns/SnapchatLocationPushExtension.appex/Info.plist": "com.toyopagroup.picaboo.locationpushservice",
+    "Payload/Snapchat.app/PlugIns/SnapchatShareExt.appex/Info.plist": "com.toyopagroup.picaboo.share",
+    "Payload/Snapchat.app/PlugIns/SnapchatIntentsExtension.appex/Info.plist": "com.toyopagroup.picaboo.intents",
+    "Payload/Snapchat.app/PlugIns/SnapchatNotificationServiceExt.appex/Info.plist": "com.toyopagroup.picaboo.notification"
+  },
+  "all_removed_paths_absent": true,
+  "main_bytes_after_original_load_commands_unchanged": true,
+  "extension_binaries_still_marked_encrypted": 6
+}

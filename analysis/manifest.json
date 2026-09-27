@@ -7,7 +7,7 @@
   "version": "12.81.0",
   "build": "12.81.0.47",
   "signature": "unsigned",
-  "extraction_preserves_file_bytes": true,
+  "extraction_preserves_file_bytes": false,
   "runtime_tested": false,
   "files": [
     {
@@ -37602,7 +37602,7 @@
     },
     {
       "path": "Payload/Snapchat.app/Frameworks/SCRT.framework/SCRT",
-      "sha256": "15e8fedb591d0c154944af49bb5c87c48e31373d52ad3e9f13f5458f21574c4b",
+      "sha256": "3b563f265bee10abce6791d4993583a336a1625fc8cdb0cecda9ba7921b52866",
       "bytes": 1297664
     },
     {
@@ -40570,5 +40570,16 @@
       "sha256": "60e5f0d1887ac40f3f5607b70948c3e39d9100e65723df853adf57096160afc9",
       "bytes": 1153
     }
-  ]
+  ],
+  "derived_revision": {
+    "patch_set": "spoof-consistency-v3-keychain-integrity",
+    "upstream_commit": "e005928d969b6bfb59b1caafca2f7ba50a2519e6",
+    "patch_manifest": "tools/spoof_fix/patches.json",
+    "device_profile": "tools/spoof_fix/iphone12-mini.json",
+    "modified_files": [
+      "Payload/Snapchat.app/Frameworks/SCRT.framework/SCRT"
+    ],
+    "iphone_tested": false,
+    "note": "source_* fields identify the unmodified upstream IPA, not a rebuilt IPA"
+  }
 }

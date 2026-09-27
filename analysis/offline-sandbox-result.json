@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "scope": "standalone_offline_sandbox",
+  "release_url": "https://github.com/DamsPTC/snapchat-ipa-analysis/releases/tag/v0.1.0-offline-sandbox",
+  "release_id": 397712684,
+  "commit": "09c79acbac1545da74986a1dbfc2a428aae4adb5",
+  "workflow_url": "https://github.com/DamsPTC/snapchat-ipa-analysis/actions/runs/36331250098",
+  "workflow_job_id": 108653476088,
+  "workflow_conclusion": "success",
+  "apple_runtime_model_assertions_passed": 10,
+  "build": {
+    "format": 1,
+    "target": "standalone_offline_sandbox",
+    "commit": "09c79acbac1545da74986a1dbfc2a428aae4adb5",
+    "bundle_identifier": "com.damsptc.snaplab.offline",
+    "ipa_sha256": "3b840e57e7a15f940e609f512c61c5568bf7e005608e0591f63c7be4d70b8bf6",
+    "ipa_size": 15547,
+    "source_sha256": {
+      "LabModel.h": "dbe115d885991314ad464e5847fb9495588224f889deb53c0e891fb19fff0fed",
+      "LabModel.m": "cf5053d8e9fb7f3e60037d7773b46da6e4d004e21b6dc80431449e8dbec980ae",
+      "LabApp.m": "3c6e92f1bf86964be6a4256c469e4514238e0cbff64fb831c582e112e555ed63"
+    },
+    "device_binary_sha256": "b33b5a9868ff94bb840041a510a0a7bf5f93cba3e3d68b85831bb81c23183c88",
+    "imports": [
+      "/System/Library/Frameworks/Foundation.framework/Foundation",
+      "/System/Library/Frameworks/UIKit.framework/UIKit",
+      "/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics",
+      "/usr/lib/libobjc.A.dylib",
+      "/usr/lib/libSystem.B.dylib",
+      "/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation"
+    ],
+    "sdk_version": "18.5",
+    "profile": {
+      "model": "iPhone 12 mini",
+      "product_type": "iPhone13,1",
+      "serial": "SIM12MINI002"
+    },
+    "devicecheck": "local_simulation_only",
+    "real_authentication_transport": false,
+    "original_ipa_modified": false,
+    "original_login_fixed": false,
+    "original_autofill_fixed": false,
+    "simulator_self_test_code_in_device_binary": false
+  },
+  "uikit_assertions": {
+    "checks": [
+      "input_traits_and_secure_password",
+      "local_success",
+      "invalid_demo_credentials",
+      "blocked_fixture",
+      "unavailable_fixture",
+      "reset_preserves_secure_entry",
+      "required_fields",
+      "return_moves_focus_to_password",
+      "return_submits_and_dismisses_keyboard",
+      "password_preserved_across_focus_transition"
+    ],
+    "ios_version": "26.2",
+    "network_authentication_tested": false,
+    "original_ipa_tested": false,
+    "passed": true,
+    "real_face_id_autofill_tested": false,
+    "simulator_device": "iPhone 17 Pro",
+    "simulator_runtime": "com.apple.CoreSimulator.SimRuntime.iOS-26-2"
+  },
+  "downloaded_artifact_sha256": "1d4c041a4b8c5365c8430cc3e127a075da92a6573e9cf9320bc72db1e4544718",
+  "all_downloaded_files_match_published_asset_hashes": true,
+  "ipa_inventory_and_device_imports_rechecked_after_download": true,
+  "initial_screen_preview_reviewed": true,
+  "keyboard_animation_visually_reviewed": false,
+  "assets": [
+    {
+      "name": "LIRE_AVANT_INSTALLATION.md",
+      "id": 593249059,
+      "size": 2618,
+      "digest": "sha256:ee4759e9f0b8d54812a8ac57c2f93033e90aa2ee4b109134c811a07207d60b18",
+      "browser_download_url": "https://github.com/DamsPTC/snapchat-ipa-analysis/releases/download/v0.1.0-offline-sandbox/LIRE_AVANT_INSTALLATION.md"
+    },
+    {
+      "name": "offline-sandbox-build.json",
+      "id": 593249064,
+      "size": 1381,
+      "digest": "sha256:d6856db0fdb223980ddd6e24b73cd8759c3ff4d432802ab870adba106913e958",
+      "browser_download_url": "https://github.com/DamsPTC/snapchat-ipa-analysis/releases/download/v0.1.0-offline-sandbox/offline-sandbox-build.json"
+    },
+    {
+      "name": "offline-sandbox-ui-tests.json",
+      "id": 593249080,
+      "size": 623,
+      "digest": "sha256:b88f0055210a8b464337af062a5a4eca3cc4053126088f8cf51e5b67dfd3611f",
+      "browser_download_url": "https://github.com/DamsPTC/snapchat-ipa-analysis/releases/download/v0.1.0-offline-sandbox/offline-sandbox-ui-tests.json"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "id": 593249058,
+      "size": 95,
+      "digest": "sha256:cfde6ee1ea5cbc22a889a0d36cd66229f8a5caaf31595977755a1b52f9b012e6",
+      "browser_download_url": "https://github.com/DamsPTC/snapchat-ipa-analysis/releases/download/v0.1.0-offline-sandbox/SHA256SUMS.txt"
+    },
+    {
+      "name": "SnapLab_Offline_unsigned.ipa",
+      "id": 593249062,
+      "size": 15547,
+      "digest": "sha256:3b840e57e7a15f940e609f512c61c5568bf7e005608e0591f63c7be4d70b8bf6",
+      "browser_download_url": "https://github.com/DamsPTC/snapchat-ipa-analysis/releases/download/v0.1.0-offline-sandbox/SnapLab_Offline_unsigned.ipa"
+    },
+    {
+      "name": "SnapLab_preview.png",
+      "id": 593249060,
+      "size": 237416,
+      "digest": "sha256:c00ce4e98e5aad5e704435704060523839967f22ecf7cba0f963eae87121abeb",
+      "browser_download_url": "https://github.com/DamsPTC/snapchat-ipa-analysis/releases/download/v0.1.0-offline-sandbox/SnapLab_preview.png"
+    }
+  ]
+}

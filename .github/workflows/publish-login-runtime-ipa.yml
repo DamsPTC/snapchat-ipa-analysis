@@ -1,0 +1,120 @@
+name: Build and publish local login diagnostics
+
+on:
+  push:
+    branches: [fix/spoof-consistency]
+    paths:
+      - .github/workflows/publish-login-runtime-ipa.yml
+      - tools/login_diagnostics/**
+      - tools/build_login_diagnostics.py
+      - tests/test_login_diagnostics.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-login-runtime-diagnostic-v1
+  cancel-in-progress: false
+
+env:
+  RELEASE_TAG: v12.81.0-runtime-diagnostic
+  IPA_NAME: Snapchat_DiagnosticLogin_unsigned.ipa
+
+jobs:
+  build-test-publish:
+    runs-on: macos-15
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+          persist-credentials: true
+          sparse-checkout: |
+            tools
+            tests
+            analysis
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify packaging safety
+        run: python -m unittest discover -s tests -p test_login_diagnostics.py -v
+      - name: Execute observer forwarding and privacy tests with the Apple runtime
+        run: |
+          xcrun --sdk macosx clang -fobjc-arc -fblocks -std=gnu11 -Wall -Wextra -Werror -Wno-deprecated-declarations -framework Foundation tools/login_diagnostics/NDCore.m tools/login_diagnostics/NDCoreTests.m -o "$RUNNER_TEMP/nd-core-tests"
+          "$RUNNER_TEMP/nd-core-tests"
+      - name: Compile the unsigned ARM64 iPhone framework
+        run: |
+          mkdir -p "$RUNNER_TEMP/NativeLoginDiagnostics.framework"
+          xcrun --sdk iphoneos clang -arch arm64 -isysroot "$(xcrun --sdk iphoneos --show-sdk-path)" -miphoneos-version-min=12.4 -fobjc-arc -fblocks -std=gnu11 -O1 -Wall -Wextra -Werror -Wno-deprecated-declarations -dynamiclib -framework Foundation -framework UIKit -Wl,-no_adhoc_codesign -install_name @rpath/NativeLoginDiagnostics.framework/NativeLoginDiagnostics -DND_BUILD_ID=\"$GITHUB_SHA\" tools/login_diagnostics/NDCore.m tools/login_diagnostics/NDSigning.m tools/login_diagnostics/NDUI.m -o "$RUNNER_TEMP/NativeLoginDiagnostics.framework/NativeLoginDiagnostics"
+          python - <<'PY'
+          import os, plistlib
+          from pathlib import Path
+          path = Path(os.environ['RUNNER_TEMP']) / 'NativeLoginDiagnostics.framework/Info.plist'
+          path.write_bytes(plistlib.dumps({
+              'CFBundleExecutable': 'NativeLoginDiagnostics',
+              'CFBundleIdentifier': 'com.damsptc.native-login-diagnostics',
+              'CFBundlePackageType': 'FMWK', 'CFBundleVersion': '1',
+              'CFBundleShortVersionString': '0.1', 'MinimumOSVersion': '12.4',
+              'CFBundleSupportedPlatforms': ['iPhoneOS'],
+          }))
+          PY
+      - name: Download the exact native baseline
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release download v12.81.0-native-baseline --repo "$GITHUB_REPOSITORY" --pattern Snapchat_Core_nettoyee_unsigned.ipa --dir "$RUNNER_TEMP/native-baseline"
+      - name: Package and inspect every output file
+        run: |
+          python tools/build_login_diagnostics.py "$RUNNER_TEMP/native-baseline/Snapchat_Core_nettoyee_unsigned.ipa" "$RUNNER_TEMP/NativeLoginDiagnostics.framework" "$RUNNER_TEMP/login-release/$IPA_NAME" --report "$RUNNER_TEMP/login-release/login-runtime-diagnostic-result.json"
+          python - <<'PY'
+          import hashlib, os, shutil
+          from pathlib import Path
+          output = Path(os.environ['RUNNER_TEMP']) / 'login-release'
+          archive = output / os.environ['IPA_NAME']
+          with archive.open('rb') as stream:
+              digest = hashlib.file_digest(stream, 'sha256').hexdigest()
+          (output / 'SHA256SUMS.txt').write_text(f'{digest}  {archive.name}\n')
+          shutil.copyfile('analysis/login-runtime-diagnostic-release.md', output / 'LIRE_AVANT_INSTALLATION.md')
+          print('VERIFIED_IPA_SHA256=' + digest)
+          PY
+      - name: Publish only after all checks pass
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import hashlib, json, os, subprocess
+          from pathlib import Path
+          repo, tag = os.environ['GITHUB_REPOSITORY'], os.environ['RELEASE_TAG']
+          output = Path(os.environ['RUNNER_TEMP']) / 'login-release'
+          expected = {p.name:p for p in output.iterdir() if p.is_file()}
+          title = 'Snapchat 12.81.0 — diagnostic local du login'
+          notes_path = 'analysis/login-runtime-diagnostic-release.md'
+          notes = Path(notes_path).read_text()
+          def find_release():
+              pages = json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/releases?per_page=100','--paginate','--slurp'],text=True))
+              matches = [r for page in pages for r in page if r['tag_name'] == tag]
+              if len(matches) > 1: raise SystemExit('Duplicate release tag')
+              return matches[0] if matches else None
+          release = find_release()
+          if release is None:
+              subprocess.run(['gh','release','create',tag,*[str(expected[n]) for n in sorted(expected)],
+                  '--repo',repo,'--target',os.environ['GITHUB_SHA'],'--draft','--prerelease',
+                  '--title',title,'--notes-file',notes_path],check=True)
+              release = find_release()
+          if not release or not release['draft'] or not release['prerelease']:
+              raise SystemExit('Refusing to overwrite an existing published release')
+          if release['name'] != title or release['body'].strip() != notes.strip():
+              raise SystemExit('Existing draft differs')
+          assets = {a['name']:a for a in release['assets']}
+          if set(assets) != set(expected): raise SystemExit('Asset inventory mismatch')
+          for name,path in expected.items():
+              with path.open('rb') as stream: digest = hashlib.file_digest(stream,'sha256').hexdigest()
+              asset = assets[name]
+              if asset['state'] != 'uploaded' or asset['size'] != path.stat().st_size or asset['digest'] != f'sha256:{digest}':
+                  raise SystemExit('Asset integrity mismatch: ' + name)
+          result = json.loads(subprocess.check_output(['gh','api','--method','PATCH',
+              f'repos/{repo}/releases/{release["id"]}','-F','draft=false','-F','prerelease=true',
+              '-f','make_latest=false','-f',f'target_commitish={os.environ["GITHUB_SHA"]}'],text=True))
+          if result['draft']: raise SystemExit('Release publication not confirmed')
+          print(result['html_url'])
+          PY

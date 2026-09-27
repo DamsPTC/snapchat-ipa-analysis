@@ -1,0 +1,127 @@
+name: Publish metadata control IPA
+
+on:
+  push:
+    branches: [fix/spoof-consistency]
+    paths:
+      - .github/workflows/publish-metadata-control-ipa.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-metadata-control-ipa-v12.81.0
+  cancel-in-progress: false
+
+env:
+  RELEASE_TAG: v12.81.0-metadata-control
+  IPA_NAME: Snapchat_SansSpoof_MetadataTest_unsigned.ipa
+  IPA_SHA256: 39b4d600ee724b9b0ddf986e744bb5f9ac2e75d7e387da233b9a8cc5b202e516
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+          # The historical Payload contains an optool gitlink without .gitmodules.
+          # Defer checkout's credential cleanup until the end of the hosted job.
+          persist-credentials: true
+          sparse-checkout: |
+            tools
+            analysis
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Download the archived source
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download v12.81.0-version-fix --repo "$GITHUB_REPOSITORY" --pattern Snapchat_DeviceCheck_etude_unsigned.ipa --dir "$RUNNER_TEMP/ipa-source"
+      - name: Rebuild and verify the exact delivered IPA
+        run: |
+          python tools/restore_native.py "$RUNNER_TEMP/ipa-source/Snapchat_DeviceCheck_etude_unsigned.ipa" "$RUNNER_TEMP/native-release/$IPA_NAME" --report "$RUNNER_TEMP/native-release/login-metadata-control-result.json" --preserve-source-metadata
+          python - <<'PY'
+          import hashlib
+          import json
+          import os
+          from pathlib import Path
+          import shutil
+          import zlib
+
+          output = Path(os.environ['RUNNER_TEMP']) / 'native-release'
+          archive = output / os.environ['IPA_NAME']
+          with archive.open('rb') as stream:
+              digest = hashlib.file_digest(stream, 'sha256').hexdigest()
+          if digest != os.environ['IPA_SHA256'] or archive.stat().st_size != 94365886:
+              raise SystemExit(f'Archive differs from the delivered IPA (zlib {zlib.ZLIB_RUNTIME_VERSION}): {digest}')
+          result = json.loads((output / 'login-metadata-control-result.json').read_text())
+          if result != json.loads(Path('analysis/login-metadata-control-result.json').read_text()):
+              raise SystemExit('Rebuild report differs from the audited report')
+          (output / 'SHA256SUMS.txt').write_text(f'{digest}  {archive.name}\n', encoding='utf-8')
+          shutil.copyfile('analysis/login-metadata-control-release.md', output / 'LIRE_AVANT_INSTALLATION.md')
+          shutil.copyfile('analysis/login-metadata-control-verification.json', output / 'login-metadata-control-verification.json')
+          print(f'Exact delivered IPA verified: {digest}, {archive.stat().st_size} bytes')
+          PY
+      - name: Upload, verify and publish the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PYCODE'
+          import hashlib
+          import json
+          import os
+          from pathlib import Path
+          import subprocess
+
+          repo = os.environ['GITHUB_REPOSITORY']
+          tag = os.environ['RELEASE_TAG']
+          output = Path(os.environ['RUNNER_TEMP']) / 'native-release'
+          expected = {path.name: path for path in output.iterdir() if path.is_file()}
+          notes = Path('analysis/login-metadata-control-release.md').read_text()
+          title = 'Snapchat 12.81.0 — test des métadonnées sans spoof'
+
+          def find_release():
+              # Draft releases are found in the collection, not the by-tag endpoint.
+              pages = json.loads(subprocess.check_output(
+                  ['gh', 'api', f'repos/{repo}/releases?per_page=100', '--paginate', '--slurp'], text=True))
+              matches = [item for page in pages for item in page if item['tag_name'] == tag]
+              if len(matches) > 1:
+                  raise SystemExit('Multiple releases use the requested tag')
+              return matches[0] if matches else None
+
+          release = find_release()
+          if release is None:
+              subprocess.run([
+                  'gh', 'release', 'create', tag, *[str(expected[name]) for name in sorted(expected)],
+                  '--repo', repo, '--target', os.environ['GITHUB_SHA'], '--draft', '--prerelease',
+                  '--title', title, '--notes-file', 'analysis/login-metadata-control-release.md',
+              ], check=True)
+              release = find_release()
+          if not release or not release['draft'] or not release['prerelease']:
+              raise SystemExit('Expected an unpublished prerelease; refusing to overwrite a published release')
+          if release['name'] != title or release['body'].strip() != notes.strip():
+              raise SystemExit('Existing release notes differ; refusing to replace another draft')
+          assets = {asset['name']: asset for asset in release['assets']}
+          if set(assets) != set(expected):
+              raise SystemExit('Uploaded assets differ from the expected release files')
+          for name, path in expected.items():
+              with path.open('rb') as stream:
+                  digest = hashlib.file_digest(stream, 'sha256').hexdigest()
+              asset = assets[name]
+              if asset['state'] != 'uploaded' or asset['size'] != path.stat().st_size or asset['digest'] != f'sha256:{digest}':
+                  raise SystemExit(f'Uploaded asset failed size/hash verification: {name}')
+          print('All five uploaded assets match their local SHA-256 hashes.', flush=True)
+          endpoint = f'repos/{repo}/releases/{release["id"]}'
+          published = json.loads(subprocess.check_output([
+              'gh', 'api', '--method', 'PATCH', endpoint,
+              '-F', 'draft=false', '-F', 'prerelease=true', '-f', 'make_latest=false',
+              '-f', f'target_commitish={os.environ["GITHUB_SHA"]}',
+          ], text=True))
+          if published['draft'] or published['tag_name'] != tag:
+              raise SystemExit('Publication was not confirmed')
+          print(published['html_url'])
+          PYCODE

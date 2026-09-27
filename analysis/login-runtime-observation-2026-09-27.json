@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "observed_date": "2026-09-27",
+  "mode": "analysis_only",
+  "diagnostic_build": "2a5f8c8da84d3c58a20b870792052f62ee43c7ff",
+  "diagnostic_report_sha256": "6c965f6ea3faaea87137925878e123905a64dee69204b98a006a0f25f6a2e0c7",
+  "coverage_installed": 7,
+  "login_responses": [
+    {
+      "sequence": 6,
+      "response_present": true,
+      "transport_error_present": false,
+      "proto_status": 16,
+      "proto_status_name": "ErrBlocked"
+    },
+    {
+      "sequence": 11,
+      "response_present": true,
+      "transport_error_present": false,
+      "proto_status": 16,
+      "proto_status_name": "ErrBlocked"
+    }
+  ],
+  "keychain_observations": {
+    "read_status_counts": {
+      "-25300": 3
+    },
+    "background_write_status_counts": {
+      "0": 4
+    },
+    "missing_entitlement_observed": false,
+    "same_item_read_write_correlation_available": false
+  },
+  "source_enum": {
+    "name": "SCJanusLoginWithPasswordResponse_StatusCode",
+    "source_main_sha256": "654c849de8b85ecf1b6d8bc6219d60eefe5ec321ce64ddeee5342d9e6e88e432",
+    "names_va": "0x107b7365c",
+    "values_va": "0x107b73800",
+    "count": 20,
+    "entries": [
+      {
+        "value": 0,
+        "name": "Unset"
+      },
+      {
+        "value": 1,
+        "name": "LoginSuccess"
+      },
+      {
+        "value": 2,
+        "name": "TwoFaRequired"
+      },
+      {
+        "value": 3,
+        "name": "OdlvRequired"
+      },
+      {
+        "value": 4,
+        "name": "LoginCodeSent"
+      },
+      {
+        "value": 5,
+        "name": "AccountDeactivated"
+      },
+      {
+        "value": 6,
+        "name": "AccountLocked"
+      },
+      {
+        "value": 7,
+        "name": "AndroidSafetynetRequested"
+      },
+      {
+        "value": 8,
+        "name": "ChannelVerificationRequired"
+      },
+      {
+        "value": 9,
+        "name": "AndroidPlayIntegrityClassicRequested"
+      },
+      {
+        "value": 17,
+        "name": "AndroidPlayIntegrityStandardRequested"
+      },
+      {
+        "value": 18,
+        "name": "AndroidKeyAttestationRequested"
+      },
+      {
+        "value": 19,
+        "name": "PhoneNumberSuggestionConfirmationRequired"
+      },
+      {
+        "value": 10,
+        "name": "ErrGenericFailure"
+      },
+      {
+        "value": 11,
+        "name": "ErrThrottled"
+      },
+      {
+        "value": 12,
+        "name": "ErrCredentialMismatch"
+      },
+      {
+        "value": 13,
+        "name": "ErrAccountNotFound"
+      },
+      {
+        "value": 14,
+        "name": "ErrPasswordMismatch"
+      },
+      {
+        "value": 15,
+        "name": "ErrAppVersionUpgrade"
+      },
+      {
+        "value": 16,
+        "name": "ErrBlocked"
+      }
+    ]
+  },
+  "native_blocked_branch": {
+    "jump_table_va": "0x107b11df8",
+    "index": 16,
+    "target_va": "0x105f8f610",
+    "handling": "generalErrorWithMessage:displayRegisterCTA: then original failure callback"
+  },
+  "unchanged_native_regions": {
+    "compared_archives": [
+      "keep_core",
+      "native",
+      "metadata_control"
+    ],
+    "includes_source": true,
+    "regions": [
+      {
+        "name": "password_send",
+        "va": "0x1067febfc",
+        "size": 228,
+        "sha256": "d6f0f9a7c5db1c0c90d2287c236fd6200c6f64b1748941f57ded2a3edbb79e75"
+      },
+      {
+        "name": "password_response",
+        "va": "0x105f8f458",
+        "size": 1372,
+        "sha256": "d15f2c733e87ab6c4a6536dd556d702345e8e53b2111345a2fdb140e0444dab6"
+      },
+      {
+        "name": "devicecheck",
+        "va": "0x106e0222c",
+        "size": 376,
+        "sha256": "015e232ad05ecc3c739f0d6a80c5dc1715be910dacf2c76b4750b286f1ce2db1"
+      },
+      {
+        "name": "keychain_query",
+        "va": "0x100070c5c",
+        "size": 288,
+        "sha256": "aaef8bff8d08def0a209764084397d14fa49f3835e2ce00dfeadabdd34f933fa"
+      }
+    ]
+  },
+  "keychain_query": {
+    "method": "+[SCKeychainManager queryForKey:]",
+    "va": "0x100070c5c",
+    "attributes": [
+      "kSecClass",
+      "kSecAttrGeneric",
+      "kSecAttrAccount",
+      "kSecAttrService",
+      "kSecAttrSynchronizable"
+    ],
+    "service": "com.toyopagroup.picaboo",
+    "explicit_access_group_in_this_builder": false
+  },
+  "signing_observation": {
+    "declared_and_embedded_application_identifiers_differ": true,
+    "raw_private_identifiers_published": false,
+    "cryptographic_verification_performed": false,
+    "signed_archives_available": false
+  },
+  "user_comparison": {
+    "old_keep_core_real_login_success_reported": true,
+    "old_keep_core_nonexistent_account_response_reported": true,
+    "independent_success_trace_available": false
+  },
+  "conclusion": {
+    "native_password_response_received": true,
+    "transport_error_reported": false,
+    "proto_status": 16,
+    "proto_status_name": "ErrBlocked",
+    "specific_block_trigger_identified": false,
+    "ss_code_identified": false,
+    "login_fix_confirmed": false,
+    "new_ipa_created": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "mode": "local_runtime_diagnostics_v1",
+  "source_sha256": "dd49ab63e079abac15391bfb7861d69fa876ec1b7d2a2a54b1ac801441e77c92",
+  "ipa_sha256": "4c1c2ff881cb1467ad252a237d30bb085906fd82938186748c4d44d22795a1f9",
+  "ipa_bytes": 94386274,
+  "unchanged_files": 8066,
+  "modified_files": [
+    "Payload/Snapchat.app/Snapchat"
+  ],
+  "added_files": [
+    "Payload/Snapchat.app/Frameworks/NativeLoginDiagnostics.framework/Info.plist",
+    "Payload/Snapchat.app/Frameworks/NativeLoginDiagnostics.framework/NativeLoginDiagnostics"
+  ],
+  "main": {
+    "before_sha256": "aaed5609d43bbccbede0eb27646a0215959deb5fc2b258f4e714a6efd1b97b50",
+    "after_sha256": "49dac90e4bc3bcb1dc539313fd74f730103e0a4513fc7260b87162f4cdf7acd7",
+    "first_file_backed_section": 14336,
+    "body_after_first_section_sha256": "c6b6a1e82373b1223a5fa362ce6910efadc98269e8d4e2b022abb5b2e9ec7177",
+    "body_unchanged": true
+  },
+  "observer": {
+    "imports": [
+      "/System/Library/Frameworks/Foundation.framework/Foundation",
+      "/System/Library/Frameworks/UIKit.framework/UIKit",
+      "/usr/lib/libobjc.A.dylib",
+      "/usr/lib/libSystem.B.dylib",
+      "/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation"
+    ],
+    "platform": "iPhoneOS",
+    "minimum_os": "12.4",
+    "sha256": "c309a17b4a01f86878764e3a208eb4fcea4131c38f599f1c36ca74602def185c"
+  },
+  "login_fix_confirmed": false,
+  "autofill_fix_confirmed": false,
+  "on_iphone_tested": false,
+  "credentials_or_tokens_logged": false
+}
