@@ -1,5 +1,18 @@
 # Snapchat — analyse et base sans injections
 
+**Laboratoire local distinct :** une petite application UIKit compilée depuis
+ses propres sources est disponible pour tester le profil fictif iPhone 12 mini
+(`SIM12MINI002`), trois états de DeviceCheck simulés et un compte de démonstration
+`demo / sandbox`. Elle n'a aucun transport d'authentification vers Snapchat.
+Voir [le mode d'emploi](analysis/offline-sandbox-release.md),
+[les résultats et empreintes](analysis/offline-sandbox-result.json) et
+[la release SnapLab](https://github.com/DamsPTC/snapchat-ipa-analysis/releases/tag/v0.1.0-offline-sandbox).
+Les 10 assertions du modèle sur le runtime Apple et les 10 vérifications UIKit
+sur le simulateur iPhone 17 Pro / iOS 26.2 passent. La saisie testée passe par
+les API de texte et les callbacks de retour ; elle ne reproduit pas un AutoFill
+biométrique réel. **Cette application séparée ne répare pas l'ancienne IPA :
+son refus de connexion et son crash Face ID restent non résolus.**
+
 **Audit des dépendances de SCRT :** le framework comprend des utilitaires et des
 interceptions de plusieurs types. L'examen de ses 36 classes et 9 catégories ne
 met pas en évidence de fonction native de login à rétablir après son retrait.

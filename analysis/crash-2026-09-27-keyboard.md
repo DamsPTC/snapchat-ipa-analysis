@@ -95,6 +95,30 @@ tous ses octets après l’ancienne table de chargement restent identiques.
 Les changements de bundle constituent une deuxième variable à isoler dans
 un essai comparatif ; ils ne sont pas désignés comme cause du crash par le rapport.
 
+## Relecture des champs natifs de connexion
+
+L'examen statique complémentaire du 27 septembre porte sur le binaire principal
+d'origine de l'archive étudiée, SHA-256
+`654c849de8b85ecf1b6d8bc6219d60eefe5ec321ce64ddeee5342d9e6e88e432`.
+Il réduit plusieurs hypothèses sans expliquer l'origine de la corruption :
+
+- `SCLogInCredentialsEntryViewController _update:` (`0x10646e13c`) compare
+  déjà le texte affiché au modèle et contrôle l'état d'édition avant de
+  réécrire les champs. Il compare aussi le masquage actuel au masquage voulu
+  avant d'appeler `_updatePasswordSecurity:`.
+- `_setupPasswordTextField` (`0x10646f810`) configure déjà un champ sécurisé
+  avec le type de contenu mot de passe. `SCTextView` encapsule un `UITextField`
+  et lui transmet les opérations de texte et de masquage.
+- `SCAuthenticationTextFieldAutoFillDetector` utilise les plages de texte,
+  longueurs et délais de saisie. Les méthodes examinées ne manipulent pas les
+  objets privés de clavier présents dans la pile du crash.
+
+Ajouter à l'aveugle les mêmes gardes ou désactiver le masquage n'est donc pas
+un correctif étayé. Aucun patch de ces méthodes n'est appliqué. La cible
+`tools/offline_sandbox/` fournit un écran UIKit neuf pour des essais locaux ;
+ses résultats ne valident ni le binaire ci-dessus ni le parcours biométrique
+sur l'appareil de l'utilisateur.
+
 ## Validation ciblée restante
 
 Le premier essai utile ne nécessite aucune nouvelle tentative d’authentification :
