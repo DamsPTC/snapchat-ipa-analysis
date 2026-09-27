@@ -91,8 +91,9 @@ dans une branche de correction, sans installer l’IPA sur un appareil.
 Le hook de connexion interrogeait aussi le trousseau pour l’effacer. Afin de ne
 pas modifier implicitement la portée de cet effacement en rétablissant les
 services, ses deux appels automatiques de nettoyage (trousseau et fichiers)
-sont retirés du chemin de réussite. Le contrôle du composant, les arguments de
-connexion et le traitement DeviceCheck existant sont conservés. Les routines de
+sont retirés du chemin de réussite. Le stub de contrôle du composant, les arguments de connexion et le traitement
+DeviceCheck existant sont conservés. L’entrée `0x4241c` renvoie déjà `1` dans
+l’IPA source ; elle n’appelle pas le corps `verifySync` dormant qui la suit. Les routines de
 suppression restent présentes dans le binaire ; ce n’est pas une garantie portant
 sur toutes les opérations possibles de l’application.
 

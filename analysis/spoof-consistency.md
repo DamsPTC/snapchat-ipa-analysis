@@ -13,7 +13,7 @@ un audit exhaustif des 8 112 fichiers de l’IPA ou de tous les services utilis�
 | `_initializeShieldEnvironment` (`0x22220`) | Actif | Lit `SHIELD_ID_<bundleIdentifier>` dans les préférences, publie `_kDynamicUUID`, crée et mémorise un UUID s’il est absent. Avant correction, toute chaîne non nulle était acceptée. |
 | Deux accesseurs `replaced_*Identifier` | Installés par Shield | Construisent un NSUUID depuis la même chaîne. Une chaîne invalide renvoie `nil`, sans forcément lever l’exception que le code cherchait à intercepter. Le partage du même identifiant simulé entre ces accesseurs est conservé. |
 | `_snap0x_init` (`0x44440`) | Actif | Installe des interceptions réseau/runtime/bundle et programme l’installation du hook de connexion. |
-| `_snap0x_login_trampoline` (`0x41bdc`) | Hook de connexion installé avec délai | Appelle les routines d’effacement, exécute `SKN_VerifyEngine.verifySync`, puis, si ce contrôle réussit, remplace le champ DeviceCheck par une chaîne sentinelle et appelle le login original. |
+| `_snap0x_login_trampoline` (`0x41bdc`) | Hook de connexion installé avec délai | Dans la source, appelle les routines d’effacement puis `_snap0x_silent_auth_check`, qui renvoie déjà `1` immédiatement. Remplace ensuite le champ DeviceCheck par une chaîne sentinelle et appelle le login original. Les effacements sont retirés en v3. |
 | `_hook_CFBundleGetIdentifier` (`0x71650`) | Installation active | Renvoie `com.toyopagroup.picaboo` pour le bundle principal. Le bundle d’installation déclaré est `app.neriostore.snapchatunbanss06`. Cette distinction relève du spoof existant, conservé. |
 | `_init_Spoofing_Hooks` (`0x43a00`) | Désactivé par `RET` | Les fonctions de réécriture version/en-têtes et leur ancienne cible `13.67.1` restent présentes. Elles ne sont pas réactivées par ce correctif. |
 | `_fwlog` (`0x4e960`) | Désactivé par `RET` | Les appels de journalisation restent dans le code, mais cette entrée de logger est neutralisée. |
@@ -42,24 +42,25 @@ les registres sauvegardés et ses limites de section.
 ### 2. Effacements automatiques du hook de connexion
 
 Le hook effaçait les éléments ciblés du trousseau et des fichiers locaux avant
-d’appeler la vérification synchrone propre au composant. Même un refus de ce
-composant intervenait donc après les effacements.
+d’appeler `_snap0x_silent_auth_check` (`0x4241c`). **Correction de l’audit initial :
+cette entrée commence déjà par `mov w0, #1; ret` dans l’IPA source.** Le corps
+`SKN_VerifyEngine.verifySync` qui suit est donc inatteignable depuis cette entrée.
+La première version du rapport avait confondu le corps dormant et le chemin actif.
 
-La première correction déplaçait ces appels sur la branche de réussite du
-contrôle du composant. La révision v3 les retire aussi de cette branche :
-vérification du composant → traitement DeviceCheck existant → appel du login
-original, avec les mêmes arguments. La branche de refus n’efface rien non plus.
-Le saut de réussite rejoint directement `0x41c8c` ; les anciens appels de
-nettoyage à `0x41c80` ne sont plus atteints par ce parcours.
+La première correction déplaçait les effacements sur la branche de réussite du
+contrôle. La v3 les retire aussi de cette branche : stub de succès existant →
+traitement DeviceCheck existant → appel du login original avec les mêmes arguments.
+Le saut rejoint directement `0x41c8c` ; les appels à `0x41c80` ne sont plus atteints.
+Les tests de refus utilisent un retour simulé pour couvrir une branche hypothétique,
+pas un refus qui serait produit par le stub réel de cette archive.
 
 Cette suppression accompagne la restauration des paramètres du trousseau,
 qui modifierait autrement le service interrogé par le nettoyage automatique.
-**Le contrôle du composant n’est pas l’authentification Snapchat.**
-Le retour anticipé sans callback en cas de refus du composant reste également
-inchangé : sa correction demanderait de connaître le contrat exact du handler.
-Les routines d’effacement elles-mêmes, le contrôle `verifySync` et le traitement
-DeviceCheck ne sont pas réécrits. Ce correctif ne prétend pas désactiver toutes
-les opérations de suppression possibles ailleurs dans l’application.
+Les routines d’effacement, le stub de succès déjà présent et le traitement
+DeviceCheck ne sont pas réécrits. L’authentification Snapchat reste extérieure à
+ce contrôle. Le retour anticipé sans callback de la branche hypothétique de refus
+reste inchangé. Ce correctif ne prétend pas désactiver toutes les opérations de
+suppression possibles ailleurs dans l’application.
 
 ### 3. Deux modèles dans les User-Agent dormants
 
@@ -145,11 +146,13 @@ Le détail des preuves et des affirmations non confirmées figure dans
 - Les champs `source_*` de l’inventaire décrivent toujours l’IPA source ; le
   champ `derived_revision` identifie la modification des fichiers extraits.
 
-La suite de 21 tests exécute les instructions ARM64 d’origine et corrigées dans
+La suite de tests exécute les instructions ARM64 d’origine et corrigées dans
 Unicorn avec un modèle explicite des appels Foundation/runtime et inspecte les
 constantes du profil. Les tests reproduisent
-l’UUID invalide, les effacements avant refus et le mauvais User-Agent dans
-l’archive source. Ils couvrent ensuite la réparation persistante, la conservation
+l’UUID invalide, les effacements précédant le contrôle intermédiaire et le mauvais
+User-Agent dans l’archive source. Les cas de refus et réussite simulés couvrent
+les branches du caller ; des tests distincts exécutent le stub réel, déjà réduit
+à un retour de succès, puis le parcours réel du hook de connexion. Ils couvrent ensuite la réparation persistante, la conservation
 d’un UUID valide, les deux accesseurs, les branches du hook de connexion,
 ses arguments, le profil du User-Agent, les plages de modification et le
 réassemblage du correctif. Les contrôles du profil vérifient les deux entrées
@@ -170,3 +173,9 @@ python3 -m pip install -r tests/requirements.txt
 python3 -m unittest discover -s tests -v
 python3 tools/fix_spoof_consistency.py --check
 ```
+
+## Nettoyage dérivé de l’IPA
+
+Le nettoyage demandé ensuite est décrit dans [ipa-cleanup.md](ipa-cleanup.md).
+Il applique la v3 puis retire les composants séparables et neutralise quatre
+entrées annexes. Ses empreintes sont distinctes de celles du SCRT v3 versionné.

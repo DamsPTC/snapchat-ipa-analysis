@@ -24,9 +24,8 @@ def atomic_write(path, data):
         temporary.unlink(missing_ok=True)
 
 
-def prepare(root, spec):
-    binary = root / spec['path']
-    original = binary.read_bytes()
+def prepare_binary(original, spec):
+    """Validate and patch bytes without filesystem writes or application execution."""
     digest = sha256(original)
     applied = {
         spec['before_sha256']: set(),
@@ -55,6 +54,12 @@ def prepare(root, spec):
         offset, expected = guard['offset'], bytes.fromhex(guard['bytes'])
         if modified[offset:offset + len(expected)] != expected:
             raise ValueError(f'Activation guard changed: {guard["name"]}')
+    return bytes(modified), applied
+
+
+def prepare(root, spec):
+    binary = root / spec['path']
+    modified, applied = prepare_binary(binary.read_bytes(), spec)
 
     manifest_path = root / 'analysis/manifest.json'
     manifest = json.loads(manifest_path.read_text())

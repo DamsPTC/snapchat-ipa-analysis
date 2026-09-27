@@ -50,7 +50,7 @@ class Runtime:
     ORIGINAL_LOGIN = 0x500100
     ORIGINAL_HEADER = 0x500200
 
-    def __init__(self, data, saved=None, verification=True, generated_uuid=None):
+    def __init__(self, data, saved=None, verification=None, generated_uuid=None):
         self.uc = Uc(UC_ARCH_ARM64, UC_MODE_ARM)
         self.uc.mem_map(0, 0x200000)
         self.uc.mem_write(0, data)
@@ -113,6 +113,10 @@ class Runtime:
         return raw.split(b'\0', 1)[0].decode()
 
     def instruction(self, uc, address, size, _):
+        # This build already returns success at the real component entry.
+        # Explicit True/False values exercise hypothetical caller branches only.
+        if address == 0x4241c and self.verification is None:
+            return
         intercept = (0x75c28 <= address < 0x7df00 or address in
                      (0x24ec0, 0x25674, 0x4241c, 0x4e960, self.ORIGINAL_LOGIN, self.ORIGINAL_HEADER)
                      or address in self.extra_intercepts)
@@ -259,7 +263,7 @@ class SpoofConsistencyTests(unittest.TestCase):
         result = runtime.run(0x210e8, (runtime.obj(('device',)), runtime.obj(('selector',))))
         self.assertEqual(result, 0)
 
-    def test_failed_component_verification_no_longer_wipes_local_state(self):
+    def test_mocked_component_failure_no_longer_wipes_local_state(self):
         for data, expected in ((self.original, ['wipe-keychain', 'wipe-files', 'verify']),
                                (self.patched, ['verify'])):
             runtime = Runtime(data, verification=False)
@@ -269,13 +273,33 @@ class SpoofConsistencyTests(unittest.TestCase):
             self.assertIsNone(runtime.login_args)
             self.assertEqual(runtime.token, 'original-devicecheck-token')
 
-    def test_successful_verification_preserves_login_arguments_without_automatic_wipes(self):
+    def test_mocked_component_success_preserves_login_arguments_without_automatic_wipes(self):
         runtime = Runtime(self.patched, verification=True)
         args = [runtime.obj(('argument', n)) for n in range(5)]
         runtime.run(0x41bdc, args)
         self.assertEqual(runtime.events, ['verify', 'set-token', 'original-login'])
         self.assertEqual(runtime.login_args, args)
         self.assertEqual(runtime.token, 'DEVICE_CHECK_TOKEN_NOT_AVAILABLE_GTE_IOS11')
+
+    def test_actual_component_entry_already_returns_success_in_source(self):
+        class NoCalls(Runtime):
+            def call(self, address, args):
+                raise AssertionError(f'Unexpected call from existing stub: {address:#x}')
+
+        for data in (self.original, self.patched):
+            self.assertEqual(data[0x4241c:0x42424], bytes.fromhex('20008052c0035fd6'))
+            runtime = NoCalls(data)
+            self.assertEqual(runtime.run(0x4241c), 1)
+            self.assertEqual(runtime.events, [])
+
+    def test_actual_login_path_uses_existing_stub_without_automatic_wipes(self):
+        for data, events in ((self.original, ['wipe-keychain', 'wipe-files', 'set-token', 'original-login']),
+                             (self.patched, ['set-token', 'original-login'])):
+            runtime = Runtime(data)  # Execute the actual component entry.
+            args = [runtime.obj(('argument', n)) for n in range(5)]
+            runtime.run(0x41bdc, args)
+            self.assertEqual(runtime.events, events)
+            self.assertEqual(runtime.login_args, args)
 
     def test_single_user_agent_matches_the_existing_batch_device_profile(self):
         for marker in ('iPhone', 'Anti-Snap/1.0'):

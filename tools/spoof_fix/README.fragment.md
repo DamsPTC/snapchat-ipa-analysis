@@ -5,9 +5,9 @@ Le remplacement d’IDFV/IDFA existant est conservé. Les modifications de SCRT 
 
 - Valider l’UUID mémorisé avant de le réutiliser. Une valeur absente ou invalide
   est remplacée une seule fois et enregistrée ; un UUID valide reste inchangé.
-- Supprimer les effacements automatiques du hook de connexion, y compris
-  après réussite de la vérification du composant. Cette vérification reste
-  exécutée ; elle n’est pas la validation du mot de passe par Snapchat.
+- Supprimer les effacements automatiques du hook de connexion. L’entrée du
+  contrôle intermédiaire renvoie déjà « succès » dans l’IPA source ; ce stub
+  reste inchangé. Il n’effectue ni `verifySync`, ni l’authentification Snapchat.
 - Transmettre les requêtes `SecItemAdd`, `SecItemCopyMatching` et `SecItemUpdate`
   intactes aux API d’origine : services distincts, groupes d’accès et attributs
   de synchronisation sont conservés.
@@ -51,3 +51,23 @@ sha256sum -c FILES.sha256
 Le workflow d’import applique aussi ce patch après extraction, pour éviter qu’un
 nouvel import ne rétablisse silencieusement les défauts. Le script refuse tout
 binaire différent des empreintes d’entrée/sortie documentées, et il est idempotent.
+
+## IPA nettoyée des ajouts séparables
+
+`tools/clean_ipa.py` reconstruit une copie distincte depuis l’IPA source exacte,
+applique les correctifs ci-dessus, retire 43 fichiers annexes et désactive quatre
+entrées de démarrage supplémentaires dans SCRT. Le noyau Shield/DeviceCheck et
+ses interceptions existantes restent conservés. Les ressources natives et les
+extensions officielles restent inchangées.
+
+```sh
+python3 tools/clean_ipa.py Snapchat_DeviceCheck_etude_unsigned.ipa Snapchat_Core_nettoyee_unsigned.ipa --report cleanup-result.json
+```
+
+Le [rapport de nettoyage](analysis/ipa-cleanup.md) et
+[l’inventaire des différences](analysis/cleanup-result.json) décrivent le résultat.
+Le `Payload/` versionné reste la révision v3 d’analyse ; l’IPA nettoyée est un
+produit dérivé par cette recette, avec ses propres empreintes. Cela évite de
+confondre le binaire principal Git LFS source avec le produit reconstruit.
+**SCRT reste monolithique : du code compilé dormant demeure.** Aucune purge
+complète des classes/chaînes ni validation sur iPhone n’est revendiquée.
