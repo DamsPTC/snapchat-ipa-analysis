@@ -1,10 +1,17 @@
 # Snapchat — analyse et base sans injections
 
+**Audit des dépendances de SCRT :** le framework comprend des utilitaires et des
+interceptions de plusieurs types. L'examen de ses 36 classes et 9 catégories ne
+met pas en évidence de fonction native de login à rétablir après son retrait.
+Voir [l'analyse des dépendances et de la compatibilité](analysis/scrt-native-dependency-audit.md).
+L'utilisateur ne peut pas exporter les IPA signées ; l'analyse poursuit les
+comparaisons possibles sur les archives disponibles.
+
 **Résultat du diagnostic sur iPhone :** les deux réponses observées portent le
 statut natif `16 / ErrBlocked`, sans erreur de transport ; les écritures du
 trousseau observées réussissent. L'utilisateur confirme une connexion réelle
 avec l'ancienne version conservant SCRT. Le critère déclenchant le refus actuel
-reste à isoler par la comparaison des archives après signature. Voir
+reste inconnu. Voir
 [l'analyse du rapport reçu](analysis/login-runtime-observation-2026-09-27.md)
 et ses [preuves binaires](analysis/login-runtime-observation-2026-09-27.json).
 Aucune nouvelle IPA ni réparation confirmée ne résulte de cette analyse.

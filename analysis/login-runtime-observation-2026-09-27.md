@@ -1,5 +1,10 @@
 # Refus observé sur iPhone : `ErrBlocked`
 
+**Précision ultérieure :** l'utilisateur utilise la même procédure de signature
+pour les deux variantes et ne peut pas exporter les archives signées. Leur
+comparaison reste une vérification possible, mais n'est plus un préalable à la
+poursuite. Voir [l'audit des dépendances réelles de SCRT](scrt-native-dependency-audit.md).
+
 Le rapport exporté depuis la variante `2a5f8c8da84d3c58a20b870792052f62ee43c7ff`
 contient deux tentatives de connexion par mot de passe. Les sept observateurs
 sont installés. Chaque tentative atteint le traitement natif d'une réponse
