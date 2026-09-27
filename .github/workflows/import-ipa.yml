@@ -29,6 +29,10 @@ jobs:
           gh release download v12.81.0-version-fix --repo "$GITHUB_REPOSITORY" --pattern Snapchat_DeviceCheck_etude_unsigned.ipa --dir "$RUNNER_TEMP/ipa-source"
       - name: Extract and verify every file without executing the app
         run: python3 tools/extract_ipa.py "$RUNNER_TEMP/ipa-source/Snapchat_DeviceCheck_etude_unsigned.ipa" .
+      - name: Reapply and verify the audited spoof consistency patch
+        run: |
+          python3 tools/fix_spoof_consistency.py
+          python3 tools/fix_spoof_consistency.py --check
       - name: Store the large executable with Git LFS and commit the extraction
         run: |
           git lfs install --local
@@ -38,7 +42,7 @@ jobs:
             echo "The exact extraction is already committed."
             exit 0
           fi
-          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "Import exact Snapchat 12.81.0 archive with corrected version"
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "Import Snapchat 12.81.0 archive and reapply audited consistency fixes"
           git push origin HEAD:main
       - name: Verify extracted content and LFS objects
         run: |

@@ -1,0 +1,102 @@
+# Audit du spoof et correctifs vérifiables
+
+Référence : commit `e005928d969b6bfb59b1caafca2f7ba50a2519e6`,
+SCRT ARM64 de 1 297 664 octets. Analyse du 27 septembre 2026.
+Le périmètre est celui des mécanismes de spoof de SCRT ; ce rapport n’est pas
+un audit exhaustif des 8 112 fichiers de l’IPA ou de tous les services utilisés.
+
+## Comportements relevés
+
+| Composant | État dans l’archive | Actions observées dans le désassemblage |
+| --- | --- | --- |
+| `_runShieldEngine` (`0x21698`) | Initialisateur actif | Appelle `_initializeShieldEnvironment`, remplace les accesseurs IDFV et IDFA, installe d’autres interceptions. |
+| `_initializeShieldEnvironment` (`0x22220`) | Actif | Lit `SHIELD_ID_<bundleIdentifier>` dans les préférences, publie `_kDynamicUUID`, crée et mémorise un UUID s’il est absent. Avant correction, toute chaîne non nulle était acceptée. |
+| Deux accesseurs `replaced_*Identifier` | Installés par Shield | Construisent un NSUUID depuis la même chaîne. Une chaîne invalide renvoie `nil`, sans forcément lever l’exception que le code cherchait à intercepter. Le partage du même identifiant simulé entre ces accesseurs est conservé. |
+| `_snap0x_init` (`0x44440`) | Actif | Installe des interceptions réseau/runtime/bundle et programme l’installation du hook de connexion. |
+| `_snap0x_login_trampoline` (`0x41bdc`) | Hook de connexion installé avec délai | Appelle les routines d’effacement, exécute `SKN_VerifyEngine.verifySync`, puis, si ce contrôle réussit, remplace le champ DeviceCheck par une chaîne sentinelle et appelle le login original. |
+| `_hook_CFBundleGetIdentifier` (`0x71650`) | Installation active | Renvoie `com.toyopagroup.picaboo` pour le bundle principal. Le bundle d’installation déclaré est `app.neriostore.snapchatunbanss06`. Cette distinction relève du spoof existant, conservé. |
+| `_init_Spoofing_Hooks` (`0x43a00`) | Désactivé par `RET` | Les fonctions de réécriture version/en-têtes et leur ancienne cible `13.67.1` restent présentes. Elles ne sont pas réactivées par ce correctif. |
+| `_fwlog` (`0x4e960`) | Désactivé par `RET` | Les appels de journalisation restent dans le code, mais cette entrée de logger est neutralisée. |
+
+La présence de ces instructions et de chemins d’activation est établie
+statiquement. Leur compatibilité avec les classes réellement chargées sur un
+iPhone n’a pas été confirmée. Les accès au trousseau et aux fichiers ne sont pas
+de simples chaînes affichées : les routines appellent des API de suppression.
+Aucune de ces suppressions n’a été exécutée pendant cet audit.
+
+## Corrections appliquées
+
+### 1. UUID persistant invalide
+
+L’ancienne condition ne testait que la présence de la chaîne. Une préférence
+corrompue, vide ou contenant un UUID invalide survivait à chaque lancement et
+produisait ensuite un identifiant nul.
+
+La fonction de préparation valide désormais la valeur avec
+`NSUUID.initWithUUIDString:`. Une valeur valide est conservée sans réécriture.
+Une valeur absente ou invalide est remplacée et enregistrée avant sa publication
+dans `_kDynamicUUID`. La clé, le format et le comportement de persistance existants
+sont conservés. La fonction conserve son allocation de pile, son frame pointer,
+les registres sauvegardés et ses limites de section.
+
+### 2. Effacements avant vérification
+
+Le hook effaçait les éléments ciblés du trousseau et des fichiers locaux avant
+d’appeler la vérification synchrone propre au composant. Même un refus de ce
+composant intervenait donc après les effacements.
+
+Les deux appels ont été déplacés sur la branche de réussite de ce contrôle.
+La branche de refus ne les exécute plus. Sur la branche de réussite, l’ordre
+devient : vérification du composant → effacements → traitement DeviceCheck
+existant → appel du login original, avec les mêmes arguments.
+
+**Limite : ce contrôle n’est pas l’authentification Snapchat.** Les effacements
+restent possibles avant une erreur ultérieure du serveur ou du mot de passe.
+Le retour anticipé sans callback en cas de refus du composant reste également
+inchangé : sa correction demanderait de connaître le contrat exact du handler.
+Les routines d’effacement elles-mêmes, le contrôle `verifySync` et le traitement
+DeviceCheck ne sont pas réécrits.
+
+### 3. Deux modèles dans les User-Agent dormants
+
+Le setter individuel utilisait `iPhone6,1 / iOS 12.5.7`, alors que le setter
+groupé utilisait `iPhone10,3 / iOS 16.7.12`. Le setter individuel pointe maintenant
+vers le même objet CFString que le setter groupé. Aucun texte n’est agrandi,
+aucun pointeur de rebasing n’est changé et aucun module n’est réactivé.
+
+La cible de version historique et les autres comportements du module inactif
+restent des résidus. Ce changement n’altère pas les User-Agent en fonctionnement
+normal tant que l’initialisateur reste désactivé.
+
+## Reproductibilité et validation
+
+- Entrée SHA-256 : `15e8fedb591d0c154944af49bb5c87c48e31373d52ad3e9f13f5458f21574c4b`.
+- Sortie SHA-256 : `1ad324fb72ad3fb4c260b9187cb6bf8c55fb042ef83dbc58b3f229c88555e059`.
+- Taille inchangée ; 339 octets différents, dans quatre régions déclarées.
+- `tools/spoof_fix/patches.json` contient les octets exacts avant/après et les
+  gardes maintenant désactivés les initialisateurs concernés.
+- `tools/spoof_fix/initialize_identity.s` rend la nouvelle routine lisible et
+  réassemblable. Aucune adresse n’est supposée portable vers une autre build.
+- `tools/fix_spoof_consistency.py` vérifie toutes les préconditions avant écriture,
+  refuse une build inconnue, met à jour les inventaires et accepte une réapplication.
+- Les champs `source_*` de l’inventaire décrivent toujours l’IPA source ; le
+  champ `derived_revision` identifie la modification des fichiers extraits.
+
+Les 12 tests exécutent les instructions ARM64 d’origine et corrigées dans
+Unicorn avec un modèle explicite des appels Foundation/runtime. Ils reproduisent
+l’UUID invalide, les effacements avant refus et le mauvais User-Agent dans
+l’archive source. Ils couvrent ensuite la réparation persistante, la conservation
+d’un UUID valide, les deux accesseurs, les branches du hook de connexion,
+ses arguments, le profil du User-Agent, les plages de modification et le
+réassemblage du correctif.
+
+Ces tests ne valident pas l’implémentation réelle de Foundation/ARC, la signature,
+le chargement dyld, SKEngine, la compatibilité des classes privées ou une
+connexion réseau. Aucun compte Snapchat n’a été utilisé, aucun service tiers
+n’a été sollicité par l’application et aucun iPhone n’a été testé.
+
+```sh
+python3 -m pip install -r tests/requirements.txt
+python3 -m unittest discover -s tests -v
+python3 tools/fix_spoof_consistency.py --check
+```
