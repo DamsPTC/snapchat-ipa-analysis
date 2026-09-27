@@ -70,33 +70,41 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if gh release view "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
-            echo 'Release already exists; refusing to overwrite it.' >&2
-            exit 1
-          fi
-          gh release create "$RELEASE_TAG" \
-            "$RUNNER_TEMP/native-release/$IPA_NAME" \
-            "$RUNNER_TEMP/native-release/SHA256SUMS.txt" \
-            "$RUNNER_TEMP/native-release/LIRE_AVANT_INSTALLATION.md" \
-            "$RUNNER_TEMP/native-release/native-baseline-result.json" \
-            "$RUNNER_TEMP/native-release/native-baseline-verification.json" \
-            --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
-            --draft --prerelease \
-            --title 'Snapchat 12.81.0 — base sans spoof ni injections identifiées' \
-            --notes-file analysis/native-baseline-release.md
-          python - <<'PY'
+          python - <<'PYCODE'
           import hashlib
           import json
           import os
           from pathlib import Path
           import subprocess
 
-          endpoint = f'repos/{os.environ["GITHUB_REPOSITORY"]}/releases/tags/{os.environ["RELEASE_TAG"]}'
-          release = json.loads(subprocess.check_output(['gh', 'api', endpoint], text=True))
-          if not release['draft'] or release['target_commitish'] != os.environ['GITHUB_SHA']:
-              raise SystemExit('Unexpected release state or target')
+          repo = os.environ['GITHUB_REPOSITORY']
+          tag = os.environ['RELEASE_TAG']
           output = Path(os.environ['RUNNER_TEMP']) / 'native-release'
           expected = {path.name: path for path in output.iterdir() if path.is_file()}
+          notes = Path('analysis/native-baseline-release.md').read_text()
+          title = 'Snapchat 12.81.0 — base sans spoof ni injections identifiées'
+
+          def find_release():
+              # Draft releases are found in the collection, not the by-tag endpoint.
+              pages = json.loads(subprocess.check_output(
+                  ['gh', 'api', f'repos/{repo}/releases?per_page=100', '--paginate', '--slurp'], text=True))
+              matches = [item for page in pages for item in page if item['tag_name'] == tag]
+              if len(matches) > 1:
+                  raise SystemExit('Multiple releases use the requested tag')
+              return matches[0] if matches else None
+
+          release = find_release()
+          if release is None:
+              subprocess.run([
+                  'gh', 'release', 'create', tag, *[str(expected[name]) for name in sorted(expected)],
+                  '--repo', repo, '--target', os.environ['GITHUB_SHA'], '--draft', '--prerelease',
+                  '--title', title, '--notes-file', 'analysis/native-baseline-release.md',
+              ], check=True)
+              release = find_release()
+          if not release or not release['draft'] or not release['prerelease']:
+              raise SystemExit('Expected an unpublished prerelease; refusing to overwrite a published release')
+          if release['name'] != title or release['body'].strip() != notes.strip():
+              raise SystemExit('Existing release notes differ; refusing to replace another draft')
           assets = {asset['name']: asset for asset in release['assets']}
           if set(assets) != set(expected):
               raise SystemExit('Uploaded assets differ from the expected release files')
@@ -106,6 +114,14 @@ jobs:
               asset = assets[name]
               if asset['state'] != 'uploaded' or asset['size'] != path.stat().st_size or asset['digest'] != f'sha256:{digest}':
                   raise SystemExit(f'Uploaded asset failed size/hash verification: {name}')
-          print('All five uploaded assets match their local SHA-256 hashes.')
-          PY
-          gh release edit "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --draft=false --latest=false
+          print('All five uploaded assets match their local SHA-256 hashes.', flush=True)
+          endpoint = f'repos/{repo}/releases/{release["id"]}'
+          published = json.loads(subprocess.check_output([
+              'gh', 'api', '--method', 'PATCH', endpoint,
+              '-F', 'draft=false', '-F', 'prerelease=true', '-f', 'make_latest=false',
+              '-f', f'target_commitish={os.environ["GITHUB_SHA"]}',
+          ], text=True))
+          if published['draft'] or published['tag_name'] != tag:
+              raise SystemExit('Publication was not confirmed')
+          print(published['html_url'])
+          PYCODE
