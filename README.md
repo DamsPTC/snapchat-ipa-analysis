@@ -1,5 +1,14 @@
 # Snapchat — analyse et base sans injections
 
+**Résultat du diagnostic sur iPhone :** les deux réponses observées portent le
+statut natif `16 / ErrBlocked`, sans erreur de transport ; les écritures du
+trousseau observées réussissent. L'utilisateur confirme une connexion réelle
+avec l'ancienne version conservant SCRT. Le critère déclenchant le refus actuel
+reste à isoler par la comparaison des archives après signature. Voir
+[l'analyse du rapport reçu](analysis/login-runtime-observation-2026-09-27.md)
+et ses [preuves binaires](analysis/login-runtime-observation-2026-09-27.json).
+Aucune nouvelle IPA ni réparation confirmée ne résulte de cette analyse.
+
 **Diagnostic runtime local :** une variante séparée ajoute un bouton
 **Diagnostic** et un export de codes d'erreur pour l'essai après signature par
 l'utilisateur. Elle conserve le login natif et ne réintroduit pas de spoof.

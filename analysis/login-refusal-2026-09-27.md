@@ -1,5 +1,11 @@
 # Connexion toujours refusée après le contrôle des métadonnées
 
+**Mise à jour après réception du rapport runtime :** deux réponses natives
+`16 / ErrBlocked`, sans erreur de transport ; écritures du trousseau réussies.
+L'utilisateur confirme également une connexion réelle dans l'ancienne version
+avec SCRT. Voir [l'analyse du rapport reçu](login-runtime-observation-2026-09-27.md).
+Le présent document conserve les constatations et hypothèses antérieures.
+
 ## Résultat utilisateur
 
 Après livraison de `v12.81.0-metadata-control`, l'utilisateur indique que le login
