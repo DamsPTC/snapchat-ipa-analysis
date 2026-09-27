@@ -1,17 +1,23 @@
 # Snapchat — analyse et base sans injections
 
-**Laboratoire local distinct :** une petite application UIKit compilée depuis
-ses propres sources est disponible pour tester le profil fictif iPhone 12 mini
-(`SIM12MINI002`), trois états de DeviceCheck simulés et un compte de démonstration
-`demo / sandbox`. Elle n'a aucun transport d'authentification vers Snapchat.
-Voir [le mode d'emploi](analysis/offline-sandbox-release.md),
-[les résultats et empreintes](analysis/offline-sandbox-result.json) et
-[la release SnapLab](https://github.com/DamsPTC/snapchat-ipa-analysis/releases/tag/v0.1.0-offline-sandbox).
-Les 10 assertions du modèle sur le runtime Apple et les 10 vérifications UIKit
-sur le simulateur iPhone 17 Pro / iOS 26.2 passent. La saisie testée passe par
-les API de texte et les callbacks de retour ; elle ne reproduit pas un AutoFill
-biométrique réel. **Cette application séparée ne répare pas l'ancienne IPA :
-son refus de connexion et son crash Face ID restent non résolus.**
+**Périmètre de travail rétabli : l'IPA complète.** La création de la petite
+application SnapLab de 15 Ko ne répondait pas à la demande de conserver les
+fonctions existantes. Elle n'a remplacé aucune des archives complètes.
+La [base complète sans les injections identifiées](https://github.com/DamsPTC/snapchat-ipa-analysis/releases/tag/v12.81.0-native-baseline)
+reste disponible : **94 365 812 octets, 8 067 fichiers**. Son binaire principal,
+ses 333 modules Composer et ses ressources natives sont conservés ; cela ne
+constitue pas une validation fonctionnelle du login ou des extensions.
+
+L'utilisateur précise que l'application utilise un serveur émulé qu'il contrôle.
+L'adresse et la configuration de redirection ne sont pas identifiées dans les
+fichiers examinés. Elles sont nécessaires pour travailler sur ce parcours.
+Voir [la vérification de l'archive complète](analysis/full-ipa-scope-restoration.md).
+Le refus de connexion et le crash AutoFill de cette base restent ouverts.
+
+La cible `tools/offline_sandbox/` et sa release sont conservées comme expérience
+annexe ; elles ne sont plus le livrable de la demande en cours. Leur publication
+automatique est désactivée. Les [résultats du laboratoire](analysis/offline-sandbox-result.json)
+ne doivent pas être présentés comme des tests de l'IPA complète.
 
 **Audit des dépendances de SCRT :** le framework comprend des utilitaires et des
 interceptions de plusieurs types. L'examen de ses 36 classes et 9 catégories ne

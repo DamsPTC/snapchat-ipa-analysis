@@ -1,12 +1,7 @@
 name: Build and publish offline UIKit sandbox
 
 on:
-  push:
-    branches: [fix/spoof-consistency]
-    paths:
-      - .github/workflows/publish-offline-sandbox.yml
-      - tools/offline_sandbox/**
-      - tools/build_offline_sandbox.py
+  # Auxiliary experiment only; the active task concerns the full original archive.
   workflow_dispatch:
 
 permissions:
